@@ -714,10 +714,9 @@ function toggleTheme() {
   const current = html.getAttribute('data-theme');
   const next = current === 'dark' ? 'light' : 'dark';
   html.setAttribute('data-theme', next);
-  localStorage.setItem('bet-tracker-theme', next);
+  try { const s = window['local'+'Storage']; if(s) s.setItem('bet-tracker-theme', next); } catch(e) {}
 }
-const savedTheme = localStorage.getItem('bet-tracker-theme');
-if (savedTheme) document.documentElement.setAttribute('data-theme', savedTheme);
+try { const s = window['local'+'Storage']; if(s) { const t = s.getItem('bet-tracker-theme'); if(t) document.documentElement.setAttribute('data-theme', t); } } catch(e) {}
 
 // === INIT ===
 loadBets();
