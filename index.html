@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bet Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0d1117; --bg-card: #161b22; --bg-card-hover: #1c2128;
+  --border: #30363d; --border-accent: #3d444d;
+  --text: #e6edf3; --text-muted: #8b949e; --text-faint: #6e7681;
+  --green-accent: #3fb950; --green-bg: rgba(63,185,80,0.1);
+  --red-accent: #f85149; --red-bg: rgba(248,81,73,0.1);
+  --gold-accent: #d4a84b; --gold-bg: rgba(212,168,75,0.12);
+  --blue-accent: #58a6ff; --blue-bg: rgba(88,166,255,0.1);
+  --purple-accent: #bc8cff; --purple-bg: rgba(188,140,255,0.1);
+  --font-body: 'Inter', -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+[data-theme="light"] {
+  --bg: #f6f8fa; --bg-card: #ffffff; --bg-card-hover: #f3f4f6;
+  --border: #d0d7de; --border-accent: #c0c8d0;
+  --text: #1f2328; --text-muted: #656d76; --text-faint: #8b949e;
+  --green-accent: #1a7f37; --green-bg: rgba(26,127,55,0.08);
+  --red-accent: #cf222e; --red-bg: rgba(207,34,46,0.08);
+  --gold-accent: #9a6700; --gold-bg: rgba(154,103,0,0.08);
+  --blue-accent: #0969da; --blue-bg: rgba(9,105,218,0.08);
+  --purple-accent: #8250df; --purple-bg: rgba(130,80,223,0.08);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: var(--font-body); background: var(--bg); color: var(--text); min-height: 100vh; }
+.container { max-width: 900px; margin: 0 auto; padding: 16px; }
+
+/* Header */
+.header { display: flex; align-items: center; justify-content: space-between; padding: 20px 0 16px; }
+.header-left { display: flex; align-items: center; gap: 14px; }
+.logo { width: 44px; height: 44px; background: var(--gold-bg); border-radius: 12px; display: flex; align-items: center; justify-content: center; }
+.logo svg { width: 24px; height: 24px; color: var(--gold-accent); }
+.header-title { font-size: 20px; font-weight: 700; }
+.header-title span { color: var(--gold-accent); }
+.header-sub { font-size: 11px; color: var(--text-muted); letter-spacing: 1.5px; text-transform: uppercase; font-weight: 500; }
+.header-actions { display: flex; gap: 8px; }
+.theme-toggle { width: 36px; height: 36px; border-radius: 10px; border: 1px solid var(--border); background: var(--bg-card); color: var(--text-muted); cursor: pointer; display: flex; align-items: center; justify-content: center; }
+.theme-toggle:hover { background: var(--bg-card-hover); color: var(--text); }
+
+/* Week Navigation */
+.week-nav { display: flex; align-items: center; justify-content: space-between; background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 12px 16px; margin-bottom: 16px; }
+.week-nav-label { font-size: 15px; font-weight: 600; }
+.week-nav-dates { font-size: 12px; color: var(--text-muted); }
+.week-nav-btn { width: 32px; height: 32px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text-muted); cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 16px; }
+.week-nav-btn:hover { background: var(--bg-card-hover); color: var(--text); }
+.week-nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+.week-nav-center { text-align: center; }
+
+/* KPI Grid */
+.kpi-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 16px; }
+.kpi-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+.kpi-label { font-size: 10px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--text-muted); font-weight: 600; margin-bottom: 4px; }
+.kpi-value { font-size: 24px; font-weight: 700; font-family: var(--font-mono); }
+.kpi-sub { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+.kpi-green { color: var(--green-accent); }
+.kpi-red { color: var(--red-accent); }
+.kpi-gold { color: var(--gold-accent); }
+
+/* Tabs */
+.tabs { display: flex; gap: 4px; margin-bottom: 16px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; padding: 4px; }
+.tab { flex: 1; padding: 8px 12px; text-align: center; font-size: 13px; font-weight: 500; color: var(--text-muted); border-radius: 8px; cursor: pointer; border: none; background: none; transition: all 0.15s; }
+.tab.active { background: var(--gold-bg); color: var(--gold-accent); font-weight: 600; }
+.tab:hover:not(.active) { color: var(--text); }
+
+/* Sections */
+.section { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; margin-bottom: 12px; overflow: hidden; }
+.section-header { padding: 14px 16px 10px; display: flex; align-items: center; justify-content: space-between; }
+.section-title { font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+.section-badge { font-size: 11px; color: var(--text-muted); font-weight: 500; background: var(--bg); padding: 2px 8px; border-radius: 6px; }
+.section-pnl { font-size: 12px; color: var(--text-muted); padding: 0 16px 8px; }
+
+/* Tables */
+.table-overflow { overflow-x: auto; }
+.bet-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.bet-table th { text-align: left; font-size: 10px; text-transform: uppercase; letter-spacing: 0.8px; color: var(--text-faint); font-weight: 600; padding: 6px 12px; border-bottom: 1px solid var(--border); }
+.bet-table td { padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+.bet-table tr:last-child td { border-bottom: none; }
+.bet-table .right { text-align: right; }
+.bet-table .center { text-align: center; }
+.golfer-name { font-weight: 500; }
+.money { font-family: var(--font-mono); font-size: 12px; }
+.odds { font-family: var(--font-mono); font-size: 12px; font-weight: 600; padding: 2px 6px; border-radius: 4px; }
+.odds-plus { color: var(--green-accent); background: var(--green-bg); }
+.odds-minus { color: var(--red-accent); background: var(--red-bg); }
+
+/* Status Chips */
+.status-chip { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; padding: 3px 8px; border-radius: 6px; white-space: nowrap; }
+.status-won { background: var(--green-bg); color: var(--green-accent); }
+.status-lost { background: var(--red-bg); color: var(--red-accent); }
+.status-push { background: var(--blue-bg); color: var(--blue-accent); }
+.status-pending { background: rgba(139,148,158,0.1); color: var(--text-muted); }
+.status-winning { background: var(--green-bg); color: var(--green-accent); }
+.status-losing { background: var(--red-bg); color: var(--red-accent); }
+
+/* Futures badge */
+.future-badge { font-size: 9px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 6px; border-radius: 4px; background: var(--purple-bg); color: var(--purple-accent); margin-left: 6px; }
+.sport-badge { font-size: 9px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 6px; border-radius: 4px; background: var(--blue-bg); color: var(--blue-accent); }
+
+/* Empty state */
+.empty-state { text-align: center; padding: 40px 20px; color: var(--text-muted); }
+.empty-state-icon { font-size: 32px; margin-bottom: 8px; opacity: 0.4; }
+.empty-state-text { font-size: 14px; }
+.empty-state-sub { font-size: 12px; margin-top: 4px; }
+
+/* Tab content */
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* All-time stats grid */
+.stats-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 16px; }
+@media (max-width: 600px) { .stats-grid { grid-template-columns: repeat(2, 1fr); } }
+
+/* Week history cards */
+.week-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; cursor: pointer; transition: border-color 0.15s; }
+.week-card:hover { border-color: var(--gold-accent); }
+.week-card-left { }
+.week-card-label { font-size: 14px; font-weight: 600; }
+.week-card-dates { font-size: 11px; color: var(--text-muted); }
+.week-card-right { text-align: right; }
+.week-card-pnl { font-size: 18px; font-weight: 700; font-family: var(--font-mono); }
+.week-card-record { font-size: 11px; color: var(--text-muted); }
+
+@media (max-width: 600px) {
+  .kpi-value { font-size: 20px; }
+  .container { padding: 10px; }
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <!-- Header -->
+  <div class="header">
+    <div class="header-left">
+      <div class="logo">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+      </div>
+      <div>
+        <div class="header-title">Bet <span>Tracker</span></div>
+        <div class="header-sub">Weekly P&L &bull; All Sports</div>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Tabs -->
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('weekly')">This Week</button>
+    <button class="tab" onclick="switchTab('futures')">Futures</button>
+    <button class="tab" onclick="switchTab('history')">History</button>
+    <button class="tab" onclick="switchTab('alltime')">All-Time</button>
+  </div>
+
+  <!-- Tab: Weekly -->
+  <div id="tab-weekly" class="tab-content active">
+    <div class="week-nav">
+      <button class="week-nav-btn" id="weekPrev" onclick="changeWeek(-1)">&larr;</button>
+      <div class="week-nav-center">
+        <div class="week-nav-label" id="weekLabel">Current Week</div>
+        <div class="week-nav-dates" id="weekDates"></div>
+      </div>
+      <button class="week-nav-btn" id="weekNext" onclick="changeWeek(1)">&rarr;</button>
+    </div>
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-label">Risked</div>
+        <div class="kpi-value" id="wkRisked">$0</div>
+        <div class="kpi-sub" id="wkRiskedSub">0 bets</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">P&L</div>
+        <div class="kpi-value" id="wkPnl">$0</div>
+        <div class="kpi-sub" id="wkPnlSub">No bets settled</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Win Rate</div>
+        <div class="kpi-value" id="wkWinRate">&mdash;</div>
+        <div class="kpi-sub" id="wkRecord">0W-0L</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">ROI</div>
+        <div class="kpi-value" id="wkRoi">&mdash;</div>
+        <div class="kpi-sub" id="wkRoiSub">On settled bets</div>
+      </div>
+    </div>
+    <div id="weeklyBets"></div>
+  </div>
+
+  <!-- Tab: Futures -->
+  <div id="tab-futures" class="tab-content">
+    <div class="kpi-grid">
+      <div class="kpi-card">
+        <div class="kpi-label">Open Futures</div>
+        <div class="kpi-value kpi-gold" id="futCount">0</div>
+        <div class="kpi-sub" id="futRisk">$0 at risk</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Max Payout</div>
+        <div class="kpi-value" id="futPayout">$0</div>
+        <div class="kpi-sub" id="futSub">If all win</div>
+      </div>
+    </div>
+    <div id="futuresBets"></div>
+  </div>
+
+  <!-- Tab: History -->
+  <div id="tab-history" class="tab-content">
+    <div id="weekHistory"></div>
+  </div>
+
+  <!-- Tab: All-Time -->
+  <div id="tab-alltime" class="tab-content">
+    <div class="stats-grid">
+      <div class="kpi-card">
+        <div class="kpi-label">Total Wagered</div>
+        <div class="kpi-value" id="atWagered">$0</div>
+        <div class="kpi-sub" id="atWageredSub">0 bets</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Net P&L</div>
+        <div class="kpi-value" id="atPnl">$0</div>
+        <div class="kpi-sub" id="atPnlSub">&mdash;</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Win Rate</div>
+        <div class="kpi-value" id="atWinRate">&mdash;</div>
+        <div class="kpi-sub" id="atRecord">0W-0L</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">ROI</div>
+        <div class="kpi-value" id="atRoi">&mdash;</div>
+        <div class="kpi-sub">All-time</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Best Week</div>
+        <div class="kpi-value kpi-green" id="atBestWeek">$0</div>
+        <div class="kpi-sub" id="atBestWeekSub">&mdash;</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Worst Week</div>
+        <div class="kpi-value kpi-red" id="atWorstWeek">$0</div>
+        <div class="kpi-sub" id="atWorstWeekSub">&mdash;</div>
+      </div>
+    </div>
+    <div id="sportBreakdown"></div>
+  </div>
+</div>
+
+<script>
+// === CONFIG ===
+const SHEET_ID = '1rzLN93JOthfLKPXha-ehWtf1tAO73kxghRbHVpOX70g';
+const SHEET_CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=Bets`;
+
+// Week ends on Monday (1 = Monday in getDay() where 0 = Sunday)
+// A week runs Tuesday 00:00 through Monday 23:59
+function getWeekStart(date) {
+  const d = new Date(date);
+  d.setHours(0,0,0,0);
+  const day = d.getDay(); // 0=Sun,1=Mon,2=Tue,...6=Sat
+  // If it's Tuesday(2) through Monday(1 next week)
+  // Offset to most recent Tuesday
+  const offset = (day + 6) % 7; // 0=Tue,1=Wed,...5=Sun,6=Mon
+  d.setDate(d.getDate() - offset);
+  return d;
+}
+
+function getWeekEnd(weekStart) {
+  const d = new Date(weekStart);
+  d.setDate(d.getDate() + 6);
+  d.setHours(23,59,59,999);
+  return d;
+}
+
+function formatDate(d) {
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function formatMoney(n) {
+  return '$' + Math.abs(n).toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 2 });
+}
+
+function getOddsClass(odds) {
+  if (!odds) return '';
+  return odds.startsWith('+') ? 'odds-plus' : 'odds-minus';
+}
+
+function statusLabel(s) {
+  const labels = { won: '✓ Won', lost: '✗ Lost', push: '— Push', pending: '● Pending', winning: '▲ Winning', losing: '▼ Losing' };
+  return labels[s] || s;
+}
+
+// === STATE ===
+let allBets = [];
+let currentWeekOffset = 0; // 0 = current week, -1 = last week, etc.
+
+// === DATA LOADING ===
+function parseCSV(csv) {
+  const lines = csv.split('\n');
+  if (lines.length < 2) return [];
+  const headers = parseCSVRow(lines[0]);
+  return lines.slice(1).filter(l => l.trim()).map(line => {
+    const vals = parseCSVRow(line);
+    const obj = {};
+    headers.forEach((h, i) => { obj[h.replace(/"/g, '').trim()] = (vals[i] || '').replace(/"/g, '').trim(); });
+    return obj;
+  });
+}
+
+function parseCSVRow(row) {
+  const result = [];
+  let current = '';
+  let inQuotes = false;
+  for (let i = 0; i < row.length; i++) {
+    const ch = row[i];
+    if (ch === '"') { inQuotes = !inQuotes; }
+    else if (ch === ',' && !inQuotes) { result.push(current); current = ''; }
+    else { current += ch; }
+  }
+  result.push(current);
+  return result;
+}
+
+function normalizeBet(raw) {
+  return {
+    id: parseInt(raw.ID) || 0,
+    date: raw.Date || '',
+    sport: raw.Sport || '',
+    league: raw.League || '',
+    event: raw.Event || '',
+    type: (raw.Type || '').toLowerCase(),
+    description: raw.Description || '',
+    pick: raw.Pick || '',
+    opponent: raw.Opponent || '',
+    odds: raw.Odds || '',
+    risk: parseFloat(raw.Risk) || 0,
+    toWin: parseFloat(raw['To Win']) || 0,
+    status: (raw.Status || 'pending').toLowerCase(),
+    resultDate: raw['Result Date'] || '',
+    notes: raw.Notes || '',
+  };
+}
+
+async function loadBets() {
+  try {
+    const resp = await fetch(SHEET_CSV_URL);
+    if (!resp.ok) throw new Error('Sheet not accessible');
+    const csv = await resp.text();
+    allBets = parseCSV(csv).map(normalizeBet);
+  } catch (e) {
+    console.warn('Could not load from Google Sheets, using embedded data:', e.message);
+    allBets = EMBEDDED_BETS.map(normalizeBet);
+  }
+  renderAll();
+}
+
+// Embedded fallback (always kept in sync)
+const EMBEDDED_BETS = [
+  { ID: '1', Date: '2026-04-12', Sport: 'Golf', League: 'PGA Tour', Event: '2026 Majors', Type: 'future', Description: 'Win a Major in 2026', Pick: 'Ludvig Aberg', Opponent: '', Odds: '+550', Risk: '500', 'To Win': '2750', Status: 'pending', 'Result Date': '', Notes: 'Covers PGA Championship, US Open, The Open' },
+];
+
+// === WEEK LOGIC ===
+function getWeekBets(weekStart, weekEnd) {
+  return allBets.filter(b => {
+    if (b.type === 'future') {
+      // Futures only count in the settlement week
+      if (!b.resultDate) return false;
+      const rd = new Date(b.resultDate + 'T12:00:00');
+      return rd >= weekStart && rd <= weekEnd;
+    }
+    const bd = new Date(b.date + 'T12:00:00');
+    return bd >= weekStart && bd <= weekEnd;
+  });
+}
+
+function calcStats(bets) {
+  let risked = 0, pnl = 0, wins = 0, losses = 0, pushes = 0, pending = 0, settledRisk = 0;
+  bets.forEach(b => {
+    risked += b.risk;
+    if (b.status === 'won') { pnl += b.toWin; wins++; settledRisk += b.risk; }
+    else if (b.status === 'lost') { pnl -= b.risk; losses++; settledRisk += b.risk; }
+    else if (b.status === 'push') { pushes++; settledRisk += b.risk; }
+    else { pending++; }
+  });
+  const settled = wins + losses + pushes;
+  const decisioned = wins + losses;
+  const winRate = decisioned > 0 ? Math.round((wins / decisioned) * 100) : null;
+  const roi = settledRisk > 0 ? ((pnl / settledRisk) * 100).toFixed(1) : null;
+  return { risked, pnl, wins, losses, pushes, pending, settled, winRate, roi, settledRisk, total: bets.length };
+}
+
+// === RENDER ===
+function renderAll() {
+  renderWeekly();
+  renderFutures();
+  renderHistory();
+  renderAllTime();
+}
+
+function renderWeekly() {
+  const now = new Date();
+  const baseWeekStart = getWeekStart(now);
+  const offsetStart = new Date(baseWeekStart);
+  offsetStart.setDate(offsetStart.getDate() + (currentWeekOffset * 7));
+  const weekEnd = getWeekEnd(offsetStart);
+  
+  const isCurrentWeek = currentWeekOffset === 0;
+  document.getElementById('weekLabel').textContent = isCurrentWeek ? 'Current Week' : `Week of ${formatDate(offsetStart)}`;
+  document.getElementById('weekDates').textContent = `${formatDate(offsetStart)} – ${formatDate(weekEnd)}`;
+  document.getElementById('weekNext').disabled = isCurrentWeek;
+
+  const weekBets = getWeekBets(offsetStart, weekEnd);
+  const stats = calcStats(weekBets);
+
+  document.getElementById('wkRisked').textContent = formatMoney(stats.risked);
+  document.getElementById('wkRiskedSub').textContent = `${stats.total} bet${stats.total !== 1 ? 's' : ''}`;
+
+  if (stats.settled > 0) {
+    document.getElementById('wkPnl').textContent = (stats.pnl >= 0 ? '+' : '-') + formatMoney(stats.pnl);
+    document.getElementById('wkPnl').className = 'kpi-value ' + (stats.pnl >= 0 ? 'kpi-green' : 'kpi-red');
+    document.getElementById('wkPnlSub').textContent = `${stats.settled}/${stats.total} settled`;
+  } else {
+    document.getElementById('wkPnl').textContent = '$0';
+    document.getElementById('wkPnl').className = 'kpi-value';
+    document.getElementById('wkPnlSub').textContent = stats.total > 0 ? `${stats.pending} pending` : 'No bets this week';
+  }
+
+  if (stats.winRate !== null) {
+    document.getElementById('wkWinRate').textContent = stats.winRate + '%';
+    document.getElementById('wkWinRate').className = 'kpi-value ' + (stats.winRate >= 50 ? 'kpi-green' : 'kpi-red');
+  } else {
+    document.getElementById('wkWinRate').textContent = '\u2014';
+    document.getElementById('wkWinRate').className = 'kpi-value';
+  }
+  let record = `${stats.wins}W-${stats.losses}L`;
+  if (stats.pushes > 0) record += `-${stats.pushes}P`;
+  document.getElementById('wkRecord').textContent = record;
+
+  if (stats.roi !== null) {
+    const roiNum = parseFloat(stats.roi);
+    document.getElementById('wkRoi').textContent = (roiNum >= 0 ? '+' : '') + stats.roi + '%';
+    document.getElementById('wkRoi').className = 'kpi-value ' + (roiNum >= 0 ? 'kpi-green' : 'kpi-red');
+  } else {
+    document.getElementById('wkRoi').textContent = '\u2014';
+    document.getElementById('wkRoi').className = 'kpi-value';
+  }
+
+  // Render bets table
+  const container = document.getElementById('weeklyBets');
+  if (weekBets.length === 0) {
+    container.innerHTML = `<div class="empty-state"><div class="empty-state-icon">📊</div><div class="empty-state-text">No bets this week</div><div class="empty-state-sub">Bets placed Tue–Mon will appear here</div></div>`;
+    return;
+  }
+
+  // Group by sport
+  const bySport = {};
+  weekBets.forEach(b => {
+    const key = b.sport || 'Other';
+    if (!bySport[key]) bySport[key] = [];
+    bySport[key].push(b);
+  });
+
+  container.innerHTML = Object.entries(bySport).map(([sport, bets]) => {
+    const sStats = calcStats(bets);
+    let pnlHtml = '';
+    if (sStats.settled > 0) {
+      let rec = `${sStats.wins}W-${sStats.losses}L`;
+      if (sStats.pushes > 0) rec += `-${sStats.pushes}P`;
+      const color = sStats.pnl >= 0 ? 'var(--green-accent)' : 'var(--red-accent)';
+      pnlHtml = `<div class="section-pnl"><span style="font-weight:600">${rec}</span> &nbsp;|&nbsp; <span style="color:${color};font-family:var(--font-mono);font-weight:600">${sStats.pnl >= 0 ? '+' : '-'}${formatMoney(sStats.pnl)}</span> (${sStats.pnl >= 0 ? '+' : ''}${sStats.roi}% ROI)</div>`;
+    }
+    return `<div class="section">
+      <div class="section-header">
+        <div class="section-title">
+          <span class="sport-badge">${sport}</span>
+          <span class="section-badge">${bets.length} bet${bets.length > 1 ? 's' : ''} &bull; ${formatMoney(sStats.risked)} risked</span>
+        </div>
+      </div>
+      ${pnlHtml}
+      <div class="table-overflow">
+        <table class="bet-table">
+          <thead><tr>
+            <th>Pick</th><th>Bet</th><th class="right">Odds</th><th class="right">Risk</th><th class="right">To Win</th><th class="center">Status</th>
+          </tr></thead>
+          <tbody>${bets.map(b => `<tr>
+            <td><span class="golfer-name">${b.pick}</span>${b.opponent ? ` <span style="color:var(--text-faint)">vs</span> ${b.opponent}` : ''}</td>
+            <td>${b.description}${b.event ? ` <span style="color:var(--text-faint);font-size:11px">(${b.event})</span>` : ''}</td>
+            <td class="right"><span class="odds ${getOddsClass(b.odds)}">${b.odds}</span></td>
+            <td class="right"><span class="money">${formatMoney(b.risk)}</span></td>
+            <td class="right"><span class="money">${formatMoney(b.toWin)}</span></td>
+            <td class="center"><span class="status-chip status-${b.status}">${statusLabel(b.status)}</span></td>
+          </tr>`).join('')}</tbody>
+        </table>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function renderFutures() {
+  const futures = allBets.filter(b => b.type === 'future');
+  const open = futures.filter(b => b.status === 'pending');
+  const settled = futures.filter(b => b.status !== 'pending');
+
+  const totalRisk = open.reduce((s, b) => s + b.risk, 0);
+  const totalPayout = open.reduce((s, b) => s + b.toWin, 0);
+
+  document.getElementById('futCount').textContent = open.length;
+  document.getElementById('futRisk').textContent = formatMoney(totalRisk) + ' at risk';
+  document.getElementById('futPayout').textContent = formatMoney(totalPayout);
+
+  const container = document.getElementById('futuresBets');
+  if (futures.length === 0) {
+    container.innerHTML = `<div class="empty-state"><div class="empty-state-icon">🔮</div><div class="empty-state-text">No futures bets</div><div class="empty-state-sub">Long-term bets will appear here</div></div>`;
+    return;
+  }
+
+  let html = '';
+  if (open.length > 0) {
+    html += `<div class="section">
+      <div class="section-header"><div class="section-title">Open Futures <span class="section-badge">${open.length} bet${open.length > 1 ? 's' : ''}</span></div></div>
+      <div class="table-overflow"><table class="bet-table">
+        <thead><tr><th>Pick</th><th>Bet</th><th class="right">Odds</th><th class="right">Risk</th><th class="right">To Win</th><th>Event</th><th class="center">Status</th></tr></thead>
+        <tbody>${open.map(b => `<tr>
+          <td><span class="golfer-name">${b.pick}</span></td>
+          <td>${b.description}</td>
+          <td class="right"><span class="odds ${getOddsClass(b.odds)}">${b.odds}</span></td>
+          <td class="right"><span class="money">${formatMoney(b.risk)}</span></td>
+          <td class="right"><span class="money">${formatMoney(b.toWin)}</span></td>
+          <td><span style="font-size:12px;color:var(--text-muted)">${b.event}</span></td>
+          <td class="center"><span class="status-chip status-pending">● Open</span></td>
+        </tr>`).join('')}</tbody>
+      </table></div>
+    </div>`;
+  }
+
+  if (settled.length > 0) {
+    const sStats = calcStats(settled);
+    html += `<div class="section">
+      <div class="section-header"><div class="section-title">Settled Futures <span class="section-badge">${settled.length} settled</span></div></div>
+      <div class="table-overflow"><table class="bet-table">
+        <thead><tr><th>Pick</th><th>Bet</th><th class="right">Odds</th><th class="right">Risk</th><th class="right">To Win</th><th>Event</th><th class="center">Status</th></tr></thead>
+        <tbody>${settled.map(b => `<tr>
+          <td><span class="golfer-name">${b.pick}</span></td>
+          <td>${b.description}</td>
+          <td class="right"><span class="odds ${getOddsClass(b.odds)}">${b.odds}</span></td>
+          <td class="right"><span class="money">${formatMoney(b.risk)}</span></td>
+          <td class="right"><span class="money">${formatMoney(b.toWin)}</span></td>
+          <td><span style="font-size:12px;color:var(--text-muted)">${b.event}</span></td>
+          <td class="center"><span class="status-chip status-${b.status}">${statusLabel(b.status)}</span></td>
+        </tr>`).join('')}</tbody>
+      </table></div>
+    </div>`;
+  }
+
+  container.innerHTML = html;
+}
+
+function renderHistory() {
+  const container = document.getElementById('weekHistory');
+  // Build all weeks that have bets
+  const nonFutureBets = allBets.filter(b => b.type !== 'future');
+  if (nonFutureBets.length === 0) {
+    container.innerHTML = `<div class="empty-state"><div class="empty-state-icon">📅</div><div class="empty-state-text">No weekly history yet</div><div class="empty-state-sub">Completed weeks will appear here</div></div>`;
+    return;
+  }
+
+  // Get all unique weeks
+  const weeks = new Map();
+  nonFutureBets.forEach(b => {
+    const d = new Date(b.date + 'T12:00:00');
+    const ws = getWeekStart(d);
+    const key = ws.toISOString().slice(0, 10);
+    if (!weeks.has(key)) weeks.set(key, { start: ws, bets: [] });
+    weeks.get(key).bets.push(b);
+  });
+
+  // Also include futures that settled, in their result week
+  allBets.filter(b => b.type === 'future' && b.resultDate).forEach(b => {
+    const d = new Date(b.resultDate + 'T12:00:00');
+    const ws = getWeekStart(d);
+    const key = ws.toISOString().slice(0, 10);
+    if (!weeks.has(key)) weeks.set(key, { start: ws, bets: [] });
+    weeks.get(key).bets.push(b);
+  });
+
+  const sorted = [...weeks.values()].sort((a, b) => b.start - a.start);
+
+  container.innerHTML = sorted.map(week => {
+    const stats = calcStats(week.bets);
+    const we = getWeekEnd(week.start);
+    const pnlColor = stats.pnl >= 0 ? 'kpi-green' : 'kpi-red';
+    let record = `${stats.wins}W-${stats.losses}L`;
+    if (stats.pushes > 0) record += `-${stats.pushes}P`;
+    if (stats.pending > 0) record += ` (${stats.pending} pending)`;
+    return `<div class="week-card" onclick="goToWeek('${week.start.toISOString()}')">
+      <div class="week-card-left">
+        <div class="week-card-label">${formatDate(week.start)} – ${formatDate(we)}</div>
+        <div class="week-card-dates">${stats.total} bets &bull; ${formatMoney(stats.risked)} risked</div>
+      </div>
+      <div class="week-card-right">
+        <div class="week-card-pnl ${pnlColor}">${stats.pnl >= 0 ? '+' : '-'}${formatMoney(stats.pnl)}</div>
+        <div class="week-card-record">${record}${stats.roi ? ` &bull; ${stats.roi}% ROI` : ''}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function renderAllTime() {
+  // All settled bets (non-future + settled futures)
+  const settledBets = allBets.filter(b => b.status === 'won' || b.status === 'lost' || b.status === 'push');
+  const stats = calcStats(settledBets);
+  const allStats = calcStats(allBets);
+
+  document.getElementById('atWagered').textContent = formatMoney(allStats.risked);
+  document.getElementById('atWageredSub').textContent = `${allStats.total} bets (${allStats.pending} pending)`;
+
+  if (stats.settled > 0) {
+    document.getElementById('atPnl').textContent = (stats.pnl >= 0 ? '+' : '-') + formatMoney(stats.pnl);
+    document.getElementById('atPnl').className = 'kpi-value ' + (stats.pnl >= 0 ? 'kpi-green' : 'kpi-red');
+    document.getElementById('atPnlSub').textContent = `${stats.settled} settled`;
+    
+    if (stats.winRate !== null) {
+      document.getElementById('atWinRate').textContent = stats.winRate + '%';
+      document.getElementById('atWinRate').className = 'kpi-value ' + (stats.winRate >= 50 ? 'kpi-green' : 'kpi-red');
+    }
+    let rec = `${stats.wins}W-${stats.losses}L`;
+    if (stats.pushes > 0) rec += `-${stats.pushes}P`;
+    document.getElementById('atRecord').textContent = rec;
+
+    if (stats.roi !== null) {
+      const roiNum = parseFloat(stats.roi);
+      document.getElementById('atRoi').textContent = (roiNum >= 0 ? '+' : '') + stats.roi + '%';
+      document.getElementById('atRoi').className = 'kpi-value ' + (roiNum >= 0 ? 'kpi-green' : 'kpi-red');
+    }
+  }
+
+  // Best/worst week (placeholder until we have multiple weeks)
+  document.getElementById('atBestWeek').textContent = '\u2014';
+  document.getElementById('atBestWeekSub').textContent = 'Need more data';
+  document.getElementById('atWorstWeek').textContent = '\u2014';
+  document.getElementById('atWorstWeekSub').textContent = 'Need more data';
+
+  // Sport breakdown
+  const bySport = {};
+  settledBets.forEach(b => {
+    const key = b.sport || 'Other';
+    if (!bySport[key]) bySport[key] = [];
+    bySport[key].push(b);
+  });
+
+  const sportContainer = document.getElementById('sportBreakdown');
+  if (Object.keys(bySport).length === 0) {
+    sportContainer.innerHTML = '';
+    return;
+  }
+
+  sportContainer.innerHTML = `<div class="section">
+    <div class="section-header"><div class="section-title">By Sport</div></div>
+    <div class="table-overflow"><table class="bet-table">
+      <thead><tr><th>Sport</th><th class="right">Bets</th><th class="right">Risked</th><th class="right">P&L</th><th class="center">Record</th><th class="center">ROI</th></tr></thead>
+      <tbody>${Object.entries(bySport).map(([sport, bets]) => {
+        const s = calcStats(bets);
+        const pnlColor = s.pnl >= 0 ? 'color:var(--green-accent)' : 'color:var(--red-accent)';
+        let rec = `${s.wins}W-${s.losses}L`;
+        if (s.pushes > 0) rec += `-${s.pushes}P`;
+        return `<tr>
+          <td><span class="sport-badge">${sport}</span></td>
+          <td class="right">${s.total}</td>
+          <td class="right"><span class="money">${formatMoney(s.risked)}</span></td>
+          <td class="right"><span class="money" style="${pnlColor};font-weight:600">${s.pnl >= 0 ? '+' : '-'}${formatMoney(s.pnl)}</span></td>
+          <td class="center">${rec}</td>
+          <td class="center">${s.roi ? (parseFloat(s.roi) >= 0 ? '+' : '') + s.roi + '%' : '\u2014'}</td>
+        </tr>`;
+      }).join('')}</tbody>
+    </table></div>
+  </div>`;
+}
+
+// === NAVIGATION ===
+function switchTab(tab) {
+  document.querySelectorAll('.tab').forEach((t, i) => t.classList.toggle('active', ['weekly','futures','history','alltime'][i] === tab));
+  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+  document.getElementById('tab-' + tab).classList.add('active');
+}
+
+function changeWeek(dir) {
+  currentWeekOffset += dir;
+  renderWeekly();
+}
+
+function goToWeek(isoDate) {
+  const target = new Date(isoDate);
+  const now = new Date();
+  const currentWS = getWeekStart(now);
+  const diff = Math.round((target - currentWS) / (7 * 24 * 60 * 60 * 1000));
+  currentWeekOffset = diff;
+  switchTab('weekly');
+  renderWeekly();
+}
+
+// === THEME ===
+function toggleTheme() {
+  const html = document.documentElement;
+  const current = html.getAttribute('data-theme');
+  const next = current === 'dark' ? 'light' : 'dark';
+  html.setAttribute('data-theme', next);
+  localStorage.setItem('bet-tracker-theme', next);
+}
+const savedTheme = localStorage.getItem('bet-tracker-theme');
+if (savedTheme) document.documentElement.setAttribute('data-theme', savedTheme);
+
+// === INIT ===
+loadBets();
+</script>
+</body>
+</html>
