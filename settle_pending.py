@@ -104,14 +104,22 @@ def find_game(league: str, day: date, team_text: str) -> Optional[dict]:
             for c in competitors
         ]
         if any(target and (target in n or n.split("|")[1] in target) for n in names):
-            status = comp.get("status", {}).get("type", {}).get("completed", False)
+            stype = comp.get("status", {}).get("type", {})
             return {
                 "event": ev,
-                "completed": status,
+                "completed": stype.get("completed", False),
+                "state": stype.get("state", ""),
+                "name": stype.get("name", ""),
                 "competitors": competitors,
                 "id": ev.get("id"),
             }
     return None
+
+VOIDED_STATES = {"STATUS_POSTPONED", "STATUS_CANCELED", "STATUS_CANCELLED",
+                 "STATUS_SUSPENDED", "STATUS_FORFEIT", "STATUS_ABANDONED"}
+
+def game_is_voided(game: dict) -> bool:
+    return game.get("name", "") in VOIDED_STATES
 
 def parse_american_odds(s: str) -> Optional[float]:
     """Return profit-per-$1-stake (decimal-1). e.g. '+150' -> 1.5, '-110' -> 0.909"""
@@ -201,6 +209,263 @@ def eval_total(game, side, line) -> tuple[str, str, str]:
 SPREAD_RE = re.compile(r"([+-]?\d+(?:\.\d+)?)")
 TOTAL_RE = re.compile(r"(?:total\s+)?(over|under|o|u)\s*(\d+(?:\.\d+)?)", re.I)
 
+# ---- Multi-leg (parlay/RR) support ----
+
+ALL_LEAGUES = ["MLB", "NBA", "NHL", "NFL", "WNBA", "NCAAB", "NCAAF"]
+
+def find_game_any_league(day: date, team_text: str):
+    """Search every league's scoreboard for a team match. Returns (league, game)."""
+    for lg in ALL_LEAGUES:
+        g = find_game(lg, day, team_text)
+        if g:
+            return lg, g
+    return None, None
+
+# Robust leg parser. Accepts forms like:
+#   "Spurs -2.5 (-110)", "Avalanche ML (-185)",
+#   "Astros/Cubs Total Over 7 (-115)", "TEX -1.5 +115",
+#   "MIL/LAD U8.5 -115", "Cavaliers +7 (-110)"
+ODDS_TAIL_RE = re.compile(r"\(?\s*([+-]\d{2,4})\s*\)?\s*$")
+TOTAL_LEG_RE = re.compile(r"(over|under|(?:^|[\s/])([OU])(?=\d))\s*(\d+(?:\.\d+)?)", re.I)
+SPREAD_LEG_RE = re.compile(r"([+-]\d+(?:\.\d+)?)")
+
+def parse_leg(text: str) -> dict:
+    raw = text.strip().rstrip(";.")
+    odds = None
+    body = raw
+    m = ODDS_TAIL_RE.search(raw)
+    if m:
+        odds = float(m.group(1))
+        body = raw[:m.start()].strip().rstrip("(").strip()
+    bl = body.lower()
+    # Total?
+    if "total" in bl or TOTAL_LEG_RE.search(body):
+        sm = TOTAL_LEG_RE.search(body)
+        if sm:
+            side_token = (sm.group(2) or sm.group(1) or "").strip().lower()
+            side = "Over" if side_token.startswith("o") else "Under"
+            line = float(sm.group(3))
+            # Extract team(s) before total
+            team_text = re.sub(r"(?i)total|over|under|\b[ou]\b|\d+(?:\.\d+)?", "", body[:sm.start()]).strip()
+            return {"type": "total", "side": side, "line": line, "odds": odds,
+                    "teams_hint": team_text, "raw": raw}
+    # ML?
+    if re.search(r"\bml\b|moneyline", bl):
+        team = re.sub(r"(?i)\bml\b|moneyline", "", body).strip()
+        return {"type": "moneyline", "team": team, "odds": odds, "raw": raw}
+    # Spread
+    sm = SPREAD_LEG_RE.search(body)
+    if sm:
+        line = float(sm.group(1))
+        team = body[:sm.start()].strip()
+        return {"type": "spread", "team": team, "line": line, "odds": odds, "raw": raw}
+    return {"type": "unknown", "raw": raw, "odds": odds}
+
+def evaluate_leg(leg: dict, game_date: date) -> tuple:
+    """Return (status, decimal_odds_multiplier, detail_str).
+       Status: 'Won' | 'Lost' | 'Push' | 'Void' | 'Unknown'
+       decimal_odds_multiplier = 1 + profit_per_$1 (e.g. -110 -> 1.909)."""
+    odds_dec = None
+    if leg.get("odds") is not None:
+        po = parse_american_odds(str(int(leg["odds"])) if leg["odds"] == int(leg["odds"]) else str(leg["odds"]))
+        odds_dec = (po + 1.0) if po else None
+
+    if leg["type"] == "moneyline":
+        league, game = find_game_any_league(game_date, leg["team"])
+        if not game: return ("Unknown", odds_dec, f"Could not locate {leg['team']} game")
+        if game_is_voided(game): return ("Void", odds_dec, f"Game voided ({game.get('name','')})")
+        if not game["completed"]: return ("Unknown", odds_dec, "Game not completed")
+        st, _, reason = eval_moneyline(game, leg["team"])
+        return (st, odds_dec, reason)
+
+    if leg["type"] == "spread":
+        league, game = find_game_any_league(game_date, leg["team"])
+        if not game: return ("Unknown", odds_dec, f"Could not locate {leg['team']} game")
+        if game_is_voided(game): return ("Void", odds_dec, f"Game voided ({game.get('name','')})")
+        if not game["completed"]: return ("Unknown", odds_dec, "Game not completed")
+        st, _, reason = eval_spread(game, leg["team"], leg["line"])
+        return (st, odds_dec, reason)
+
+    if leg["type"] == "total":
+        # Try each token in teams_hint
+        teams = leg.get("teams_hint", "")
+        candidates = re.split(r"[/&,]| and ", teams)
+        game = None
+        for c in candidates:
+            c = c.strip()
+            if len(c) < 2: continue
+            _, g = find_game_any_league(game_date, c)
+            if g:
+                game = g
+                break
+        if not game: return ("Unknown", odds_dec, f"Could not locate total game ({teams})")
+        if game_is_voided(game): return ("Void", odds_dec, f"Game voided ({game.get('name','')})")
+        if not game["completed"]: return ("Unknown", odds_dec, "Game not completed")
+        st, _, reason = eval_total(game, leg["side"], leg["line"])
+        return (st, odds_dec, reason)
+
+    return ("Unknown", odds_dec, f"Unrecognized leg: {leg.get('raw','')}")
+
+def settle_parlay_legs(leg_results: list) -> tuple:
+    """Action Network rules: any Lost → parlay lost. Push/Void legs drop out
+    and the parlay recalculates with remaining Won legs at their original odds.
+    All pushed → Push (refund). Returns (status, payout_multiplier).
+    payout_multiplier is the gross return per $1 stake (1.0 = refund)."""
+    if any(r[0] == "Lost" for r in leg_results):
+        return ("Lost", 0.0, "At least one leg lost")
+    if any(r[0] == "Unknown" for r in leg_results):
+        return ("Unknown", None, "At least one leg unresolved")
+    won = [r for r in leg_results if r[0] == "Won"]
+    pushed = [r for r in leg_results if r[0] in ("Push", "Void")]
+    if not won and pushed:
+        return ("Push", 1.0, "All legs pushed/voided — refund")
+    # Recompute multiplier from won legs only
+    mult = 1.0
+    for st, od, _ in won:
+        if od is None:
+            return ("Unknown", None, "Missing odds on a winning leg")
+        mult *= od
+    if pushed:
+        return ("Won", mult, f"{len(pushed)} leg(s) pushed; settled on remaining {len(won)} won legs")
+    return ("Won", mult, f"All {len(won)} legs won")
+
+from itertools import combinations
+def settle_round_robin(leg_results: list, combo_sizes: list, stake_per_combo: float) -> dict:
+    """Settle an N-team RR "all ways" given leg_results in order.
+    combo_sizes: e.g. [2,3,4,5] for an all-ways 5-team RR.
+    Returns dict with net P&L, # winning combos, breakdown.
+    Push legs drop out of combos (each combo recalculates with remaining Won legs)."""
+    n = len(leg_results)
+    statuses = [r[0] for r in leg_results]
+    odds = [r[1] for r in leg_results]
+    breakdown = {"combos": [], "by_size": {}, "net": 0.0, "winning_combos": 0, "total_combos": 0}
+    for size in combo_sizes:
+        size_net = 0.0
+        size_wins = 0
+        for combo in combinations(range(n), size):
+            breakdown["total_combos"] += 1
+            statuses_in = [statuses[i] for i in combo]
+            odds_in = [odds[i] for i in combo]
+            if "Lost" in statuses_in:
+                size_net -= stake_per_combo
+                continue
+            if "Unknown" in statuses_in:
+                # Treat as undetermined — skip this combo (no settlement)
+                breakdown["total_combos"] -= 1
+                continue
+            won_idx = [i for i, s in enumerate(statuses_in) if s == "Won"]
+            if not won_idx:
+                # All pushed — refund
+                continue
+            mult = 1.0
+            for i in won_idx:
+                if odds_in[i] is None:
+                    mult = None; break
+                mult *= odds_in[i]
+            if mult is None:
+                breakdown["total_combos"] -= 1
+                continue
+            profit = stake_per_combo * (mult - 1.0)
+            size_net += profit
+            size_wins += 1
+        breakdown["by_size"][size] = {"net": round(size_net, 2), "wins": size_wins}
+        breakdown["net"] += size_net
+        breakdown["winning_combos"] += size_wins
+    breakdown["net"] = round(breakdown["net"], 2)
+    return breakdown
+
+def _extract_legs_from_description(desc: str) -> list:
+    """Split the Description field into individual leg strings.
+    Handles formats like:
+      '2-leg parlay: Spurs -2.5 (-110); Avalanche ML (-185)'
+      '5-team RR All Ways (26 combos x $25): TEX -1.5 +115; TB ML +123; ...'
+    """
+    # Drop everything up to and including the first ':' or ')' if it precedes legs
+    body = desc
+    if ":" in body:
+        body = body.split(":", 1)[1]
+    return [seg.strip() for seg in re.split(r";|\u2022", body) if seg.strip()]
+
+def evaluate_parlay(bet: dict, game_date: date) -> Proposal:
+    bid = str(bet.get("ID", ""))
+    row = bet.get("_row", -1)
+    desc = bet.get("Description", "")
+    risk = float(str(bet.get("Risk", "0")).replace(",", "") or 0)
+    legs = [parse_leg(s) for s in _extract_legs_from_description(desc)]
+    if not legs:
+        return Proposal(bid, row, bet.get("Date",""), bet.get("League",""),
+                        bet.get("Pick",""), "parlay", "Pending", "low",
+                        "Could not parse parlay legs from Description")
+    leg_results = [evaluate_leg(l, game_date) for l in legs]
+    detail = "; ".join(f"{l['raw']} → {r[0]} ({r[2]})" for l, r in zip(legs, leg_results))
+    status, mult, reason = settle_parlay_legs(leg_results)
+    if status == "Unknown":
+        return Proposal(bid, row, bet.get("Date",""), bet.get("League",""),
+                        bet.get("Pick",""), "parlay", "Pending", "low",
+                        f"{reason}. Legs: {detail}")
+    if status == "Lost":
+        return Proposal(bid, row, bet.get("Date",""), bet.get("League",""),
+                        bet.get("Pick",""), "parlay", "Lost", "high",
+                        f"Parlay lost — {reason}. Legs: {detail}")
+    if status == "Push":
+        return Proposal(bid, row, bet.get("Date",""), bet.get("League",""),
+                        bet.get("Pick",""), "parlay", "Push", "high",
+                        f"Parlay refunded — {reason}. Legs: {detail}")
+    # Won
+    profit = risk * (mult - 1.0)
+    note = (f"Parlay won — {reason}. Realized profit ${profit:.2f} "
+            f"(mult={mult:.3f} on ${risk}). Legs: {detail}")
+    p = Proposal(bid, row, bet.get("Date",""), bet.get("League",""),
+                 bet.get("Pick",""), "parlay", "Won", "high", note)
+    p.notes = f"realized_profit={profit:.2f}"
+    return p
+
+def evaluate_round_robin(bet: dict, game_date: date) -> Proposal:
+    bid = str(bet.get("ID", ""))
+    row = bet.get("_row", -1)
+    desc = bet.get("Description", "")
+    notes = bet.get("Notes", "") or ""
+    risk = float(str(bet.get("Risk", "0")).replace(",", "") or 0)
+    legs = [parse_leg(s) for s in _extract_legs_from_description(desc)]
+    if len(legs) < 2:
+        return Proposal(bid, row, bet.get("Date",""), bet.get("League",""),
+                        bet.get("Pick",""), "round robin", "Pending", "low",
+                        "Could not parse RR legs")
+    # Extract combo sizes — default to all-ways (2..N)
+    n = len(legs)
+    combo_sizes = list(range(2, n+1))
+    # Try to find stake per combo — 'x $25' or '$25/combo' or 'all ways $25/game'
+    m = re.search(r"\$\s*(\d+(?:\.\d+)?)\s*(?:/combo|/game|per combo|per game)?", desc + " " + notes)
+    stake_per_combo = float(m.group(1)) if m else None
+    if stake_per_combo is None:
+        # Try total_combos = sum(C(n,k)) and divide risk by that
+        from math import comb
+        total_combos = sum(comb(n, k) for k in combo_sizes)
+        stake_per_combo = risk / total_combos if total_combos else 0
+    leg_results = [evaluate_leg(l, game_date) for l in legs]
+    detail = "; ".join(f"L{i+1} {l['raw']} → {r[0]}" for i, (l, r) in enumerate(zip(legs, leg_results)))
+    if any(r[0] == "Unknown" for r in leg_results):
+        return Proposal(bid, row, bet.get("Date",""), bet.get("League",""),
+                        bet.get("Pick",""), "round robin", "Pending", "low",
+                        f"Some legs unresolved. {detail}")
+    bd = settle_round_robin(leg_results, combo_sizes, stake_per_combo)
+    net = bd["net"]
+    # Determine status from net
+    if abs(net) < 0.01:
+        status = "Push"; conf = "high"
+    elif net > 0:
+        status = "Won"; conf = "high"
+    else:
+        status = "Lost"; conf = "high"
+    breakdown_str = ", ".join(f"{k}-leg: {v['wins']} win/${v['net']:.2f}" for k, v in bd["by_size"].items())
+    reason = (f"RR realized P&L = ${net:+.2f}. "
+              f"{bd['winning_combos']}/{bd['total_combos']} combos won "
+              f"({breakdown_str}). Legs: {detail}")
+    p = Proposal(bid, row, bet.get("Date",""), bet.get("League",""),
+                 bet.get("Pick",""), "round robin", status, conf, reason)
+    p.notes = f"realized_pnl={net:.2f}"
+    return p
+
 def evaluate(bet: dict) -> Proposal:
     bid = str(bet.get("ID",""))
     row = bet.get("_row", -1)
@@ -229,12 +494,10 @@ def evaluate(bet: dict) -> Proposal:
     if btype in ("futures","future"):
         return Proposal(bid, row, bet_date_str, league, pick, btype, "Pending", "low",
                         "Future — settles at end of season")
-    if btype in ("round robin","rr"):
-        return Proposal(bid, row, bet_date_str, league, pick, btype, "Pending", "medium",
-                        "Round robin — requires leg-by-leg settlement; manual review")
+    if btype in ("round robin", "rr"):
+        return evaluate_round_robin(bet, game_date)
     if btype == "parlay":
-        return Proposal(bid, row, bet_date_str, league, pick, btype, "Pending", "medium",
-                        "Parlay — requires leg-by-leg settlement; manual review")
+        return evaluate_parlay(bet, game_date)
     if "prop" in btype or btype in ("match-up","matchup","tournament"):
         return Proposal(bid, row, bet_date_str, league, pick, btype, "Pending", "low",
                         f"Bet type '{btype}' — needs manual or specialized data")
@@ -263,6 +526,10 @@ def evaluate(bet: dict) -> Proposal:
                         "Game not yet completed")
 
     score_str = " | ".join(f"{c['team']['displayName']} {c.get('score','?')}" for c in game["competitors"])
+
+    if game_is_voided(game):
+        return Proposal(bid, row, bet_date_str, league, pick, btype, "Push", "high",
+                        f"Game voided ({game.get('name','postponed')}); refund", score_str)
 
     if btype == "moneyline":
         st, conf, reason = eval_moneyline(game, pick)
