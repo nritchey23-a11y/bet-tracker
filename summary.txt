@@ -1,0 +1,84 @@
+BET TRACKER — RECENT ACTIVITY (May 2026 onward)
+Generated: 2026-05-26T23:06:27.908964Z
+
+Total bets (last 30 days): 71
+  Won: 15
+  Lost: 27
+  Pending: 28
+  Settled P&L: $-4,200.78
+  Pending risk: $10,260.50
+  Pending max win: $11,602.18
+
+INDIVIDUAL BETS (sorted by date desc):
+
+#1463 | 2026-05-26 | Mixed/MLB/NHL | 2-leg parlay: LAD ML (-225) + Colorado Avalanche -1.5 (+210) | Pick: LAD ML / COL Avs -1.5 | Odds: +247.78 | Risk $100 → Win $347.78 | Status: Pending | Notes: LAD: Freeland vs Lauer Must Start; NHL Avs vs VGK 9:15pm; Ticket #409975480
+#1462 | 2026-05-26 | Basketball/NBA | Oklahoma City Thunder -4 | Pick: OKC -4 | Odds: -110 | Risk $330 → Win $300 | Status: Pending | Notes: Ticket #409974752
+#1461 | 2026-05-26 | Basketball/NBA | OKC/SAS Game Total Under 217.5 | Pick: U217.5 | Odds: -110 | Risk $330 → Win $300 | Status: Pending | Notes: Ticket #409974753
+#1460 | 2026-05-26 | Baseball/MLB | Atlanta Braves -1.5 | Pick: ATL -1.5 | Odds: +155 | Risk $150 → Win $232.5 | Status: Pending | Notes: SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409974821
+#1459 | 2026-05-26 | Baseball/MLB | Atlanta Braves ML | Pick: ATL ML | Odds: -113 | Risk $169.5 → Win $150 | Status: Pending | Notes: SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409974822
+#1458 | 2026-05-26 | Baseball/MLB | Milwaukee Brewers -1.5 | Pick: MIL -1.5 | Odds: -102 | Risk $306 → Win $300 | Status: Pending | Notes: MICHAEL MCGREEVY-R Must Start | KYLE HARRISON-L Must Start; Ticket #409974823
+#1457 | 2026-05-26 | Baseball/MLB | Arizona Diamondbacks ML | Pick: ARI ML | Odds: -109 | Risk $327 → Win $300 | Status: Pending | Notes: EDUARDO RODRIGUEZ-L Must Start | TYLER MAHLE-R Must Start; Ticket #409974824
+#1456 | 2026-05-26 | Baseball/MLB | New York Yankees -1.5 | Pick: NYY -1.5 | Odds: -128 | Risk $384 → Win $300 | Status: Pending | Notes: CAM SCHLITTLER-R Must Start | BAILEY FALTER-L Must Start; Ticket #409974835
+#1455 | 2026-05-26 | Baseball/MLB | Tampa Bay Rays ML | Pick: TB ML | Odds: -109 | Risk $218 → Win $200 | Status: Pending | Notes: GRIFFIN JAX-R Must Start | SHANE BAZ-R Must Start; Ticket #409974842
+#1454 | 2026-05-26 | Baseball/MLB | BAL/TB Game Total Over 8.5 | Pick: O8.5 | Odds: -115 | Risk $230 → Win $200 | Status: Pending | Notes: GRIFFIN JAX-R Must Start | SHANE BAZ-R Must Start; Ticket #409974843
+#1453 | 2026-05-26 | Baseball/MLB | PIT/CHC Game Total Under 8 | Pick: U8 | Odds: -102 | Risk $204 → Win $200 | Status: Pending | Notes: JORDAN WICKS-L Must Start | BRAXTON ASHCRAFT-R Must Start; Ticket #409974882
+#1452 | 2026-05-26 | Baseball/MLB | 2-leg parlay: Braxton Ashcraft (PIT) Over 5.5 Strikeouts + Pirates ML | Pick: Ashcraft O5.5 K / PIT ML | Odds: +71 | Risk $150 → Win $256.5 | Status: Pending | Notes: Ticket #409974908
+#1451 | 2026-05-26 | Baseball/MLB | San Diego Padres -1.5 | Pick: SD -1.5 | Odds: +183 | Risk $100 → Win $183 | Status: Pending | Notes: AARON NOLA-R Must Start | RANDY VASQUEZ-R Must Start; Ticket #409974976
+#1450 | 2026-05-26 | Baseball/MLB | San Diego Padres ML | Pick: SD ML | Odds: -114 | Risk $114 → Win $100 | Status: Pending | Notes: AARON NOLA-R Must Start | RANDY VASQUEZ-R Must Start; Ticket #409974977
+#1449 | 2026-05-26 | Baseball/MLB | Los Angeles Dodgers -1.5 | Pick: LAD -1.5 | Odds: -114 | Risk $228 → Win $200 | Status: Pending | Notes: KYLE FREELAND-L Must Start | ERIC LAUER-L Must Start; Ticket #409975056
+#1448 | 2026-05-26 | Baseball/MLB | LAD/COL Game Total Over 9 | Pick: O9 | Odds: -105 | Risk $210 → Win $200 | Status: Pending | Notes: KYLE FREELAND-L Must Start | ERIC LAUER-L Must Start; Ticket #409975057
+#1447 | 2026-05-26 | Baseball/MLB | BOS/ATL Game Total Under 8 | Pick: U8 | Odds: -107 | Risk $214 → Win $200 | Status: Pending | Notes: SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409975085
+#1446 | 2026-05-26 | Baseball/MLB | Minnesota Twins -1.5 | Pick: MIN -1.5 | Odds: +148 | Risk $50 → Win $74 | Status: Pending | Notes: JOE RYAN-R Must Start | SEAN BURKE-R Must Start; Ticket #409975096
+#1445 | 2026-05-26 | Baseball/MLB | Minnesota Twins ML | Pick: MIN ML | Odds: -112 | Risk $56 → Win $50 | Status: Pending | Notes: JOE RYAN-R Must Start | SEAN BURKE-R Must Start; Ticket #409975097
+#1443 | 2026-05-25 | Baseball/MLB | 2-team parlay: LAD -1.5 (-145) + Athletics +1.5 (-155) | Pick: LAD -1.5 / OAK +1.5 | Odds: +77.98 | Risk $250 → Win $444.94 | Status: Pending | Notes: LAD: Gordon vs Sheehan Must Start; OAK: Castillo vs Civale Must Start; Ticket #409929320
+#1442 | 2026-05-25 | Baseball/MLB | 2-team parlay: LAD ML (-310) + Athletics ML (-110) | Pick: LAD ML / OAK ML | Odds: +52.49 | Risk $250 → Win $381.23 | Status: Pending | Notes: LAD: Gordon vs Sheehan Must Start; OAK: Castillo vs Civale Must Start; Ticket #409929376
+#1441 | 2026-05-25 | Mixed/MLB/NBA | 2-team parlay: LAD ML (-310) + Knicks -2 (-110) | Pick: LAD ML / NYK -2 | Odds: +52.49 | Risk $250 → Win $381.23 | Status: Pending | Notes: LAD: Gordon vs Sheehan Must Start; NYK ECF Game 4; Ticket #409929389
+#1444 | 2026-05-24 | Basketball/NBA | OKC team total Over 102.5 (Inc. OT) | Pick: OKC team total O102.5 | Odds: -109 | Risk $272.5 → Win $250 | Status: Lost | Notes: Missed entry; OKC under 102.5; Ticket #409880559
+#1440 | 2026-05-24 | Baseball/MLB | 5-team RR by 2's/3's/4's/5's: LAD -1.5 (+105) vs MIL, ATL -1.5 (+130) vs WSH, CLE -1.5 (+149) vs PHI, TB ML (+110) vs NYY, SEA -1.5 (+135) vs KC | Pick: LAD-1.5/ATL-1.5/CLE-1.5/TB ML/SEA-1.5 | Odds: varies | Risk $522.39 → Win $8162.56 | Status: Lost | Notes: 26 parlays @ $25 each; ORIGINAL Risk $650; hit 2/5 (LAD-1.5, CLE-1.5); only winning combo LAD+CLE +105/+149 = +$102.61; net realized -$522.39; Ticket #409859138
+#1439 | 2026-05-24 | Baseball/MLB | Blue Jays F5 -0.5 (1st 5 Innings, Must Start pitchers) | Pick: TOR -0.5 | Odds: -120 | Risk $180 → Win $150 | Status: Lost | Notes: 1st 5 Innings; MITCH KELLER-R Must Start | DYLAN CEASE-R Must Start; Ticket #409858849
+#1438 | 2026-05-23 | Baseball/MLB | Phillies F5 -0.5 (1st 5 Innings, Must Start pitchers) | Pick: PHI -0.5 | Odds: -130 | Risk $325 → Win $250 | Status: Won | Notes: 1st 5 Innings; SLADE CECCONI-R Must Start | ZACK WHEELER-R Must Start; Ticket #409822462
+#1434 | 2026-05-23 | Basketball/NBA | Cavs/Knicks Total Over 215.5 | Pick: Over 215.5 | Odds: -110 | Risk $550 → Win $500 | Status: Won | Notes: Ticket #409818706; 8:00pm ECF
+#1433 | 2026-05-23 | Baseball/MLB | Pirates ML | Pick: Pittsburgh Pirates | Odds: -136 | Risk $340 → Win $250 | Status: Lost | Notes: Ticket #409818705; Skenes vs Corbin 3:07pm
+#1432 | 2026-05-23 | Baseball/MLB | Pirates -1.5 | Pick: Pittsburgh Pirates | Odds: 120 | Risk $250 → Win $300 | Status: Lost | Notes: Ticket #409818704; Skenes vs Corbin 3:07pm
+#1431 | 2026-05-23 | Baseball/MLB | Phillies -1.5 | Pick: Philadelphia Phillies | Odds: 125 | Risk $500 → Win $625 | Status: Won | Notes: Ticket #409818703; Wheeler vs Cecconi 4:05pm
+#1430 | 2026-05-23 | Baseball/MLB | Dodgers -1.5 | Pick: Los Angeles Dodgers | Odds: 140 | Risk $250 → Win $350 | Status: Won | Notes: Ticket #409818702; Sasaki vs Gasser 7:15pm
+#1429 | 2026-05-23 | Baseball/MLB | Dodgers ML | Pick: Los Angeles Dodgers | Odds: -115 | Risk $287.50 → Win $250 | Status: Won | Notes: Ticket #409818701; Sasaki vs Gasser 7:15pm
+#1437 | 2026-05-22 | Basketball/NBA | Spurs ML | Pick: San Antonio Spurs | Odds: -125 | Risk $1000 → Win $800 | Status: Lost | Notes: Originally 2-leg parlay w/ unused 2nd leg slot; treated as Spurs ML loser per user
+#1436 | 2026-05-22 | Mixed/NBA/NHL | 2-leg parlay: Spurs -2.5 (-110); Avalanche ML (-185) | Pick: 2-leg parlay | Odds: 194 | Risk $1000 → Win $1941 | Status: Lost | Notes: Both legs lost; missed entry from prior day
+#1435 | 2026-05-22 | Hockey/NHL | Avalanche ML | Pick: Colorado Avalanche | Odds: -185 | Risk $1850 → Win $1000 | Status: Lost | Notes: Game 2 WCF (missed entry); Avs lost
+#1428 | 2026-05-22 | Baseball/MLB | Astros/Cubs Total Under 7 (hedge on bet 1424) | Pick: Under 7 | Odds: +135 | Risk $370.37 → Win $500 | Status: Won | Notes: Wagerhouse #G298264008 / Ticket #1441525283-1; HEDGE on Over 7 leg of parlay 1424
+#1427 | 2026-05-22 | Baseball/MLB | Rangers -1.5 | Pick: Texas Rangers | Odds: +100 | Risk $1000 → Win $1000 | Status: Lost | Notes: Wagerhouse; DeGrom vs G.Rodriguez 9:38pm
+#1426 | 2026-05-22 | Baseball/MLB | Rays ML | Pick: Tampa Bay Rays | Odds: +137 | Risk $1000 → Win $1370 | Status: Won | Notes: Wagerhouse; Cole vs Martinez 7:05pm
+#1425 | 2026-05-22 | Mixed/NHL/MLB | 2-leg parlay: Avalanche ML (-180); Dodgers/Brewers Total Under 8.5 (-115) | Pick: 2-leg parlay | Odds: +91 | Risk $1000 → Win $1908 | Status: Lost | Notes: Wagerhouse 2-team parlay
+#1424 | 2026-05-22 | Baseball/MLB | 2-leg parlay: Astros ML (+122); Astros/Cubs Total Over 7 (-115) | Pick: 2-leg parlay | Odds: +215 | Risk $500 → Win $1575 | Status: Lost | Notes: Wagerhouse 2-team parlay
+#1423 | 2026-05-22 | Hockey/NHL | Avalanche -1.5 | Pick: Colorado Avalanche | Odds: +145 | Risk $750 → Win $1087 | Status: Lost | Notes: Wagerhouse
+#1422 | 2026-05-22 | Basketball/NBA | Spurs -1.5 | Pick: San Antonio Spurs | Odds: -115 | Risk $1150 → Win $1000 | Status: Lost | Notes: Gameday ticket #396266716; 8:30pm tip
+#1421 | 2026-05-22 | Mixed/MLB/NBA | 5-team RR All Ways (26 combos x $25): TEX -1.5 +115; TB ML +123; HOU ML +112; SAS -1.5 -110; MIL/LAD U8.5 -115 | Pick: 5-team RR all ways | Odds:  | Risk $107.37 → Win $5692.96 | Status: Lost | Notes: Gameday ticket #395509182; By 2s/3s/4s/5s; $25/combo. PARTIAL: TB ML, HOU ML, MIL/LAD U8.5 won; TEX -1.5, SAS -1.5 lost. 4/26 combos hit (3x2-team + 1x3-team, +$442.63). Net loss ~$107.37
+#1420 | 2026-05-19 | Mixed/NBA/MLB | 3-leg parlay: Cavaliers +7 (-110); Mariners -1.5 (+145); Athletics ML (+114) | Pick: 3-leg parlay | Odds: +801 | Risk $400 → Win $3603 | Status: Lost | Notes: Wagerhouse ticket #1438538618
+#1419 | 2026-05-19 | Baseball/MLB | 5-team All Ways RR (26 combos x $25): SEA -1.5 +145; ATL -1.5 +125; ARI -1.5 +160; PHI -1.5 +145; NYY -1.5 +155 | Pick: 5-team RR all ways | Odds:  | Risk $503.75 → Win $11376 | Status: Lost | Notes: Wagerhouse ticket #1438529716; 2-leg through 5-leg combos; $25/combo. PARTIAL: ATL/ARI -1.5 won; SEA/PHI/NYY lost. 1/26 combos hit (ATL+ARI 2-team paid $121.25). Net loss ~$503.75
+#1418 | 2026-05-17 | Football/NFL | Carolina Panthers Regular Season Wins Over 6.5 | Pick: Over 6.5 | Odds: -130 | Risk $1300 → Win $1000 | Status: Pending | Notes: Wagerhouse season win total (note: also have ticket 1388 CAR Over 7.5 +100)
+#1417 | 2026-05-17 | Football/NFL | Kansas City Chiefs Regular Season Wins Over 10.5 | Pick: Over 10.5 | Odds: +105 | Risk $1000 → Win $1050 | Status: Pending | Notes: Wagerhouse season win total
+#1416 | 2026-05-17 | Football/NFL | Dallas Cowboys Regular Season Wins Under 8.5 | Pick: Under 8.5 | Odds: +160 | Risk $625 → Win $1000 | Status: Pending | Notes: Wagerhouse season win total
+#1415 | 2026-05-17 | Football/NFL | New York Jets Regular Season Wins Over 5.5 | Pick: Over 5.5 | Odds: +105 | Risk $1000 → Win $1050 | Status: Pending | Notes: Wagerhouse season win total
+#1414 | 2026-05-17 | Football/NFL | Pittsburgh Steelers Regular Season Wins Over 8.5 | Pick: Over 8.5 | Odds: +140 | Risk $715 → Win $1001 | Status: Pending | Notes: Wagerhouse season win total
+#1413 | 2026-05-17 | Football/NFL | San Francisco 49ers Regular Season Wins Over 10.5 | Pick: Over 10.5 | Odds: +120 | Risk $1000 → Win $1200 | Status: Pending | Notes: Wagerhouse season win total
+#1412 | 2026-05-17 | Basketball/NBA | 2-leg parlay: Cavs/Pistons Alt Total Under 194.5 (+235); Thunder -6.5 (-110) | Pick: 2-leg parlay | Odds: +438 | Risk $287 → Win $1548 | Status: Lost | Notes: Wagerhouse 2-team parlay
+#1411 | 2026-05-17 | Golf/PGA Championship | Aaron Rai to win 2026 PGA Championship | Pick: Aaron Rai | Odds: -330 | Risk $3300 → Win $1000 | Status: Won | Notes: Wagerhouse #G297707904; Rai won 2026 PGA Championship
+#1410 | 2026-05-17 | MMA/Combat | Ronda Rousey ML | Pick: Ronda Rousey | Odds: -575 | Risk $8625 → Win $1500 | Status: Won | Notes: Rousey submitted Carano via armbar in 17 seconds
+#1408 | 2026-05-17 | Golf/PGA Championship | Scottie Scheffler to win 2026 PGA Championship | Pick: Scottie Scheffler | Odds: +780 | Risk $500 → Win $3900 | Status: Lost | Notes: Aaron Rai won 2026 PGA Championship at Aronimink; Scheffler did not win; -$500
+#1407 | 2026-05-17 | Golf/PGA Championship | Rory McIlroy R4 matchup ML | Pick: Rory McIlroy | Odds: -125 | Risk $312 → Win $250 | Status: Push | Notes: McIlroy R4 H2H push; stake refunded
+#1406 | 2026-05-17 | Golf/PGA Championship | Jon Rahm R4 matchup ML | Pick: Jon Rahm | Odds: -130 | Risk $325 → Win $250 | Status: Won | Notes: Wagerhouse R4 H2H - Rahm won matchup; +$250
+#1405 | 2026-05-17 | Golf/PGA Championship | Patrick Reed 4th Round Score Under 69.5 | Pick: Under 69.5 | Odds: -120 | Risk $300 → Win $250 | Status: Lost | Notes: Reed R4 score did not finish Under 69.5; -$300
+#1404 | 2026-05-17 | Golf/PGA Championship | Cameron Smith R4 matchup ML | Pick: Cameron Smith | Odds: +135 | Risk $250 → Win $337 | Status: Won | Notes: Wagerhouse R4 H2H - Smith beat matchup opponent; +$337
+#1403 | 2026-05-03 | Basketball/NBA | 3-leg parlay: Harden 9+ Assists; Harden Under 19.5 Points; Cavs ML | Pick: 3-leg parlay | Odds:  | Risk $250 → Win $0 | Status: Lost | Notes: Gameday #388409872; Harden 18p/3a in CLE 114-102 win - 9+ Ast leg LOST (Under 19.5 hit, CLE ML hit, but parlay dead)
+#1402 | 2026-05-02 | Baseball/MLB | Seattle Mariners ML | Pick: Seattle Mariners | Odds: -114 | Risk $250 → Win $219.30 | Status: Lost | Notes: Gameday #G295870878; KC 3, SEA 2 (10 inn)
+#1401 | 2026-05-02 | Baseball/MLB | Mariners team total Over 3.5 runs | Pick: Over 3.5 | Odds: -167 | Risk $692 → Win $414.37 | Status: Lost | Notes: Gameday #G295867213; SEA scored 2 runs in 10-inning loss (KC 3, SEA 2)
+#1400 | 2026-05-02 | Horse Racing/Churchill Downs | Pick 3: Race 7 [2,4,8] / Race 8 [1,2,6,7,8] / Race 9 [4,8,12] (45 combinations @ $4 each) | Pick: Pick 3 R7:2/4/8 R8:1/2/6/7/8 R9:4/8/12 | Odds:  | Risk $180 → Win $0 | Status: Lost | Notes: Pick 3 leg 1 lost - Race 7 won by #5 Classic Q (had 2/4/8)
+#1399 | 2026-05-02 | Horse Racing/KY Derby | Superfecta Box: [1, 6, 8, 12, 18] (120 combinations @ $1 each) | Pick: Superfecta Box 1/6/8/12/18 | Odds:  | Risk $120 → Win $0 | Status: Lost | Notes: Derby winner #19 Golden Tempo not in ticket; Superfecta box 1/6/8/12/18 lost
+#1398 | 2026-05-02 | Horse Racing/KY Derby | Trifecta: 1st [6,12,18] - 2nd [6,7,10,12,15,18] - 3rd [6,7,10,12,15,18] (60 combinations @ $4 each) | Pick: Trifecta 6/12/18 with 6/7/10/12/15/18 with 6/7/10/12/15/18 | Odds:  | Risk $240 → Win $0 | Status: Lost | Notes: Derby winner #19 Golden Tempo not in ticket; 60 combos lost
+#1397 | 2026-05-02 | Horse Racing/KY Derby | Exacta: 1st [12] - 2nd [6,8,10,15,18] (5 combinations @ $10 each) | Pick: Exacta 12 over 6/8/10/15/18 | Odds:  | Risk $50 → Win $0 | Status: Lost | Notes: Derby winner #19 Golden Tempo not in ticket; 5 combos lost
+#1396 | 2026-05-02 | Horse Racing/KY Derby | Exacta: 1st [6,8,12,18] - 2nd [6,8,10,12,18] (16 combinations @ $10 each) | Pick: Exacta 6/8/12/18 over 6/8/10/12/18 | Odds:  | Risk $160 → Win $0 | Status: Lost | Notes: Derby winner #19 Golden Tempo not in ticket; 16 combos lost
+#1394 | 2026-05-01 | Horse Racing/KY Oaks | $100 W/P/S each on #9 and #10 ($300 each = $600 total) | Pick: WPS #9 and #10 | Odds:  | Risk $600 → Win $697.00 | Status: Won | Notes: #9 Always a Runner WPS cashed; #10 Prom Queen WPS lost. Return $1,297, net +$697
+#1393 | 2026-05-01 | Horse Racing/KY Oaks | $25 Exacta Box 5/9/10 (6 combos) | Pick: Exacta Box 5,9,10 | Odds:  | Risk $150 → Win $1069.75 | Status: Won | Notes: Exacta 9-5 hit. Return $1,219.75, net +$1,069.75
+#1392 | 2026-05-01 | Horse Racing/KY Oaks | $2 Trifecta 5/9/10 / 1/2/5/9/10 / 1/2/4/5/9/10/11 (60 combos) | Pick: Trifecta Key 5,9,10 | Odds:  | Risk $120 → Win $655.48 | Status: Won | Notes: Trifecta 9-5-4 hit. Return $775.48, net +$655.48
+#1391 | 2026-05-01 | Basketball/NBA | Lakers to win 1st Round series vs Rockets | Pick: Lakers Series ML | Odds: -310 | Risk $930 → Win $300 | Status: Won | Notes: Lakers won series 4-2; Game 6 LAL 98-78 HOU; +$300 net
