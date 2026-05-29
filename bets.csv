@@ -1427,26 +1427,47 @@ ID,Date,Sport,League,Event,Type,Description,Pick,Opponent,Odds,Risk,To Win,Statu
 1438,2026-05-23,Baseball,MLB,Phillies vs Guardians,Spread (F5),"Phillies F5 -0.5 (1st 5 Innings, Must Start pitchers)",PHI -0.5,Cleveland Guardians,-130,325,250,Won,2026-05-23,1st 5 Innings; SLADE CECCONI-R Must Start | ZACK WHEELER-R Must Start; Ticket #409822462
 1439,2026-05-24,Baseball,MLB,Pirates vs Blue Jays,Spread (F5),"Blue Jays F5 -0.5 (1st 5 Innings, Must Start pitchers)",TOR -0.5,Pittsburgh Pirates,-120,180,150,Lost,2026-05-24,1st 5 Innings; MITCH KELLER-R Must Start | DYLAN CEASE-R Must Start; Ticket #409858849
 1440,2026-05-24,Baseball,MLB,5-team MLB RR (LAD/ATL/CLE/TB/SEA),Round Robin,"5-team RR by 2's/3's/4's/5's: LAD -1.5 (+105) vs MIL, ATL -1.5 (+130) vs WSH, CLE -1.5 (+149) vs PHI, TB ML (+110) vs NYY, SEA -1.5 (+135) vs KC",LAD-1.5/ATL-1.5/CLE-1.5/TB ML/SEA-1.5,MIL/WSH/PHI/NYY/KC,varies,522.39,8162.56,Lost,2026-05-24,"26 parlays @ $25 each; ORIGINAL Risk $650; hit 2/5 (LAD-1.5, CLE-1.5); only winning combo LAD+CLE +105/+149 = +$102.61; net realized -$522.39; Ticket #409859138"
-1441,2026-05-25,Mixed,MLB/NBA,LAD/MIL + NYK/IND,Parlay (2-leg),2-team parlay: LAD ML (-310) + Knicks -2 (-110),LAD ML / NYK -2,MIL / IND,+52.49,250,381.23,Pending,,LAD: Gordon vs Sheehan Must Start; NYK ECF Game 4; Ticket #409929389
-1442,2026-05-25,Baseball,MLB,LAD/MIL + ATH game,Parlay (2-leg),2-team parlay: LAD ML (-310) + Athletics ML (-110),LAD ML / OAK ML,MIL / opp,+52.49,250,381.23,Pending,,LAD: Gordon vs Sheehan Must Start; OAK: Castillo vs Civale Must Start; Ticket #409929376
-1443,2026-05-25,Baseball,MLB,LAD/MIL + ATH game,Parlay (2-leg),2-team parlay: LAD -1.5 (-145) + Athletics +1.5 (-155),LAD -1.5 / OAK +1.5,MIL / opp,+77.98,250,444.94,Pending,,LAD: Gordon vs Sheehan Must Start; OAK: Castillo vs Civale Must Start; Ticket #409929320
+1441,2026-05-25,Mixed,MLB/NBA,LAD/MIL + NYK/IND,Parlay (2-leg),2-team parlay: LAD ML (-310) + Knicks -2 (-110),LAD ML / NYK -2,MIL / IND,+52.49,250,381.23,Won,2026-05-25,LAD: Gordon vs Sheehan Must Start; NYK ECF Game 4; Ticket #409929389
+1442,2026-05-25,Baseball,MLB,LAD/MIL + ATH game,Parlay (2-leg),2-team parlay: LAD ML (-310) + Athletics ML (-110),LAD ML / OAK ML,MIL / opp,+52.49,250,381.23,Lost,2026-05-25,LAD: Gordon vs Sheehan Must Start; OAK: Castillo vs Civale Must Start; Ticket #409929376
+1443,2026-05-25,Baseball,MLB,LAD/MIL + ATH game,Parlay (2-leg),2-team parlay: LAD -1.5 (-145) + Athletics +1.5 (-155),LAD -1.5 / OAK +1.5,MIL / opp,+77.98,250,444.94,Lost,2026-05-25,LAD: Gordon vs Sheehan Must Start; OAK: Castillo vs Civale Must Start; Ticket #409929320
 1444,2026-05-24,Basketball,NBA,Spurs vs Thunder,Total,OKC team total Over 102.5 (Inc. OT),OKC team total O102.5,,-109,272.5,250,Lost,2026-05-24,Missed entry; OKC under 102.5; Ticket #409880559
-1445,2026-05-26,Baseball,MLB,Twins game,Moneyline,Minnesota Twins ML,MIN ML,opp,-112,56,50,Pending,,JOE RYAN-R Must Start | SEAN BURKE-R Must Start; Ticket #409975097
-1446,2026-05-26,Baseball,MLB,Twins game,Spread,Minnesota Twins -1.5,MIN -1.5,opp,+148,50,74,Pending,,JOE RYAN-R Must Start | SEAN BURKE-R Must Start; Ticket #409975096
-1447,2026-05-26,Baseball,MLB,Red Sox vs Braves,Total,BOS/ATL Game Total Under 8,U8,,-107,214,200,Pending,,SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409975085
-1448,2026-05-26,Baseball,MLB,Dodgers vs Rockies,Total,LAD/COL Game Total Over 9,O9,,-105,210,200,Pending,,KYLE FREELAND-L Must Start | ERIC LAUER-L Must Start; Ticket #409975057
-1449,2026-05-26,Baseball,MLB,Dodgers vs Rockies,Spread,Los Angeles Dodgers -1.5,LAD -1.5,Colorado Rockies,-114,228,200,Pending,,KYLE FREELAND-L Must Start | ERIC LAUER-L Must Start; Ticket #409975056
-1450,2026-05-26,Baseball,MLB,Padres game,Moneyline,San Diego Padres ML,SD ML,opp,-114,114,100,Pending,,AARON NOLA-R Must Start | RANDY VASQUEZ-R Must Start; Ticket #409974977
-1451,2026-05-26,Baseball,MLB,Padres game,Spread,San Diego Padres -1.5,SD -1.5,opp,+183,100,183,Pending,,AARON NOLA-R Must Start | RANDY VASQUEZ-R Must Start; Ticket #409974976
-1452,2026-05-26,Baseball,MLB,Cubs vs Pirates,Parlay (2-leg),2-leg parlay: Braxton Ashcraft (PIT) Over 5.5 Strikeouts + Pirates ML,Ashcraft O5.5 K / PIT ML,Chicago Cubs,+71,150,256.5,Pending,,Ticket #409974908
-1453,2026-05-26,Baseball,MLB,Cubs vs Pirates,Total,PIT/CHC Game Total Under 8,U8,,-102,204,200,Pending,,JORDAN WICKS-L Must Start | BRAXTON ASHCRAFT-R Must Start; Ticket #409974882
-1454,2026-05-26,Baseball,MLB,Orioles vs Rays,Total,BAL/TB Game Total Over 8.5,O8.5,,-115,230,200,Pending,,GRIFFIN JAX-R Must Start | SHANE BAZ-R Must Start; Ticket #409974843
-1455,2026-05-26,Baseball,MLB,Orioles vs Rays,Moneyline,Tampa Bay Rays ML,TB ML,Baltimore Orioles,-109,218,200,Pending,,GRIFFIN JAX-R Must Start | SHANE BAZ-R Must Start; Ticket #409974842
-1456,2026-05-26,Baseball,MLB,Yankees game,Spread,New York Yankees -1.5,NYY -1.5,opp,-128,384,300,Pending,,CAM SCHLITTLER-R Must Start | BAILEY FALTER-L Must Start; Ticket #409974835
-1457,2026-05-26,Baseball,MLB,Diamondbacks game,Moneyline,Arizona Diamondbacks ML,ARI ML,opp,-109,327,300,Pending,,EDUARDO RODRIGUEZ-L Must Start | TYLER MAHLE-R Must Start; Ticket #409974824
-1458,2026-05-26,Baseball,MLB,Brewers game,Spread,Milwaukee Brewers -1.5,MIL -1.5,opp,-102,306,300,Pending,,MICHAEL MCGREEVY-R Must Start | KYLE HARRISON-L Must Start; Ticket #409974823
-1459,2026-05-26,Baseball,MLB,Red Sox vs Braves,Moneyline,Atlanta Braves ML,ATL ML,Boston Red Sox,-113,169.5,150,Pending,,SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409974822
-1460,2026-05-26,Baseball,MLB,Red Sox vs Braves,Spread,Atlanta Braves -1.5,ATL -1.5,Boston Red Sox,+155,150,232.5,Pending,,SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409974821
-1461,2026-05-26,Basketball,NBA,Spurs vs Thunder,Total,OKC/SAS Game Total Under 217.5,U217.5,,-110,330,300,Pending,,Ticket #409974753
-1462,2026-05-26,Basketball,NBA,Spurs vs Thunder,Spread,Oklahoma City Thunder -4,OKC -4,San Antonio Spurs,-110,330,300,Pending,,Ticket #409974752
-1463,2026-05-26,Mixed,MLB/NHL,Dodgers vs Rockies + VGK/COL Avs,Parlay (2-leg),2-leg parlay: LAD ML (-225) + Colorado Avalanche -1.5 (+210),LAD ML / COL Avs -1.5,Colorado Rockies / Vegas Golden Knights,+247.78,100,347.78,Pending,,LAD: Freeland vs Lauer Must Start; NHL Avs vs VGK 9:15pm; Ticket #409975480
+1445,2026-05-26,Baseball,MLB,Twins game,Moneyline,Minnesota Twins ML,MIN ML,opp,-112,56,50,Won,2026-05-26,JOE RYAN-R Must Start | SEAN BURKE-R Must Start; Ticket #409975097
+1446,2026-05-26,Baseball,MLB,Twins game,Spread,Minnesota Twins -1.5,MIN -1.5,opp,+148,50,74,Won,2026-05-26,JOE RYAN-R Must Start | SEAN BURKE-R Must Start; Ticket #409975096
+1447,2026-05-26,Baseball,MLB,Red Sox vs Braves,Total,BOS/ATL Game Total Under 8,U8,,-107,214,200,Lost,2026-05-26,SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409975085
+1448,2026-05-26,Baseball,MLB,Dodgers vs Rockies,Total,LAD/COL Game Total Over 9,O9,,-105,210,200,Won,2026-05-26,KYLE FREELAND-L Must Start | ERIC LAUER-L Must Start; Ticket #409975057
+1449,2026-05-26,Baseball,MLB,Dodgers vs Rockies,Spread,Los Angeles Dodgers -1.5,LAD -1.5,Colorado Rockies,-114,228,200,Won,2026-05-26,KYLE FREELAND-L Must Start | ERIC LAUER-L Must Start; Ticket #409975056
+1450,2026-05-26,Baseball,MLB,Padres game,Moneyline,San Diego Padres ML,SD ML,opp,-114,114,100,Lost,2026-05-26,AARON NOLA-R Must Start | RANDY VASQUEZ-R Must Start; Ticket #409974977
+1451,2026-05-26,Baseball,MLB,Padres game,Spread,San Diego Padres -1.5,SD -1.5,opp,+183,100,183,Lost,2026-05-26,AARON NOLA-R Must Start | RANDY VASQUEZ-R Must Start; Ticket #409974976
+1452,2026-05-26,Baseball,MLB,Cubs vs Pirates,Parlay (2-leg),2-leg parlay: Braxton Ashcraft (PIT) Over 5.5 Strikeouts + Pirates ML,Ashcraft O5.5 K / PIT ML,Chicago Cubs,+71,150,256.5,Lost,2026-05-26,Ticket #409974908
+1453,2026-05-26,Baseball,MLB,Cubs vs Pirates,Total,PIT/CHC Game Total Under 8,U8,,-102,204,200,Lost,2026-05-26,JORDAN WICKS-L Must Start | BRAXTON ASHCRAFT-R Must Start; Ticket #409974882
+1454,2026-05-26,Baseball,MLB,Orioles vs Rays,Total,BAL/TB Game Total Over 8.5,O8.5,,-115,230,200,Lost,2026-05-26,GRIFFIN JAX-R Must Start | SHANE BAZ-R Must Start; Ticket #409974843
+1455,2026-05-26,Baseball,MLB,Orioles vs Rays,Moneyline,Tampa Bay Rays ML,TB ML,Baltimore Orioles,-109,218,200,Lost,2026-05-26,GRIFFIN JAX-R Must Start | SHANE BAZ-R Must Start; Ticket #409974842
+1456,2026-05-26,Baseball,MLB,Yankees game,Spread,New York Yankees -1.5,NYY -1.5,opp,-128,384,300,Won,2026-05-26,CAM SCHLITTLER-R Must Start | BAILEY FALTER-L Must Start; Ticket #409974835
+1457,2026-05-26,Baseball,MLB,Diamondbacks game,Moneyline,Arizona Diamondbacks ML,ARI ML,opp,-109,327,300,Won,2026-05-26,EDUARDO RODRIGUEZ-L Must Start | TYLER MAHLE-R Must Start; Ticket #409974824
+1458,2026-05-26,Baseball,MLB,Brewers game,Spread,Milwaukee Brewers -1.5,MIL -1.5,opp,-102,306,300,Won,2026-05-26,MICHAEL MCGREEVY-R Must Start | KYLE HARRISON-L Must Start; Ticket #409974823
+1459,2026-05-26,Baseball,MLB,Red Sox vs Braves,Moneyline,Atlanta Braves ML,ATL ML,Boston Red Sox,-113,169.5,150,Won,2026-05-26,SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409974822
+1460,2026-05-26,Baseball,MLB,Red Sox vs Braves,Spread,Atlanta Braves -1.5,ATL -1.5,Boston Red Sox,+155,150,232.5,Lost,2026-05-26,SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409974821
+1461,2026-05-26,Basketball,NBA,Spurs vs Thunder,Total,OKC/SAS Game Total Under 217.5,U217.5,,-110,330,300,Lost,2026-05-26,Ticket #409974753
+1462,2026-05-26,Basketball,NBA,Spurs vs Thunder,Spread,Oklahoma City Thunder -4,OKC -4,San Antonio Spurs,-110,330,300,Won,2026-05-26,Ticket #409974752
+1463,2026-05-26,Mixed,MLB/NHL,Dodgers vs Rockies + VGK/COL Avs,Parlay (2-leg),2-leg parlay: LAD ML (-225) + Colorado Avalanche -1.5 (+210),LAD ML / COL Avs -1.5,Colorado Rockies / Vegas Golden Knights,+247.78,100,347.78,Lost,2026-05-26,LAD: Freeland vs Lauer Must Start; NHL Avs vs VGK 9:15pm; Ticket #409975480
+1464,2026-05-27,Baseball,MLB,ATL @ BOS,ML,ATL ML -106,ATL,BOS,-106,106,100,Lost,2026-05-27,Elder vs Connelly Early; ATL lost 0-8
+1465,2026-05-27,Baseball,MLB,ATL @ BOS,Spread,ATL -1.5 +155,ATL -1.5,BOS +1.5,+155,100,155,Lost,2026-05-27,Elder vs Connelly Early; ATL lost by 8
+1466,2026-05-27,Baseball,MLB,Parlay,Parlay,NYY/KC U9 -120 + LAD -1.5 -170,NYY/KC U9 + LAD -1.5,,+91,200,382.35,Won,2026-05-27,Total 7 U9 cashed; LAD 4-1 COL covered
+1467,2026-05-27,Baseball,MLB,Parlay,Parlay,LAD -1.5 -170 + NYY ML -153,LAD -1.5 + NYY ML,,+163,200,325.26,Won,2026-05-27,LAD covered; NYY 7-0 KC
+1468,2026-05-27,Baseball,MLB,TEX @ HOU,Total,TEX/HOU U7 -101,U7,,-101,303,300,Push,2026-05-27,"Burrows vs deGrom; final HOU 4-3 TEX, total exactly 7 = PUSH"
+1469,2026-05-27,Baseball,MLB,PHI @ SD,Spread,PHI -1.5 +125,PHI -1.5,SD +1.5,+125,300,375,Won,2026-05-27,Sanchez vs Buehler; PHI won 3-0
+1470,2026-05-27,Baseball,MLB,PHI @ SD,Spread,PHI -1.5 +125 (2nd book),PHI -1.5,SD +1.5,+125,300,375,Won,2026-05-27,Duplicate Phillies -1.5 on 2nd book (wagerhouse); PHI won 3-0
+1471,2026-05-28,Baseball,MLB,CHC @ PIT,Total,CHC/PIT U7.5 -110,U7.5,,-110,165,150,Pending,,
+1472,2026-05-28,Baseball,MLB,Parlay,Parlay,CHC/PIT U7.5 -110 + PIT ML -164,U7.5 + PIT ML,,+106,50,103,Pending,,2-leg parlay
+1473,2026-05-28,Baseball,MLB,ATL @ BOS,Spread,ATL -1.5 +135,ATL -1.5,BOS +1.5,+135,100,135,Pending,,
+1474,2026-05-28,Baseball,MLB,ATL @ BOS,ML,ATL ML -129,ATL,BOS,-129,129,100,Pending,,
+1475,2026-05-28,Baseball,MLB,Parlay,Parlay,5-leg: Arrighetti O5.5K + Skenes O6.5K + CHC/PIT U7.5 + PIT ML + HOU F5,5-team parlay,,+1800,50,950,Pending,,"Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX)"
+1476,2026-05-28,Baseball,MLB,HOU @ TEX,F5 ML,HOU F5 ML +130,HOU F5,TEX F5,+130,200,260,Won,2026-05-28,Arrighetti start; HOU 5-1 TEX through 5
+1477,2026-05-29,Baseball,MLB,Parlay,Parlay,5-leg: Kirby O5.5K + ARI/SEA U7 + SEA ML + ATL -1.5 + PHI ML,5-team parlay,,+1800,50,950,Pending,,"Props parlay: Kirby SEA O5.5K, ARI/SEA U7, SEA ML, ATL -1.5 (@ CIN), PHI ML (@ LAD)"
+1478,2026-05-29,Baseball,MLB,LAA @ TB,Total,LAA/TB U8 -110,U8,,-110,220,200,Pending,,
+1479,2026-05-29,Baseball,MLB,MIA @ NYM,ML,NYM ML -121,NYM,MIA,-121,242,200,Pending,,
+1480,2026-05-29,Baseball,MLB,ARI @ SEA,Total,ARI/SEA U7 -105,U7,,-105,157,150,Pending,,
+1481,2026-05-29,Baseball,MLB,Parlay,Parlay,SEA ML -150 + ARI/SEA U7 -105,SEA ML + U7,,+125,100,225,Pending,,2-leg parlay
+1482,2026-05-29,Baseball,MLB,PHI @ LAD,ML,PHI ML +105,PHI,LAD,+105,300,315,Pending,,
+1483,2026-05-29,Baseball,MLB,SF @ COL,Total,SF/COL O10.5 -115,O10.5,,-115,345,300,Pending,,
+1484,2026-05-29,Baseball,MLB,ATL @ CIN,Spread,ATL -1.5 +110,ATL -1.5,CIN +1.5,+110,300,330,Pending,,
