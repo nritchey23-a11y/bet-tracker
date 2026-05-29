@@ -1457,11 +1457,11 @@ ID,Date,Sport,League,Event,Type,Description,Pick,Opponent,Odds,Risk,To Win,Statu
 1468,2026-05-27,Baseball,MLB,TEX @ HOU,Total,TEX/HOU U7 -101,U7,,-101,303,300,Push,2026-05-27,"Burrows vs deGrom; final HOU 4-3 TEX, total exactly 7 = PUSH"
 1469,2026-05-27,Baseball,MLB,PHI @ SD,Spread,PHI -1.5 +125,PHI -1.5,SD +1.5,+125,300,375,Won,2026-05-27,Sanchez vs Buehler; PHI won 3-0
 1470,2026-05-27,Baseball,MLB,PHI @ SD,Spread,PHI -1.5 +125 (2nd book),PHI -1.5,SD +1.5,+125,300,375,Won,2026-05-27,Duplicate Phillies -1.5 on 2nd book (wagerhouse); PHI won 3-0
-1471,2026-05-28,Baseball,MLB,CHC @ PIT,Total,CHC/PIT U7.5 -110,U7.5,,-110,165,150,Pending,,
-1472,2026-05-28,Baseball,MLB,Parlay,Parlay,CHC/PIT U7.5 -110 + PIT ML -164,U7.5 + PIT ML,,+106,50,103,Pending,,2-leg parlay
-1473,2026-05-28,Baseball,MLB,ATL @ BOS,Spread,ATL -1.5 +135,ATL -1.5,BOS +1.5,+135,100,135,Pending,,
-1474,2026-05-28,Baseball,MLB,ATL @ BOS,ML,ATL ML -129,ATL,BOS,-129,129,100,Pending,,
-1475,2026-05-28,Baseball,MLB,Parlay,Parlay,5-leg: Arrighetti O5.5K + Skenes O6.5K + CHC/PIT U7.5 + PIT ML + HOU F5,5-team parlay,,+1800,50,950,Pending,,"Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX)"
+1471,2026-05-28,Baseball,MLB,CHC @ PIT,Total,CHC/PIT U7.5 -110,U7.5,,-110,165,150,lost,2026-05-28,"CHC/PIT total was 8, over"
+1472,2026-05-28,Baseball,MLB,Parlay,Parlay,CHC/PIT U7.5 -110 + PIT ML -164,U7.5 + PIT ML,,+106,50,103,lost,2026-05-28,2-leg parlay; U7.5 leg lost
+1473,2026-05-28,Baseball,MLB,ATL @ BOS,Spread,ATL -1.5 +135,ATL -1.5,BOS +1.5,+135,100,135,won,2026-05-28,ATL beat BOS 10-2
+1474,2026-05-28,Baseball,MLB,ATL @ BOS,ML,ATL ML -129,ATL,BOS,-129,129,100,won,2026-05-28,ATL beat BOS 10-2
+1475,2026-05-28,Baseball,MLB,Parlay,Parlay,5-leg: Arrighetti O5.5K + Skenes O6.5K + CHC/PIT U7.5 + PIT ML + HOU F5,5-team parlay,,+1800,50,950,lost,2026-05-28,"Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX); U7.5 leg killed parlay"
 1476,2026-05-28,Baseball,MLB,HOU @ TEX,F5 ML,HOU F5 ML +130,HOU F5,TEX F5,+130,200,260,Won,2026-05-28,Arrighetti start; HOU 5-1 TEX through 5
 1477,2026-05-29,Baseball,MLB,Parlay,Parlay,5-leg: Kirby O5.5K + ARI/SEA U7 + SEA ML + ATL -1.5 + PHI ML,5-team parlay,,+1800,50,950,Pending,,"Props parlay: Kirby SEA O5.5K, ARI/SEA U7, SEA ML, ATL -1.5 (@ CIN), PHI ML (@ LAD)"
 1478,2026-05-29,Baseball,MLB,LAA @ TB,Total,LAA/TB U8 -110,U8,,-110,220,200,Pending,,

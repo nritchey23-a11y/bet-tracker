@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-05-29T19:28:08.756586+00:00",
+ "generated_at": "2026-05-29T19:29:38.838043+00:00",
  "count": 1472,
  "bets": [
   {
@@ -24801,9 +24801,9 @@
    "Odds": "-110",
    "Risk": 165,
    "To Win": 150,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "lost",
+   "Result Date": "2026-05-28",
+   "Notes": "CHC/PIT total was 8, over"
   },
   {
    "ID": "1472",
@@ -24818,9 +24818,9 @@
    "Odds": "+106",
    "Risk": 50,
    "To Win": 103,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": "2-leg parlay"
+   "Status": "lost",
+   "Result Date": "2026-05-28",
+   "Notes": "2-leg parlay; U7.5 leg lost"
   },
   {
    "ID": "1473",
@@ -24835,9 +24835,9 @@
    "Odds": "+135",
    "Risk": 100,
    "To Win": 135,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "won",
+   "Result Date": "2026-05-28",
+   "Notes": "ATL beat BOS 10-2"
   },
   {
    "ID": "1474",
@@ -24852,9 +24852,9 @@
    "Odds": "-129",
    "Risk": 129,
    "To Win": 100,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "won",
+   "Result Date": "2026-05-28",
+   "Notes": "ATL beat BOS 10-2"
   },
   {
    "ID": "1475",
@@ -24869,9 +24869,9 @@
    "Odds": "+1800",
    "Risk": 50,
    "To Win": 950,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": "Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX)"
+   "Status": "lost",
+   "Result Date": "2026-05-28",
+   "Notes": "Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX); U7.5 leg killed parlay"
   },
   {
    "ID": "1476",

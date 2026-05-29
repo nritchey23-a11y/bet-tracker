@@ -1,15 +1,15 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-05-29T19:28:08.756586+00:00
+Generated: 2026-05-29T19:29:38.838043+00:00
 Total bets in tracker: 1472
 
 OVERALL STATUS
-  Won: 642  Lost: 773  Push: 20  Pending: 37
-  Lifetime settled P&L: $13,195.42
-  Pending risk: $19,498.00   Pending max win: $33,659.00
+  Won: 644  Lost: 776  Push: 20  Pending: 32
+  Lifetime settled P&L: $13,165.42
+  Pending risk: $19,004.00   Pending max win: $32,221.00
 
 RECENT DAYS (most recent 8 with activity)
   2026-05-29: 0W-0L  P&L: $0.00  Pending: 8 (risk $1,714.00, max $2,670.00)
-  2026-05-28: 1W-0L  P&L: $260.00  Pending: 5 (risk $494.00, max $1,438.00)
+  2026-05-28: 3W-3L  P&L: $230.00
   2026-05-27: 4W-2L-1P  P&L: $1,251.61
   2026-05-26: 9W-10L  P&L: $64.00
   2026-05-25: 1W-2L  P&L: -$118.77
@@ -18,7 +18,7 @@ RECENT DAYS (most recent 8 with activity)
   2026-05-22: 2W-9L  P&L: -$6,487.37
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-05-26 → 2026-06-01: 14W-12L-1P  P&L: $1,575.61  Pending: 13 (risk $2,208.00)
+  Week 2026-05-26 → 2026-06-01: 16W-15L-1P  P&L: $1,545.61  Pending: 8 (risk $1,714.00)
   Week 2026-05-19 → 2026-05-25: 8W-18L  P&L: -$7,099.78
   Week 2026-05-12 → 2026-05-18: 4W-3L-1P  P&L: $2,000.00  Pending: 6 (risk $5,640.00)
   Week 2026-04-28 → 2026-05-04: 4W-13L-1P  P&L: $100.23  Pending: 15 (risk $10,400.00)
@@ -33,11 +33,11 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1478 | 2026-05-29 | Baseball/MLB | LAA/TB U8 -110 | Pick: U8 | Odds: -110 | Risk $220.00 → Win $200.00 | Status: Pending
 #1477 | 2026-05-29 | Baseball/MLB | 5-leg: Kirby O5.5K + ARI/SEA U7 + SEA ML + ATL -1.5 + PHI ML | Pick: 5-team parlay | Odds: +1800 | Risk $50.00 → Win $950.00 | Status: Pending  Notes: Props parlay: Kirby SEA O5.5K, ARI/SEA U7, SEA ML, ATL -1.5 (@ CIN), PHI ML (@ LAD)
 #1476 | 2026-05-28 | Baseball/MLB | HOU F5 ML +130 | Pick: HOU F5 | Odds: +130 | Risk $200.00 → Win $260.00 | Status: Won  P&L: $260.00  Notes: Arrighetti start; HOU 5-1 TEX through 5
-#1475 | 2026-05-28 | Baseball/MLB | 5-leg: Arrighetti O5.5K + Skenes O6.5K + CHC/PIT U7.5 + PIT ML + HOU F5 | Pick: 5-team parlay | Odds: +1800 | Risk $50.00 → Win $950.00 | Status: Pending  Notes: Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX)
-#1474 | 2026-05-28 | Baseball/MLB | ATL ML -129 | Pick: ATL | Odds: -129 | Risk $129.00 → Win $100.00 | Status: Pending
-#1473 | 2026-05-28 | Baseball/MLB | ATL -1.5 +135 | Pick: ATL -1.5 | Odds: +135 | Risk $100.00 → Win $135.00 | Status: Pending
-#1472 | 2026-05-28 | Baseball/MLB | CHC/PIT U7.5 -110 + PIT ML -164 | Pick: U7.5 + PIT ML | Odds: +106 | Risk $50.00 → Win $103.00 | Status: Pending  Notes: 2-leg parlay
-#1471 | 2026-05-28 | Baseball/MLB | CHC/PIT U7.5 -110 | Pick: U7.5 | Odds: -110 | Risk $165.00 → Win $150.00 | Status: Pending
+#1475 | 2026-05-28 | Baseball/MLB | 5-leg: Arrighetti O5.5K + Skenes O6.5K + CHC/PIT U7.5 + PIT ML + HOU F5 | Pick: 5-team parlay | Odds: +1800 | Risk $50.00 → Win $950.00 | Status: lost  P&L: -$50.00  Notes: Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX); U7.5 leg killed parlay
+#1474 | 2026-05-28 | Baseball/MLB | ATL ML -129 | Pick: ATL | Odds: -129 | Risk $129.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: ATL beat BOS 10-2
+#1473 | 2026-05-28 | Baseball/MLB | ATL -1.5 +135 | Pick: ATL -1.5 | Odds: +135 | Risk $100.00 → Win $135.00 | Status: won  P&L: $135.00  Notes: ATL beat BOS 10-2
+#1472 | 2026-05-28 | Baseball/MLB | CHC/PIT U7.5 -110 + PIT ML -164 | Pick: U7.5 + PIT ML | Odds: +106 | Risk $50.00 → Win $103.00 | Status: lost  P&L: -$50.00  Notes: 2-leg parlay; U7.5 leg lost
+#1471 | 2026-05-28 | Baseball/MLB | CHC/PIT U7.5 -110 | Pick: U7.5 | Odds: -110 | Risk $165.00 → Win $150.00 | Status: lost  P&L: -$165.00  Notes: CHC/PIT total was 8, over
 #1470 | 2026-05-27 | Baseball/MLB | PHI -1.5 +125 (2nd book) | Pick: PHI -1.5 | Odds: +125 | Risk $300.00 → Win $375.00 | Status: Won  P&L: $375.00  Notes: Duplicate Phillies -1.5 on 2nd book (wagerhouse); PHI won 3-0
 #1469 | 2026-05-27 | Baseball/MLB | PHI -1.5 +125 | Pick: PHI -1.5 | Odds: +125 | Risk $300.00 → Win $375.00 | Status: Won  P&L: $375.00  Notes: Sanchez vs Buehler; PHI won 3-0
 #1468 | 2026-05-27 | Baseball/MLB | TEX/HOU U7 -101 | Pick: U7 | Odds: -101 | Risk $303.00 → Win $300.00 | Status: Push  P&L: $0.00  Notes: Burrows vs deGrom; final HOU 4-3 TEX, total exactly 7 = PUSH
