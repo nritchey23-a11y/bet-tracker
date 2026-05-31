@@ -1,29 +1,46 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-05-29T19:29:38.838043+00:00
-Total bets in tracker: 1472
+Generated: 2026-05-31T13:39:12.995232+00:00
+Total bets in tracker: 1489
 
 OVERALL STATUS
-  Won: 644  Lost: 776  Push: 20  Pending: 32
-  Lifetime settled P&L: $13,165.42
-  Pending risk: $19,004.00   Pending max win: $32,221.00
+  Won: 648  Lost: 779  Push: 21  Pending: 41
+  Lifetime settled P&L: $13,588.51
+  Pending risk: $21,183.75   Pending max win: $40,166.66
 
 RECENT DAYS (most recent 8 with activity)
+  2026-05-31: 0W-0L  P&L: $0.00  Pending: 9 (risk $2,179.75, max $7,945.66)
+  2026-05-30: 4W-3L-1P  P&L: $423.09
   2026-05-29: 0W-0L  P&L: $0.00  Pending: 8 (risk $1,714.00, max $2,670.00)
   2026-05-28: 3W-3L  P&L: $230.00
   2026-05-27: 4W-2L-1P  P&L: $1,251.61
   2026-05-26: 9W-10L  P&L: $64.00
   2026-05-25: 1W-2L  P&L: -$118.77
   2026-05-24: 0W-3L  P&L: -$974.89
-  2026-05-23: 5W-2L  P&L: $1,385.00
-  2026-05-22: 2W-9L  P&L: -$6,487.37
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-05-26 → 2026-06-01: 16W-15L-1P  P&L: $1,545.61  Pending: 8 (risk $1,714.00)
+  Week 2026-05-26 → 2026-06-01: 20W-18L-2P  P&L: $1,968.70  Pending: 17 (risk $3,893.75)
   Week 2026-05-19 → 2026-05-25: 8W-18L  P&L: -$7,099.78
   Week 2026-05-12 → 2026-05-18: 4W-3L-1P  P&L: $2,000.00  Pending: 6 (risk $5,640.00)
   Week 2026-04-28 → 2026-05-04: 4W-13L-1P  P&L: $100.23  Pending: 15 (risk $10,400.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1501 | 2026-05-31 | Baseball/MLB | Brewers -0.5 1st 5 | Pick: MIL -0.5 | Odds: -125 | Risk $312.50 → Win $250.00 | Status: pending  Notes: Ticket 410213094. Misiorowski vs Imai.
+#1500 | 2026-05-31 | Baseball/MLB | Pirates -0.5 1st 5 | Pick: PIT -0.5 | Odds: -120 | Risk $300.00 → Win $250.00 | Status: pending  Notes: Ticket 410213095. Matthews vs Ashcraft.
+#1499 | 2026-05-31 | Baseball/MLB | Braves -0.5 1st 5 | Pick: ATL -0.5 | Odds: +118 | Risk $125.00 → Win $147.50 | Status: pending  Notes: Ticket 410213110. Strider vs Lodolo.
+#1498 | 2026-05-31 | Baseball/MLB | Giants -0.5 1st 5 | Pick: SF -0.5 | Odds: +107 | Risk $125.00 → Win $133.75 | Status: pending  Notes: Ticket 410213111. Ray vs Gordon.
+#1497 | 2026-05-31 | Baseball/MLB | Rays -0.5 1st 5 | Pick: TB -0.5 | Odds: -135 | Risk $168.75 → Win $125.00 | Status: pending  Notes: Ticket 410213112. Kochanowicz vs McClanahan.
+#1496 | 2026-05-31 | Baseball/MLB | Orioles -0.5 1st 5 | Pick: BAL -0.5 | Odds: +100 | Risk $125.00 → Win $125.00 | Status: pending  Notes: Ticket 410213113. Bradish vs Miles.
+#1495 | 2026-05-31 | Baseball/MLB | Yankees ML (game) | Pick: NYY | Odds: -149 | Risk $223.50 → Win $150.00 | Status: pending  Notes: Ticket 410213046
+#1494 | 2026-05-31 | Baseball/MLB | Yankees -1.5 (game) | Pick: NYY -1.5 | Odds: +103 | Risk $150.00 → Win $154.50 | Status: pending  Notes: Ticket 410213045
+#1493 | 2026-05-31 | Baseball/MLB | ATL -1.5 +120 / PIT -1.5 +135 / NYY -1.5 +103 / MIL -1.5 -105 / TB -1.5 +115 | Pick: 26 parlays @ $25 each | Odds: Mixed | Risk $650.00 → Win $6,609.91 | Status: pending  Notes: Ticket 410213014. All 5 are full-game -1.5 spreads.
+#1492 | 2026-05-30 | Baseball/MLB | Bryan Woo Over 5.5K + SEA 1st 5 ML | Pick: Woo O5.5K + SEA 1st 5 | Odds: +212 | Risk $150.00 → Win $318.00 | Status: won  P&L: $318.00  Notes: Woo 9 K's (over 5.5). SEA 4-0 in 1st 5. Ticket 1448663729-1.
+#1491 | 2026-05-30 | Baseball/MLB | Pirates -0.5 1st 5 | Pick: PIT -0.5 | Odds: +105 | Risk $200.00 → Win $210.00 | Status: won  P&L: $210.00  Notes: 1st 5: PIT 8, MIN 7 (Game 2 of DH)
+#1490 | 2026-05-30 | Baseball/MLB | Giants/Rockies Over 11 | Pick: Over 11 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: push  P&L: $0.00  Notes: COL 8, SF 3 = exactly 11 total. PUSH.
+#1489 | 2026-05-30 | Baseball/MLB | Phillies ML | Pick: PHI | Odds: +112 | Risk $200.00 → Win $224.00 | Status: won  P&L: $224.00  Notes: PHI 4-3 LAD
+#1488 | 2026-05-30 | Basketball/NBA | Spurs ML | Pick: SAS | Odds: +130 | Risk $200.00 → Win $260.00 | Status: won  P&L: $260.00  Notes: SAS 111-103 OKC. Wembanyama 22pts/7reb.
+#1487 | 2026-05-30 | Baseball/MLB | Nationals ML 1st 5 | Pick: WAS | Odds: +105 | Risk $100.00 → Win $105.00 | Status: lost  P&L: -$100.00  Notes: 1st 5: SD 3, WAS 1
+#1486 | 2026-05-30 | Baseball/MLB | Nationals +0.5 1st 5 | Pick: WAS +0.5 | Odds: -135 | Risk $135.00 → Win $100.00 | Status: lost  P&L: -$135.00  Notes: 1st 5: SD 3, WAS 1. WAS lost 1st 5 by 2.
+#1485 | 2026-05-30 | Mixed/NBA+MLB | 5-leg RR: SAS ML +130 / PIT ML 1st 5 -142 / ARI ML +137 / WAS ML 1st 5 +100 / COL-SF Over 11 +100 | Pick: 26 parlays @ $25 each | Odds: Mixed | Risk $353.91 → Win $0.00 | Status: lost  P&L: -$353.91  Notes: Original $650 stake (26x$25). Results: SAS WON, PIT 1st5 WON, ARI LOST, WAS 1st5 LOST, COL/SF O11 PUSH (total exactly 11). 4 winning parlays returned $296.09: SAS+PIT 2L=$97.99, SAS+(push reduced)=$57.50, PIT+(push reduced)=$42.61, SAS+PIT+(push reduced)=$97.99. Net realized -$353.91.
 #1484 | 2026-05-29 | Baseball/MLB | ATL -1.5 +110 | Pick: ATL -1.5 | Odds: +110 | Risk $300.00 → Win $330.00 | Status: Pending
 #1483 | 2026-05-29 | Baseball/MLB | SF/COL O10.5 -115 | Pick: O10.5 | Odds: -115 | Risk $345.00 → Win $300.00 | Status: Pending
 #1482 | 2026-05-29 | Baseball/MLB | PHI ML +105 | Pick: PHI | Odds: +105 | Risk $300.00 → Win $315.00 | Status: Pending
@@ -87,20 +104,3 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1424 | 2026-05-22 | Baseball/MLB | 2-leg parlay: Astros ML (+122); Astros/Cubs Total Over 7 (-115) | Pick: 2-leg parlay | Odds: +215 | Risk $500.00 → Win $1,575.00 | Status: Lost  P&L: -$500.00  Notes: Wagerhouse 2-team parlay
 #1423 | 2026-05-22 | Hockey/NHL | Avalanche -1.5 | Pick: Colorado Avalanche | Odds: +145 | Risk $750.00 → Win $1,087.00 | Status: Lost  P&L: -$750.00  Notes: Wagerhouse
 #1422 | 2026-05-22 | Basketball/NBA | Spurs -1.5 | Pick: San Antonio Spurs | Odds: -115 | Risk $1,150.00 → Win $1,000.00 | Status: Lost  P&L: -$1,150.00  Notes: Gameday ticket #396266716; 8:30pm tip
-#1421 | 2026-05-22 | Mixed/MLB/NBA | 5-team RR All Ways (26 combos x $25): TEX -1.5 +115; TB ML +123; HOU ML +112; SAS -1.5 -110; MIL/LAD U8.5 -115 | Pick: 5-team RR all ways | Odds:  | Risk $107.37 → Win $5,692.96 | Status: Lost  P&L: -$107.37  Notes: Gameday ticket #395509182; By 2s/3s/4s/5s; $25/combo. PARTIAL: TB ML, HOU ML, MIL/LAD U8.5 won; TEX -1.5, SAS -1.5 lost. 4/26 combos hit (3x2-team + 1x3-team, +$442.63). Net loss ~$107.37
-#1420 | 2026-05-19 | Mixed/NBA/MLB | 3-leg parlay: Cavaliers +7 (-110); Mariners -1.5 (+145); Athletics ML (+114) | Pick: 3-leg parlay | Odds: +801 | Risk $400.00 → Win $3,603.00 | Status: Lost  P&L: -$400.00  Notes: Wagerhouse ticket #1438538618
-#1419 | 2026-05-19 | Baseball/MLB | 5-team All Ways RR (26 combos x $25): SEA -1.5 +145; ATL -1.5 +125; ARI -1.5 +160; PHI -1.5 +145; NYY -1.5 +155 | Pick: 5-team RR all ways | Odds:  | Risk $503.75 → Win $11,376.00 | Status: Lost  P&L: -$503.75  Notes: Wagerhouse ticket #1438529716; 2-leg through 5-leg combos; $25/combo. PARTIAL: ATL/ARI -1.5 won; SEA/PHI/NYY lost. 1/26 combos hit (ATL+ARI 2-team paid $121.25). Net loss ~$503.75
-#1418 | 2026-05-17 | Football/NFL | Carolina Panthers Regular Season Wins Over 6.5 | Pick: Over 6.5 | Odds: -130 | Risk $1,300.00 → Win $1,000.00 | Status: Pending  Notes: Wagerhouse season win total (note: also have ticket 1388 CAR Over 7.5 +100)
-#1417 | 2026-05-17 | Football/NFL | Kansas City Chiefs Regular Season Wins Over 10.5 | Pick: Over 10.5 | Odds: +105 | Risk $1,000.00 → Win $1,050.00 | Status: Pending  Notes: Wagerhouse season win total
-#1416 | 2026-05-17 | Football/NFL | Dallas Cowboys Regular Season Wins Under 8.5 | Pick: Under 8.5 | Odds: +160 | Risk $625.00 → Win $1,000.00 | Status: Pending  Notes: Wagerhouse season win total
-#1415 | 2026-05-17 | Football/NFL | New York Jets Regular Season Wins Over 5.5 | Pick: Over 5.5 | Odds: +105 | Risk $1,000.00 → Win $1,050.00 | Status: Pending  Notes: Wagerhouse season win total
-#1414 | 2026-05-17 | Football/NFL | Pittsburgh Steelers Regular Season Wins Over 8.5 | Pick: Over 8.5 | Odds: +140 | Risk $715.00 → Win $1,001.00 | Status: Pending  Notes: Wagerhouse season win total
-#1413 | 2026-05-17 | Football/NFL | San Francisco 49ers Regular Season Wins Over 10.5 | Pick: Over 10.5 | Odds: +120 | Risk $1,000.00 → Win $1,200.00 | Status: Pending  Notes: Wagerhouse season win total
-#1412 | 2026-05-17 | Basketball/NBA | 2-leg parlay: Cavs/Pistons Alt Total Under 194.5 (+235); Thunder -6.5 (-110) | Pick: 2-leg parlay | Odds: +438 | Risk $287.00 → Win $1,548.00 | Status: Lost  P&L: -$287.00  Notes: Wagerhouse 2-team parlay
-#1411 | 2026-05-17 | Golf/PGA Championship | Aaron Rai to win 2026 PGA Championship | Pick: Aaron Rai | Odds: -330 | Risk $3,300.00 → Win $1,000.00 | Status: Won  P&L: $1,000.00  Notes: Wagerhouse #G297707904; Rai won 2026 PGA Championship
-#1410 | 2026-05-17 | MMA/Combat | Ronda Rousey ML | Pick: Ronda Rousey | Odds: -575 | Risk $8,625.00 → Win $1,500.00 | Status: Won  P&L: $1,500.00  Notes: Rousey submitted Carano via armbar in 17 seconds
-#1408 | 2026-05-17 | Golf/PGA Championship | Scottie Scheffler to win 2026 PGA Championship | Pick: Scottie Scheffler | Odds: +780 | Risk $500.00 → Win $3,900.00 | Status: Lost  P&L: -$500.00  Notes: Aaron Rai won 2026 PGA Championship at Aronimink; Scheffler did not win; -$500
-#1407 | 2026-05-17 | Golf/PGA Championship | Rory McIlroy R4 matchup ML | Pick: Rory McIlroy | Odds: -125 | Risk $312.00 → Win $250.00 | Status: Push  P&L: $0.00  Notes: McIlroy R4 H2H push; stake refunded
-#1406 | 2026-05-17 | Golf/PGA Championship | Jon Rahm R4 matchup ML | Pick: Jon Rahm | Odds: -130 | Risk $325.00 → Win $250.00 | Status: Won  P&L: $250.00  Notes: Wagerhouse R4 H2H - Rahm won matchup; +$250
-#1405 | 2026-05-17 | Golf/PGA Championship | Patrick Reed 4th Round Score Under 69.5 | Pick: Under 69.5 | Odds: -120 | Risk $300.00 → Win $250.00 | Status: Lost  P&L: -$300.00  Notes: Reed R4 score did not finish Under 69.5; -$300
-#1404 | 2026-05-17 | Golf/PGA Championship | Cameron Smith R4 matchup ML | Pick: Cameron Smith | Odds: +135 | Risk $250.00 → Win $337.00 | Status: Won  P&L: $337.00  Notes: Wagerhouse R4 H2H - Smith beat matchup opponent; +$337

@@ -1471,3 +1471,20 @@ ID,Date,Sport,League,Event,Type,Description,Pick,Opponent,Odds,Risk,To Win,Statu
 1482,2026-05-29,Baseball,MLB,PHI @ LAD,ML,PHI ML +105,PHI,LAD,+105,300,315,Pending,,
 1483,2026-05-29,Baseball,MLB,SF @ COL,Total,SF/COL O10.5 -115,O10.5,,-115,345,300,Pending,,
 1484,2026-05-29,Baseball,MLB,ATL @ CIN,Spread,ATL -1.5 +110,ATL -1.5,CIN +1.5,+110,300,330,Pending,,
+1485,2026-05-30,Mixed,NBA+MLB,5-team Round Robin (2s/3s/4s/5s),Round Robin,5-leg RR: SAS ML +130 / PIT ML 1st 5 -142 / ARI ML +137 / WAS ML 1st 5 +100 / COL-SF Over 11 +100,26 parlays @ $25 each,Various,Mixed,353.91,0,lost,2026-05-30,"Original $650 stake (26x$25). Results: SAS WON, PIT 1st5 WON, ARI LOST, WAS 1st5 LOST, COL/SF O11 PUSH (total exactly 11). 4 winning parlays returned $296.09: SAS+PIT 2L=$97.99, SAS+(push reduced)=$57.50, PIT+(push reduced)=$42.61, SAS+PIT+(push reduced)=$97.99. Net realized -$353.91."
+1486,2026-05-30,Baseball,MLB,WAS @ SD,1st 5 Run Line,Nationals +0.5 1st 5,WAS +0.5,SD,-135,135,100,lost,2026-05-30,"1st 5: SD 3, WAS 1. WAS lost 1st 5 by 2."
+1487,2026-05-30,Baseball,MLB,WAS @ SD,1st 5 Money Line,Nationals ML 1st 5,WAS,SD,+105,100,105,lost,2026-05-30,"1st 5: SD 3, WAS 1"
+1488,2026-05-30,Basketball,NBA,SAS @ OKC (WCF Game 7),Money Line,Spurs ML,SAS,OKC,+130,200,260,won,2026-05-30,SAS 111-103 OKC. Wembanyama 22pts/7reb.
+1489,2026-05-30,Baseball,MLB,PHI @ LAD,Money Line,Phillies ML,PHI,LAD,+112,200,224,won,2026-05-30,PHI 4-3 LAD
+1490,2026-05-30,Baseball,MLB,SF @ COL,Total,Giants/Rockies Over 11,Over 11,—,-105,210,200,push,2026-05-30,"COL 8, SF 3 = exactly 11 total. PUSH."
+1491,2026-05-30,Baseball,MLB,MIN @ PIT,1st 5 Run Line,Pirates -0.5 1st 5,PIT -0.5,MIN,+105,200,210,won,2026-05-30,"1st 5: PIT 8, MIN 7 (Game 2 of DH)"
+1492,2026-05-30,Baseball,MLB,ARI @ SEA,Parlay,Bryan Woo Over 5.5K + SEA 1st 5 ML,Woo O5.5K + SEA 1st 5,ARI,+212,150,318,won,2026-05-30,Woo 9 K's (over 5.5). SEA 4-0 in 1st 5. Ticket 1448663729-1.
+1493,2026-05-31,Baseball,MLB,5-team Round Robin (2s/3s/4s/5s),Round Robin,ATL -1.5 +120 / PIT -1.5 +135 / NYY -1.5 +103 / MIL -1.5 -105 / TB -1.5 +115,26 parlays @ $25 each,Various,Mixed,650,6609.91,pending,,Ticket 410213014. All 5 are full-game -1.5 spreads.
+1494,2026-05-31,Baseball,MLB,OAK @ NYY,Run Line,Yankees -1.5 (game),NYY -1.5,OAK,+103,150,154.50,pending,,Ticket 410213045
+1495,2026-05-31,Baseball,MLB,OAK @ NYY,Money Line,Yankees ML (game),NYY,OAK,-149,223.50,150,pending,,Ticket 410213046
+1496,2026-05-31,Baseball,MLB,TOR @ BAL,1st 5 Run Line,Orioles -0.5 1st 5,BAL -0.5,TOR,+100,125,125,pending,,Ticket 410213113. Bradish vs Miles.
+1497,2026-05-31,Baseball,MLB,TB @ LAA,1st 5 Run Line,Rays -0.5 1st 5,TB -0.5,LAA,-135,168.75,125,pending,,Ticket 410213112. Kochanowicz vs McClanahan.
+1498,2026-05-31,Baseball,MLB,SF @ COL,1st 5 Run Line,Giants -0.5 1st 5,SF -0.5,COL,+107,125,133.75,pending,,Ticket 410213111. Ray vs Gordon.
+1499,2026-05-31,Baseball,MLB,ATL @ CIN,1st 5 Run Line,Braves -0.5 1st 5,ATL -0.5,CIN,+118,125,147.50,pending,,Ticket 410213110. Strider vs Lodolo.
+1500,2026-05-31,Baseball,MLB,MIN @ PIT,1st 5 Run Line,Pirates -0.5 1st 5,PIT -0.5,MIN,-120,300,250,pending,,Ticket 410213095. Matthews vs Ashcraft.
+1501,2026-05-31,Baseball,MLB,HOU @ MIL,1st 5 Run Line,Brewers -0.5 1st 5,MIL -0.5,HOU,-125,312.50,250,pending,,Ticket 410213094. Misiorowski vs Imai.
