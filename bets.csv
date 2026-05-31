@@ -1488,3 +1488,10 @@ ID,Date,Sport,League,Event,Type,Description,Pick,Opponent,Odds,Risk,To Win,Statu
 1499,2026-05-31,Baseball,MLB,ATL @ CIN,1st 5 Run Line,Braves -0.5 1st 5,ATL -0.5,CIN,+118,125,147.50,pending,,Ticket 410213110. Strider vs Lodolo.
 1500,2026-05-31,Baseball,MLB,MIN @ PIT,1st 5 Run Line,Pirates -0.5 1st 5,PIT -0.5,MIN,-120,300,250,pending,,Ticket 410213095. Matthews vs Ashcraft.
 1501,2026-05-31,Baseball,MLB,HOU @ MIL,1st 5 Run Line,Brewers -0.5 1st 5,MIL -0.5,HOU,-125,312.50,250,pending,,Ticket 410213094. Misiorowski vs Imai.
+1502,2026-05-31,Baseball,MLB,ATL @ CIN,Run Line,Braves -1.5 (game),ATL -1.5,CIN,+120,150,180,pending,,Wagerhouse
+1503,2026-05-31,Baseball,MLB,PHI @ LAD,Run Line,Dodgers -1.5 (game),LAD -1.5,PHI,-110,110,100,pending,,Wagerhouse
+1504,2026-05-31,Baseball,MLB,TOR @ BAL,Money Line,Blue Jays ML (game),TOR,BAL,+113,200,226,pending,,Wagerhouse
+1505,2026-05-31,Baseball,MLB,SF @ COL,Total,Giants/Rockies Over 11,Over 11,—,-105,210,200,pending,,Wagerhouse
+1506,2026-05-31,Baseball,MLB,TB @ LAA,Run Line,Rays -1.5 (game),TB -1.5,LAA,+115,200,230,pending,,Wagerhouse
+1507,2026-05-31,Baseball,MLB,HOU @ MIL,Run Line,Brewers -1.5 (game),MIL -1.5,HOU,-105,315,300,pending,,Wagerhouse (book 1)
+1508,2026-05-31,Baseball,MLB,HOU @ MIL,Run Line,Brewers -1.5 (game) - line-shop book 2,MIL -1.5,HOU,-105,315,300,pending,,Wagerhouse (book 2 - line-shop duplicate)
