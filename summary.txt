@@ -1,16 +1,16 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-05-31T17:00:54.075783+00:00
+Generated: 2026-06-17T18:11:34.914948+00:00
 Total bets in tracker: 1496
 
 OVERALL STATUS
-  Won: 648  Lost: 779  Push: 21  Pending: 48
-  Lifetime settled P&L: $13,588.51
-  Pending risk: $22,683.75   Pending max win: $41,702.66
+  Won: 664  Lost: 787  Push: 21  Pending: 24
+  Lifetime settled P&L: $16,907.62
+  Pending risk: $17,290.00   Pending max win: $29,551.00
 
 RECENT DAYS (most recent 8 with activity)
-  2026-05-31: 0W-0L  P&L: $0.00  Pending: 16 (risk $3,679.75, max $9,481.66)
+  2026-05-31: 13W-3L  P&L: $3,316.11
   2026-05-30: 4W-3L-1P  P&L: $423.09
-  2026-05-29: 0W-0L  P&L: $0.00  Pending: 8 (risk $1,714.00, max $2,670.00)
+  2026-05-29: 3W-5L  P&L: $3.00
   2026-05-28: 3W-3L  P&L: $230.00
   2026-05-27: 4W-2L-1P  P&L: $1,251.61
   2026-05-26: 9W-10L  P&L: $64.00
@@ -18,28 +18,28 @@ RECENT DAYS (most recent 8 with activity)
   2026-05-24: 0W-3L  P&L: -$974.89
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-05-26 → 2026-06-01: 20W-18L-2P  P&L: $1,968.70  Pending: 24 (risk $5,393.75)
+  Week 2026-05-26 → 2026-06-01: 36W-26L-2P  P&L: $5,287.81
   Week 2026-05-19 → 2026-05-25: 8W-18L  P&L: -$7,099.78
   Week 2026-05-12 → 2026-05-18: 4W-3L-1P  P&L: $2,000.00  Pending: 6 (risk $5,640.00)
   Week 2026-04-28 → 2026-05-04: 4W-13L-1P  P&L: $100.23  Pending: 15 (risk $10,400.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
-#1508 | 2026-05-31 | Baseball/MLB | Brewers -1.5 (game) - line-shop book 2 | Pick: MIL -1.5 | Odds: -105 | Risk $315.00 → Win $300.00 | Status: pending  Notes: Wagerhouse (book 2 - line-shop duplicate)
-#1507 | 2026-05-31 | Baseball/MLB | Brewers -1.5 (game) | Pick: MIL -1.5 | Odds: -105 | Risk $315.00 → Win $300.00 | Status: pending  Notes: Wagerhouse (book 1)
-#1506 | 2026-05-31 | Baseball/MLB | Rays -1.5 (game) | Pick: TB -1.5 | Odds: +115 | Risk $200.00 → Win $230.00 | Status: pending  Notes: Wagerhouse
-#1505 | 2026-05-31 | Baseball/MLB | Giants/Rockies Over 11 | Pick: Over 11 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: pending  Notes: Wagerhouse
-#1504 | 2026-05-31 | Baseball/MLB | Blue Jays ML (game) | Pick: TOR | Odds: +113 | Risk $200.00 → Win $226.00 | Status: pending  Notes: Wagerhouse
-#1503 | 2026-05-31 | Baseball/MLB | Dodgers -1.5 (game) | Pick: LAD -1.5 | Odds: -110 | Risk $110.00 → Win $100.00 | Status: pending  Notes: Wagerhouse
-#1502 | 2026-05-31 | Baseball/MLB | Braves -1.5 (game) | Pick: ATL -1.5 | Odds: +120 | Risk $150.00 → Win $180.00 | Status: pending  Notes: Wagerhouse
-#1501 | 2026-05-31 | Baseball/MLB | Brewers -0.5 1st 5 | Pick: MIL -0.5 | Odds: -125 | Risk $312.50 → Win $250.00 | Status: pending  Notes: Ticket 410213094. Misiorowski vs Imai.
-#1500 | 2026-05-31 | Baseball/MLB | Pirates -0.5 1st 5 | Pick: PIT -0.5 | Odds: -120 | Risk $300.00 → Win $250.00 | Status: pending  Notes: Ticket 410213095. Matthews vs Ashcraft.
-#1499 | 2026-05-31 | Baseball/MLB | Braves -0.5 1st 5 | Pick: ATL -0.5 | Odds: +118 | Risk $125.00 → Win $147.50 | Status: pending  Notes: Ticket 410213110. Strider vs Lodolo.
-#1498 | 2026-05-31 | Baseball/MLB | Giants -0.5 1st 5 | Pick: SF -0.5 | Odds: +107 | Risk $125.00 → Win $133.75 | Status: pending  Notes: Ticket 410213111. Ray vs Gordon.
-#1497 | 2026-05-31 | Baseball/MLB | Rays -0.5 1st 5 | Pick: TB -0.5 | Odds: -135 | Risk $168.75 → Win $125.00 | Status: pending  Notes: Ticket 410213112. Kochanowicz vs McClanahan.
-#1496 | 2026-05-31 | Baseball/MLB | Orioles -0.5 1st 5 | Pick: BAL -0.5 | Odds: +100 | Risk $125.00 → Win $125.00 | Status: pending  Notes: Ticket 410213113. Bradish vs Miles.
-#1495 | 2026-05-31 | Baseball/MLB | Yankees ML (game) | Pick: NYY | Odds: -149 | Risk $223.50 → Win $150.00 | Status: pending  Notes: Ticket 410213046
-#1494 | 2026-05-31 | Baseball/MLB | Yankees -1.5 (game) | Pick: NYY -1.5 | Odds: +103 | Risk $150.00 → Win $154.50 | Status: pending  Notes: Ticket 410213045
-#1493 | 2026-05-31 | Baseball/MLB | ATL -1.5 +120 / PIT -1.5 +135 / NYY -1.5 +103 / MIL -1.5 -105 / TB -1.5 +115 | Pick: 26 parlays @ $25 each | Odds: Mixed | Risk $650.00 → Win $6,609.91 | Status: pending  Notes: Ticket 410213014. All 5 are full-game -1.5 spreads.
+#1508 | 2026-05-31 | Baseball/MLB | Brewers -1.5 (game) - line-shop book 2 | Pick: MIL -1.5 | Odds: -105 | Risk $315.00 → Win $300.00 | Status: won  P&L: $300.00  Notes: Wagerhouse (book 2 - line-shop duplicate); MIL 2-0 HOU (book 2 line-shop)
+#1507 | 2026-05-31 | Baseball/MLB | Brewers -1.5 (game) | Pick: MIL -1.5 | Odds: -105 | Risk $315.00 → Win $300.00 | Status: won  P&L: $300.00  Notes: Wagerhouse (book 1); MIL 2-0 HOU (covers -1.5)
+#1506 | 2026-05-31 | Baseball/MLB | Rays -1.5 (game) | Pick: TB -1.5 | Odds: +115 | Risk $200.00 → Win $230.00 | Status: won  P&L: $230.00  Notes: Wagerhouse; TB 5-2 LAA (covers -1.5)
+#1505 | 2026-05-31 | Baseball/MLB | Giants/Rockies Over 11 | Pick: Over 11 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse; SF 19-6 COL = 25 total
+#1504 | 2026-05-31 | Baseball/MLB | Blue Jays ML (game) | Pick: TOR | Odds: +113 | Risk $200.00 → Win $226.00 | Status: lost  P&L: -$200.00  Notes: Wagerhouse; BAL 9-5 TOR
+#1503 | 2026-05-31 | Baseball/MLB | Dodgers -1.5 (game) | Pick: LAD -1.5 | Odds: -110 | Risk $110.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse; LAD 9-1 PHI (Yamamoto 10 K's)
+#1502 | 2026-05-31 | Baseball/MLB | Braves -1.5 (game) | Pick: ATL -1.5 | Odds: +120 | Risk $150.00 → Win $180.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse; CIN 6-4 ATL (Suarez HR, Lodolo gem)
+#1501 | 2026-05-31 | Baseball/MLB | Brewers -0.5 1st 5 | Pick: MIL -0.5 | Odds: -125 | Risk $312.50 → Win $250.00 | Status: won  P&L: $250.00  Notes: Ticket 410213094. Misiorowski vs Imai.; 1st 5: MIL 2, HOU 0 (Misiorowski dominant)
+#1500 | 2026-05-31 | Baseball/MLB | Pirates -0.5 1st 5 | Pick: PIT -0.5 | Odds: -120 | Risk $300.00 → Win $250.00 | Status: won  P&L: $250.00  Notes: Ticket 410213095. Matthews vs Ashcraft.; 1st 5: PIT 9, MIN 0
+#1499 | 2026-05-31 | Baseball/MLB | Braves -0.5 1st 5 | Pick: ATL -0.5 | Odds: +118 | Risk $125.00 → Win $147.50 | Status: lost  P&L: -$125.00  Notes: Ticket 410213110. Strider vs Lodolo.; 1st 5: ATL 2, CIN 4 (Acuna Jr. HR not enough)
+#1498 | 2026-05-31 | Baseball/MLB | Giants -0.5 1st 5 | Pick: SF -0.5 | Odds: +107 | Risk $125.00 → Win $133.75 | Status: won  P&L: $133.75  Notes: Ticket 410213111. Ray vs Gordon.; 1st 5: SF 11, COL 5 (Adames grand slam in 7-run 5th)
+#1497 | 2026-05-31 | Baseball/MLB | Rays -0.5 1st 5 | Pick: TB -0.5 | Odds: -135 | Risk $168.75 → Win $125.00 | Status: won  P&L: $125.00  Notes: Ticket 410213112. Kochanowicz vs McClanahan.; 1st 5: TB 3, LAA 1
+#1496 | 2026-05-31 | Baseball/MLB | Orioles -0.5 1st 5 | Pick: BAL -0.5 | Odds: +100 | Risk $125.00 → Win $125.00 | Status: won  P&L: $125.00  Notes: Ticket 410213113. Bradish vs Miles.; 1st 5: BAL 6, TOR 0
+#1495 | 2026-05-31 | Baseball/MLB | Yankees ML (game) | Pick: NYY | Odds: -149 | Risk $223.50 → Win $150.00 | Status: won  P&L: $150.00  Notes: Ticket 410213046; NYY 13-8 OAK
+#1494 | 2026-05-31 | Baseball/MLB | Yankees -1.5 (game) | Pick: NYY -1.5 | Odds: +103 | Risk $150.00 → Win $154.50 | Status: won  P&L: $154.50  Notes: Ticket 410213045; NYY 13-8 OAK (13-run 3rd inning)
+#1493 | 2026-05-31 | Baseball/MLB | ATL -1.5 +120 / PIT -1.5 +135 / NYY -1.5 +103 / MIL -1.5 -105 / TB -1.5 +115 | Pick: 26 parlays @ $25 each | Odds: Mixed | Risk $650.00 → Win $1,472.86 | Status: won  P&L: $1,472.86  Notes: Ticket 410213014. All 5 are full-game -1.5 spreads.; Settled: PIT WON, NYY WON, MIL WON, TB WON, ATL LOST. 4-of-5. 15 parlays containing ATL leg = LOST. 11 ATL-free parlays WON: 6 doubles + 4 triples + 1 quad. Total returns $2,122.86 on $650 stake. Net +$1,472.86.
 #1492 | 2026-05-30 | Baseball/MLB | Bryan Woo Over 5.5K + SEA 1st 5 ML | Pick: Woo O5.5K + SEA 1st 5 | Odds: +212 | Risk $150.00 → Win $318.00 | Status: won  P&L: $318.00  Notes: Woo 9 K's (over 5.5). SEA 4-0 in 1st 5. Ticket 1448663729-1.
 #1491 | 2026-05-30 | Baseball/MLB | Pirates -0.5 1st 5 | Pick: PIT -0.5 | Odds: +105 | Risk $200.00 → Win $210.00 | Status: won  P&L: $210.00  Notes: 1st 5: PIT 8, MIN 7 (Game 2 of DH)
 #1490 | 2026-05-30 | Baseball/MLB | Giants/Rockies Over 11 | Pick: Over 11 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: push  P&L: $0.00  Notes: COL 8, SF 3 = exactly 11 total. PUSH.
@@ -48,14 +48,14 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1487 | 2026-05-30 | Baseball/MLB | Nationals ML 1st 5 | Pick: WAS | Odds: +105 | Risk $100.00 → Win $105.00 | Status: lost  P&L: -$100.00  Notes: 1st 5: SD 3, WAS 1
 #1486 | 2026-05-30 | Baseball/MLB | Nationals +0.5 1st 5 | Pick: WAS +0.5 | Odds: -135 | Risk $135.00 → Win $100.00 | Status: lost  P&L: -$135.00  Notes: 1st 5: SD 3, WAS 1. WAS lost 1st 5 by 2.
 #1485 | 2026-05-30 | Mixed/NBA+MLB | 5-leg RR: SAS ML +130 / PIT ML 1st 5 -142 / ARI ML +137 / WAS ML 1st 5 +100 / COL-SF Over 11 +100 | Pick: 26 parlays @ $25 each | Odds: Mixed | Risk $353.91 → Win $0.00 | Status: lost  P&L: -$353.91  Notes: Original $650 stake (26x$25). Results: SAS WON, PIT 1st5 WON, ARI LOST, WAS 1st5 LOST, COL/SF O11 PUSH (total exactly 11). 4 winning parlays returned $296.09: SAS+PIT 2L=$97.99, SAS+(push reduced)=$57.50, PIT+(push reduced)=$42.61, SAS+PIT+(push reduced)=$97.99. Net realized -$353.91.
-#1484 | 2026-05-29 | Baseball/MLB | ATL -1.5 +110 | Pick: ATL -1.5 | Odds: +110 | Risk $300.00 → Win $330.00 | Status: Pending
-#1483 | 2026-05-29 | Baseball/MLB | SF/COL O10.5 -115 | Pick: O10.5 | Odds: -115 | Risk $345.00 → Win $300.00 | Status: Pending
-#1482 | 2026-05-29 | Baseball/MLB | PHI ML +105 | Pick: PHI | Odds: +105 | Risk $300.00 → Win $315.00 | Status: Pending
-#1481 | 2026-05-29 | Baseball/MLB | SEA ML -150 + ARI/SEA U7 -105 | Pick: SEA ML + U7 | Odds: +125 | Risk $100.00 → Win $225.00 | Status: Pending  Notes: 2-leg parlay
-#1480 | 2026-05-29 | Baseball/MLB | ARI/SEA U7 -105 | Pick: U7 | Odds: -105 | Risk $157.00 → Win $150.00 | Status: Pending
-#1479 | 2026-05-29 | Baseball/MLB | NYM ML -121 | Pick: NYM | Odds: -121 | Risk $242.00 → Win $200.00 | Status: Pending
-#1478 | 2026-05-29 | Baseball/MLB | LAA/TB U8 -110 | Pick: U8 | Odds: -110 | Risk $220.00 → Win $200.00 | Status: Pending
-#1477 | 2026-05-29 | Baseball/MLB | 5-leg: Kirby O5.5K + ARI/SEA U7 + SEA ML + ATL -1.5 + PHI ML | Pick: 5-team parlay | Odds: +1800 | Risk $50.00 → Win $950.00 | Status: Pending  Notes: Props parlay: Kirby SEA O5.5K, ARI/SEA U7, SEA ML, ATL -1.5 (@ CIN), PHI ML (@ LAD)
+#1484 | 2026-05-29 | Baseball/MLB | ATL -1.5 +110 | Pick: ATL -1.5 | Odds: +110 | Risk $300.00 → Win $330.00 | Status: won  P&L: $330.00  Notes: ATL 8-3 COL
+#1483 | 2026-05-29 | Baseball/MLB | SF/COL O10.5 -115 | Pick: O10.5 | Odds: -115 | Risk $345.00 → Win $300.00 | Status: won  P&L: $300.00  Notes: SF 6, COL 8 = 14 total (Over 10.5)
+#1482 | 2026-05-29 | Baseball/MLB | PHI ML +105 | Pick: PHI | Odds: +105 | Risk $300.00 → Win $315.00 | Status: lost  P&L: -$300.00  Notes: LAD 4-2 PHI
+#1481 | 2026-05-29 | Baseball/MLB | SEA ML -150 + ARI/SEA U7 -105 | Pick: SEA ML + U7 | Odds: +125 | Risk $100.00 → Win $225.00 | Status: lost  P&L: -$100.00  Notes: 2-leg parlay; SEA won 7-6 but U7 lost (total 13)
+#1480 | 2026-05-29 | Baseball/MLB | ARI/SEA U7 -105 | Pick: U7 | Odds: -105 | Risk $157.00 → Win $150.00 | Status: lost  P&L: -$157.00  Notes: ARI 6, SEA 7 = 13 total, Over 7
+#1479 | 2026-05-29 | Baseball/MLB | NYM ML -121 | Pick: NYM | Odds: -121 | Risk $242.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: NYM 9-7 MIA (10 innings) - MJ Melendez 10th-inning HR
+#1478 | 2026-05-29 | Baseball/MLB | LAA/TB U8 -110 | Pick: U8 | Odds: -110 | Risk $220.00 → Win $200.00 | Status: lost  P&L: -$220.00  Notes: TB 8-5 LAA = 13 total, Over 8
+#1477 | 2026-05-29 | Baseball/MLB | 5-leg: Kirby O5.5K + ARI/SEA U7 + SEA ML + ATL -1.5 + PHI ML | Pick: 5-team parlay | Odds: +1800 | Risk $50.00 → Win $950.00 | Status: lost  P&L: -$50.00  Notes: Props parlay: Kirby SEA O5.5K, ARI/SEA U7, SEA ML, ATL -1.5 (@ CIN), PHI ML (@ LAD); Kirby 4K U5.5 (LOST), ARI/SEA total 13 U7 (LOST), PHI ML LOST. Parlay dead.
 #1476 | 2026-05-28 | Baseball/MLB | HOU F5 ML +130 | Pick: HOU F5 | Odds: +130 | Risk $200.00 → Win $260.00 | Status: Won  P&L: $260.00  Notes: Arrighetti start; HOU 5-1 TEX through 5
 #1475 | 2026-05-28 | Baseball/MLB | 5-leg: Arrighetti O5.5K + Skenes O6.5K + CHC/PIT U7.5 + PIT ML + HOU F5 | Pick: 5-team parlay | Odds: +1800 | Risk $50.00 → Win $950.00 | Status: lost  P&L: -$50.00  Notes: Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX); U7.5 leg killed parlay
 #1474 | 2026-05-28 | Baseball/MLB | ATL ML -129 | Pick: ATL | Odds: -129 | Risk $129.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: ATL beat BOS 10-2

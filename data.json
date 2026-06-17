@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-05-31T17:00:54.075783+00:00",
+ "generated_at": "2026-06-17T18:11:34.914948+00:00",
  "count": 1496,
  "bets": [
   {
@@ -24903,9 +24903,9 @@
    "Odds": "+1800",
    "Risk": 50,
    "To Win": 950,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": "Props parlay: Kirby SEA O5.5K, ARI/SEA U7, SEA ML, ATL -1.5 (@ CIN), PHI ML (@ LAD)"
+   "Status": "lost",
+   "Result Date": "2026-05-29",
+   "Notes": "Props parlay: Kirby SEA O5.5K, ARI/SEA U7, SEA ML, ATL -1.5 (@ CIN), PHI ML (@ LAD); Kirby 4K U5.5 (LOST), ARI/SEA total 13 U7 (LOST), PHI ML LOST. Parlay dead."
   },
   {
    "ID": "1478",
@@ -24920,9 +24920,9 @@
    "Odds": "-110",
    "Risk": 220,
    "To Win": 200,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "lost",
+   "Result Date": "2026-05-29",
+   "Notes": "TB 8-5 LAA = 13 total, Over 8"
   },
   {
    "ID": "1479",
@@ -24937,9 +24937,9 @@
    "Odds": "-121",
    "Risk": 242,
    "To Win": 200,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "won",
+   "Result Date": "2026-05-29",
+   "Notes": "NYM 9-7 MIA (10 innings) - MJ Melendez 10th-inning HR"
   },
   {
    "ID": "1480",
@@ -24954,9 +24954,9 @@
    "Odds": "-105",
    "Risk": 157,
    "To Win": 150,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "lost",
+   "Result Date": "2026-05-29",
+   "Notes": "ARI 6, SEA 7 = 13 total, Over 7"
   },
   {
    "ID": "1481",
@@ -24971,9 +24971,9 @@
    "Odds": "+125",
    "Risk": 100,
    "To Win": 225,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": "2-leg parlay"
+   "Status": "lost",
+   "Result Date": "2026-05-29",
+   "Notes": "2-leg parlay; SEA won 7-6 but U7 lost (total 13)"
   },
   {
    "ID": "1482",
@@ -24988,9 +24988,9 @@
    "Odds": "+105",
    "Risk": 300,
    "To Win": 315,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "lost",
+   "Result Date": "2026-05-29",
+   "Notes": "LAD 4-2 PHI"
   },
   {
    "ID": "1483",
@@ -25005,9 +25005,9 @@
    "Odds": "-115",
    "Risk": 345,
    "To Win": 300,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "won",
+   "Result Date": "2026-05-29",
+   "Notes": "SF 6, COL 8 = 14 total (Over 10.5)"
   },
   {
    "ID": "1484",
@@ -25022,9 +25022,9 @@
    "Odds": "+110",
    "Risk": 300,
    "To Win": 330,
-   "Status": "Pending",
-   "Result Date": "",
-   "Notes": ""
+   "Status": "won",
+   "Result Date": "2026-05-29",
+   "Notes": "ATL 8-3 COL"
   },
   {
    "ID": "1485",
@@ -25174,10 +25174,10 @@
    "Opponent": "Various",
    "Odds": "Mixed",
    "Risk": "650",
-   "To Win": "6609.91",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213014. All 5 are full-game -1.5 spreads."
+   "To Win": "1472.86",
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213014. All 5 are full-game -1.5 spreads.; Settled: PIT WON, NYY WON, MIL WON, TB WON, ATL LOST. 4-of-5. 15 parlays containing ATL leg = LOST. 11 ATL-free parlays WON: 6 doubles + 4 triples + 1 quad. Total returns $2,122.86 on $650 stake. Net +$1,472.86."
   },
   {
    "ID": "1494",
@@ -25192,9 +25192,9 @@
    "Odds": "+103",
    "Risk": "150",
    "To Win": "154.50",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213045"
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213045; NYY 13-8 OAK (13-run 3rd inning)"
   },
   {
    "ID": "1495",
@@ -25209,9 +25209,9 @@
    "Odds": "-149",
    "Risk": "223.50",
    "To Win": "150",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213046"
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213046; NYY 13-8 OAK"
   },
   {
    "ID": "1496",
@@ -25226,9 +25226,9 @@
    "Odds": "+100",
    "Risk": "125",
    "To Win": "125",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213113. Bradish vs Miles."
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213113. Bradish vs Miles.; 1st 5: BAL 6, TOR 0"
   },
   {
    "ID": "1497",
@@ -25243,9 +25243,9 @@
    "Odds": "-135",
    "Risk": "168.75",
    "To Win": "125",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213112. Kochanowicz vs McClanahan."
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213112. Kochanowicz vs McClanahan.; 1st 5: TB 3, LAA 1"
   },
   {
    "ID": "1498",
@@ -25260,9 +25260,9 @@
    "Odds": "+107",
    "Risk": "125",
    "To Win": "133.75",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213111. Ray vs Gordon."
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213111. Ray vs Gordon.; 1st 5: SF 11, COL 5 (Adames grand slam in 7-run 5th)"
   },
   {
    "ID": "1499",
@@ -25277,9 +25277,9 @@
    "Odds": "+118",
    "Risk": "125",
    "To Win": "147.50",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213110. Strider vs Lodolo."
+   "Status": "lost",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213110. Strider vs Lodolo.; 1st 5: ATL 2, CIN 4 (Acuna Jr. HR not enough)"
   },
   {
    "ID": "1500",
@@ -25294,9 +25294,9 @@
    "Odds": "-120",
    "Risk": "300",
    "To Win": "250",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213095. Matthews vs Ashcraft."
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213095. Matthews vs Ashcraft.; 1st 5: PIT 9, MIN 0"
   },
   {
    "ID": "1501",
@@ -25311,9 +25311,9 @@
    "Odds": "-125",
    "Risk": "312.50",
    "To Win": "250",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Ticket 410213094. Misiorowski vs Imai."
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Ticket 410213094. Misiorowski vs Imai.; 1st 5: MIL 2, HOU 0 (Misiorowski dominant)"
   },
   {
    "ID": "1502",
@@ -25328,9 +25328,9 @@
    "Odds": "+120",
    "Risk": "150",
    "To Win": "180",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse"
+   "Status": "lost",
+   "Result Date": "2026-05-31",
+   "Notes": "Wagerhouse; CIN 6-4 ATL (Suarez HR, Lodolo gem)"
   },
   {
    "ID": "1503",
@@ -25345,9 +25345,9 @@
    "Odds": "-110",
    "Risk": "110",
    "To Win": "100",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse"
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Wagerhouse; LAD 9-1 PHI (Yamamoto 10 K's)"
   },
   {
    "ID": "1504",
@@ -25362,9 +25362,9 @@
    "Odds": "+113",
    "Risk": "200",
    "To Win": "226",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse"
+   "Status": "lost",
+   "Result Date": "2026-05-31",
+   "Notes": "Wagerhouse; BAL 9-5 TOR"
   },
   {
    "ID": "1505",
@@ -25379,9 +25379,9 @@
    "Odds": "-105",
    "Risk": "210",
    "To Win": "200",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse"
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Wagerhouse; SF 19-6 COL = 25 total"
   },
   {
    "ID": "1506",
@@ -25396,9 +25396,9 @@
    "Odds": "+115",
    "Risk": "200",
    "To Win": "230",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse"
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Wagerhouse; TB 5-2 LAA (covers -1.5)"
   },
   {
    "ID": "1507",
@@ -25413,9 +25413,9 @@
    "Odds": "-105",
    "Risk": "315",
    "To Win": "300",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse (book 1)"
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Wagerhouse (book 1); MIL 2-0 HOU (covers -1.5)"
   },
   {
    "ID": "1508",
@@ -25430,9 +25430,9 @@
    "Odds": "-105",
    "Risk": "315",
    "To Win": "300",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse (book 2 - line-shop duplicate)"
+   "Status": "won",
+   "Result Date": "2026-05-31",
+   "Notes": "Wagerhouse (book 2 - line-shop duplicate); MIL 2-0 HOU (book 2 line-shop)"
   }
  ]
 }
