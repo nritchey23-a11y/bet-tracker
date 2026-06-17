@@ -1,11 +1,11 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-06-17T22:22:01.195965+00:00
-Total bets in tracker: 1654
+Generated: 2026-06-17T22:49:44.870710+00:00
+Total bets in tracker: 1664
 
 OVERALL STATUS
-  Won: 728  Lost: 866  Push: 36  Pending: 24
+  Won: 728  Lost: 866  Push: 36  Pending: 34
   Lifetime settled P&L: $11,304.18
-  Pending risk: $17,290.00   Pending max win: $29,551.00
+  Pending risk: $24,890.00   Pending max win: $43,051.00
 
 RECENT DAYS (most recent 8 with activity)
   2026-06-16: 4W-1L-1P  P&L: $679.93
