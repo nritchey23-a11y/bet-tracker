@@ -1,106 +1,106 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-06-17T18:11:34.914948+00:00
-Total bets in tracker: 1496
+Generated: 2026-06-17T22:22:01.195965+00:00
+Total bets in tracker: 1654
 
 OVERALL STATUS
-  Won: 664  Lost: 787  Push: 21  Pending: 24
-  Lifetime settled P&L: $16,907.62
+  Won: 728  Lost: 866  Push: 36  Pending: 24
+  Lifetime settled P&L: $11,304.18
   Pending risk: $17,290.00   Pending max win: $29,551.00
 
 RECENT DAYS (most recent 8 with activity)
-  2026-05-31: 13W-3L  P&L: $3,316.11
-  2026-05-30: 4W-3L-1P  P&L: $423.09
-  2026-05-29: 3W-5L  P&L: $3.00
-  2026-05-28: 3W-3L  P&L: $230.00
-  2026-05-27: 4W-2L-1P  P&L: $1,251.61
-  2026-05-26: 9W-10L  P&L: $64.00
-  2026-05-25: 1W-2L  P&L: -$118.77
-  2026-05-24: 0W-3L  P&L: -$974.89
+  2026-06-16: 4W-1L-1P  P&L: $679.93
+  2026-06-13: 5W-12L  P&L: -$4,542.50
+  2026-06-12: 5W-9L  P&L: -$744.50
+  2026-06-11: 3W-1L-1P  P&L: $373.00
+  2026-06-10: 3W-5L-1P  P&L: -$280.00
+  2026-06-09: 5W-3L-1P  P&L: $231.00
+  2026-06-08: 3W-1L-2P  P&L: $350.00
+  2026-06-07: 5W-3L  P&L: $494.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-05-26 → 2026-06-01: 36W-26L-2P  P&L: $5,287.81
-  Week 2026-05-19 → 2026-05-25: 8W-18L  P&L: -$7,099.78
-  Week 2026-05-12 → 2026-05-18: 4W-3L-1P  P&L: $2,000.00  Pending: 6 (risk $5,640.00)
-  Week 2026-04-28 → 2026-05-04: 4W-13L-1P  P&L: $100.23  Pending: 15 (risk $10,400.00)
+  Week 2026-06-16 → 2026-06-22: 4W-1L-1P  P&L: $679.93
+  Week 2026-06-09 → 2026-06-15: 21W-30L-3P  P&L: -$4,963.00
+  Week 2026-06-02 → 2026-06-08: 31W-40L-7P  P&L: -$878.27
+  Week 2026-05-26 → 2026-06-01: 44W-34L-6P  P&L: $4,845.71
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
-#1508 | 2026-05-31 | Baseball/MLB | Brewers -1.5 (game) - line-shop book 2 | Pick: MIL -1.5 | Odds: -105 | Risk $315.00 → Win $300.00 | Status: won  P&L: $300.00  Notes: Wagerhouse (book 2 - line-shop duplicate); MIL 2-0 HOU (book 2 line-shop)
-#1507 | 2026-05-31 | Baseball/MLB | Brewers -1.5 (game) | Pick: MIL -1.5 | Odds: -105 | Risk $315.00 → Win $300.00 | Status: won  P&L: $300.00  Notes: Wagerhouse (book 1); MIL 2-0 HOU (covers -1.5)
-#1506 | 2026-05-31 | Baseball/MLB | Rays -1.5 (game) | Pick: TB -1.5 | Odds: +115 | Risk $200.00 → Win $230.00 | Status: won  P&L: $230.00  Notes: Wagerhouse; TB 5-2 LAA (covers -1.5)
-#1505 | 2026-05-31 | Baseball/MLB | Giants/Rockies Over 11 | Pick: Over 11 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse; SF 19-6 COL = 25 total
-#1504 | 2026-05-31 | Baseball/MLB | Blue Jays ML (game) | Pick: TOR | Odds: +113 | Risk $200.00 → Win $226.00 | Status: lost  P&L: -$200.00  Notes: Wagerhouse; BAL 9-5 TOR
-#1503 | 2026-05-31 | Baseball/MLB | Dodgers -1.5 (game) | Pick: LAD -1.5 | Odds: -110 | Risk $110.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse; LAD 9-1 PHI (Yamamoto 10 K's)
-#1502 | 2026-05-31 | Baseball/MLB | Braves -1.5 (game) | Pick: ATL -1.5 | Odds: +120 | Risk $150.00 → Win $180.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse; CIN 6-4 ATL (Suarez HR, Lodolo gem)
-#1501 | 2026-05-31 | Baseball/MLB | Brewers -0.5 1st 5 | Pick: MIL -0.5 | Odds: -125 | Risk $312.50 → Win $250.00 | Status: won  P&L: $250.00  Notes: Ticket 410213094. Misiorowski vs Imai.; 1st 5: MIL 2, HOU 0 (Misiorowski dominant)
-#1500 | 2026-05-31 | Baseball/MLB | Pirates -0.5 1st 5 | Pick: PIT -0.5 | Odds: -120 | Risk $300.00 → Win $250.00 | Status: won  P&L: $250.00  Notes: Ticket 410213095. Matthews vs Ashcraft.; 1st 5: PIT 9, MIN 0
-#1499 | 2026-05-31 | Baseball/MLB | Braves -0.5 1st 5 | Pick: ATL -0.5 | Odds: +118 | Risk $125.00 → Win $147.50 | Status: lost  P&L: -$125.00  Notes: Ticket 410213110. Strider vs Lodolo.; 1st 5: ATL 2, CIN 4 (Acuna Jr. HR not enough)
-#1498 | 2026-05-31 | Baseball/MLB | Giants -0.5 1st 5 | Pick: SF -0.5 | Odds: +107 | Risk $125.00 → Win $133.75 | Status: won  P&L: $133.75  Notes: Ticket 410213111. Ray vs Gordon.; 1st 5: SF 11, COL 5 (Adames grand slam in 7-run 5th)
-#1497 | 2026-05-31 | Baseball/MLB | Rays -0.5 1st 5 | Pick: TB -0.5 | Odds: -135 | Risk $168.75 → Win $125.00 | Status: won  P&L: $125.00  Notes: Ticket 410213112. Kochanowicz vs McClanahan.; 1st 5: TB 3, LAA 1
-#1496 | 2026-05-31 | Baseball/MLB | Orioles -0.5 1st 5 | Pick: BAL -0.5 | Odds: +100 | Risk $125.00 → Win $125.00 | Status: won  P&L: $125.00  Notes: Ticket 410213113. Bradish vs Miles.; 1st 5: BAL 6, TOR 0
-#1495 | 2026-05-31 | Baseball/MLB | Yankees ML (game) | Pick: NYY | Odds: -149 | Risk $223.50 → Win $150.00 | Status: won  P&L: $150.00  Notes: Ticket 410213046; NYY 13-8 OAK
-#1494 | 2026-05-31 | Baseball/MLB | Yankees -1.5 (game) | Pick: NYY -1.5 | Odds: +103 | Risk $150.00 → Win $154.50 | Status: won  P&L: $154.50  Notes: Ticket 410213045; NYY 13-8 OAK (13-run 3rd inning)
-#1493 | 2026-05-31 | Baseball/MLB | ATL -1.5 +120 / PIT -1.5 +135 / NYY -1.5 +103 / MIL -1.5 -105 / TB -1.5 +115 | Pick: 26 parlays @ $25 each | Odds: Mixed | Risk $650.00 → Win $1,472.86 | Status: won  P&L: $1,472.86  Notes: Ticket 410213014. All 5 are full-game -1.5 spreads.; Settled: PIT WON, NYY WON, MIL WON, TB WON, ATL LOST. 4-of-5. 15 parlays containing ATL leg = LOST. 11 ATL-free parlays WON: 6 doubles + 4 triples + 1 quad. Total returns $2,122.86 on $650 stake. Net +$1,472.86.
-#1492 | 2026-05-30 | Baseball/MLB | Bryan Woo Over 5.5K + SEA 1st 5 ML | Pick: Woo O5.5K + SEA 1st 5 | Odds: +212 | Risk $150.00 → Win $318.00 | Status: won  P&L: $318.00  Notes: Woo 9 K's (over 5.5). SEA 4-0 in 1st 5. Ticket 1448663729-1.
-#1491 | 2026-05-30 | Baseball/MLB | Pirates -0.5 1st 5 | Pick: PIT -0.5 | Odds: +105 | Risk $200.00 → Win $210.00 | Status: won  P&L: $210.00  Notes: 1st 5: PIT 8, MIN 7 (Game 2 of DH)
-#1490 | 2026-05-30 | Baseball/MLB | Giants/Rockies Over 11 | Pick: Over 11 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: push  P&L: $0.00  Notes: COL 8, SF 3 = exactly 11 total. PUSH.
-#1489 | 2026-05-30 | Baseball/MLB | Phillies ML | Pick: PHI | Odds: +112 | Risk $200.00 → Win $224.00 | Status: won  P&L: $224.00  Notes: PHI 4-3 LAD
-#1488 | 2026-05-30 | Basketball/NBA | Spurs ML | Pick: SAS | Odds: +130 | Risk $200.00 → Win $260.00 | Status: won  P&L: $260.00  Notes: SAS 111-103 OKC. Wembanyama 22pts/7reb.
-#1487 | 2026-05-30 | Baseball/MLB | Nationals ML 1st 5 | Pick: WAS | Odds: +105 | Risk $100.00 → Win $105.00 | Status: lost  P&L: -$100.00  Notes: 1st 5: SD 3, WAS 1
-#1486 | 2026-05-30 | Baseball/MLB | Nationals +0.5 1st 5 | Pick: WAS +0.5 | Odds: -135 | Risk $135.00 → Win $100.00 | Status: lost  P&L: -$135.00  Notes: 1st 5: SD 3, WAS 1. WAS lost 1st 5 by 2.
-#1485 | 2026-05-30 | Mixed/NBA+MLB | 5-leg RR: SAS ML +130 / PIT ML 1st 5 -142 / ARI ML +137 / WAS ML 1st 5 +100 / COL-SF Over 11 +100 | Pick: 26 parlays @ $25 each | Odds: Mixed | Risk $353.91 → Win $0.00 | Status: lost  P&L: -$353.91  Notes: Original $650 stake (26x$25). Results: SAS WON, PIT 1st5 WON, ARI LOST, WAS 1st5 LOST, COL/SF O11 PUSH (total exactly 11). 4 winning parlays returned $296.09: SAS+PIT 2L=$97.99, SAS+(push reduced)=$57.50, PIT+(push reduced)=$42.61, SAS+PIT+(push reduced)=$97.99. Net realized -$353.91.
-#1484 | 2026-05-29 | Baseball/MLB | ATL -1.5 +110 | Pick: ATL -1.5 | Odds: +110 | Risk $300.00 → Win $330.00 | Status: won  P&L: $330.00  Notes: ATL 8-3 COL
-#1483 | 2026-05-29 | Baseball/MLB | SF/COL O10.5 -115 | Pick: O10.5 | Odds: -115 | Risk $345.00 → Win $300.00 | Status: won  P&L: $300.00  Notes: SF 6, COL 8 = 14 total (Over 10.5)
-#1482 | 2026-05-29 | Baseball/MLB | PHI ML +105 | Pick: PHI | Odds: +105 | Risk $300.00 → Win $315.00 | Status: lost  P&L: -$300.00  Notes: LAD 4-2 PHI
-#1481 | 2026-05-29 | Baseball/MLB | SEA ML -150 + ARI/SEA U7 -105 | Pick: SEA ML + U7 | Odds: +125 | Risk $100.00 → Win $225.00 | Status: lost  P&L: -$100.00  Notes: 2-leg parlay; SEA won 7-6 but U7 lost (total 13)
-#1480 | 2026-05-29 | Baseball/MLB | ARI/SEA U7 -105 | Pick: U7 | Odds: -105 | Risk $157.00 → Win $150.00 | Status: lost  P&L: -$157.00  Notes: ARI 6, SEA 7 = 13 total, Over 7
-#1479 | 2026-05-29 | Baseball/MLB | NYM ML -121 | Pick: NYM | Odds: -121 | Risk $242.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: NYM 9-7 MIA (10 innings) - MJ Melendez 10th-inning HR
-#1478 | 2026-05-29 | Baseball/MLB | LAA/TB U8 -110 | Pick: U8 | Odds: -110 | Risk $220.00 → Win $200.00 | Status: lost  P&L: -$220.00  Notes: TB 8-5 LAA = 13 total, Over 8
-#1477 | 2026-05-29 | Baseball/MLB | 5-leg: Kirby O5.5K + ARI/SEA U7 + SEA ML + ATL -1.5 + PHI ML | Pick: 5-team parlay | Odds: +1800 | Risk $50.00 → Win $950.00 | Status: lost  P&L: -$50.00  Notes: Props parlay: Kirby SEA O5.5K, ARI/SEA U7, SEA ML, ATL -1.5 (@ CIN), PHI ML (@ LAD); Kirby 4K U5.5 (LOST), ARI/SEA total 13 U7 (LOST), PHI ML LOST. Parlay dead.
-#1476 | 2026-05-28 | Baseball/MLB | HOU F5 ML +130 | Pick: HOU F5 | Odds: +130 | Risk $200.00 → Win $260.00 | Status: Won  P&L: $260.00  Notes: Arrighetti start; HOU 5-1 TEX through 5
-#1475 | 2026-05-28 | Baseball/MLB | 5-leg: Arrighetti O5.5K + Skenes O6.5K + CHC/PIT U7.5 + PIT ML + HOU F5 | Pick: 5-team parlay | Odds: +1800 | Risk $50.00 → Win $950.00 | Status: lost  P&L: -$50.00  Notes: Props parlay: Arrighetti HOU O5.5K, Skenes PIT O6.5K, CHC/PIT U7.5, PIT ML, HOU F5 (HOU @ TEX); U7.5 leg killed parlay
-#1474 | 2026-05-28 | Baseball/MLB | ATL ML -129 | Pick: ATL | Odds: -129 | Risk $129.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: ATL beat BOS 10-2
-#1473 | 2026-05-28 | Baseball/MLB | ATL -1.5 +135 | Pick: ATL -1.5 | Odds: +135 | Risk $100.00 → Win $135.00 | Status: won  P&L: $135.00  Notes: ATL beat BOS 10-2
-#1472 | 2026-05-28 | Baseball/MLB | CHC/PIT U7.5 -110 + PIT ML -164 | Pick: U7.5 + PIT ML | Odds: +106 | Risk $50.00 → Win $103.00 | Status: lost  P&L: -$50.00  Notes: 2-leg parlay; U7.5 leg lost
-#1471 | 2026-05-28 | Baseball/MLB | CHC/PIT U7.5 -110 | Pick: U7.5 | Odds: -110 | Risk $165.00 → Win $150.00 | Status: lost  P&L: -$165.00  Notes: CHC/PIT total was 8, over
-#1470 | 2026-05-27 | Baseball/MLB | PHI -1.5 +125 (2nd book) | Pick: PHI -1.5 | Odds: +125 | Risk $300.00 → Win $375.00 | Status: Won  P&L: $375.00  Notes: Duplicate Phillies -1.5 on 2nd book (wagerhouse); PHI won 3-0
-#1469 | 2026-05-27 | Baseball/MLB | PHI -1.5 +125 | Pick: PHI -1.5 | Odds: +125 | Risk $300.00 → Win $375.00 | Status: Won  P&L: $375.00  Notes: Sanchez vs Buehler; PHI won 3-0
-#1468 | 2026-05-27 | Baseball/MLB | TEX/HOU U7 -101 | Pick: U7 | Odds: -101 | Risk $303.00 → Win $300.00 | Status: Push  P&L: $0.00  Notes: Burrows vs deGrom; final HOU 4-3 TEX, total exactly 7 = PUSH
-#1467 | 2026-05-27 | Baseball/MLB | LAD -1.5 -170 + NYY ML -153 | Pick: LAD -1.5 + NYY ML | Odds: +163 | Risk $200.00 → Win $325.26 | Status: Won  P&L: $325.26  Notes: LAD covered; NYY 7-0 KC
-#1466 | 2026-05-27 | Baseball/MLB | NYY/KC U9 -120 + LAD -1.5 -170 | Pick: NYY/KC U9 + LAD -1.5 | Odds: +91 | Risk $200.00 → Win $382.35 | Status: Won  P&L: $382.35  Notes: Total 7 U9 cashed; LAD 4-1 COL covered
-#1465 | 2026-05-27 | Baseball/MLB | ATL -1.5 +155 | Pick: ATL -1.5 | Odds: +155 | Risk $100.00 → Win $155.00 | Status: Lost  P&L: -$100.00  Notes: Elder vs Connelly Early; ATL lost by 8
-#1464 | 2026-05-27 | Baseball/MLB | ATL ML -106 | Pick: ATL | Odds: -106 | Risk $106.00 → Win $100.00 | Status: Lost  P&L: -$106.00  Notes: Elder vs Connelly Early; ATL lost 0-8
-#1463 | 2026-05-26 | Mixed/MLB/NHL | 2-leg parlay: LAD ML (-225) + Colorado Avalanche -1.5 (+210) | Pick: LAD ML / COL Avs -1.5 | Odds: +247.78 | Risk $100.00 → Win $347.78 | Status: Lost  P&L: -$100.00  Notes: LAD: Freeland vs Lauer Must Start; NHL Avs vs VGK 9:15pm; Ticket #409975480
-#1462 | 2026-05-26 | Basketball/NBA | Oklahoma City Thunder -4 | Pick: OKC -4 | Odds: -110 | Risk $330.00 → Win $300.00 | Status: Won  P&L: $300.00  Notes: Ticket #409974752
-#1461 | 2026-05-26 | Basketball/NBA | OKC/SAS Game Total Under 217.5 | Pick: U217.5 | Odds: -110 | Risk $330.00 → Win $300.00 | Status: Lost  P&L: -$330.00  Notes: Ticket #409974753
-#1460 | 2026-05-26 | Baseball/MLB | Atlanta Braves -1.5 | Pick: ATL -1.5 | Odds: +155 | Risk $150.00 → Win $232.50 | Status: Lost  P&L: -$150.00  Notes: SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409974821
-#1459 | 2026-05-26 | Baseball/MLB | Atlanta Braves ML | Pick: ATL ML | Odds: -113 | Risk $169.50 → Win $150.00 | Status: Won  P&L: $150.00  Notes: SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409974822
-#1458 | 2026-05-26 | Baseball/MLB | Milwaukee Brewers -1.5 | Pick: MIL -1.5 | Odds: -102 | Risk $306.00 → Win $300.00 | Status: Won  P&L: $300.00  Notes: MICHAEL MCGREEVY-R Must Start | KYLE HARRISON-L Must Start; Ticket #409974823
-#1457 | 2026-05-26 | Baseball/MLB | Arizona Diamondbacks ML | Pick: ARI ML | Odds: -109 | Risk $327.00 → Win $300.00 | Status: Won  P&L: $300.00  Notes: EDUARDO RODRIGUEZ-L Must Start | TYLER MAHLE-R Must Start; Ticket #409974824
-#1456 | 2026-05-26 | Baseball/MLB | New York Yankees -1.5 | Pick: NYY -1.5 | Odds: -128 | Risk $384.00 → Win $300.00 | Status: Won  P&L: $300.00  Notes: CAM SCHLITTLER-R Must Start | BAILEY FALTER-L Must Start; Ticket #409974835
-#1455 | 2026-05-26 | Baseball/MLB | Tampa Bay Rays ML | Pick: TB ML | Odds: -109 | Risk $218.00 → Win $200.00 | Status: Lost  P&L: -$218.00  Notes: GRIFFIN JAX-R Must Start | SHANE BAZ-R Must Start; Ticket #409974842
-#1454 | 2026-05-26 | Baseball/MLB | BAL/TB Game Total Over 8.5 | Pick: O8.5 | Odds: -115 | Risk $230.00 → Win $200.00 | Status: Lost  P&L: -$230.00  Notes: GRIFFIN JAX-R Must Start | SHANE BAZ-R Must Start; Ticket #409974843
-#1453 | 2026-05-26 | Baseball/MLB | PIT/CHC Game Total Under 8 | Pick: U8 | Odds: -102 | Risk $204.00 → Win $200.00 | Status: Lost  P&L: -$204.00  Notes: JORDAN WICKS-L Must Start | BRAXTON ASHCRAFT-R Must Start; Ticket #409974882
-#1452 | 2026-05-26 | Baseball/MLB | 2-leg parlay: Braxton Ashcraft (PIT) Over 5.5 Strikeouts + Pirates ML | Pick: Ashcraft O5.5 K / PIT ML | Odds: +71 | Risk $150.00 → Win $256.50 | Status: Lost  P&L: -$150.00  Notes: Ticket #409974908
-#1451 | 2026-05-26 | Baseball/MLB | San Diego Padres -1.5 | Pick: SD -1.5 | Odds: +183 | Risk $100.00 → Win $183.00 | Status: Lost  P&L: -$100.00  Notes: AARON NOLA-R Must Start | RANDY VASQUEZ-R Must Start; Ticket #409974976
-#1450 | 2026-05-26 | Baseball/MLB | San Diego Padres ML | Pick: SD ML | Odds: -114 | Risk $114.00 → Win $100.00 | Status: Lost  P&L: -$114.00  Notes: AARON NOLA-R Must Start | RANDY VASQUEZ-R Must Start; Ticket #409974977
-#1449 | 2026-05-26 | Baseball/MLB | Los Angeles Dodgers -1.5 | Pick: LAD -1.5 | Odds: -114 | Risk $228.00 → Win $200.00 | Status: Won  P&L: $200.00  Notes: KYLE FREELAND-L Must Start | ERIC LAUER-L Must Start; Ticket #409975056
-#1448 | 2026-05-26 | Baseball/MLB | LAD/COL Game Total Over 9 | Pick: O9 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: Won  P&L: $200.00  Notes: KYLE FREELAND-L Must Start | ERIC LAUER-L Must Start; Ticket #409975057
-#1447 | 2026-05-26 | Baseball/MLB | BOS/ATL Game Total Under 8 | Pick: U8 | Odds: -107 | Risk $214.00 → Win $200.00 | Status: Lost  P&L: -$214.00  Notes: SPENCER STRIDER-R Must Start | RANGER SUAREZ-L Must Start; Ticket #409975085
-#1446 | 2026-05-26 | Baseball/MLB | Minnesota Twins -1.5 | Pick: MIN -1.5 | Odds: +148 | Risk $50.00 → Win $74.00 | Status: Won  P&L: $74.00  Notes: JOE RYAN-R Must Start | SEAN BURKE-R Must Start; Ticket #409975096
-#1445 | 2026-05-26 | Baseball/MLB | Minnesota Twins ML | Pick: MIN ML | Odds: -112 | Risk $56.00 → Win $50.00 | Status: Won  P&L: $50.00  Notes: JOE RYAN-R Must Start | SEAN BURKE-R Must Start; Ticket #409975097
-#1444 | 2026-05-24 | Basketball/NBA | OKC team total Over 102.5 (Inc. OT) | Pick: OKC team total O102.5 | Odds: -109 | Risk $272.50 → Win $250.00 | Status: Lost  P&L: -$272.50  Notes: Missed entry; OKC under 102.5; Ticket #409880559
-#1443 | 2026-05-25 | Baseball/MLB | 2-team parlay: LAD -1.5 (-145) + Athletics +1.5 (-155) | Pick: LAD -1.5 / OAK +1.5 | Odds: +77.98 | Risk $250.00 → Win $444.94 | Status: Lost  P&L: -$250.00  Notes: LAD: Gordon vs Sheehan Must Start; OAK: Castillo vs Civale Must Start; Ticket #409929320
-#1442 | 2026-05-25 | Baseball/MLB | 2-team parlay: LAD ML (-310) + Athletics ML (-110) | Pick: LAD ML / OAK ML | Odds: +52.49 | Risk $250.00 → Win $381.23 | Status: Lost  P&L: -$250.00  Notes: LAD: Gordon vs Sheehan Must Start; OAK: Castillo vs Civale Must Start; Ticket #409929376
-#1441 | 2026-05-25 | Mixed/MLB/NBA | 2-team parlay: LAD ML (-310) + Knicks -2 (-110) | Pick: LAD ML / NYK -2 | Odds: +52.49 | Risk $250.00 → Win $381.23 | Status: Won  P&L: $381.23  Notes: LAD: Gordon vs Sheehan Must Start; NYK ECF Game 4; Ticket #409929389
-#1440 | 2026-05-24 | Baseball/MLB | 5-team RR by 2's/3's/4's/5's: LAD -1.5 (+105) vs MIL, ATL -1.5 (+130) vs WSH, CLE -1.5 (+149) vs PHI, TB ML (+110) vs NYY, SEA -1.5 (+135) vs KC | Pick: LAD-1.5/ATL-1.5/CLE-1.5/TB ML/SEA-1.5 | Odds: varies | Risk $522.39 → Win $8,162.56 | Status: Lost  P&L: -$522.39  Notes: 26 parlays @ $25 each; ORIGINAL Risk $650; hit 2/5 (LAD-1.5, CLE-1.5); only winning combo LAD+CLE +105/+149 = +$102.61; net realized -$522.39; Ticket #409859138
-#1439 | 2026-05-24 | Baseball/MLB | Blue Jays F5 -0.5 (1st 5 Innings, Must Start pitchers) | Pick: TOR -0.5 | Odds: -120 | Risk $180.00 → Win $150.00 | Status: Lost  P&L: -$180.00  Notes: 1st 5 Innings; MITCH KELLER-R Must Start | DYLAN CEASE-R Must Start; Ticket #409858849
-#1438 | 2026-05-23 | Baseball/MLB | Phillies F5 -0.5 (1st 5 Innings, Must Start pitchers) | Pick: PHI -0.5 | Odds: -130 | Risk $325.00 → Win $250.00 | Status: Won  P&L: $250.00  Notes: 1st 5 Innings; SLADE CECCONI-R Must Start | ZACK WHEELER-R Must Start; Ticket #409822462
-#1437 | 2026-05-22 | Basketball/NBA | Spurs ML | Pick: San Antonio Spurs | Odds: -125 | Risk $1,000.00 → Win $800.00 | Status: Lost  P&L: -$1,000.00  Notes: Originally 2-leg parlay w/ unused 2nd leg slot; treated as Spurs ML loser per user
-#1436 | 2026-05-22 | Mixed/NBA/NHL | 2-leg parlay: Spurs -2.5 (-110); Avalanche ML (-185) | Pick: 2-leg parlay | Odds: 194 | Risk $1,000.00 → Win $1,941.00 | Status: Lost  P&L: -$1,000.00  Notes: Both legs lost; missed entry from prior day
-#1435 | 2026-05-22 | Hockey/NHL | Avalanche ML | Pick: Colorado Avalanche | Odds: -185 | Risk $1,850.00 → Win $1,000.00 | Status: Lost  P&L: -$1,850.00  Notes: Game 2 WCF (missed entry); Avs lost
-#1434 | 2026-05-23 | Basketball/NBA | Cavs/Knicks Total Over 215.5 | Pick: Over 215.5 | Odds: -110 | Risk $550.00 → Win $500.00 | Status: Won  P&L: $500.00  Notes: Ticket #409818706; 8:00pm ECF
-#1433 | 2026-05-23 | Baseball/MLB | Pirates ML | Pick: Pittsburgh Pirates | Odds: -136 | Risk $340.00 → Win $250.00 | Status: Lost  P&L: -$340.00  Notes: Ticket #409818705; Skenes vs Corbin 3:07pm
-#1432 | 2026-05-23 | Baseball/MLB | Pirates -1.5 | Pick: Pittsburgh Pirates | Odds: 120 | Risk $250.00 → Win $300.00 | Status: Lost  P&L: -$250.00  Notes: Ticket #409818704; Skenes vs Corbin 3:07pm
-#1431 | 2026-05-23 | Baseball/MLB | Phillies -1.5 | Pick: Philadelphia Phillies | Odds: 125 | Risk $500.00 → Win $625.00 | Status: Won  P&L: $625.00  Notes: Ticket #409818703; Wheeler vs Cecconi 4:05pm
-#1430 | 2026-05-23 | Baseball/MLB | Dodgers -1.5 | Pick: Los Angeles Dodgers | Odds: 140 | Risk $250.00 → Win $350.00 | Status: Won  P&L: $350.00  Notes: Ticket #409818702; Sasaki vs Gasser 7:15pm
-#1429 | 2026-05-23 | Baseball/MLB | Dodgers ML | Pick: Los Angeles Dodgers | Odds: -115 | Risk $287.50 → Win $250.00 | Status: Won  P&L: $250.00  Notes: Ticket #409818701; Sasaki vs Gasser 7:15pm
+#1666 | 2026-06-16 | Baseball/MLB | $10 RR all-ways 4 games (per user): PHI -1.5 +120 / NYY -1.5 +155 / SEA -1.5 +145 / CHC -1.5 +100 | Pick: 11 parlays @ $10 | Odds: Mixed | Risk $0.00 → Win $199.93 | Status: won  P&L: $199.93  Notes: Original $10 RR (5-game) reduced to 4-game per user (ATL called off). 11 parlays × $10 = $110 stake. PHI W, NYY W, SEA W, CHC L. Cashed: PHI+NYY $56.10, PHI+SEA $53.90, NYY+SEA $62.48, PHI+NYY+SEA triple $137.45. Return $309.93. Net realized +$199.93.
+#1665 | 2026-06-16 | Baseball/MLB | Mariners -1.5 | Pick: SEA -1.5 | Odds: +145 | Risk $150.00 → Win $217.50 | Status: won  P&L: $217.50  Notes: Wagerhouse.
+#1664 | 2026-06-16 | Baseball/MLB | Cubs -1.5 | Pick: CHC -1.5 | Odds: +100 | Risk $150.00 → Win $150.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse.
+#1663 | 2026-06-16 | Baseball/MLB | Braves -1.5 (called off) | Pick: ATL -1.5 | Odds: +120 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Wagerhouse. VOIDED - game called off.
+#1662 | 2026-06-16 | Baseball/MLB | Yankees -1.5 | Pick: NYY -1.5 | Odds: +155 | Risk $150.00 → Win $232.50 | Status: won  P&L: $232.50  Notes: Wagerhouse.
+#1661 | 2026-06-16 | Baseball/MLB | Phillies -1.5 | Pick: PHI -1.5 | Odds: +120 | Risk $150.00 → Win $180.00 | Status: won  P&L: $180.00  Notes: Wagerhouse.
+#1660 | 2026-06-13 | Soccer/International | 0-0 draw | Pick: 0-0 | Odds: -143 | Risk $715.00 → Win $500.00 | Status: lost  P&L: -$715.00  Notes: Ticket 410901654. Loss shown 500 in summary.
+#1659 | 2026-06-13 | Baseball/MLB | Rays ML | Pick: TB | Odds: -116 | Risk $580.00 → Win $500.00 | Status: won  P&L: $500.00  Notes: Ticket 410884159.
+#1658 | 2026-06-13 | Baseball/MLB | Athletics ML (Sugano) | Pick: OAK | Odds: -190 | Risk $950.00 → Win $500.00 | Status: lost  P&L: -$950.00  Notes: Ticket 410884158.
+#1657 | 2026-06-13 | Baseball/MLB | Phillies ML | Pick: PHI | Odds: -123 | Risk $615.00 → Win $500.00 | Status: lost  P&L: -$615.00  Notes: Ticket 410884157.
+#1656 | 2026-06-13 | Baseball/MLB | Yankees ML (Corbin) | Pick: NYY | Odds: -123 | Risk $615.00 → Win $500.00 | Status: won  P&L: $500.00  Notes: Ticket 410884156.
+#1655 | 2026-06-13 | Baseball/MLB | Mariners ML 1st 5 | Pick: SEA | Odds: -130 | Risk $650.00 → Win $500.00 | Status: lost  P&L: -$650.00  Notes: Ticket 410884155.
+#1654 | 2026-06-13 | Baseball/MLB | Mariners ML | Pick: SEA | Odds: -128 | Risk $640.00 → Win $500.00 | Status: lost  P&L: -$640.00  Notes: Ticket 410884154.
+#1653 | 2026-06-13 | Baseball/MLB | Astros ML 1st 5 | Pick: HOU | Odds: +100 | Risk $250.00 → Win $250.00 | Status: lost  P&L: -$250.00  Notes: Ticket 410883698.
+#1652 | 2026-06-13 | Baseball/MLB | Astros +0.5 1st 5 | Pick: HOU +0.5 | Odds: -140 | Risk $350.00 → Win $250.00 | Status: lost  P&L: -$350.00  Notes: Ticket 410883697.
+#1651 | 2026-06-13 | Baseball/MLB | Diamondbacks ML 1st 5 | Pick: ARI | Odds: -110 | Risk $275.00 → Win $250.00 | Status: lost  P&L: -$275.00  Notes: Ticket 410883680.
+#1650 | 2026-06-13 | Baseball/MLB | Diamondbacks +0.5 1st 5 (Abbott/Gallen) | Pick: ARI +0.5 | Odds: -145 | Risk $362.50 → Win $250.00 | Status: lost  P&L: -$362.50  Notes: Ticket 410883679.
+#1649 | 2026-06-13 | Baseball/MLB | Rangers ML 1st 5 | Pick: TEX | Odds: -110 | Risk $275.00 → Win $250.00 | Status: won  P&L: $250.00  Notes: Ticket 410883657.
+#1648 | 2026-06-13 | Baseball/MLB | Rangers +0.5 1st 5 (deGrom) | Pick: TEX +0.5 | Odds: -145 | Risk $362.50 → Win $250.00 | Status: won  P&L: $250.00  Notes: Ticket 410883656. Risk shown 250.
+#1647 | 2026-06-13 | Baseball/MLB | PIT 1st 5 -148 | Pick: PIT | Odds: -148 | Risk $740.00 → Win $500.00 | Status: lost  P&L: -$740.00  Notes: Ticket 410883627.
+#1646 | 2026-06-13 | Soccer/International | Scotland + Germany to win | Pick: 2-leg | Odds: Combo | Risk $0.00 → Win $305.00 | Status: won  P&L: $305.00  Notes: Ticket 410856488.
+#1645 | 2026-06-13 | Soccer/International | Brazil -0.5 | Pick: Brazil -0.5 | Odds: -150 | Risk $600.00 → Win $400.00 | Status: lost  P&L: -$600.00  Notes: Wagerhouse.
+#1644 | 2026-06-13 | Soccer/International | Brazil ML 1st Half | Pick: Brazil 1H | Odds: +120 | Risk $200.00 → Win $240.00 | Status: lost  P&L: -$200.00  Notes: Wagerhouse.
+#1643 | 2026-06-12 | Soccer/International | BTTS Yes + Over 1.5 | Pick: BTTS Yes + O1.5 | Odds: Combo | Risk $0.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse. Combined +$100.
+#1642 | 2026-06-12 | Soccer/International | Bosnia +0.5 | Pick: Bosnia +0.5 | Odds: +100 | Risk $150.00 → Win $150.00 | Status: won  P&L: $150.00  Notes: Wagerhouse.
+#1641 | 2026-06-12 | Mixed/MLB+Soccer | $10 RR all-ways: Braves -1.5 +150 / Cubs -1.5 +150 / Guardians -2.5 +255 / USA ML +105 / Rays -2.5 +150 | Pick: 26 parlays @ $10 | Odds: Mixed | Risk $208.75 → Win $0.00 | Status: lost  P&L: -$208.75  Notes: Original $260 stake. ATL L, CHC W, CLE L, USA W, TB L. CHC+USA double cashed = $51.25. Net realized -$208.75.
+#1640 | 2026-06-12 | Baseball/MLB | Twins -0.5 1st 5 | Pick: MIN -0.5 | Odds: -105 | Risk $157.00 → Win $150.00 | Status: lost  P&L: -$157.00  Notes: Wagerhouse.
+#1639 | 2026-06-12 | Baseball/MLB | Guardians -0.5 1st 5 | Pick: CLE -0.5 | Odds: +120 | Risk $150.00 → Win $180.00 | Status: won  P&L: $180.00  Notes: Wagerhouse.
+#1638 | 2026-06-12 | Baseball/MLB | Braves +0.5 1st 5 | Pick: ATL +0.5 | Odds: -130 | Risk $260.00 → Win $200.00 | Status: lost  P&L: -$260.00  Notes: Wagerhouse.
+#1637 | 2026-06-12 | Baseball/MLB | Cubs ML | Pick: CHC | Odds: -105 | Risk $105.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse.
+#1636 | 2026-06-12 | Baseball/MLB | Diamondbacks ML 1st 5 (dup) | Pick: ARI | Odds: -107 | Risk $133.75 → Win $125.00 | Status: lost  P&L: -$133.75  Notes: Ticket 410778384.
+#1635 | 2026-06-12 | Mixed/MLB+Soccer | ATL ML 1st 5 / MIL ML 1st 5 / TB ML 1st 5 / USA ML | Pick: 4-leg | Odds: Mixed | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Ticket 410776400.
+#1634 | 2026-06-12 | Baseball/MLB | Diamondbacks ML 1st 5 (Lodolo) | Pick: ARI | Odds: -115 | Risk $115.00 → Win $100.00 | Status: lost  P&L: -$115.00  Notes: Ticket 410776365.
+#1633 | 2026-06-12 | Baseball/MLB | Mariners ML 1st 5 | Pick: SEA | Odds: -140 | Risk $140.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Ticket 410776364.
+#1632 | 2026-06-12 | Baseball/MLB | Rays -0.5 1st 5 (McClanahan) | Pick: TB -0.5 | Odds: -125 | Risk $200.00 → Win $160.00 | Status: lost  P&L: -$200.00  Notes: Ticket 410776222.
+#1631 | 2026-06-12 | Baseball/MLB | Braves ML 1st 5 (dup) | Pick: ATL | Odds: +102 | Risk $50.00 → Win $51.00 | Status: lost  P&L: -$50.00  Notes: Ticket 410776221.
+#1630 | 2026-06-12 | Baseball/MLB | Braves ML 1st 5 (Strider) | Pick: ATL | Odds: +100 | Risk $150.00 → Win $150.00 | Status: lost  P&L: -$150.00  Notes: Ticket 410776149.
+#1629 | 2026-06-11 | Baseball/MLB | LAD Alt RL +145 / TEX Alt RL +145 / SEA ML 1st 5 -115 / STL ML +137 | Pick: 4-leg | Odds: Mixed | Risk $50.00 → Win $0.00 | Status: lost  P&L: -$50.00  Notes: Wagerhouse.
+#1628 | 2026-06-11 | Baseball/MLB | Cardinals +0.5 1st 5 | Pick: STL +0.5 | Odds: -105 | Risk $78.75 → Win $75.00 | Status: won  P&L: $75.00  Notes: Wagerhouse.
+#1627 | 2026-06-11 | Baseball/MLB | Cardinals ML 1st 5 | Pick: STL | Odds: +135 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Wagerhouse. Push.
+#1626 | 2026-06-11 | Baseball/MLB | Rangers +0.5 1st 5 | Pick: TEX +0.5 | Odds: -140 | Risk $207.20 → Win $148.00 | Status: won  P&L: $148.00  Notes: Wagerhouse.
+#1625 | 2026-06-11 | Baseball/MLB | Dodgers -0.5 1st 5 | Pick: LAD -0.5 | Odds: -120 | Risk $240.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse.
+#1624 | 2026-06-10 | Mixed/NBA+MLB | $10 RR all-ways: Spurs Alt -3.5 +150 / LAD Alt -2.5 / ATL Alt -2.5 / CHC Alt -2.5 / PHI Alt -2.5 +175 | Pick: 26 parlays @ $10 | Odds: Mixed | Risk $260.00 → Win $0.00 | Status: lost  P&L: -$260.00  Notes: Original $260 stake. Only PHI won. 0 cashed parlays. Full -$260.
+#1623 | 2026-06-10 | Baseball/MLB | CHC Alt RL -2.5 | Pick: CHC -2.5 | Odds: +115 | Risk $50.00 → Win $57.50 | Status: lost  P&L: -$50.00  Notes: Wagerhouse.
+#1622 | 2026-06-10 | Baseball/MLB | ATL Alt RL -2.5 | Pick: ATL -2.5 | Odds: +190 | Risk $75.00 → Win $142.50 | Status: lost  P&L: -$75.00  Notes: Wagerhouse.
+#1621 | 2026-06-10 | Baseball/MLB | LAD Alt RL -2.5 | Pick: LAD -2.5 | Odds: +120 | Risk $100.00 → Win $120.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse.
+#1620 | 2026-06-10 | Baseball/MLB | Cubs -0.5 1st 5 | Pick: CHC -0.5 | Odds: -120 | Risk $150.00 → Win $125.00 | Status: won  P&L: $125.00  Notes: Wagerhouse.
+#1619 | 2026-06-10 | Baseball/MLB | Mariners ML 1st 5 | Pick: SEA | Odds: -120 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Wagerhouse. Push.
+#1618 | 2026-06-10 | Baseball/MLB | Dodgers ML 1st 5 | Pick: LAD | Odds: -200 | Risk $200.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse.
+#1617 | 2026-06-10 | Baseball/MLB | Braves -0.5 1st 5 | Pick: ATL -0.5 | Odds: -110 | Risk $220.00 → Win $200.00 | Status: lost  P&L: -$220.00  Notes: Wagerhouse.
+#1616 | 2026-06-10 | Baseball/MLB | Phillies -0.5 1st 5 | Pick: PHI -0.5 | Odds: -115 | Risk $230.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse.
+#1615 | 2026-06-09 | Baseball/MLB | Marlins -0.5 1st 5 | Pick: MIA -0.5 | Odds: +100 | Risk $150.00 → Win $150.00 | Status: won  P&L: $150.00  Notes: Wagerhouse.
+#1614 | 2026-06-09 | Baseball/MLB | Phillies ML 1st 5 | Pick: PHI | Odds: -110 | Risk $165.00 → Win $150.00 | Status: won  P&L: $150.00  Notes: Wagerhouse.
+#1613 | 2026-06-09 | Baseball/MLB | Braves -0.5 1st 5 | Pick: ATL -0.5 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse.
+#1612 | 2026-06-09 | Baseball/MLB | Yankees -0.5 1st 5 | Pick: NYY -0.5 | Odds: +115 | Risk $200.00 → Win $230.00 | Status: lost  P&L: -$200.00  Notes: Wagerhouse.
+#1611 | 2026-06-09 | Baseball/MLB | Yankees ML | Pick: NYY | Odds: -128 | Risk $160.00 → Win $125.00 | Status: won  P&L: $125.00  Notes: Wagerhouse.
+#1610 | 2026-06-09 | Baseball/MLB | Braves ML | Pick: ATL | Odds: -150 | Risk $114.00 → Win $76.00 | Status: lost  P&L: -$114.00  Notes: Wagerhouse.
+#1609 | 2026-06-09 | Baseball/MLB | Braves -1.5 | Pick: ATL -1.5 | Odds: +105 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Wagerhouse. No action / void.
+#1608 | 2026-06-09 | Baseball/MLB | Reds ML | Pick: CIN | Odds: -116 | Risk $232.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse.
+#1607 | 2026-06-09 | Baseball/MLB | Phillies ML | Pick: PHI | Odds: -112 | Risk $280.00 → Win $250.00 | Status: lost  P&L: -$280.00  Notes: Wagerhouse.
+#1606 | 2026-06-08 | Baseball/MLB | Brewers ML (Springs) | Pick: MIL | Odds: -155 | Risk $232.50 → Win $150.00 | Status: won  P&L: $150.00  Notes: Ticket 410586005.
+#1605 | 2026-06-08 | Baseball/MLB | Padres ML 1st 5 | Pick: SD | Odds: -124 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Ticket 410585985. Pushed.
+#1604 | 2026-06-08 | Baseball/MLB | Padres -0.5 1st 5 (Buehler) | Pick: SD -0.5 | Odds: +115 | Risk $100.00 → Win $115.00 | Status: lost  P&L: -$100.00  Notes: Ticket 410585984. Tied 1st 5.
+#1603 | 2026-06-08 | Baseball/MLB | Giants -0.5 1st 5 (Mikolas/Webb) | Pick: SF -0.5 | Odds: -120 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Ticket 410585146. Pushed.
+#1602 | 2026-06-08 | Baseball/MLB | Phillies -0.5 1st 5 | Pick: PHI -0.5 | Odds: -125 | Risk $250.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Ticket 410585139.
+#1601 | 2026-06-08 | Baseball/MLB | Phillies -1.5 (Corbin) | Pick: PHI -1.5 | Odds: -101 | Risk $101.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Ticket 410585138.
+#1600 | 2026-06-07 | Baseball/MLB | Yankees -1.5 | Pick: NYY -1.5 | Odds: +142 | Risk $150.00 → Win $213.00 | Status: won  P&L: $213.00  Notes: Ticket 410561295.
+#1599 | 2026-06-07 | Baseball/MLB | Rangers ML (deGrom) | Pick: TEX | Odds: -139 | Risk $278.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Ticket 410561294.
+#1598 | 2026-06-07 | Baseball/MLB | Yankees ML | Pick: NYY | Odds: -147 | Risk $220.50 → Win $150.00 | Status: won  P&L: $150.00  Notes: Ticket 410561293.
+#1597 | 2026-06-07 | Baseball/MLB | Brewers -0.5 1st 5 (Drohan/Freeland) | Pick: MIL -0.5 | Odds: -123 | Risk $246.00 → Win $200.00 | Status: lost  P&L: -$246.00  Notes: Ticket 410561292.
+#1596 | 2026-06-07 | Baseball/MLB | Yankees -0.5 1st 5 (Suarez/Schlittler) | Pick: NYY -0.5 | Odds: -115 | Risk $172.50 → Win $150.00 | Status: won  P&L: $150.00  Notes: Ticket 410561291.
+#1595 | 2026-06-07 | Motorsports/F1 | Mercedes winning car | Pick: Mercedes | Odds: +220 | Risk $300.00 → Win $660.00 | Status: won  P&L: $660.00  Notes: Ticket 410248843.
+#1594 | 2026-06-07 | Motorsports/F1 | George Russell Top-3 | Pick: Russell Top-3 | Odds: -111 | Risk $333.00 → Win $300.00 | Status: lost  P&L: -$333.00  Notes: Ticket 410248842.
+#1593 | 2026-06-07 | Motorsports/F1 | George Russell ML | Pick: Russell | Odds: +525 | Risk $300.00 → Win $1,575.00 | Status: lost  P&L: -$300.00  Notes: Ticket 410248841.
+#1592 | 2026-06-06 | Horse Racing/NYRA | $20 exacta box 3,4,9 | Pick: 3/4/9 | Odds: — | Risk $120.00 → Win $0.00 | Status: lost  P&L: -$120.00  Notes: Net -$120.
+#1591 | 2026-06-06 | Horse Racing/NYRA | $1 super box 3,4,7,8,9 | Pick: 3/4/7/8/9 | Odds: — | Risk $0.00 → Win $117.00 | Status: won  P&L: $117.00  Notes: Net +$117.
+#1590 | 2026-06-06 | Horse Racing/NYRA | $1 super box 2,4,7,8,9 | Pick: 2/4/7/8/9 | Odds: — | Risk $120.00 → Win $0.00 | Status: lost  P&L: -$120.00  Notes: Net -$120.
+#1589 | 2026-06-06 | Horse Racing/NYRA | $10 trifecta box 2,4,8,9 | Pick: 2/4/8/9 | Odds: — | Risk $240.00 → Win $0.00 | Status: lost  P&L: -$240.00  Notes: Net -$240.
+#1588 | 2026-06-06 | Horse Racing/NYRA | $20 exacta box 2,4,8 | Pick: 2/4/8 | Odds: — | Risk $120.00 → Win $0.00 | Status: lost  P&L: -$120.00  Notes: Net -$120.
+#1587 | 2026-06-06 | Horse Racing/NYRA | $300 W/P/S on #4 | Pick: #4 | Odds: — | Risk $174.00 → Win $0.00 | Status: lost  P&L: -$174.00  Notes: $300 stake; net realized -$174.

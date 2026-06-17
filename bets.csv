@@ -1495,3 +1495,161 @@ ID,Date,Sport,League,Event,Type,Description,Pick,Opponent,Odds,Risk,To Win,Statu
 1506,2026-05-31,Baseball,MLB,TB @ LAA,Run Line,Rays -1.5 (game),TB -1.5,LAA,+115,200,230,won,2026-05-31,Wagerhouse; TB 5-2 LAA (covers -1.5)
 1507,2026-05-31,Baseball,MLB,HOU @ MIL,Run Line,Brewers -1.5 (game),MIL -1.5,HOU,-105,315,300,won,2026-05-31,Wagerhouse (book 1); MIL 2-0 HOU (covers -1.5)
 1508,2026-05-31,Baseball,MLB,HOU @ MIL,Run Line,Brewers -1.5 (game) - line-shop book 2,MIL -1.5,HOU,-105,315,300,won,2026-05-31,Wagerhouse (book 2 - line-shop duplicate); MIL 2-0 HOU (book 2 line-shop)
+1509,2026-06-01,Baseball,MLB,CIN @ KC,Run Line,Reds -1.5 (Burns Must Start),CIN -1.5,KC,+105,0,0,push,2026-06-01,Action Network ticket 333. VOIDED: Andrew Abbott replaced Chase Burns. Must Start failed.
+1510,2026-06-01,Baseball,MLB,CIN @ KC,1st 5 Run Line,Reds -0.5 1st 5 (Burns Must Start),CIN -0.5,KC,-140,0,0,push,2026-06-01,Ticket 334. VOIDED: pitcher change.
+1511,2026-06-01,Baseball,MLB,CIN @ KC,Run Line,Reds -1.5 (duplicate line shop),CIN -1.5,KC,+105,0,0,push,2026-06-01,Ticket 838. VOIDED.
+1512,2026-06-01,Baseball,MLB,CIN @ KC,1st 5 Run Line,Reds -0.5 1st 5 (duplicate),CIN -0.5,KC,-140,0,0,push,2026-06-01,Ticket 839. VOIDED.
+1513,2026-06-01,Baseball,MLB,TB @ DET,1st 5 Run Line,Rays -0.5 1st 5,TB -0.5,DET,-115,172.50,150,lost,2026-06-01,Ticket 357. TB lost 1st 5.
+1514,2026-06-01,Baseball,MLB,TB @ DET,Run Line,Rays -1.5,TB -1.5,DET,+135,150,202.50,lost,2026-06-01,Ticket 358. TB lost game.
+1515,2026-06-01,Baseball,MLB,TB @ DET,Run Line,Rays -1.5 (line shop),TB -1.5,DET,+135,150,202.50,lost,2026-06-01,Ticket 481. Duplicate.
+1516,2026-06-01,Baseball,MLB,TB @ DET,1st 5 Run Line,Rays -0.5 1st 5 (line shop),TB -0.5,DET,-115,172.50,150,lost,2026-06-01,Ticket 482. Duplicate.
+1517,2026-06-01,Baseball,MLB,WSH @ MIA,Run Line,Nationals -1.5,WSH -1.5,MIA,+144,100,144,lost,2026-06-01,Ticket 368.
+1518,2026-06-01,Baseball,MLB,WSH @ MIA,Money Line,Nationals ML,WSH,MIA,-140,140,100,lost,2026-06-01,Ticket 369.
+1519,2026-06-01,Baseball,MLB,WSH @ MIA,1st 5 Run Line,Nationals -0.5 1st 5,WSH -0.5,MIA,-105,105,100,won,2026-06-01,Ticket 370.
+1520,2026-06-01,Baseball,MLB,WSH @ MIA,1st 5 Money Line,Nationals ML 1st 5,WSH,MIA,-145,145,100,won,2026-06-01,Ticket 371.
+1521,2026-06-01,Baseball,MLB,MIL @ SF,1st 5 Run Line,Brewers -0.5 1st 5,MIL -0.5,SF,+110,100,110,won,2026-06-01,Ticket 375.
+1522,2026-06-01,Baseball,MLB,MIL @ SF,1st 5 Money Line,Brewers ML 1st 5,MIL,SF,-133,133,100,won,2026-06-01,Ticket 376.
+1523,2026-06-01,Baseball,MLB,MIL @ SF,Run Line,Brewers -1.5,MIL -1.5,SF,+148,100,148,won,2026-06-01,Ticket 377.
+1524,2026-06-01,Baseball,MLB,MIL @ SF,Money Line,Brewers ML,MIL,SF,-147,147,100,won,2026-06-01,Ticket 378.
+1525,2026-06-01,Baseball,MLB,SEA @ NYM,1st 5 Run Line,Mariners -0.5 1st 5,SEA -0.5,NYM,+105,150,157.50,lost,2026-06-01,Ticket 402. 1st 5 tied 1-1.
+1526,2026-06-01,Baseball,MLB,STL @ TEX,1st 5 Run Line,Rangers -0.5 1st 5,TEX -0.5,STL,+110,100,110,won,2026-06-01,Ticket 439.
+1527,2026-06-01,Baseball,MLB,STL @ TEX,1st 5 Money Line,Rangers ML 1st 5,TEX,STL,-130,130,100,won,2026-06-01,Ticket 440.
+1528,2026-06-01,Baseball,MLB,5-team Round Robin all-ways,Round Robin,$25 RR all-ways: CIN -1.5 / TB -1.5 / TEX -0.5 1st 5 / MIL -1.5 / SEA -0.5 1st 5,26 parlays @ $25,Various,Mixed,275.10,0,lost,2026-06-01,"Ticket 728. Original $650 stake (26x$25 all-ways). CIN void (Burns scratched), TB L, TEX W, MIL W, SEA L. 4 winning slips returned $374.90: TEX single $52.50, MIL single $62, TEX+MIL double $130.20 x2. Net realized -$275.10."
+1529,2026-06-02,Baseball,MLB,NYY @ CLE,Run Line,Yankees -1.5,NYY -1.5,CLE,-110,220,200,lost,2026-06-02,Ticket 411. NYY 4 - CLE 9.
+1530,2026-06-02,Baseball,MLB,MIL @ SF,Run Line,Brewers -1.5,MIL -1.5,SF,+120,200,240,won,2026-06-02,Ticket 412. MIL 8 - SF 3.
+1531,2026-06-02,Baseball,MLB,BOS @ BAL,Run Line,Red Sox -1.5,BOS -1.5,BAL,+155,100,155,lost,2026-06-02,Ticket 445. BOS 2 - BAL 4.
+1532,2026-06-02,Baseball,MLB,LAD @ ARI,Money Line,Diamondbacks ML,ARI,LAD,-102,102,100,lost,2026-06-02,Ticket 446.
+1533,2026-06-02,Baseball,MLB,ATL @ TOR,Run Line,Braves -1.5,ATL -1.5,TOR,+170,100,170,lost,2026-06-02,Ticket 447. ATL 4 - TOR 3.
+1534,2026-06-02,Baseball,MLB,LAD @ ARI,1st 5 Run Line,Diamondbacks +0.5 1st 5,ARI +0.5,LAD,-140,140,100,lost,2026-06-02,Ticket 448.
+1535,2026-06-02,Baseball,MLB,5-team Round Robin all-ways,Round Robin,$25 RR all-ways: NYY -1.5 / MIL -1.5 / ATL -1.5 / BOS -1.5 / ARI ML,26 parlays @ $25,Various,Mixed,650,0,lost,2026-06-02,Ticket 390. Only MIL won. 0 winning slips. Full $650 loss.
+1536,2026-06-03,Mixed,NBA+MLB,NBA Finals + MLB parlay,Parlay,2-leg: SAS -5 / CIN ML (Must Start),SAS -5 / CIN ML,Various,Mixed,150,0,lost,2026-06-03,Ticket 410248343. CIN ML voided (pitcher Must Start failed). Reduced to SAS -5 single which lost. Net -$150.
+1537,2026-06-03,Baseball,MLB,PHI @ SD,1st 5 Run Line,Phillies -0.5 1st 5,PHI -0.5,SD,-150,300,200,won,2026-06-03,Ticket 410396102.
+1538,2026-06-03,Baseball,MLB,PHI @ SD,Run Line,Phillies -1.5,PHI -1.5,SD,-101,202,200,lost,2026-06-03,Ticket 410396103.
+1539,2026-06-03,Baseball,MLB,CIN game 970,1st 5 Run Line,Reds -0.5 1st 5,CIN -0.5,Opp,-115,230,200,lost,2026-06-03,Ticket 410396130.
+1540,2026-06-03,Baseball,MLB,HOU @ PIT,1st 5 Run Line,Pirates -0.5 1st 5 (Skenes),PIT -0.5,HOU,-115,115,100,won,2026-06-03,Ticket 410396156.
+1541,2026-06-03,Baseball,MLB,HOU @ PIT,Run Line,Pirates -1.5,PIT -1.5,HOU,+110,100,110,lost,2026-06-03,Ticket 410396157.
+1542,2026-06-03,Baseball,MLB,NYY @ CLE,1st 5 Run Line,Guardians +0.5 1st 5,CLE +0.5,NYY,-135,135,100,won,2026-06-03,Ticket 410396191.
+1543,2026-06-03,Baseball,MLB,NYY @ CLE,1st 5 Money Line,Guardians ML 1st 5,CLE,NYY,+110,100,110,won,2026-06-03,Ticket 410396192.
+1544,2026-06-03,Baseball,MLB,ARI @ LAD,1st 5 Run Line,Dodgers -0.5 1st 5,LAD -0.5,ARI,-135,202.50,150,won,2026-06-03,Ticket 410396222.
+1545,2026-06-03,Baseball,MLB,NYY @ CLE,Money Line,Guardians ML,CLE,NYY,+126,100,126,won,2026-06-03,Ticket 410396264.
+1546,2026-06-03,Mixed,NBA+MLB,2-leg parlay,Parlay,SAS -4.5 / LAD ML 1st 5,SAS -4.5 / LAD 1st 5,Various,Mixed,75,0,lost,2026-06-03,Ticket 410399222.
+1547,2026-06-03,Mixed,NBA+MLB,3-leg parlay,Parlay,SAS -4.5 / CIN ML (game 970) / PHI ML 1st 5,3-leg,Various,Mixed,75,0,lost,2026-06-03,Ticket 410399251.
+1548,2026-06-04,Baseball,MLB,PHI @ SD,Run Line,Phillies -1.5 (Wheeler),PHI -1.5,SD,+110,450,495,won,2026-06-04,Ticket 676.
+1549,2026-06-04,Baseball,MLB,ARI @ LAD,Run Line,Dodgers -1.5,LAD -1.5,ARI,+110,200,220,lost,2026-06-04,Ticket 681.
+1550,2026-06-04,Baseball,MLB,ARI @ LAD,Money Line,Dodgers ML,LAD,ARI,-135,202.50,150,lost,2026-06-04,Ticket 682.
+1551,2026-06-04,Baseball,MLB,MIL @ SF,Run Line,Brewers -1.5,MIL -1.5,SF,+110,250,275,lost,2026-06-04,Ticket 689.
+1552,2026-06-04,Baseball,MLB,CHC @ OAK,Run Line,Cubs -1.5,CHC -1.5,OAK,+144,150,216,lost,2026-06-04,Ticket 692.
+1553,2026-06-04,Baseball,MLB,CHC @ OAK,Money Line,Cubs ML,CHC,OAK,-127,127,100,won,2026-06-04,Ticket 693. To Win adjusted 150.
+1554,2026-06-04,Baseball,MLB,ARI @ LAD,1st 5 Run Line,Dodgers -0.5 1st 5,LAD -0.5,ARI,+105,200,210,won,2026-06-04,Ticket 709.
+1555,2026-06-04,Baseball,MLB,HOU @ PIT,1st 5 Run Line,Pirates -0.5 1st 5,PIT -0.5,HOU,+125,200,250,won,2026-06-04,Ticket 710.
+1556,2026-06-04,Baseball,MLB,NYY @ CLE,1st 5 Money Line,Guardians ML 1st 5 (Cole),CLE,NYY,+148,0,0,push,2026-06-04,Ticket 711. 1st 5 tied.
+1557,2026-06-04,Baseball,MLB,5-team Round Robin all-ways,Round Robin,$25 RR all-ways: PHI -1.5 / LAD -1.5 / MIL -1.5 / CHC -1.5 / PIT -0.5 1st 5,26 parlays @ $25,Various,Mixed,520.85,0,lost,2026-06-04,"Ticket 762. Original $650 stake. PHI W, LAD L, MIL L, CHC L, PIT W. PHI+PIT double cashed = $129.15. Net realized -$520.85."
+1558,2026-06-05,Baseball,MLB,TEX @ CLE,1st 5 Run Line,Guardians -0.5 1st 5,CLE -0.5,TEX,+108,200,216,won,2026-06-05,Ticket 410456122.
+1559,2026-06-05,Baseball,MLB,TEX @ CLE,1st 5 Money Line,Guardians ML 1st 5,CLE,TEX,-135,150,111.11,won,2026-06-05,Ticket 410456123. To Win 150 displayed.
+1560,2026-06-05,Baseball,MLB,TEX @ CLE,Run Line,Guardians -1.5,CLE -1.5,TEX,+125,150,187.50,lost,2026-06-05,Ticket 410456421.
+1561,2026-06-05,Baseball,MLB,TEX @ CLE,Money Line,Guardians ML,CLE,TEX,-135,202.50,150,lost,2026-06-05,Ticket 410456422.
+1562,2026-06-05,Baseball,MLB,MIN @ KC,1st 5 Money Line,Royals ML 1st 5,KC,MIN,-102,306,300,won,2026-06-05,Ticket 410456132.
+1563,2026-06-05,Baseball,MLB,MIN @ KC,Money Line,Royals ML,KC,MIN,-113,339,300,lost,2026-06-05,Ticket 410456407.
+1564,2026-06-05,Baseball,MLB,DET @ SEA,1st 5 Money Line,Mariners ML 1st 5,SEA,DET,-130,130,100,lost,2026-06-05,Ticket 410456389.
+1565,2026-06-05,Baseball,MLB,DET @ SEA,Money Line,Mariners ML,SEA,DET,-128,128,100,lost,2026-06-05,Ticket 410456390.
+1566,2026-06-05,Baseball,MLB,DET @ SEA,Run Line,Mariners -1.5,SEA -1.5,DET,+135,100,135,lost,2026-06-05,Ticket 410456391.
+1567,2026-06-05,Baseball,MLB,DET @ SEA,Run Line,Mariners -1.5 (line shop),SEA -1.5,DET,+135,100,135,lost,2026-06-05,Ticket 410457112.
+1568,2026-06-05,Baseball,MLB,DET @ SEA,Money Line,Mariners ML (dup),SEA,DET,-128,128,100,lost,2026-06-05,Ticket 410457113. Duplicate.
+1569,2026-06-05,Baseball,MLB,DET @ SEA,1st 5 Money Line,Mariners ML 1st 5 (dup),SEA,DET,-130,130,100,lost,2026-06-05,Ticket 410457114. Duplicate.
+1570,2026-06-05,Baseball,MLB,PHI @ CWS,Run Line,White Sox +1.5,CWS +1.5,PHI,-130,130,100,lost,2026-06-05,Ticket 410456418.
+1571,2026-06-05,Baseball,MLB,PHI @ CWS,Money Line,White Sox ML,CWS,PHI,+157,100,157,lost,2026-06-05,Ticket 410456419.
+1572,2026-06-05,Baseball,MLB,PHI @ CWS,1st 5 Money Line,White Sox ML 1st 5,CWS,PHI,+152,100,152,lost,2026-06-05,Ticket 410456420.
+1573,2026-06-05,Baseball,MLB,PHI @ CWS,Run Line,Phillies -1.5,PHI -1.5,CWS,+110,200,220,won,2026-06-05,Ticket 410457132.
+1574,2026-06-05,Baseball,MLB,ATL @ PIT,Run Line,Braves -1.5,ATL -1.5,PIT,+157,200,314,won,2026-06-05,Ticket 410457133.
+1575,2026-06-05,Baseball,MLB,ATL @ PIT,Money Line,Braves ML,ATL,PIT,-135,270,200,won,2026-06-05,Ticket 410457134.
+1576,2026-06-05,Baseball,MLB,5-team Round Robin all-ways (game spreads),Round Robin,$25 RR all-ways: SEA -1.5 / PHI -1.5 / ATL -1.5 / CLE -1.5 / MIL -1.5,26 parlays @ $25,Various,Mixed,14.23,0,lost,2026-06-05,"Ticket 410457456. Original $650 stake. PHI W, ATL W, MIL -1.5 -101 W, SEA L, CLE L. 4 winning parlays returned $635.77 (3 doubles + 1 triple). Net realized -$14.23."
+1577,2026-06-05,Baseball,MLB,5-team Round Robin all-ways (1st 5 spreads),Round Robin,$10 RR all-ways: ATL 1st 5 +100 / SD 1st 5 +110 / SEA 1st 5 +115 / CLE 1st 5 +105 / MIL 1st 5 -115,26 parlays @ $10,Various,Mixed,219,0,lost,2026-06-05,"Original $260 stake. ATL W, CLE W; SD L, SEA L, MIL L. 1 winner ATL+CLE double = $10 × 2.00 × 2.05 = $41. Net realized -$219."
+1578,2026-06-06,Baseball,MLB,NYY @ BOS,1st 5 (voided),Suarez/Warren Must Start failed,—,NYY/BOS,—,0,0,push,2026-06-06,Ticket 595. VOIDED.
+1579,2026-06-06,Baseball,MLB,NYY @ BOS,Voided,Pitcher Must Start failed,—,NYY/BOS,—,0,0,push,2026-06-06,Ticket 596. VOIDED.
+1580,2026-06-06,Baseball,MLB,NYY @ BOS,Voided,Pitcher Must Start failed,—,NYY/BOS,—,0,0,push,2026-06-06,Ticket 597. VOIDED.
+1581,2026-06-06,Baseball,MLB,NYY @ BOS,Voided,Pitcher Must Start failed,—,NYY/BOS,—,0,0,push,2026-06-06,Ticket 599. VOIDED.
+1582,2026-06-06,Baseball,MLB,DET @ SEA,1st 5 Money Line,Mariners ML 1st 5,SEA,DET,-129,193.50,150,won,2026-06-06,Ticket 594.
+1583,2026-06-06,Baseball,MLB,DET @ SEA,Run Line,Mariners -1.5,SEA -1.5,DET,+125,150,187.50,won,2026-06-06,Ticket 598.
+1584,2026-06-06,Baseball,MLB,DET @ SEA,Money Line,Mariners ML,SEA,DET,-128,192,150,won,2026-06-06,Ticket 600.
+1585,2026-06-06,Baseball,MLB,DET @ SEA,1st 5 Run Line,Mariners -0.5 1st 5,SEA -0.5,DET,+107,150,160.50,won,2026-06-06,Ticket 601.
+1586,2026-06-06,Baseball,MLB,3-leg parlay (NYY leg voided),Parlay,SEA ML 1st 5 / NYY ML 1st 5 (void) / LAD -1.5,2-leg after void,Various,Mixed,150,282.70,won,2026-06-06,"Ticket 618. NYY leg voided, reduced to 2-leg parlay which won."
+1587,2026-06-06,Horse Racing,NYRA,Saratoga R13 (Belmont Stakes),W/P/S,$300 W/P/S on #4,#4,Field,—,174,0,lost,2026-06-06,$300 stake; net realized -$174.
+1588,2026-06-06,Horse Racing,NYRA,Saratoga R13,Exacta Box,"$20 exacta box 2,4,8",2/4/8,Field,—,120,0,lost,2026-06-06,Net -$120.
+1589,2026-06-06,Horse Racing,NYRA,Saratoga R13,Trifecta Box,"$10 trifecta box 2,4,8,9",2/4/8/9,Field,—,240,0,lost,2026-06-06,Net -$240.
+1590,2026-06-06,Horse Racing,NYRA,Saratoga R13,Superfecta Box,"$1 super box 2,4,7,8,9",2/4/7/8/9,Field,—,120,0,lost,2026-06-06,Net -$120.
+1591,2026-06-06,Horse Racing,NYRA,Saratoga R13,Superfecta Box,"$1 super box 3,4,7,8,9",3/4/7/8/9,Field,—,0,117,won,2026-06-06,Net +$117.
+1592,2026-06-06,Horse Racing,NYRA,Saratoga R13,Exacta Box,"$20 exacta box 3,4,9",3/4/9,Field,—,120,0,lost,2026-06-06,Net -$120.
+1593,2026-06-07,Motorsports,F1,Monaco GP,Driver Winner,George Russell ML,Russell,Field,+525,300,1575,lost,2026-06-07,Ticket 410248841.
+1594,2026-06-07,Motorsports,F1,Monaco GP,Top 3 Finish,George Russell Top-3,Russell Top-3,Field,-111,333,300,lost,2026-06-07,Ticket 410248842.
+1595,2026-06-07,Motorsports,F1,Monaco GP,Winning Constructor,Mercedes winning car,Mercedes,Field,+220,300,660,won,2026-06-07,Ticket 410248843.
+1596,2026-06-07,Baseball,MLB,NYY @ BOS,1st 5 Run Line,Yankees -0.5 1st 5 (Suarez/Schlittler),NYY -0.5,BOS,-115,172.50,150,won,2026-06-07,Ticket 410561291.
+1597,2026-06-07,Baseball,MLB,COL @ MIL,1st 5 Run Line,Brewers -0.5 1st 5 (Drohan/Freeland),MIL -0.5,COL,-123,246,200,lost,2026-06-07,Ticket 410561292.
+1598,2026-06-07,Baseball,MLB,NYY @ BOS,Money Line,Yankees ML,NYY,BOS,-147,220.50,150,won,2026-06-07,Ticket 410561293.
+1599,2026-06-07,Baseball,MLB,TEX @ CLE,Money Line,Rangers ML (deGrom),TEX,CLE,-139,278,200,won,2026-06-07,Ticket 410561294.
+1600,2026-06-07,Baseball,MLB,NYY @ BOS,Run Line,Yankees -1.5,NYY -1.5,BOS,+142,150,213,won,2026-06-07,Ticket 410561295.
+1601,2026-06-08,Baseball,MLB,TOR @ PHI,Run Line,Phillies -1.5 (Corbin),PHI -1.5,TOR,-101,101,100,won,2026-06-08,Ticket 410585138.
+1602,2026-06-08,Baseball,MLB,TOR @ PHI,1st 5 Run Line,Phillies -0.5 1st 5,PHI -0.5,TOR,-125,250,200,won,2026-06-08,Ticket 410585139.
+1603,2026-06-08,Baseball,MLB,SF @ WSH,1st 5 Run Line,Giants -0.5 1st 5 (Mikolas/Webb),SF -0.5,WSH,-120,0,0,push,2026-06-08,Ticket 410585146. Pushed.
+1604,2026-06-08,Baseball,MLB,SD @ CIN,1st 5 Run Line,Padres -0.5 1st 5 (Buehler),SD -0.5,CIN,+115,100,115,lost,2026-06-08,Ticket 410585984. Tied 1st 5.
+1605,2026-06-08,Baseball,MLB,SD @ CIN,1st 5 Money Line,Padres ML 1st 5,SD,CIN,-124,0,0,push,2026-06-08,Ticket 410585985. Pushed.
+1606,2026-06-08,Baseball,MLB,OAK @ MIL,Money Line,Brewers ML (Springs),MIL,OAK,-155,232.50,150,won,2026-06-08,Ticket 410586005.
+1607,2026-06-09,Baseball,MLB,PHI game,Money Line,Phillies ML,PHI,Opp,-112,280,250,lost,2026-06-09,Wagerhouse.
+1608,2026-06-09,Baseball,MLB,CIN game,Money Line,Reds ML,CIN,Opp,-116,232,200,won,2026-06-09,Wagerhouse.
+1609,2026-06-09,Baseball,MLB,ATL game,Run Line,Braves -1.5,ATL -1.5,Opp,+105,0,0,push,2026-06-09,Wagerhouse. No action / void.
+1610,2026-06-09,Baseball,MLB,ATL game,Money Line,Braves ML,ATL,Opp,-150,114,76,lost,2026-06-09,Wagerhouse.
+1611,2026-06-09,Baseball,MLB,NYY game,Money Line,Yankees ML,NYY,Opp,-128,160,125,won,2026-06-09,Wagerhouse.
+1612,2026-06-09,Baseball,MLB,NYY game,1st 5 Run Line,Yankees -0.5 1st 5,NYY -0.5,Opp,+115,200,230,lost,2026-06-09,Wagerhouse.
+1613,2026-06-09,Baseball,MLB,ATL game,1st 5 Run Line,Braves -0.5 1st 5,ATL -0.5,Opp,-105,210,200,won,2026-06-09,Wagerhouse.
+1614,2026-06-09,Baseball,MLB,PHI game,1st 5 Money Line,Phillies ML 1st 5,PHI,Opp,-110,165,150,won,2026-06-09,Wagerhouse.
+1615,2026-06-09,Baseball,MLB,MIA game,1st 5 Run Line,Marlins -0.5 1st 5,MIA -0.5,Opp,+100,150,150,won,2026-06-09,Wagerhouse.
+1616,2026-06-10,Baseball,MLB,PHI game,1st 5 Run Line,Phillies -0.5 1st 5,PHI -0.5,Opp,-115,230,200,won,2026-06-10,Wagerhouse.
+1617,2026-06-10,Baseball,MLB,ATL game,1st 5 Run Line,Braves -0.5 1st 5,ATL -0.5,Opp,-110,220,200,lost,2026-06-10,Wagerhouse.
+1618,2026-06-10,Baseball,MLB,LAD game,1st 5 Money Line,Dodgers ML 1st 5,LAD,Opp,-200,200,100,won,2026-06-10,Wagerhouse.
+1619,2026-06-10,Baseball,MLB,SEA game,1st 5 Money Line,Mariners ML 1st 5,SEA,Opp,-120,0,0,push,2026-06-10,Wagerhouse. Push.
+1620,2026-06-10,Baseball,MLB,CHC game,1st 5 Run Line,Cubs -0.5 1st 5,CHC -0.5,Opp,-120,150,125,won,2026-06-10,Wagerhouse.
+1621,2026-06-10,Baseball,MLB,LAD game,Alt Run Line,LAD Alt RL -2.5,LAD -2.5,Opp,+120,100,120,lost,2026-06-10,Wagerhouse.
+1622,2026-06-10,Baseball,MLB,ATL game,Alt Run Line,ATL Alt RL -2.5,ATL -2.5,Opp,+190,75,142.50,lost,2026-06-10,Wagerhouse.
+1623,2026-06-10,Baseball,MLB,CHC game,Alt Run Line,CHC Alt RL -2.5,CHC -2.5,Opp,+115,50,57.50,lost,2026-06-10,Wagerhouse.
+1624,2026-06-10,Mixed,NBA+MLB,5-team Round Robin all-ways,Round Robin,$10 RR all-ways: Spurs Alt -3.5 +150 / LAD Alt -2.5 / ATL Alt -2.5 / CHC Alt -2.5 / PHI Alt -2.5 +175,26 parlays @ $10,Various,Mixed,260,0,lost,2026-06-10,Original $260 stake. Only PHI won. 0 cashed parlays. Full -$260.
+1625,2026-06-11,Baseball,MLB,LAD game,1st 5 Run Line,Dodgers -0.5 1st 5,LAD -0.5,Opp,-120,240,200,won,2026-06-11,Wagerhouse.
+1626,2026-06-11,Baseball,MLB,TEX game,1st 5 Run Line,Rangers +0.5 1st 5,TEX +0.5,Opp,-140,207.20,148,won,2026-06-11,Wagerhouse.
+1627,2026-06-11,Baseball,MLB,STL game,1st 5 Money Line,Cardinals ML 1st 5,STL,Opp,+135,0,0,push,2026-06-11,Wagerhouse. Push.
+1628,2026-06-11,Baseball,MLB,STL game,1st 5 Run Line,Cardinals +0.5 1st 5,STL +0.5,Opp,-105,78.75,75,won,2026-06-11,Wagerhouse.
+1629,2026-06-11,Baseball,MLB,4-leg parlay,Parlay,LAD Alt RL +145 / TEX Alt RL +145 / SEA ML 1st 5 -115 / STL ML +137,4-leg,Various,Mixed,50,0,lost,2026-06-11,Wagerhouse.
+1630,2026-06-12,Baseball,MLB,NYM @ ATL,1st 5 Money Line,Braves ML 1st 5 (Strider),ATL,NYM,+100,150,150,lost,2026-06-12,Ticket 410776149.
+1631,2026-06-12,Baseball,MLB,NYM @ ATL,1st 5 Money Line,Braves ML 1st 5 (dup),ATL,NYM,+102,50,51,lost,2026-06-12,Ticket 410776221.
+1632,2026-06-12,Baseball,MLB,LAA @ TB,1st 5 Run Line,Rays -0.5 1st 5 (McClanahan),TB -0.5,LAA,-125,200,160,lost,2026-06-12,Ticket 410776222.
+1633,2026-06-12,Baseball,MLB,WSH @ SEA,1st 5 Money Line,Mariners ML 1st 5,SEA,WSH,-140,140,100,won,2026-06-12,Ticket 410776364.
+1634,2026-06-12,Baseball,MLB,CIN @ ARI,1st 5 Money Line,Diamondbacks ML 1st 5 (Lodolo),ARI,CIN,-115,115,100,lost,2026-06-12,Ticket 410776365.
+1635,2026-06-12,Mixed,MLB+Soccer,4-team parlay,Parlay,ATL ML 1st 5 / MIL ML 1st 5 / TB ML 1st 5 / USA ML,4-leg,Various,Mixed,100,0,lost,2026-06-12,Ticket 410776400.
+1636,2026-06-12,Baseball,MLB,CIN @ ARI,1st 5 Money Line,Diamondbacks ML 1st 5 (dup),ARI,CIN,-107,133.75,125,lost,2026-06-12,Ticket 410778384.
+1637,2026-06-12,Baseball,MLB,CHC game,Money Line,Cubs ML,CHC,Opp,-105,105,100,won,2026-06-12,Wagerhouse.
+1638,2026-06-12,Baseball,MLB,ATL game,1st 5 Run Line,Braves +0.5 1st 5,ATL +0.5,Opp,-130,260,200,lost,2026-06-12,Wagerhouse.
+1639,2026-06-12,Baseball,MLB,CLE game,1st 5 Run Line,Guardians -0.5 1st 5,CLE -0.5,Opp,+120,150,180,won,2026-06-12,Wagerhouse.
+1640,2026-06-12,Baseball,MLB,MIN game,1st 5 Run Line,Twins -0.5 1st 5,MIN -0.5,Opp,-105,157,150,lost,2026-06-12,Wagerhouse.
+1641,2026-06-12,Mixed,MLB+Soccer,5-team Round Robin all-ways,Round Robin,$10 RR all-ways: Braves -1.5 +150 / Cubs -1.5 +150 / Guardians -2.5 +255 / USA ML +105 / Rays -2.5 +150,26 parlays @ $10,Various,Mixed,208.75,0,lost,2026-06-12,"Original $260 stake. ATL L, CHC W, CLE L, USA W, TB L. CHC+USA double cashed = $51.25. Net realized -$208.75."
+1642,2026-06-12,Soccer,International,Bosnia game,Asian Handicap,Bosnia +0.5,Bosnia +0.5,Opp,+100,150,150,won,2026-06-12,Wagerhouse.
+1643,2026-06-12,Soccer,International,USA vs PAR,Combo,BTTS Yes + Over 1.5,BTTS Yes + O1.5,PAR,Combo,0,100,won,2026-06-12,Wagerhouse. Combined +$100.
+1644,2026-06-13,Soccer,International,Brazil match,1st Half ML,Brazil ML 1st Half,Brazil 1H,Opp,+120,200,240,lost,2026-06-13,Wagerhouse.
+1645,2026-06-13,Soccer,International,Brazil match,Asian Handicap,Brazil -0.5,Brazil -0.5,Opp,-150,600,400,lost,2026-06-13,Wagerhouse.
+1646,2026-06-13,Soccer,International,2-leg parlay SCO/DEU,Parlay,Scotland + Germany to win,2-leg,Various,Combo,0,305,won,2026-06-13,Ticket 410856488.
+1647,2026-06-13,Baseball,MLB,PIT contest,1st 5 Money Line,PIT 1st 5 -148,PIT,Opp,-148,740,500,lost,2026-06-13,Ticket 410883627.
+1648,2026-06-13,Baseball,MLB,BOS @ TEX,1st 5 Run Line,Rangers +0.5 1st 5 (deGrom),TEX +0.5,BOS,-145,362.50,250,won,2026-06-13,Ticket 410883656. Risk shown 250.
+1649,2026-06-13,Baseball,MLB,BOS @ TEX,1st 5 Money Line,Rangers ML 1st 5,TEX,BOS,-110,275,250,won,2026-06-13,Ticket 410883657.
+1650,2026-06-13,Baseball,MLB,CIN @ ARI,1st 5 Run Line,Diamondbacks +0.5 1st 5 (Abbott/Gallen),ARI +0.5,CIN,-145,362.50,250,lost,2026-06-13,Ticket 410883679.
+1651,2026-06-13,Baseball,MLB,CIN @ ARI,1st 5 Money Line,Diamondbacks ML 1st 5,ARI,CIN,-110,275,250,lost,2026-06-13,Ticket 410883680.
+1652,2026-06-13,Baseball,MLB,KC @ HOU,1st 5 Run Line,Astros +0.5 1st 5,HOU +0.5,KC,-140,350,250,lost,2026-06-13,Ticket 410883697.
+1653,2026-06-13,Baseball,MLB,KC @ HOU,1st 5 Money Line,Astros ML 1st 5,HOU,KC,+100,250,250,lost,2026-06-13,Ticket 410883698.
+1654,2026-06-13,Baseball,MLB,WSH @ SEA,Money Line,Mariners ML,SEA,WSH,-128,640,500,lost,2026-06-13,Ticket 410884154.
+1655,2026-06-13,Baseball,MLB,WSH @ SEA,1st 5 Money Line,Mariners ML 1st 5,SEA,WSH,-130,650,500,lost,2026-06-13,Ticket 410884155.
+1656,2026-06-13,Baseball,MLB,TOR @ NYY,Money Line,Yankees ML (Corbin),NYY,TOR,-123,615,500,won,2026-06-13,Ticket 410884156.
+1657,2026-06-13,Baseball,MLB,MIL @ PHI,Money Line,Phillies ML,PHI,MIL,-123,615,500,lost,2026-06-13,Ticket 410884157.
+1658,2026-06-13,Baseball,MLB,OAK @ COL,Money Line,Athletics ML (Sugano),OAK,COL,-190,950,500,lost,2026-06-13,Ticket 410884158.
+1659,2026-06-13,Baseball,MLB,LAA @ TB,Money Line,Rays ML,TB,LAA,-116,580,500,won,2026-06-13,Ticket 410884159.
+1660,2026-06-13,Soccer,International,Ivory Coast vs Ecuador,Correct Score,0-0 draw,0-0,Match,-143,715,500,lost,2026-06-13,Ticket 410901654. Loss shown 500 in summary.
+1661,2026-06-16,Baseball,MLB,PHI game,Run Line,Phillies -1.5,PHI -1.5,Opp,+120,150,180,won,2026-06-16,Wagerhouse.
+1662,2026-06-16,Baseball,MLB,NYY game,Run Line,Yankees -1.5,NYY -1.5,Opp,+155,150,232.50,won,2026-06-16,Wagerhouse.
+1663,2026-06-16,Baseball,MLB,ATL game,Run Line,Braves -1.5 (called off),ATL -1.5,Opp,+120,0,0,push,2026-06-16,Wagerhouse. VOIDED - game called off.
+1664,2026-06-16,Baseball,MLB,CHC game,Run Line,Cubs -1.5,CHC -1.5,Opp,+100,150,150,lost,2026-06-16,Wagerhouse.
+1665,2026-06-16,Baseball,MLB,SEA game,Run Line,Mariners -1.5,SEA -1.5,Opp,+145,150,217.50,won,2026-06-16,Wagerhouse.
+1666,2026-06-16,Baseball,MLB,4-team Round Robin all-ways (ATL voided),Round Robin,$10 RR all-ways 4 games (per user): PHI -1.5 +120 / NYY -1.5 +155 / SEA -1.5 +145 / CHC -1.5 +100,11 parlays @ $10,Various,Mixed,0,199.93,won,2026-06-16,"Original $10 RR (5-game) reduced to 4-game per user (ATL called off). 11 parlays × $10 = $110 stake. PHI W, NYY W, SEA W, CHC L. Cashed: PHI+NYY $56.10, PHI+SEA $53.90, NYY+SEA $62.48, PHI+NYY+SEA triple $137.45. Return $309.93. Net realized +$199.93."
