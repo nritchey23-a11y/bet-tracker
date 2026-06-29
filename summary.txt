@@ -1,13 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-06-29T18:23:07.282653+00:00
-Total bets in tracker: 1686
+Generated: 2026-06-29T19:08:17.687869+00:00
+Total bets in tracker: 1700
 
 OVERALL STATUS
-  Won: 736  Lost: 880  Push: 36  Pending: 34
-  Lifetime settled P&L: $12,679.10
-  Pending risk: $24,890.00   Pending max win: $43,051.00
+  Won: 738  Lost: 881  Push: 37  Pending: 44
+  Lifetime settled P&L: $13,099.10
+  Pending risk: $30,315.00   Pending max win: $56,126.00
 
 RECENT DAYS (most recent 8 with activity)
+  2026-06-29: 2W-1L-1P  P&L: $420.00  Pending: 10 (risk $5,425.00, max $13,075.00)
   2026-06-28: 2W-1L  P&L: $1,803.00
   2026-06-27: 2W-4L  P&L: -$436.08
   2026-06-25: 0W-1L  P&L: -$121.00
@@ -15,15 +16,28 @@ RECENT DAYS (most recent 8 with activity)
   2026-06-21: 3W-0L  P&L: $659.00
   2026-06-19: 0W-6L  P&L: -$460.00
   2026-06-17: 0W-1L  P&L: -$150.00
-  2026-06-16: 4W-1L-1P  P&L: $679.93
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-06-23 → 2026-06-29: 5W-7L  P&L: $1,325.92
+  Week 2026-06-23 → 2026-06-29: 7W-8L-1P  P&L: $1,745.92  Pending: 10 (risk $5,425.00)
   Week 2026-06-16 → 2026-06-22: 7W-8L-1P  P&L: $728.93
   Week 2026-06-09 → 2026-06-15: 21W-30L-3P  P&L: -$4,963.00
   Week 2026-06-02 → 2026-06-08: 31W-40L-7P  P&L: -$878.27
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1702 | 2026-06-29 | Soccer/FIFA | Portugal eliminated in Last 16 | Pick: Portugal - Last 16 | Odds: +150 | Risk $1,000.00 → Win $1,500.00 | Status: pending  Notes: GameDayWagers ticket #411621899. Stage-of-elimination prop.
+#1701 | 2026-06-29 | Soccer/FIFA | Germany eliminated in Last 16 | Pick: Germany - Last 16 | Odds: +110 | Risk $1,000.00 → Win $1,100.00 | Status: pending  Notes: GameDayWagers ticket #411621900. Stage-of-elimination prop.
+#1700 | 2026-06-29 | Soccer/FIFA | Netherlands eliminated in Quarter-Finals | Pick: Netherlands - Quarter-Finals | Odds: +275 | Risk $400.00 → Win $1,100.00 | Status: pending  Notes: GameDayWagers ticket #411621901. Stage-of-elimination prop.
+#1699 | 2026-06-29 | Soccer/FIFA | Norway eliminated in Last 16 | Pick: Norway - Last 16 | Odds: +150 | Risk $500.00 → Win $750.00 | Status: pending  Notes: GameDayWagers ticket #411621902. Stage-of-elimination prop.
+#1698 | 2026-06-29 | Soccer/FIFA | Argentina eliminated in Runner up | Pick: Argentina - Runner up | Odds: +425 | Risk $500.00 → Win $2,125.00 | Status: pending  Notes: GameDayWagers ticket #411621903. Stage-of-elimination prop.
+#1697 | 2026-06-29 | Soccer/FIFA | United States eliminated in Quarter finals | Pick: United States - Quarter finals | Odds: +240 | Risk $500.00 → Win $1,200.00 | Status: pending  Notes: GameDayWagers ticket #411621904. Stage-of-elimination prop.
+#1696 | 2026-06-29 | Soccer/FIFA | Ivory Coast eliminated in Last 32 | Pick: Ivory Coast - Last 32 | Odds: -185 | Risk $925.00 → Win $500.00 | Status: pending  Notes: GameDayWagers ticket #411621905. Stage-of-elimination prop.
+#1695 | 2026-06-29 | Soccer/FIFA | Colombia eliminated in Quarter finals | Pick: Colombia - Quarter finals | Odds: +200 | Risk $500.00 → Win $1,000.00 | Status: pending  Notes: GameDayWagers ticket #411621906. Stage-of-elimination prop.
+#1694 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $75.00 → Win $2,850.00 | Status: pending  Notes: GameDayWagers ticket #411622757. Larger stake on same 5 legs as #411622793.
+#1693 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $25.00 → Win $950.00 | Status: pending  Notes: GameDayWagers ticket #411622793.
+#1692 | 2026-06-29 | Soccer/International | Brazil Game Money Line | Pick: Brazil ML | Odds: -125 | Risk $400.00 → Win $320.00 | Status: won  P&L: $320.00  Notes: GameDayWagers ticket #411622270.
+#1691 | 2026-06-29 | Soccer/International | Brazil Team Total - Over 1.5 | Pick: Brazil Over 1.5 | Odds: -100 | Risk $200.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: GameDayWagers ticket #411622271.
+#1690 | 2026-06-29 | Soccer/International | Brazil 1st Half Spread -0.5 | Pick: Brazil -0.5 (1H) | Odds: +140 | Risk $100.00 → Win $140.00 | Status: lost  P&L: -$100.00  Notes: GameDayWagers ticket #411622272.
+#1689 | 2026-06-29 | Soccer/International | Brazil/Japan 1st Half Total - Over 1 | Pick: Over 1 (1H) | Odds: +106 | Risk $100.00 → Win $106.00 | Status: push  P&L: $0.00  Notes: GameDayWagers ticket #411622273. 1HT total exactly 1 = PUSH.
 #1688 | 2026-06-28 | Soccer/International | 9-leg parlay: DC JOR/DRAW JOR-ARG / O0.5 JOR JOR-ARG / FRA ML FRA-SWE / USA ML USA-BIH / DEU ML DEU-PAR / BRA ML BRA-JPN + 3 more | Pick: 9-leg | Odds: Combo | Risk $150.00 → Win $0.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse ticket #392841418.
 #1687 | 2026-06-28 | Mixed/Mixed | 9-leg parlay: COD ML COD-UZB / ARG ML JOR-ARG / 1st Inning DRAW SEA@CLE + 6 more | Pick: 9-leg | Odds: Combo | Risk $350.00 → Win $833.00 | Status: won  P&L: $833.00  Notes: Wagerhouse ticket #392819170. Won +$833. Cross-sport (Soccer + MLB 1st inning).
 #1686 | 2026-06-28 | Mixed/Mixed | 9-leg parlay: ENG ML PAN-ENG / ARG ML JOR-ARG / DC COL/DRAW COL-PRT / COD ML COD-UZB + 5 more | Pick: 9-leg | Odds: Combo | Risk $350.00 → Win $1,120.00 | Status: won  P&L: $1,120.00  Notes: Wagerhouse ticket #392802361. Won +$1,120.
@@ -90,17 +104,3 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1625 | 2026-06-11 | Baseball/MLB | Dodgers -0.5 1st 5 | Pick: LAD -0.5 | Odds: -120 | Risk $240.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse.
 #1624 | 2026-06-10 | Mixed/NBA+MLB | $10 RR all-ways: Spurs Alt -3.5 +150 / LAD Alt -2.5 / ATL Alt -2.5 / CHC Alt -2.5 / PHI Alt -2.5 +175 | Pick: 26 parlays @ $10 | Odds: Mixed | Risk $260.00 → Win $0.00 | Status: lost  P&L: -$260.00  Notes: Original $260 stake. Only PHI won. 0 cashed parlays. Full -$260.
 #1623 | 2026-06-10 | Baseball/MLB | CHC Alt RL -2.5 | Pick: CHC -2.5 | Odds: +115 | Risk $50.00 → Win $57.50 | Status: lost  P&L: -$50.00  Notes: Wagerhouse.
-#1622 | 2026-06-10 | Baseball/MLB | ATL Alt RL -2.5 | Pick: ATL -2.5 | Odds: +190 | Risk $75.00 → Win $142.50 | Status: lost  P&L: -$75.00  Notes: Wagerhouse.
-#1621 | 2026-06-10 | Baseball/MLB | LAD Alt RL -2.5 | Pick: LAD -2.5 | Odds: +120 | Risk $100.00 → Win $120.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse.
-#1620 | 2026-06-10 | Baseball/MLB | Cubs -0.5 1st 5 | Pick: CHC -0.5 | Odds: -120 | Risk $150.00 → Win $125.00 | Status: won  P&L: $125.00  Notes: Wagerhouse.
-#1619 | 2026-06-10 | Baseball/MLB | Mariners ML 1st 5 | Pick: SEA | Odds: -120 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Wagerhouse. Push.
-#1618 | 2026-06-10 | Baseball/MLB | Dodgers ML 1st 5 | Pick: LAD | Odds: -200 | Risk $200.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse.
-#1617 | 2026-06-10 | Baseball/MLB | Braves -0.5 1st 5 | Pick: ATL -0.5 | Odds: -110 | Risk $220.00 → Win $200.00 | Status: lost  P&L: -$220.00  Notes: Wagerhouse.
-#1616 | 2026-06-10 | Baseball/MLB | Phillies -0.5 1st 5 | Pick: PHI -0.5 | Odds: -115 | Risk $230.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse.
-#1615 | 2026-06-09 | Baseball/MLB | Marlins -0.5 1st 5 | Pick: MIA -0.5 | Odds: +100 | Risk $150.00 → Win $150.00 | Status: won  P&L: $150.00  Notes: Wagerhouse.
-#1614 | 2026-06-09 | Baseball/MLB | Phillies ML 1st 5 | Pick: PHI | Odds: -110 | Risk $165.00 → Win $150.00 | Status: won  P&L: $150.00  Notes: Wagerhouse.
-#1613 | 2026-06-09 | Baseball/MLB | Braves -0.5 1st 5 | Pick: ATL -0.5 | Odds: -105 | Risk $210.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse.
-#1612 | 2026-06-09 | Baseball/MLB | Yankees -0.5 1st 5 | Pick: NYY -0.5 | Odds: +115 | Risk $200.00 → Win $230.00 | Status: lost  P&L: -$200.00  Notes: Wagerhouse.
-#1611 | 2026-06-09 | Baseball/MLB | Yankees ML | Pick: NYY | Odds: -128 | Risk $160.00 → Win $125.00 | Status: won  P&L: $125.00  Notes: Wagerhouse.
-#1610 | 2026-06-09 | Baseball/MLB | Braves ML | Pick: ATL | Odds: -150 | Risk $114.00 → Win $76.00 | Status: lost  P&L: -$114.00  Notes: Wagerhouse.
-#1609 | 2026-06-09 | Baseball/MLB | Braves -1.5 | Pick: ATL -1.5 | Odds: +105 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Wagerhouse. No action / void.
