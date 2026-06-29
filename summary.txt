@@ -1,11 +1,11 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-06-29T19:08:17.687869+00:00
-Total bets in tracker: 1700
+Generated: 2026-06-29T19:32:09.832394+00:00
+Total bets in tracker: 1755
 
 OVERALL STATUS
-  Won: 738  Lost: 881  Push: 37  Pending: 44
-  Lifetime settled P&L: $13,099.10
-  Pending risk: $30,315.00   Pending max win: $56,126.00
+  Won: 740  Lost: 881  Push: 37  Pending: 97
+  Lifetime settled P&L: $15,299.10
+  Pending risk: $68,190.00   Pending max win: $137,496.74
 
 RECENT DAYS (most recent 8 with activity)
   2026-06-29: 2W-1L-1P  P&L: $420.00  Pending: 10 (risk $5,425.00, max $13,075.00)
@@ -19,11 +19,66 @@ RECENT DAYS (most recent 8 with activity)
 
 RECENT WEEKS (Tue–Mon, most recent 4)
   Week 2026-06-23 → 2026-06-29: 7W-8L-1P  P&L: $1,745.92  Pending: 10 (risk $5,425.00)
-  Week 2026-06-16 → 2026-06-22: 7W-8L-1P  P&L: $728.93
-  Week 2026-06-09 → 2026-06-15: 21W-30L-3P  P&L: -$4,963.00
-  Week 2026-06-02 → 2026-06-08: 31W-40L-7P  P&L: -$878.27
+  Week 2026-06-16 → 2026-06-22: 7W-8L-1P  P&L: $728.93  Pending: 1 (risk $300.00)
+  Week 2026-06-09 → 2026-06-15: 21W-30L-3P  P&L: -$4,963.00  Pending: 12 (risk $10,300.00)
+  Week 2026-06-02 → 2026-06-08: 33W-40L-7P  P&L: $1,321.73  Pending: 31 (risk $22,225.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1757 | 2026-04-29 | Football/NFL | NFL 26/27 - Regular Season Wins - Props SEA Seahawks - Over 10.5 | Pick: SEA Over 10.5 | Odds: -130 | Risk $1,300.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #300514464. Pending NFL 2026-27 season.
+#1756 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props NFC West - SF 49ers | Pick: SF 49ers | Odds: +260 | Risk $375.00 → Win $975.00 | Status: pending  Notes: Wagerhouse contest ticket #300552455. Pending NFL 2026-27 season.
+#1755 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props AFC West - KC Chiefs | Pick: KC Chiefs | Odds: +170 | Risk $500.00 → Win $850.00 | Status: pending  Notes: Wagerhouse contest ticket #300552456. Pending NFL 2026-27 season.
+#1754 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props AFC North - CIN Bengals | Pick: CIN Bengals | Odds: +210 | Risk $500.00 → Win $1,050.00 | Status: pending  Notes: Wagerhouse contest ticket #300552457. Pending NFL 2026-27 season.
+#1753 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props NFC South - ATL Falcons | Pick: ATL Falcons | Odds: +450 | Risk $250.00 → Win $1,125.00 | Status: pending  Notes: Wagerhouse contest ticket #300552458. Pending NFL 2026-27 season.
+#1752 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props NFC East - WAS Commanders | Pick: WAS Commanders | Odds: +500 | Risk $250.00 → Win $1,250.00 | Status: pending  Notes: Wagerhouse contest ticket #300552459. Pending NFL 2026-27 season.
+#1751 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props NFC North - CHI Bears | Pick: CHI Bears | Odds: +320 | Risk $375.00 → Win $1,200.00 | Status: pending  Notes: Wagerhouse contest ticket #300552460. Pending NFL 2026-27 season.
+#1750 | 2026-05-27 | Baseball/MLB | MLB 2026 Division Winner - American League West - Seattle Mariners | Pick: Seattle Mariners | Odds: +110 | Risk $1,000.00 → Win $1,100.00 | Status: pending  Notes: Wagerhouse contest ticket #409988351. Pending end of 2026 MLB regular season.
+#1749 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Top African Team - Senegal | Pick: Senegal | Odds: +450 | Risk $150.00 → Win $675.00 | Status: pending  Notes: Wagerhouse contest ticket #410446169. Senegal still alive in tournament.
+#1748 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Top North American Team - United States | Pick: United States | Odds: +140 | Risk $725.00 → Win $1,015.00 | Status: pending  Notes: Wagerhouse contest ticket #410446170. Tournament-progression prop. USA leads NA region after group stage.
+#1747 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Group A Winner - Mexico | Pick: Mexico | Odds: -125 | Risk $1,000.00 → Win $800.00 | Status: won  P&L: $800.00  Notes: Wagerhouse contest ticket #410446171. Mexico won Group A outright.
+#1746 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Group D Winner - USA | Pick: USA | Odds: +140 | Risk $1,000.00 → Win $1,400.00 | Status: won  P&L: $1,400.00  Notes: Wagerhouse contest ticket #410446172. USA won Group D outright.
+#1745 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Tournament Winner - Portugal | Pick: Portugal | Odds: +1100 | Risk $500.00 → Win $5,500.00 | Status: pending  Notes: Wagerhouse contest ticket #410446173.
+#1744 | 2026-06-04 | Football/NFL | NFL 26/27 - Regular Season Wins - Props CIN Bengals - Over 10.5 | Pick: CIN Bengals Over 10.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: Wagerhouse contest ticket #410449424. Pending end of NFL 2026-27 regular season.
+#1743 | 2026-06-04 | Football/NFL | NFL 26/27 - Regular Season Wins - Props LA Chargers - Over 9.5 | Pick: LA Chargers Over 9.5 | Odds: -130 | Risk $1,300.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #410449425. Pending end of NFL 2026-27 regular season.
+#1742 | 2026-06-04 | Football/NFL | NFL 26/27 - Regular Season Wins - Props JAX Jaguars - Over 8.5 | Pick: JAX Jaguars Over 8.5 | Odds: -130 | Risk $1,300.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #410449426. Pending end of NFL 2026-27 regular season.
+#1741 | 2026-06-04 | Football/NFL | NFL 26/27 - Regular Season Wins - Props BUF Bills - Over 10.5 | Pick: BUF Bills Over 10.5 | Odds: -120 | Risk $900.00 → Win $750.00 | Status: pending  Notes: Wagerhouse contest ticket #410449427. Pending end of NFL 2026-27 regular season.
+#1740 | 2026-06-04 | Football/NFL | NFL 26/27 - Regular Season Wins - Props NY Jets - Under 5.5 | Pick: NY Jets Under 5.5 | Odds: -105 | Risk $1,050.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #410449428. Pending end of NFL 2026-27 regular season.
+#1739 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Ohio State - Over 9.5 | Pick: Ohio State Over 9.5 | Odds: -165 | Risk $1,650.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #410645367. Pending end of CFB 2026-27 regular season.
+#1738 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Oregon - Over 10.5 | Pick: Oregon Over 10.5 | Odds: +100 | Risk $1,000.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #410645368. Pending end of CFB 2026-27 regular season.
+#1737 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Georgia - Under 9.5 | Pick: Georgia Under 9.5 | Odds: +150 | Risk $750.00 → Win $1,125.00 | Status: pending  Notes: Wagerhouse contest ticket #410645369. Pending end of CFB 2026-27 regular season.
+#1736 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props South Carolina - Over 6.5 | Pick: South Carolina Over 6.5 | Odds: +115 | Risk $1,000.00 → Win $1,150.00 | Status: pending  Notes: Wagerhouse contest ticket #410645370. Pending end of CFB 2026-27 regular season.
+#1735 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Michigan - Over 8.5 | Pick: Michigan Over 8.5 | Odds: +135 | Risk $750.00 → Win $1,012.50 | Status: pending  Notes: Wagerhouse contest ticket #410645371. Pending end of CFB 2026-27 regular season.
+#1734 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props NC State - Over 7.5 | Pick: NC State Over 7.5 | Odds: +100 | Risk $1,000.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #410645372. Pending end of CFB 2026-27 regular season.
+#1733 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Iowa State - Over 5.5 | Pick: Iowa State Over 5.5 | Odds: +105 | Risk $750.00 → Win $787.50 | Status: pending  Notes: Wagerhouse contest ticket #410645373. Pending end of CFB 2026-27 regular season.
+#1732 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Washington - Over 7.5 | Pick: Washington Over 7.5 | Odds: -170 | Risk $1,000.00 → Win $588.24 | Status: pending  Notes: Wagerhouse contest ticket #410645374. Pending end of CFB 2026-27 regular season.
+#1731 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Kansas State - Over 8.5 | Pick: Kansas State Over 8.5 | Odds: +105 | Risk $750.00 → Win $787.50 | Status: pending  Notes: Wagerhouse contest ticket #410645375. Pending end of CFB 2026-27 regular season.
+#1730 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Northwestern - Under 5.5 | Pick: Northwestern Under 5.5 | Odds: -130 | Risk $650.00 → Win $500.00 | Status: pending  Notes: Wagerhouse contest ticket #410645404. Pending end of CFB 2026-27 regular season.
+#1729 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Virginia Tech - Under 6.5 | Pick: Virginia Tech Under 6.5 | Odds: +120 | Risk $500.00 → Win $600.00 | Status: pending  Notes: Wagerhouse contest ticket #410645405. Pending end of CFB 2026-27 regular season.
+#1728 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Nebraska - Over 6.5 | Pick: Nebraska Over 6.5 | Odds: +105 | Risk $500.00 → Win $525.00 | Status: pending  Notes: Wagerhouse contest ticket #410645406. Pending end of CFB 2026-27 regular season.
+#1727 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Netherlands | Pick: Netherlands | Odds: -150 | Risk $1,500.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Group stage in progress / R16 not yet clinched.
+#1726 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Norway | Pick: Norway | Odds: -150 | Risk $1,500.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Group stage in progress / R16 not yet clinched.
+#1725 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Colombia | Pick: Colombia | Odds: +120 | Risk $650.00 → Win $780.00 | Status: pending  Notes: Action Network. Group stage in progress / R16 not yet clinched.
+#1724 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Uruguay | Pick: Uruguay | Odds: +130 | Risk $600.00 → Win $780.00 | Status: pending  Notes: Action Network. Group stage status uncertain - mark pending pending user confirmation.
+#1723 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Portugal | Pick: Portugal | Odds: +125 | Risk $600.00 → Win $750.00 | Status: pending  Notes: Action Network.
+#1722 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Germany | Pick: Germany | Odds: +150 | Risk $500.00 → Win $750.00 | Status: pending  Notes: Action Network.
+#1721 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Netherlands | Pick: Netherlands | Odds: +160 | Risk $450.00 → Win $720.00 | Status: pending  Notes: Action Network.
+#1720 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Norway | Pick: Norway | Odds: +200 | Risk $400.00 → Win $800.00 | Status: pending  Notes: Action Network.
+#1719 | 2026-06-04 | Soccer/FIFA | Reach Final - Portugal | Pick: Portugal | Odds: +450 | Risk $550.00 → Win $2,475.00 | Status: pending  Notes: Action Network.
+#1718 | 2026-06-04 | Soccer/FIFA | Reach Final - Germany | Pick: Germany | Odds: +550 | Risk $500.00 → Win $2,750.00 | Status: pending  Notes: Action Network.
+#1717 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Portugal | Pick: Portugal | Odds: +250 | Risk $600.00 → Win $1,500.00 | Status: pending  Notes: Action Network.
+#1716 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Germany | Pick: Germany | Odds: +325 | Risk $500.00 → Win $1,625.00 | Status: pending  Notes: Action Network.
+#1715 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Netherlands | Pick: Netherlands | Odds: +450 | Risk $200.00 → Win $900.00 | Status: pending  Notes: Action Network.
+#1714 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Norway | Pick: Norway | Odds: +500 | Risk $200.00 → Win $1,000.00 | Status: pending  Notes: Action Network.
+#1713 | 2026-06-04 | Soccer/FIFA | Tournament Winner - Germany | Pick: Germany | Odds: +1500 | Risk $500.00 → Win $7,500.00 | Status: pending  Notes: Action Network.
+#1712 | 2026-06-04 | Soccer/FIFA | CONCACAF Top Finish - Mexico | Pick: Mexico | Odds: +160 | Risk $1,000.00 → Win $1,600.00 | Status: pending  Notes: Action Network.
+#1711 | 2026-06-04 | Soccer/FIFA | UEFA Top Finish - Germany | Pick: Germany | Odds: +900 | Risk $100.00 → Win $900.00 | Status: pending  Notes: Action Network.
+#1710 | 2026-06-04 | Football/NFL | Dallas Cowboys Regular Season Wins U 9.5 | Pick: DAL Under 9.5 | Odds: -115 | Risk $1,150.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
+#1709 | 2026-06-04 | Football/NFL | Detroit Lions Regular Season Wins O 10.5 | Pick: DET Over 10.5 | Odds: -125 | Risk $1,250.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
+#1708 | 2026-06-04 | Football/NFL | JAX Jaguars Regular Season Wins O 9.5 | Pick: JAX Over 9.5 | Odds: +120 | Risk $1,000.00 → Win $1,200.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
+#1707 | 2026-06-04 | Football/NFL | LA Chargers Regular Season Wins O 10.5 | Pick: LAC Over 10.5 | Odds: +120 | Risk $500.00 → Win $600.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
+#1706 | 2026-06-04 | Football/NFL | NY Giants Regular Season Wins O 7.5 | Pick: NYG Over 7.5 | Odds: -110 | Risk $550.00 → Win $500.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
+#1705 | 2026-06-04 | Football/NFL | Odds to win Div of Super Bowl Winner - NFC West | Pick: NFC West | Odds: +285 | Risk $1,000.00 → Win $2,850.00 | Status: pending  Notes: Action Network. Pending end of 2026-27 NFL season.
+#1704 | 2026-05-31 | Football/NCAAF | Odds to win Big Ten Championship Game | Pick: Washington | Odds: +3000 | Risk $500.00 → Win $15,000.00 | Status: pending  Notes: Action Network. Pending end-of-CFB-season 2026-27.
+#1703 | 2026-06-16 | Football/NCAAF | Odds to win Big 12 Championship Game | Pick: BYU | Odds: +750 | Risk $300.00 → Win $2,250.00 | Status: pending  Notes: Action Network. Pending end-of-CFB-season 2026-27.
 #1702 | 2026-06-29 | Soccer/FIFA | Portugal eliminated in Last 16 | Pick: Portugal - Last 16 | Odds: +150 | Risk $1,000.00 → Win $1,500.00 | Status: pending  Notes: GameDayWagers ticket #411621899. Stage-of-elimination prop.
 #1701 | 2026-06-29 | Soccer/FIFA | Germany eliminated in Last 16 | Pick: Germany - Last 16 | Odds: +110 | Risk $1,000.00 → Win $1,100.00 | Status: pending  Notes: GameDayWagers ticket #411621900. Stage-of-elimination prop.
 #1700 | 2026-06-29 | Soccer/FIFA | Netherlands eliminated in Quarter-Finals | Pick: Netherlands - Quarter-Finals | Odds: +275 | Risk $400.00 → Win $1,100.00 | Status: pending  Notes: GameDayWagers ticket #411621901. Stage-of-elimination prop.
@@ -49,58 +104,3 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1680 | 2026-06-27 | Soccer/International | 9-leg parlay: NED ML / BTTS TUR-USA / DRAW EGY-IRN / BTTS NOR-FRA / BTTS COL-PRT / PRT ML + 3 more | Pick: 9-leg | Odds: Combo | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse ticket #392652491.
 #1679 | 2026-06-25 | Soccer/International | 9-leg parlay: BTTS TUR-USA / HT/FT NED-NED / BTTS NOR-FRA / Over 2.5 JPN-SWE + 5 more | Pick: 9-leg | Odds: Combo | Risk $121.00 → Win $0.00 | Status: lost  P&L: -$121.00  Notes: Wagerhouse ticket #392650228.
 #1678 | 2026-06-24 | Soccer/International | Qatar/Bosnia 2nd Half DRAW | Pick: DRAW | Odds: +175 | Risk $100.00 → Win $175.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse 2nd-half market.
-#1677 | 2026-06-24 | Soccer/International | Switzerland 2nd Half ML | Pick: Switzerland 2H ML | Odds: +180 | Risk $100.00 → Win $180.00 | Status: won  P&L: $180.00  Notes: Wagerhouse 2nd-half market.
-#1676 | 2026-06-21 | Golf/PGA Tour | Wyndham Clark to win Travelers (in-event price) | Pick: Wyndham Clark | Odds: -320 | Risk $80.00 → Win $25.00 | Status: won  P&L: $25.00  Notes: Wagerhouse ticket G302013967.
-#1675 | 2026-06-21 | Golf/PGA Tour | Wyndham Clark to win Travelers (in-event price) | Pick: Wyndham Clark | Odds: -320 | Risk $640.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse ticket G302013831.
-#1674 | 2026-06-21 | Golf/PGA Tour | Scottie Scheffler Top 20 finish | Pick: Scottie Scheffler T20 | Odds: -175 | Risk $759.50 → Win $434.00 | Status: won  P&L: $434.00  Notes: Wagerhouse ticket G301537113.
-#1673 | 2026-06-19 | Soccer/International | 1 5-team parlay @ $5 (Mor/Sco +280 / Par/Tur +235 / Alg/Jor +320 / Aus/USA +325 / Swe/Ned +290 - all DRAW picks) | Pick: 1 parlay @ $5 | Odds: Mixed | Risk $5.00 → Win $0.00 | Status: lost  P&L: -$5.00  Notes: Wagerhouse 5-leg all-DRAW RR. 5-way tier: 1 combo x $5 = $5. ALL DRAW picks lost.
-#1672 | 2026-06-19 | Soccer/International | 5 4-team parlays @ $5 each (Mor/Sco +280 / Par/Tur +235 / Alg/Jor +320 / Aus/USA +325 / Swe/Ned +290 - all DRAW picks) | Pick: 5 parlays @ $5 | Odds: Mixed | Risk $25.00 → Win $0.00 | Status: lost  P&L: -$25.00  Notes: Wagerhouse 5-leg all-DRAW RR. 4-way tier: 5 combos x $5 = $25. ALL DRAW picks lost.
-#1671 | 2026-06-19 | Soccer/International | 10 3-team parlays @ $10 each (Mor/Sco +280 / Par/Tur +235 / Alg/Jor +320 / Aus/USA +325 / Swe/Ned +290 - all DRAW picks) | Pick: 10 parlays @ $10 | Odds: Mixed | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse 5-leg all-DRAW RR. 3-way tier: 10 combos x $10 = $100. ALL DRAW picks lost.
-#1670 | 2026-06-19 | Soccer/International | 10 2-team parlays @ $20 each (Mor/Sco +280 / Par/Tur +235 / Alg/Jor +320 / Aus/USA +325 / Swe/Ned +290 - all DRAW picks) | Pick: 10 parlays @ $20 | Odds: Mixed | Risk $200.00 → Win $0.00 | Status: lost  P&L: -$200.00  Notes: Wagerhouse 5-leg all-DRAW RR. 2-way tier: 10 combos x $20 = $200. ALL DRAW picks lost.
-#1669 | 2026-06-19 | Soccer/International | 5 singles @ $1 each (Mor/Sco +280 / Par/Tur +235 / Alg/Jor +320 / Aus/USA +325 / Swe/Ned +290 - all DRAW picks) | Pick: 5 singles @ $1 | Odds: Mixed | Risk $5.00 → Win $0.00 | Status: lost  P&L: -$5.00  Notes: Wagerhouse 5-leg all-DRAW RR. 1-way tier: 5 singles x $1 = $5. ALL DRAW picks lost.
-#1668 | 2026-06-19 | Soccer/International | 9-leg parlay: USA ML / BRA HT/FT / BTTS SCO-MOR / BTTS USA-AUS / DEU ML + 4 more | Pick: 9-leg | Odds: Combo | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: Wagerhouse ticket #392066176. Risk corrected from prior $145 reading to $125 per user.
-#1667 | 2026-06-17 | Soccer/International | Portugal ML -385 (L) / Ghana PK,-0.5 +100 (W) / England -0.5 -145 (W) | Pick: 3-leg | Odds: Combo | Risk $150.00 → Win $0.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse ticket. Portugal ML loss broke the parlay.
-#1666 | 2026-06-16 | Baseball/MLB | $10 RR all-ways 4 games (per user): PHI -1.5 +120 / NYY -1.5 +155 / SEA -1.5 +145 / CHC -1.5 +100 | Pick: 11 parlays @ $10 | Odds: Mixed | Risk $0.00 → Win $199.93 | Status: won  P&L: $199.93  Notes: Original $10 RR (5-game) reduced to 4-game per user (ATL called off). 11 parlays × $10 = $110 stake. PHI W, NYY W, SEA W, CHC L. Cashed: PHI+NYY $56.10, PHI+SEA $53.90, NYY+SEA $62.48, PHI+NYY+SEA triple $137.45. Return $309.93. Net realized +$199.93.
-#1665 | 2026-06-16 | Baseball/MLB | Mariners -1.5 | Pick: SEA -1.5 | Odds: +145 | Risk $150.00 → Win $217.50 | Status: won  P&L: $217.50  Notes: Wagerhouse.
-#1664 | 2026-06-16 | Baseball/MLB | Cubs -1.5 | Pick: CHC -1.5 | Odds: +100 | Risk $150.00 → Win $150.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse.
-#1663 | 2026-06-16 | Baseball/MLB | Braves -1.5 (called off) | Pick: ATL -1.5 | Odds: +120 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Wagerhouse. VOIDED - game called off.
-#1662 | 2026-06-16 | Baseball/MLB | Yankees -1.5 | Pick: NYY -1.5 | Odds: +155 | Risk $150.00 → Win $232.50 | Status: won  P&L: $232.50  Notes: Wagerhouse.
-#1661 | 2026-06-16 | Baseball/MLB | Phillies -1.5 | Pick: PHI -1.5 | Odds: +120 | Risk $150.00 → Win $180.00 | Status: won  P&L: $180.00  Notes: Wagerhouse.
-#1660 | 2026-06-13 | Soccer/International | 0-0 draw | Pick: 0-0 | Odds: -143 | Risk $715.00 → Win $500.00 | Status: lost  P&L: -$715.00  Notes: Ticket 410901654. Loss shown 500 in summary.
-#1659 | 2026-06-13 | Baseball/MLB | Rays ML | Pick: TB | Odds: -116 | Risk $580.00 → Win $500.00 | Status: won  P&L: $500.00  Notes: Ticket 410884159.
-#1658 | 2026-06-13 | Baseball/MLB | Athletics ML (Sugano) | Pick: OAK | Odds: -190 | Risk $950.00 → Win $500.00 | Status: lost  P&L: -$950.00  Notes: Ticket 410884158.
-#1657 | 2026-06-13 | Baseball/MLB | Phillies ML | Pick: PHI | Odds: -123 | Risk $615.00 → Win $500.00 | Status: lost  P&L: -$615.00  Notes: Ticket 410884157.
-#1656 | 2026-06-13 | Baseball/MLB | Yankees ML (Corbin) | Pick: NYY | Odds: -123 | Risk $615.00 → Win $500.00 | Status: won  P&L: $500.00  Notes: Ticket 410884156.
-#1655 | 2026-06-13 | Baseball/MLB | Mariners ML 1st 5 | Pick: SEA | Odds: -130 | Risk $650.00 → Win $500.00 | Status: lost  P&L: -$650.00  Notes: Ticket 410884155.
-#1654 | 2026-06-13 | Baseball/MLB | Mariners ML | Pick: SEA | Odds: -128 | Risk $640.00 → Win $500.00 | Status: lost  P&L: -$640.00  Notes: Ticket 410884154.
-#1653 | 2026-06-13 | Baseball/MLB | Astros ML 1st 5 | Pick: HOU | Odds: +100 | Risk $250.00 → Win $250.00 | Status: lost  P&L: -$250.00  Notes: Ticket 410883698.
-#1652 | 2026-06-13 | Baseball/MLB | Astros +0.5 1st 5 | Pick: HOU +0.5 | Odds: -140 | Risk $350.00 → Win $250.00 | Status: lost  P&L: -$350.00  Notes: Ticket 410883697.
-#1651 | 2026-06-13 | Baseball/MLB | Diamondbacks ML 1st 5 | Pick: ARI | Odds: -110 | Risk $275.00 → Win $250.00 | Status: lost  P&L: -$275.00  Notes: Ticket 410883680.
-#1650 | 2026-06-13 | Baseball/MLB | Diamondbacks +0.5 1st 5 (Abbott/Gallen) | Pick: ARI +0.5 | Odds: -145 | Risk $362.50 → Win $250.00 | Status: lost  P&L: -$362.50  Notes: Ticket 410883679.
-#1649 | 2026-06-13 | Baseball/MLB | Rangers ML 1st 5 | Pick: TEX | Odds: -110 | Risk $275.00 → Win $250.00 | Status: won  P&L: $250.00  Notes: Ticket 410883657.
-#1648 | 2026-06-13 | Baseball/MLB | Rangers +0.5 1st 5 (deGrom) | Pick: TEX +0.5 | Odds: -145 | Risk $362.50 → Win $250.00 | Status: won  P&L: $250.00  Notes: Ticket 410883656. Risk shown 250.
-#1647 | 2026-06-13 | Baseball/MLB | PIT 1st 5 -148 | Pick: PIT | Odds: -148 | Risk $740.00 → Win $500.00 | Status: lost  P&L: -$740.00  Notes: Ticket 410883627.
-#1646 | 2026-06-13 | Soccer/International | Scotland + Germany to win | Pick: 2-leg | Odds: Combo | Risk $0.00 → Win $305.00 | Status: won  P&L: $305.00  Notes: Ticket 410856488.
-#1645 | 2026-06-13 | Soccer/International | Brazil -0.5 | Pick: Brazil -0.5 | Odds: -150 | Risk $600.00 → Win $400.00 | Status: lost  P&L: -$600.00  Notes: Wagerhouse.
-#1644 | 2026-06-13 | Soccer/International | Brazil ML 1st Half | Pick: Brazil 1H | Odds: +120 | Risk $200.00 → Win $240.00 | Status: lost  P&L: -$200.00  Notes: Wagerhouse.
-#1643 | 2026-06-12 | Soccer/International | BTTS Yes + Over 1.5 | Pick: BTTS Yes + O1.5 | Odds: Combo | Risk $0.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse. Combined +$100.
-#1642 | 2026-06-12 | Soccer/International | Bosnia +0.5 | Pick: Bosnia +0.5 | Odds: +100 | Risk $150.00 → Win $150.00 | Status: won  P&L: $150.00  Notes: Wagerhouse.
-#1641 | 2026-06-12 | Mixed/MLB+Soccer | $10 RR all-ways: Braves -1.5 +150 / Cubs -1.5 +150 / Guardians -2.5 +255 / USA ML +105 / Rays -2.5 +150 | Pick: 26 parlays @ $10 | Odds: Mixed | Risk $208.75 → Win $0.00 | Status: lost  P&L: -$208.75  Notes: Original $260 stake. ATL L, CHC W, CLE L, USA W, TB L. CHC+USA double cashed = $51.25. Net realized -$208.75.
-#1640 | 2026-06-12 | Baseball/MLB | Twins -0.5 1st 5 | Pick: MIN -0.5 | Odds: -105 | Risk $157.00 → Win $150.00 | Status: lost  P&L: -$157.00  Notes: Wagerhouse.
-#1639 | 2026-06-12 | Baseball/MLB | Guardians -0.5 1st 5 | Pick: CLE -0.5 | Odds: +120 | Risk $150.00 → Win $180.00 | Status: won  P&L: $180.00  Notes: Wagerhouse.
-#1638 | 2026-06-12 | Baseball/MLB | Braves +0.5 1st 5 | Pick: ATL +0.5 | Odds: -130 | Risk $260.00 → Win $200.00 | Status: lost  P&L: -$260.00  Notes: Wagerhouse.
-#1637 | 2026-06-12 | Baseball/MLB | Cubs ML | Pick: CHC | Odds: -105 | Risk $105.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse.
-#1636 | 2026-06-12 | Baseball/MLB | Diamondbacks ML 1st 5 (dup) | Pick: ARI | Odds: -107 | Risk $133.75 → Win $125.00 | Status: lost  P&L: -$133.75  Notes: Ticket 410778384.
-#1635 | 2026-06-12 | Mixed/MLB+Soccer | ATL ML 1st 5 / MIL ML 1st 5 / TB ML 1st 5 / USA ML | Pick: 4-leg | Odds: Mixed | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Ticket 410776400.
-#1634 | 2026-06-12 | Baseball/MLB | Diamondbacks ML 1st 5 (Lodolo) | Pick: ARI | Odds: -115 | Risk $115.00 → Win $100.00 | Status: lost  P&L: -$115.00  Notes: Ticket 410776365.
-#1633 | 2026-06-12 | Baseball/MLB | Mariners ML 1st 5 | Pick: SEA | Odds: -140 | Risk $140.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Ticket 410776364.
-#1632 | 2026-06-12 | Baseball/MLB | Rays -0.5 1st 5 (McClanahan) | Pick: TB -0.5 | Odds: -125 | Risk $200.00 → Win $160.00 | Status: lost  P&L: -$200.00  Notes: Ticket 410776222.
-#1631 | 2026-06-12 | Baseball/MLB | Braves ML 1st 5 (dup) | Pick: ATL | Odds: +102 | Risk $50.00 → Win $51.00 | Status: lost  P&L: -$50.00  Notes: Ticket 410776221.
-#1630 | 2026-06-12 | Baseball/MLB | Braves ML 1st 5 (Strider) | Pick: ATL | Odds: +100 | Risk $150.00 → Win $150.00 | Status: lost  P&L: -$150.00  Notes: Ticket 410776149.
-#1629 | 2026-06-11 | Baseball/MLB | LAD Alt RL +145 / TEX Alt RL +145 / SEA ML 1st 5 -115 / STL ML +137 | Pick: 4-leg | Odds: Mixed | Risk $50.00 → Win $0.00 | Status: lost  P&L: -$50.00  Notes: Wagerhouse.
-#1628 | 2026-06-11 | Baseball/MLB | Cardinals +0.5 1st 5 | Pick: STL +0.5 | Odds: -105 | Risk $78.75 → Win $75.00 | Status: won  P&L: $75.00  Notes: Wagerhouse.
-#1627 | 2026-06-11 | Baseball/MLB | Cardinals ML 1st 5 | Pick: STL | Odds: +135 | Risk $0.00 → Win $0.00 | Status: push  P&L: $0.00  Notes: Wagerhouse. Push.
-#1626 | 2026-06-11 | Baseball/MLB | Rangers +0.5 1st 5 | Pick: TEX +0.5 | Odds: -140 | Risk $207.20 → Win $148.00 | Status: won  P&L: $148.00  Notes: Wagerhouse.
-#1625 | 2026-06-11 | Baseball/MLB | Dodgers -0.5 1st 5 | Pick: LAD -0.5 | Odds: -120 | Risk $240.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: Wagerhouse.
-#1624 | 2026-06-10 | Mixed/NBA+MLB | $10 RR all-ways: Spurs Alt -3.5 +150 / LAD Alt -2.5 / ATL Alt -2.5 / CHC Alt -2.5 / PHI Alt -2.5 +175 | Pick: 26 parlays @ $10 | Odds: Mixed | Risk $260.00 → Win $0.00 | Status: lost  P&L: -$260.00  Notes: Original $260 stake. Only PHI won. 0 cashed parlays. Full -$260.
-#1623 | 2026-06-10 | Baseball/MLB | CHC Alt RL -2.5 | Pick: CHC -2.5 | Odds: +115 | Risk $50.00 → Win $57.50 | Status: lost  P&L: -$50.00  Notes: Wagerhouse.
