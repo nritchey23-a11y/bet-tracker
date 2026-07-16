@@ -1,0 +1,218 @@
+[
+  {
+    "ID": "1724",
+    "Status": "lost",
+    "Result Date": "2026-07-03",
+    "Notes": "Action Network. Group stage status uncertain - mark pending pending user confirmation. | Uruguay eliminated in group stage \u2014 did not reach R32.",
+    "Risk": "600",
+    "To Win": "780"
+  },
+  {
+    "ID": "1725",
+    "Status": "won",
+    "Result Date": "2026-07-07",
+    "Notes": "Action Network. Group stage in progress / R16 not yet clinched. | Colombia beat Ghana in R32 to reach R16 (0-0, lost R16 on pens to SUI).",
+    "Risk": "650",
+    "To Win": "780"
+  },
+  {
+    "ID": "1726",
+    "Status": "won",
+    "Result Date": "2026-06-30",
+    "Notes": "Action Network. Group stage in progress / R16 not yet clinched. | Norway beat Ivory Coast in R32 to reach R16.",
+    "Risk": "1500",
+    "To Win": "1000"
+  },
+  {
+    "ID": "1727",
+    "Status": "lost",
+    "Result Date": "2026-06-30",
+    "Notes": "Action Network. Group stage in progress / R16 not yet clinched. | Netherlands lost 1-1 (2-3 pens) to Morocco in R32.",
+    "Risk": "1500",
+    "To Win": "1000"
+  },
+  {
+    "ID": "1720",
+    "Status": "won",
+    "Result Date": "2026-07-05",
+    "Notes": "Action Network. | Norway 2-1 Brazil in R16 to reach QF.",
+    "Risk": "400",
+    "To Win": "800"
+  },
+  {
+    "ID": "1721",
+    "Status": "lost",
+    "Result Date": "2026-06-30",
+    "Notes": "Action Network. | Netherlands out R32 to Morocco (never reached R16, forfeits QF ticket).",
+    "Risk": "450",
+    "To Win": "720"
+  },
+  {
+    "ID": "1722",
+    "Status": "lost",
+    "Result Date": "2026-07-04",
+    "Notes": "Action Network. | Germany 1-1 (3-4 pens) Paraguay in R32 \u2014 eliminated before QF.",
+    "Risk": "500",
+    "To Win": "750"
+  },
+  {
+    "ID": "1723",
+    "Status": "lost",
+    "Result Date": "2026-07-06",
+    "Notes": "Action Network. | Portugal 0-1 Spain in R16 \u2014 eliminated before QF.",
+    "Risk": "600",
+    "To Win": "750"
+  },
+  {
+    "ID": "1714",
+    "Status": "lost",
+    "Result Date": "2026-07-11",
+    "Notes": "Action Network. | Norway 1-2 (aet) England in QF \u2014 did not reach SF.",
+    "Risk": "200",
+    "To Win": "1000"
+  },
+  {
+    "ID": "1715",
+    "Status": "lost",
+    "Result Date": "2026-06-30",
+    "Notes": "Action Network. | Netherlands out R32 to Morocco \u2014 did not reach SF.",
+    "Risk": "200",
+    "To Win": "900"
+  },
+  {
+    "ID": "1716",
+    "Status": "lost",
+    "Result Date": "2026-07-04",
+    "Notes": "Action Network. | Germany out R32 to Paraguay \u2014 did not reach SF.",
+    "Risk": "500",
+    "To Win": "1625"
+  },
+  {
+    "ID": "1717",
+    "Status": "lost",
+    "Result Date": "2026-07-06",
+    "Notes": "Action Network. | Portugal out R16 to Spain \u2014 did not reach SF.",
+    "Risk": "600",
+    "To Win": "1500"
+  },
+  {
+    "ID": "1718",
+    "Status": "lost",
+    "Result Date": "2026-07-04",
+    "Notes": "Action Network. | Germany out R32 to Paraguay \u2014 did not reach Final.",
+    "Risk": "500",
+    "To Win": "2750"
+  },
+  {
+    "ID": "1719",
+    "Status": "lost",
+    "Result Date": "2026-07-06",
+    "Notes": "Action Network. | Portugal out R16 to Spain \u2014 did not reach Final.",
+    "Risk": "550",
+    "To Win": "2475"
+  },
+  {
+    "ID": "1713",
+    "Status": "lost",
+    "Result Date": "2026-07-04",
+    "Notes": "Action Network. | Germany out R32 to Paraguay \u2014 cannot win tournament.",
+    "Risk": "500",
+    "To Win": "7500"
+  },
+  {
+    "ID": "1745",
+    "Status": "lost",
+    "Result Date": "2026-07-06",
+    "Notes": "Wagerhouse contest ticket #410446173. | Portugal out R16 to Spain \u2014 cannot win tournament.",
+    "Risk": "500",
+    "To Win": "5500"
+  },
+  {
+    "ID": "1699",
+    "Status": "lost",
+    "Result Date": "2026-07-11",
+    "Notes": "GameDayWagers ticket #411621902. Stage-of-elimination prop. | Norway eliminated in QF, not L16 \u2014 hedge does not pay.",
+    "Risk": "500",
+    "To Win": "750"
+  },
+  {
+    "ID": "1700",
+    "Status": "lost",
+    "Result Date": "2026-06-30",
+    "Notes": "GameDayWagers ticket #411621901. Stage-of-elimination prop. | Netherlands eliminated in R32, not QF \u2014 hedge does not pay.",
+    "Risk": "400",
+    "To Win": "1100"
+  },
+  {
+    "ID": "1701",
+    "Status": "lost",
+    "Result Date": "2026-07-04",
+    "Notes": "GameDayWagers ticket #411621900. Stage-of-elimination prop. | Germany eliminated in R32, not L16 \u2014 hedge does not pay.",
+    "Risk": "1000",
+    "To Win": "1100"
+  },
+  {
+    "ID": "1702",
+    "Status": "won",
+    "Result Date": "2026-07-06",
+    "Notes": "GameDayWagers ticket #411621899. Stage-of-elimination prop. | Portugal eliminated in L16 by Spain \u2014 hedge cashes.",
+    "Risk": "1000",
+    "To Win": "1500"
+  },
+  {
+    "ID": "1695",
+    "Status": "lost",
+    "Result Date": "2026-07-07",
+    "Notes": "GameDayWagers ticket #411621906. Stage-of-elimination prop. | Colombia eliminated in R16 on pens by Switzerland, not QF.",
+    "Risk": "500",
+    "To Win": "1000"
+  },
+  {
+    "ID": "1696",
+    "Status": "won",
+    "Result Date": "2026-06-30",
+    "Notes": "GameDayWagers ticket #411621905. Stage-of-elimination prop. | Ivory Coast eliminated in R32 by Norway.",
+    "Risk": "925",
+    "To Win": "500"
+  },
+  {
+    "ID": "1697",
+    "Status": "lost",
+    "Result Date": "2026-07-06",
+    "Notes": "GameDayWagers ticket #411621904. Stage-of-elimination prop. | USA eliminated in R16 by Belgium 1-4, not QF.",
+    "Risk": "500",
+    "To Win": "1200"
+  },
+  {
+    "ID": "1711",
+    "Status": "lost",
+    "Result Date": "2026-07-04",
+    "Notes": "Action Network. | Germany out R32 \u2014 Spain/England/France all finished higher.",
+    "Risk": "100",
+    "To Win": "900"
+  },
+  {
+    "ID": "1749",
+    "Status": "lost",
+    "Result Date": "2026-07-01",
+    "Notes": "Wagerhouse contest ticket #410446169. Senegal still alive in tournament. | Senegal out R32 to Belgium; Morocco reached QF as top African side.",
+    "Risk": "150",
+    "To Win": "675"
+  },
+  {
+    "ID": "1748",
+    "Status": "lost",
+    "Result Date": "2026-07-06",
+    "Notes": "Wagerhouse contest ticket #410446170. Tournament-progression prop. USA leads NA region after group stage. | DEAD HEAT: USA, Mexico, Canada all eliminated R16 (3-way tie). Original stake $725 at +140. 1/3 wins at full odds ($241.67 \u2192 +$338.33 profit); 2/3 loses ($483.33). Net -$145.00. Risk field overridden to net loss amount per partial-win convention.",
+    "Risk": 145.0,
+    "To Win": 0
+  },
+  {
+    "ID": "1712",
+    "Status": "lost",
+    "Result Date": "2026-07-06",
+    "Notes": "Action Network. | DEAD HEAT: USA, Mexico, Canada all eliminated R16 (3-way tie). Original stake $1,000 at +160. 1/3 wins at full odds ($333.33 \u2192 +$533.33 profit); 2/3 loses ($666.67). Net -$133.33. Risk field overridden to net loss amount per partial-win convention.",
+    "Risk": 133.33,
+    "To Win": 0
+  }
+]

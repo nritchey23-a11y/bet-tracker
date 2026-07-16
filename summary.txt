@@ -1,14 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-06-29T19:32:09.832394+00:00
+Generated: 2026-07-16T21:07:53.935841+00:00
 Total bets in tracker: 1755
 
 OVERALL STATUS
-  Won: 740  Lost: 881  Push: 37  Pending: 97
-  Lifetime settled P&L: $15,299.10
-  Pending risk: $68,190.00   Pending max win: $137,496.74
+  Won: 745  Lost: 903  Push: 37  Pending: 70
+  Lifetime settled P&L: $9,250.77
+  Pending risk: $51,640.00   Pending max win: $96,326.74
 
 RECENT DAYS (most recent 8 with activity)
-  2026-06-29: 2W-1L-1P  P&L: $420.00  Pending: 10 (risk $5,425.00, max $13,075.00)
+  2026-06-29: 4W-6L-1P  P&L: -$480.00  Pending: 3 (risk $600.00, max $5,925.00)
   2026-06-28: 2W-1L  P&L: $1,803.00
   2026-06-27: 2W-4L  P&L: -$436.08
   2026-06-25: 0W-1L  P&L: -$121.00
@@ -18,10 +18,10 @@ RECENT DAYS (most recent 8 with activity)
   2026-06-17: 0W-1L  P&L: -$150.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-06-23 → 2026-06-29: 7W-8L-1P  P&L: $1,745.92  Pending: 10 (risk $5,425.00)
+  Week 2026-06-23 → 2026-06-29: 9W-13L-1P  P&L: $845.92  Pending: 3 (risk $600.00)
   Week 2026-06-16 → 2026-06-22: 7W-8L-1P  P&L: $728.93  Pending: 1 (risk $300.00)
   Week 2026-06-09 → 2026-06-15: 21W-30L-3P  P&L: -$4,963.00  Pending: 12 (risk $10,300.00)
-  Week 2026-06-02 → 2026-06-08: 33W-40L-7P  P&L: $1,321.73  Pending: 31 (risk $22,225.00)
+  Week 2026-06-02 → 2026-06-08: 36W-57L-7P  P&L: -$3,826.60  Pending: 11 (risk $10,500.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1757 | 2026-04-29 | Football/NFL | NFL 26/27 - Regular Season Wins - Props SEA Seahawks - Over 10.5 | Pick: SEA Over 10.5 | Odds: -130 | Risk $1,300.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #300514464. Pending NFL 2026-27 season.
@@ -32,11 +32,11 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1752 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props NFC East - WAS Commanders | Pick: WAS Commanders | Odds: +500 | Risk $250.00 → Win $1,250.00 | Status: pending  Notes: Wagerhouse contest ticket #300552459. Pending NFL 2026-27 season.
 #1751 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props NFC North - CHI Bears | Pick: CHI Bears | Odds: +320 | Risk $375.00 → Win $1,200.00 | Status: pending  Notes: Wagerhouse contest ticket #300552460. Pending NFL 2026-27 season.
 #1750 | 2026-05-27 | Baseball/MLB | MLB 2026 Division Winner - American League West - Seattle Mariners | Pick: Seattle Mariners | Odds: +110 | Risk $1,000.00 → Win $1,100.00 | Status: pending  Notes: Wagerhouse contest ticket #409988351. Pending end of 2026 MLB regular season.
-#1749 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Top African Team - Senegal | Pick: Senegal | Odds: +450 | Risk $150.00 → Win $675.00 | Status: pending  Notes: Wagerhouse contest ticket #410446169. Senegal still alive in tournament.
-#1748 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Top North American Team - United States | Pick: United States | Odds: +140 | Risk $725.00 → Win $1,015.00 | Status: pending  Notes: Wagerhouse contest ticket #410446170. Tournament-progression prop. USA leads NA region after group stage.
+#1749 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Top African Team - Senegal | Pick: Senegal | Odds: +450 | Risk $150.00 → Win $675.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse contest ticket #410446169. Senegal still alive in tournament. | Senegal out R32 to Belgium; Morocco reached QF as top African side.
+#1748 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Top North American Team - United States | Pick: United States | Odds: +140 | Risk $145.00 → Win $0.00 | Status: lost  P&L: -$145.00  Notes: Wagerhouse contest ticket #410446170. Tournament-progression prop. USA leads NA region after group stage. | DEAD HEAT: USA, Mexico, Canada all eliminated R16 (3-way tie). Original stake $725 at +140. 1/3 wins at full odds ($241.67 → +$338.33 profit); 2/3 loses ($483.33). Net -$145.00. Risk field overridden to net loss amount per partial-win convention.
 #1747 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Group A Winner - Mexico | Pick: Mexico | Odds: -125 | Risk $1,000.00 → Win $800.00 | Status: won  P&L: $800.00  Notes: Wagerhouse contest ticket #410446171. Mexico won Group A outright.
 #1746 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Group D Winner - USA | Pick: USA | Odds: +140 | Risk $1,000.00 → Win $1,400.00 | Status: won  P&L: $1,400.00  Notes: Wagerhouse contest ticket #410446172. USA won Group D outright.
-#1745 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Tournament Winner - Portugal | Pick: Portugal | Odds: +1100 | Risk $500.00 → Win $5,500.00 | Status: pending  Notes: Wagerhouse contest ticket #410446173.
+#1745 | 2026-06-04 | Soccer/FIFA | FIFA World Cup 2026 - Tournament Winner - Portugal | Pick: Portugal | Odds: +1100 | Risk $500.00 → Win $5,500.00 | Status: lost  P&L: -$500.00  Notes: Wagerhouse contest ticket #410446173. | Portugal out R16 to Spain — cannot win tournament.
 #1744 | 2026-06-04 | Football/NFL | NFL 26/27 - Regular Season Wins - Props CIN Bengals - Over 10.5 | Pick: CIN Bengals Over 10.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: Wagerhouse contest ticket #410449424. Pending end of NFL 2026-27 regular season.
 #1743 | 2026-06-04 | Football/NFL | NFL 26/27 - Regular Season Wins - Props LA Chargers - Over 9.5 | Pick: LA Chargers Over 9.5 | Odds: -130 | Risk $1,300.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #410449425. Pending end of NFL 2026-27 regular season.
 #1742 | 2026-06-04 | Football/NFL | NFL 26/27 - Regular Season Wins - Props JAX Jaguars - Over 8.5 | Pick: JAX Jaguars Over 8.5 | Odds: -130 | Risk $1,300.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #410449426. Pending end of NFL 2026-27 regular season.
@@ -54,23 +54,23 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1730 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Northwestern - Under 5.5 | Pick: Northwestern Under 5.5 | Odds: -130 | Risk $650.00 → Win $500.00 | Status: pending  Notes: Wagerhouse contest ticket #410645404. Pending end of CFB 2026-27 regular season.
 #1729 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Virginia Tech - Under 6.5 | Pick: Virginia Tech Under 6.5 | Odds: +120 | Risk $500.00 → Win $600.00 | Status: pending  Notes: Wagerhouse contest ticket #410645405. Pending end of CFB 2026-27 regular season.
 #1728 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Nebraska - Over 6.5 | Pick: Nebraska Over 6.5 | Odds: +105 | Risk $500.00 → Win $525.00 | Status: pending  Notes: Wagerhouse contest ticket #410645406. Pending end of CFB 2026-27 regular season.
-#1727 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Netherlands | Pick: Netherlands | Odds: -150 | Risk $1,500.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Group stage in progress / R16 not yet clinched.
-#1726 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Norway | Pick: Norway | Odds: -150 | Risk $1,500.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Group stage in progress / R16 not yet clinched.
-#1725 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Colombia | Pick: Colombia | Odds: +120 | Risk $650.00 → Win $780.00 | Status: pending  Notes: Action Network. Group stage in progress / R16 not yet clinched.
-#1724 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Uruguay | Pick: Uruguay | Odds: +130 | Risk $600.00 → Win $780.00 | Status: pending  Notes: Action Network. Group stage status uncertain - mark pending pending user confirmation.
-#1723 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Portugal | Pick: Portugal | Odds: +125 | Risk $600.00 → Win $750.00 | Status: pending  Notes: Action Network.
-#1722 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Germany | Pick: Germany | Odds: +150 | Risk $500.00 → Win $750.00 | Status: pending  Notes: Action Network.
-#1721 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Netherlands | Pick: Netherlands | Odds: +160 | Risk $450.00 → Win $720.00 | Status: pending  Notes: Action Network.
-#1720 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Norway | Pick: Norway | Odds: +200 | Risk $400.00 → Win $800.00 | Status: pending  Notes: Action Network.
-#1719 | 2026-06-04 | Soccer/FIFA | Reach Final - Portugal | Pick: Portugal | Odds: +450 | Risk $550.00 → Win $2,475.00 | Status: pending  Notes: Action Network.
-#1718 | 2026-06-04 | Soccer/FIFA | Reach Final - Germany | Pick: Germany | Odds: +550 | Risk $500.00 → Win $2,750.00 | Status: pending  Notes: Action Network.
-#1717 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Portugal | Pick: Portugal | Odds: +250 | Risk $600.00 → Win $1,500.00 | Status: pending  Notes: Action Network.
-#1716 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Germany | Pick: Germany | Odds: +325 | Risk $500.00 → Win $1,625.00 | Status: pending  Notes: Action Network.
-#1715 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Netherlands | Pick: Netherlands | Odds: +450 | Risk $200.00 → Win $900.00 | Status: pending  Notes: Action Network.
-#1714 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Norway | Pick: Norway | Odds: +500 | Risk $200.00 → Win $1,000.00 | Status: pending  Notes: Action Network.
-#1713 | 2026-06-04 | Soccer/FIFA | Tournament Winner - Germany | Pick: Germany | Odds: +1500 | Risk $500.00 → Win $7,500.00 | Status: pending  Notes: Action Network.
-#1712 | 2026-06-04 | Soccer/FIFA | CONCACAF Top Finish - Mexico | Pick: Mexico | Odds: +160 | Risk $1,000.00 → Win $1,600.00 | Status: pending  Notes: Action Network.
-#1711 | 2026-06-04 | Soccer/FIFA | UEFA Top Finish - Germany | Pick: Germany | Odds: +900 | Risk $100.00 → Win $900.00 | Status: pending  Notes: Action Network.
+#1727 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Netherlands | Pick: Netherlands | Odds: -150 | Risk $1,500.00 → Win $1,000.00 | Status: lost  P&L: -$1,500.00  Notes: Action Network. Group stage in progress / R16 not yet clinched. | Netherlands lost 1-1 (2-3 pens) to Morocco in R32.
+#1726 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Norway | Pick: Norway | Odds: -150 | Risk $1,500.00 → Win $1,000.00 | Status: won  P&L: $1,000.00  Notes: Action Network. Group stage in progress / R16 not yet clinched. | Norway beat Ivory Coast in R32 to reach R16.
+#1725 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Colombia | Pick: Colombia | Odds: +120 | Risk $650.00 → Win $780.00 | Status: won  P&L: $780.00  Notes: Action Network. Group stage in progress / R16 not yet clinched. | Colombia beat Ghana in R32 to reach R16 (0-0, lost R16 on pens to SUI).
+#1724 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Uruguay | Pick: Uruguay | Odds: +130 | Risk $600.00 → Win $780.00 | Status: lost  P&L: -$600.00  Notes: Action Network. Group stage status uncertain - mark pending pending user confirmation. | Uruguay eliminated in group stage — did not reach R32.
+#1723 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Portugal | Pick: Portugal | Odds: +125 | Risk $600.00 → Win $750.00 | Status: lost  P&L: -$600.00  Notes: Action Network. | Portugal 0-1 Spain in R16 — eliminated before QF.
+#1722 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Germany | Pick: Germany | Odds: +150 | Risk $500.00 → Win $750.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany 1-1 (3-4 pens) Paraguay in R32 — eliminated before QF.
+#1721 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Netherlands | Pick: Netherlands | Odds: +160 | Risk $450.00 → Win $720.00 | Status: lost  P&L: -$450.00  Notes: Action Network. | Netherlands out R32 to Morocco (never reached R16, forfeits QF ticket).
+#1720 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Norway | Pick: Norway | Odds: +200 | Risk $400.00 → Win $800.00 | Status: won  P&L: $800.00  Notes: Action Network. | Norway 2-1 Brazil in R16 to reach QF.
+#1719 | 2026-06-04 | Soccer/FIFA | Reach Final - Portugal | Pick: Portugal | Odds: +450 | Risk $550.00 → Win $2,475.00 | Status: lost  P&L: -$550.00  Notes: Action Network. | Portugal out R16 to Spain — did not reach Final.
+#1718 | 2026-06-04 | Soccer/FIFA | Reach Final - Germany | Pick: Germany | Odds: +550 | Risk $500.00 → Win $2,750.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany out R32 to Paraguay — did not reach Final.
+#1717 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Portugal | Pick: Portugal | Odds: +250 | Risk $600.00 → Win $1,500.00 | Status: lost  P&L: -$600.00  Notes: Action Network. | Portugal out R16 to Spain — did not reach SF.
+#1716 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Germany | Pick: Germany | Odds: +325 | Risk $500.00 → Win $1,625.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany out R32 to Paraguay — did not reach SF.
+#1715 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Netherlands | Pick: Netherlands | Odds: +450 | Risk $200.00 → Win $900.00 | Status: lost  P&L: -$200.00  Notes: Action Network. | Netherlands out R32 to Morocco — did not reach SF.
+#1714 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Norway | Pick: Norway | Odds: +500 | Risk $200.00 → Win $1,000.00 | Status: lost  P&L: -$200.00  Notes: Action Network. | Norway 1-2 (aet) England in QF — did not reach SF.
+#1713 | 2026-06-04 | Soccer/FIFA | Tournament Winner - Germany | Pick: Germany | Odds: +1500 | Risk $500.00 → Win $7,500.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany out R32 to Paraguay — cannot win tournament.
+#1712 | 2026-06-04 | Soccer/FIFA | CONCACAF Top Finish - Mexico | Pick: Mexico | Odds: +160 | Risk $133.33 → Win $0.00 | Status: lost  P&L: -$133.33  Notes: Action Network. | DEAD HEAT: USA, Mexico, Canada all eliminated R16 (3-way tie). Original stake $1,000 at +160. 1/3 wins at full odds ($333.33 → +$533.33 profit); 2/3 loses ($666.67). Net -$133.33. Risk field overridden to net loss amount per partial-win convention.
+#1711 | 2026-06-04 | Soccer/FIFA | UEFA Top Finish - Germany | Pick: Germany | Odds: +900 | Risk $100.00 → Win $900.00 | Status: lost  P&L: -$100.00  Notes: Action Network. | Germany out R32 — Spain/England/France all finished higher.
 #1710 | 2026-06-04 | Football/NFL | Dallas Cowboys Regular Season Wins U 9.5 | Pick: DAL Under 9.5 | Odds: -115 | Risk $1,150.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
 #1709 | 2026-06-04 | Football/NFL | Detroit Lions Regular Season Wins O 10.5 | Pick: DET Over 10.5 | Odds: -125 | Risk $1,250.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
 #1708 | 2026-06-04 | Football/NFL | JAX Jaguars Regular Season Wins O 9.5 | Pick: JAX Over 9.5 | Odds: +120 | Risk $1,000.00 → Win $1,200.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
@@ -79,14 +79,14 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1705 | 2026-06-04 | Football/NFL | Odds to win Div of Super Bowl Winner - NFC West | Pick: NFC West | Odds: +285 | Risk $1,000.00 → Win $2,850.00 | Status: pending  Notes: Action Network. Pending end of 2026-27 NFL season.
 #1704 | 2026-05-31 | Football/NCAAF | Odds to win Big Ten Championship Game | Pick: Washington | Odds: +3000 | Risk $500.00 → Win $15,000.00 | Status: pending  Notes: Action Network. Pending end-of-CFB-season 2026-27.
 #1703 | 2026-06-16 | Football/NCAAF | Odds to win Big 12 Championship Game | Pick: BYU | Odds: +750 | Risk $300.00 → Win $2,250.00 | Status: pending  Notes: Action Network. Pending end-of-CFB-season 2026-27.
-#1702 | 2026-06-29 | Soccer/FIFA | Portugal eliminated in Last 16 | Pick: Portugal - Last 16 | Odds: +150 | Risk $1,000.00 → Win $1,500.00 | Status: pending  Notes: GameDayWagers ticket #411621899. Stage-of-elimination prop.
-#1701 | 2026-06-29 | Soccer/FIFA | Germany eliminated in Last 16 | Pick: Germany - Last 16 | Odds: +110 | Risk $1,000.00 → Win $1,100.00 | Status: pending  Notes: GameDayWagers ticket #411621900. Stage-of-elimination prop.
-#1700 | 2026-06-29 | Soccer/FIFA | Netherlands eliminated in Quarter-Finals | Pick: Netherlands - Quarter-Finals | Odds: +275 | Risk $400.00 → Win $1,100.00 | Status: pending  Notes: GameDayWagers ticket #411621901. Stage-of-elimination prop.
-#1699 | 2026-06-29 | Soccer/FIFA | Norway eliminated in Last 16 | Pick: Norway - Last 16 | Odds: +150 | Risk $500.00 → Win $750.00 | Status: pending  Notes: GameDayWagers ticket #411621902. Stage-of-elimination prop.
+#1702 | 2026-06-29 | Soccer/FIFA | Portugal eliminated in Last 16 | Pick: Portugal - Last 16 | Odds: +150 | Risk $1,000.00 → Win $1,500.00 | Status: won  P&L: $1,500.00  Notes: GameDayWagers ticket #411621899. Stage-of-elimination prop. | Portugal eliminated in L16 by Spain — hedge cashes.
+#1701 | 2026-06-29 | Soccer/FIFA | Germany eliminated in Last 16 | Pick: Germany - Last 16 | Odds: +110 | Risk $1,000.00 → Win $1,100.00 | Status: lost  P&L: -$1,000.00  Notes: GameDayWagers ticket #411621900. Stage-of-elimination prop. | Germany eliminated in R32, not L16 — hedge does not pay.
+#1700 | 2026-06-29 | Soccer/FIFA | Netherlands eliminated in Quarter-Finals | Pick: Netherlands - Quarter-Finals | Odds: +275 | Risk $400.00 → Win $1,100.00 | Status: lost  P&L: -$400.00  Notes: GameDayWagers ticket #411621901. Stage-of-elimination prop. | Netherlands eliminated in R32, not QF — hedge does not pay.
+#1699 | 2026-06-29 | Soccer/FIFA | Norway eliminated in Last 16 | Pick: Norway - Last 16 | Odds: +150 | Risk $500.00 → Win $750.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621902. Stage-of-elimination prop. | Norway eliminated in QF, not L16 — hedge does not pay.
 #1698 | 2026-06-29 | Soccer/FIFA | Argentina eliminated in Runner up | Pick: Argentina - Runner up | Odds: +425 | Risk $500.00 → Win $2,125.00 | Status: pending  Notes: GameDayWagers ticket #411621903. Stage-of-elimination prop.
-#1697 | 2026-06-29 | Soccer/FIFA | United States eliminated in Quarter finals | Pick: United States - Quarter finals | Odds: +240 | Risk $500.00 → Win $1,200.00 | Status: pending  Notes: GameDayWagers ticket #411621904. Stage-of-elimination prop.
-#1696 | 2026-06-29 | Soccer/FIFA | Ivory Coast eliminated in Last 32 | Pick: Ivory Coast - Last 32 | Odds: -185 | Risk $925.00 → Win $500.00 | Status: pending  Notes: GameDayWagers ticket #411621905. Stage-of-elimination prop.
-#1695 | 2026-06-29 | Soccer/FIFA | Colombia eliminated in Quarter finals | Pick: Colombia - Quarter finals | Odds: +200 | Risk $500.00 → Win $1,000.00 | Status: pending  Notes: GameDayWagers ticket #411621906. Stage-of-elimination prop.
+#1697 | 2026-06-29 | Soccer/FIFA | United States eliminated in Quarter finals | Pick: United States - Quarter finals | Odds: +240 | Risk $500.00 → Win $1,200.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621904. Stage-of-elimination prop. | USA eliminated in R16 by Belgium 1-4, not QF.
+#1696 | 2026-06-29 | Soccer/FIFA | Ivory Coast eliminated in Last 32 | Pick: Ivory Coast - Last 32 | Odds: -185 | Risk $925.00 → Win $500.00 | Status: won  P&L: $500.00  Notes: GameDayWagers ticket #411621905. Stage-of-elimination prop. | Ivory Coast eliminated in R32 by Norway.
+#1695 | 2026-06-29 | Soccer/FIFA | Colombia eliminated in Quarter finals | Pick: Colombia - Quarter finals | Odds: +200 | Risk $500.00 → Win $1,000.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621906. Stage-of-elimination prop. | Colombia eliminated in R16 on pens by Switzerland, not QF.
 #1694 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $75.00 → Win $2,850.00 | Status: pending  Notes: GameDayWagers ticket #411622757. Larger stake on same 5 legs as #411622793.
 #1693 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $25.00 → Win $950.00 | Status: pending  Notes: GameDayWagers ticket #411622793.
 #1692 | 2026-06-29 | Soccer/International | Brazil Game Money Line | Pick: Brazil ML | Odds: -125 | Risk $400.00 → Win $320.00 | Status: won  P&L: $320.00  Notes: GameDayWagers ticket #411622270.
