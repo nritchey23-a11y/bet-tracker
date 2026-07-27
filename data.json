@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T21:07:53.935841+00:00",
+ "generated_at": "2026-07-27T18:15:19.097032+00:00",
  "count": 1755,
  "bets": [
   {
@@ -15,9 +15,9 @@
    "Odds": "550",
    "Risk": "500",
    "To Win": "2750",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Covers PGA Championship, US Open, The Open"
+   "Status": "lost",
+   "Result Date": "2026-07-19",
+   "Notes": "Covers PGA Championship, US Open, The Open | 2026 Majors complete: McIlroy (Masters), Rai (PGA), Clark (US Open), Fox (Open). Aberg finished T21 Masters, T4 PGA, no wins."
   },
   {
    "ID": "2",
@@ -23611,9 +23611,9 @@
    "Odds": "+460",
    "Risk": "500",
    "To Win": "2300",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Tournament Winner Future; Gameday #289513096"
+   "Status": "won",
+   "Result Date": "2026-07-19",
+   "Notes": "Tournament Winner Future; Gameday #289513096 | Spain 1-0 Argentina (ET) in WC Final; Ferran Torres 106' \u2014 Spain wins outright."
   },
   {
    "ID": "1391",
@@ -23917,9 +23917,9 @@
    "Odds": "550",
    "Risk": "500",
    "To Win": "2750",
-   "Status": "pending",
-   "Result Date": "2026-05-17",
-   "Notes": "Wagerhouse - Aberg to win any 2026 major (PGA/US Open/Open); enters PGA R4 T2 -4"
+   "Status": "lost",
+   "Result Date": "2026-07-19",
+   "Notes": "Wagerhouse - Aberg to win any 2026 major (PGA/US Open/Open); enters PGA R4 T2 -4 | 2026 Majors complete: McIlroy (Masters), Rai (PGA), Clark (US Open), Fox (Open). Aberg no wins."
   },
   {
    "ID": "1410",
@@ -28744,9 +28744,9 @@
    "Odds": "Combo",
    "Risk": "25",
    "To Win": "950",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "GameDayWagers ticket #411622793.",
+   "Status": "lost",
+   "Result Date": "2026-07-04",
+   "Notes": "GameDayWagers ticket #411622793. | Parlay dead: DEU-PAR leg lost when Germany fell to Paraguay on pens in R32.",
    "ID": "1693"
   },
   {
@@ -28761,9 +28761,9 @@
    "Odds": "Combo",
    "Risk": "75",
    "To Win": "2850",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "GameDayWagers ticket #411622757. Larger stake on same 5 legs as #411622793.",
+   "Status": "lost",
+   "Result Date": "2026-07-04",
+   "Notes": "GameDayWagers ticket #411622757. Larger stake on same 5 legs as #411622793. | Parlay dead: DEU-PAR leg lost when Germany fell to Paraguay on pens in R32.",
    "ID": "1694"
   },
   {
@@ -28829,9 +28829,9 @@
    "Odds": "+425",
    "Risk": "500",
    "To Win": "2125",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "GameDayWagers ticket #411621903. Stage-of-elimination prop.",
+   "Status": "won",
+   "Result Date": "2026-07-19",
+   "Notes": "GameDayWagers ticket #411621903. Stage-of-elimination prop. | Argentina reached Final but lost 0-1 to Spain (ET) \u2014 Runner-up prop cashes.",
    "ID": "1698"
   },
   {

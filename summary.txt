@@ -1,14 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-07-16T21:07:53.935841+00:00
+Generated: 2026-07-27T18:15:19.097032+00:00
 Total bets in tracker: 1755
 
 OVERALL STATUS
-  Won: 745  Lost: 903  Push: 37  Pending: 70
-  Lifetime settled P&L: $9,250.77
-  Pending risk: $51,640.00   Pending max win: $96,326.74
+  Won: 747  Lost: 907  Push: 37  Pending: 64
+  Lifetime settled P&L: $12,575.77
+  Pending risk: $49,540.00   Pending max win: $82,601.74
 
 RECENT DAYS (most recent 8 with activity)
-  2026-06-29: 4W-6L-1P  P&L: -$480.00  Pending: 3 (risk $600.00, max $5,925.00)
+  2026-06-29: 5W-8L-1P  P&L: $1,545.00
   2026-06-28: 2W-1L  P&L: $1,803.00
   2026-06-27: 2W-4L  P&L: -$436.08
   2026-06-25: 0W-1L  P&L: -$121.00
@@ -18,7 +18,7 @@ RECENT DAYS (most recent 8 with activity)
   2026-06-17: 0W-1L  P&L: -$150.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-06-23 → 2026-06-29: 9W-13L-1P  P&L: $845.92  Pending: 3 (risk $600.00)
+  Week 2026-06-23 → 2026-06-29: 10W-15L-1P  P&L: $2,870.92
   Week 2026-06-16 → 2026-06-22: 7W-8L-1P  P&L: $728.93  Pending: 1 (risk $300.00)
   Week 2026-06-09 → 2026-06-15: 21W-30L-3P  P&L: -$4,963.00  Pending: 12 (risk $10,300.00)
   Week 2026-06-02 → 2026-06-08: 36W-57L-7P  P&L: -$3,826.60  Pending: 11 (risk $10,500.00)
@@ -83,12 +83,12 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1701 | 2026-06-29 | Soccer/FIFA | Germany eliminated in Last 16 | Pick: Germany - Last 16 | Odds: +110 | Risk $1,000.00 → Win $1,100.00 | Status: lost  P&L: -$1,000.00  Notes: GameDayWagers ticket #411621900. Stage-of-elimination prop. | Germany eliminated in R32, not L16 — hedge does not pay.
 #1700 | 2026-06-29 | Soccer/FIFA | Netherlands eliminated in Quarter-Finals | Pick: Netherlands - Quarter-Finals | Odds: +275 | Risk $400.00 → Win $1,100.00 | Status: lost  P&L: -$400.00  Notes: GameDayWagers ticket #411621901. Stage-of-elimination prop. | Netherlands eliminated in R32, not QF — hedge does not pay.
 #1699 | 2026-06-29 | Soccer/FIFA | Norway eliminated in Last 16 | Pick: Norway - Last 16 | Odds: +150 | Risk $500.00 → Win $750.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621902. Stage-of-elimination prop. | Norway eliminated in QF, not L16 — hedge does not pay.
-#1698 | 2026-06-29 | Soccer/FIFA | Argentina eliminated in Runner up | Pick: Argentina - Runner up | Odds: +425 | Risk $500.00 → Win $2,125.00 | Status: pending  Notes: GameDayWagers ticket #411621903. Stage-of-elimination prop.
+#1698 | 2026-06-29 | Soccer/FIFA | Argentina eliminated in Runner up | Pick: Argentina - Runner up | Odds: +425 | Risk $500.00 → Win $2,125.00 | Status: won  P&L: $2,125.00  Notes: GameDayWagers ticket #411621903. Stage-of-elimination prop. | Argentina reached Final but lost 0-1 to Spain (ET) — Runner-up prop cashes.
 #1697 | 2026-06-29 | Soccer/FIFA | United States eliminated in Quarter finals | Pick: United States - Quarter finals | Odds: +240 | Risk $500.00 → Win $1,200.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621904. Stage-of-elimination prop. | USA eliminated in R16 by Belgium 1-4, not QF.
 #1696 | 2026-06-29 | Soccer/FIFA | Ivory Coast eliminated in Last 32 | Pick: Ivory Coast - Last 32 | Odds: -185 | Risk $925.00 → Win $500.00 | Status: won  P&L: $500.00  Notes: GameDayWagers ticket #411621905. Stage-of-elimination prop. | Ivory Coast eliminated in R32 by Norway.
 #1695 | 2026-06-29 | Soccer/FIFA | Colombia eliminated in Quarter finals | Pick: Colombia - Quarter finals | Odds: +200 | Risk $500.00 → Win $1,000.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621906. Stage-of-elimination prop. | Colombia eliminated in R16 on pens by Switzerland, not QF.
-#1694 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $75.00 → Win $2,850.00 | Status: pending  Notes: GameDayWagers ticket #411622757. Larger stake on same 5 legs as #411622793.
-#1693 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $25.00 → Win $950.00 | Status: pending  Notes: GameDayWagers ticket #411622793.
+#1694 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $75.00 → Win $2,850.00 | Status: lost  P&L: -$75.00  Notes: GameDayWagers ticket #411622757. Larger stake on same 5 legs as #411622793. | Parlay dead: DEU-PAR leg lost when Germany fell to Paraguay on pens in R32.
+#1693 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $25.00 → Win $950.00 | Status: lost  P&L: -$25.00  Notes: GameDayWagers ticket #411622793. | Parlay dead: DEU-PAR leg lost when Germany fell to Paraguay on pens in R32.
 #1692 | 2026-06-29 | Soccer/International | Brazil Game Money Line | Pick: Brazil ML | Odds: -125 | Risk $400.00 → Win $320.00 | Status: won  P&L: $320.00  Notes: GameDayWagers ticket #411622270.
 #1691 | 2026-06-29 | Soccer/International | Brazil Team Total - Over 1.5 | Pick: Brazil Over 1.5 | Odds: -100 | Risk $200.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: GameDayWagers ticket #411622271.
 #1690 | 2026-06-29 | Soccer/International | Brazil 1st Half Spread -0.5 | Pick: Brazil -0.5 (1H) | Odds: +140 | Risk $100.00 → Win $140.00 | Status: lost  P&L: -$100.00  Notes: GameDayWagers ticket #411622272.
