@@ -1,29 +1,59 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-07-27T18:15:19.097032+00:00
-Total bets in tracker: 1755
+Generated: 2026-07-27T19:37:59.979012+00:00
+Total bets in tracker: 1785
 
 OVERALL STATUS
-  Won: 747  Lost: 907  Push: 37  Pending: 64
-  Lifetime settled P&L: $12,575.77
+  Won: 757  Lost: 927  Push: 37  Pending: 64
+  Lifetime settled P&L: $14,182.57
   Pending risk: $49,540.00   Pending max win: $82,601.74
 
 RECENT DAYS (most recent 8 with activity)
-  2026-06-29: 5W-8L-1P  P&L: $1,545.00
-  2026-06-28: 2W-1L  P&L: $1,803.00
-  2026-06-27: 2W-4L  P&L: -$436.08
-  2026-06-25: 0W-1L  P&L: -$121.00
-  2026-06-24: 1W-1L  P&L: $80.00
-  2026-06-21: 3W-0L  P&L: $659.00
-  2026-06-19: 0W-6L  P&L: -$460.00
-  2026-06-17: 0W-1L  P&L: -$150.00
+  2026-07-26: 1W-0L  P&L: $179.64
+  2026-07-19: 1W-2L  P&L: $2,075.00
+  2026-07-18: 0W-2L  P&L: -$515.00
+  2026-07-17: 0W-1L  P&L: -$220.00
+  2026-07-15: 0W-1L  P&L: -$200.00
+  2026-07-14: 0W-2L  P&L: -$250.00
+  2026-07-11: 2W-0L  P&L: $590.00
+  2026-07-10: 3W-3L  P&L: $403.21
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-06-23 → 2026-06-29: 10W-15L-1P  P&L: $2,870.92
-  Week 2026-06-16 → 2026-06-22: 7W-8L-1P  P&L: $728.93  Pending: 1 (risk $300.00)
-  Week 2026-06-09 → 2026-06-15: 21W-30L-3P  P&L: -$4,963.00  Pending: 12 (risk $10,300.00)
-  Week 2026-06-02 → 2026-06-08: 36W-57L-7P  P&L: -$3,826.60  Pending: 11 (risk $10,500.00)
+  Week 2026-07-21 → 2026-07-27: 1W-0L  P&L: $179.64
+  Week 2026-07-14 → 2026-07-20: 1W-8L  P&L: $890.00
+  Week 2026-07-07 → 2026-07-13: 7W-9L  P&L: $837.16
+  Week 2026-06-30 → 2026-07-06: 1W-3L  P&L: -$300.00
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1787 | 2026-07-26 | Golf/PGA Tour | Jackson Koivun to win 3M Open | Pick: Jackson Koivun | Odds: -835 | Risk $1,500.00 → Win $179.64 | Status: won  P&L: $179.64  Notes: Wagerhouse ticket #G306282450. Heavy chalk outright at 3M Open — won.
+#1786 | 2026-07-19 | Golf/PGA Tour | Ryan Fox to win 2026 Open Championship | Pick: Ryan Fox | Odds: +305 | Risk $1,500.00 → Win $4,575.00 | Status: won  P&L: $4,575.00  Notes: Wagerhouse ticket #G305520772. Open Championship outright. Fox won — biggest cash of the stretch.
+#1785 | 2026-07-19 | Golf/PGA Tour | Cameron Young to win 2026 Open Championship | Pick: Cameron Young | Odds: +105 | Risk $2,000.00 → Win $2,100.00 | Status: lost  P&L: -$2,000.00  Notes: Wagerhouse ticket #G305520501. Open Championship outright. Fox won.
+#1784 | 2026-07-19 | Golf/PGA Tour | Si Woo Kim to win 2026 Open Championship | Pick: Si Woo Kim | Odds: +105 | Risk $500.00 → Win $525.00 | Status: lost  P&L: -$500.00  Notes: Wagerhouse ticket #G305506219. Open Championship outright. Fox won.
+#1783 | 2026-07-17 | Golf/PGA Tour | Jordan Spieth 2nd Round Under 70.5 | Pick: Spieth 2R Under 70.5 | Odds: -110 | Risk $220.00 → Win $200.00 | Status: lost  P&L: -$220.00  Notes: Wagerhouse ticket (Spieth 2R prop). Round-2 total strokes prop.
+#1782 | 2026-07-10 | Multi/Multi | 2-leg: TB ML 1st 5 innings -120 + ESP advance | Pick: TB ML 1st 5 + ESP advance | Odds:  | Risk $150.00 → Win $213.71 | Status: won  P&L: $213.71  Notes: Wagerhouse ticket (unnamed). 2-leg parlay: TB ML 1st 5 innings -120 + ESP to advance. Stake estimated from typical closing odds (actual Wagerhouse stake not recovered); profit +$213.71 confirmed from ticket display.
+#1781 | 2026-07-09 | Multi/Multi | 3-leg: Luzardo Over 7.5 Ks + FRA advance + PHI ML | Pick: Luzardo O7.5 Ks + FRA advance + PHI ML | Odds:  | Risk $100.00 → Win $247.00 | Status: won  P&L: $247.00  Notes: Wagerhouse ticket #393810672. 3-leg parlay: Luzardo strikeout prop + FRA to advance + PHI ML. Stake estimated from typical closing odds (actual Wagerhouse stake not recovered); profit +$247 confirmed from ticket display.
+#1780 | 2026-07-09 | Multi/Multi | 3-leg: Eovaldi Over 6.5 Ks + FRA advance + TEX -1.5 | Pick: Eovaldi O6.5 Ks + FRA advance + TEX -1.5 | Odds:  | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse ticket #393810229. 3-leg parlay: Eovaldi strikeout prop + FRA to advance + TEX run line.
+#1779 | 2026-07-03 | Multi/Multi | 5-leg: LAD -1.5 + ARG HT/FT + COL ML + WC BTTS | Pick: LAD -1.5 + ARG HT/FT + COL ML + BTTS legs | Odds:  | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse ticket #393316703. 5-leg parlay: LAD -1.5 + ARG HT/FT + COL ML + WC BTTS markets.
+#1778 | 2026-07-03 | Soccer/FIFA | 5-leg: SUI/DZA BTTS + FRA/MRC/USA advance | Pick: SUI/DZA BTTS + FRA/MRC/USA advance | Odds:  | Risk $150.00 → Win $0.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse ticket #393270984. 5-leg WC parlay.
+#1777 | 2026-07-03 | Soccer/FIFA | 5-leg WC advance/BTTS parlay | Pick: ESP/PRT/HRV/SUI/DZA/ARG mix | Odds:  | Risk $150.00 → Win $0.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse ticket #393201042. 5-leg WC parlay across advance markets and BTTS.
+#1776 | 2026-06-30 | Baseball/MLB | LAA +0.5 (1st 5 innings) -121 | Pick: LAA +0.5 (1st 5) | Odds: -121 | Risk $121.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse ticket #G303196491. 1st-half run line.
+#1775 | 2026-07-18 | Multi/Multi | 2-leg: ARG lift trophy + SF/SEA 1st inning Draw (duplicate) | Pick: ARG win WC + SF/SEA 1I Draw | Odds:  | Risk $115.00 → Win $0.00 | Status: lost  P&L: -$115.00  Notes: GameDayWagers ticket #433205825_1. Duplicate 2-leg parlay: ARG to win WC + SF/SEA 1st inning draw.
+#1774 | 2026-07-18 | Multi/Multi | 2-leg: ARG lift trophy + SF/SEA 1st inning Draw | Pick: ARG win WC + SF/SEA 1I Draw | Odds:  | Risk $400.00 → Win $0.00 | Status: lost  P&L: -$400.00  Notes: GameDayWagers ticket #433205774_1. 2-leg parlay: ARG to win WC + SF/SEA 1st inning draw.
+#1773 | 2026-07-15 | Soccer/FIFA | 2-leg: ENG/ARG BTTS + ENG advance | Pick: ENG/ARG BTTS + ENG advance | Odds:  | Risk $200.00 → Win $0.00 | Status: lost  P&L: -$200.00  Notes: GameDayWagers ticket #433029533_1. 2-leg WC parlay: ENG/ARG BTTS + ENG to advance.
+#1772 | 2026-07-14 | Soccer/FIFA | 3-leg: FRA advance + FRA/ESP BTTS + ENG advance | Pick: FRA advance + FRA/ESP BTTS + ENG advance | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432945447_1. 3-leg WC parlay: FRA to advance + FRA/ESP BTTS + ENG to advance.
+#1771 | 2026-07-14 | Multi/Multi | 4-leg: FRA advance + FRA/ESP BTTS + ENG advance + ASG 1st inning Draw | Pick: FRA advance + FRA/ESP BTTS + ENG advance + ASG 1I Draw | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432945417_1. 4-leg parlay: FRA to advance + FRA/ESP BTTS + ENG to advance + MLB All-Star Game 1st inning draw.
+#1770 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML (duplicate ticket) | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826632_1. Duplicate 2-leg parlay: ARG to advance + Sinner match ML. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
+#1769 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826621_1. 2-leg parlay: ARG to advance + Sinner match ML at Wimbledon. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
+#1768 | 2026-07-10 | Multi/Multi | 4-leg: Clemens Over 1.5 HRR + Sinner ML + ARG advance + MIN ML | Pick: Clemens O1.5 HRR + Sinner ML + ARG advance + MIN ML | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432805795_1. 4-leg parlay: Clemens hits+runs+RBI prop + Sinner match ML + ARG to advance + MIN ML.
+#1767 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + TOR ML | Pick: ESP advance + TOR ML | Odds:  | Risk $410.00 → Win $612.00 | Status: won  P&L: $612.00  Notes: GameDayWagers ticket #432751122_1. 2-leg parlay: ESP to advance + TOR ML vs SD. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$612 confirmed from ticket display.
+#1766 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + PHI ML | Pick: ESP advance + PHI ML | Odds:  | Risk $400.00 → Win $0.00 | Status: lost  P&L: -$400.00  Notes: GameDayWagers ticket #432751038_1. 2-leg parlay: ESP to advance + PHI moneyline.
+#1765 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + ATL 1st 5 innings +0.5 | Pick: ESP advance + ATL 1H run line | Odds:  | Risk $260.00 → Win $352.50 | Status: won  P&L: $352.50  Notes: GameDayWagers ticket #432751032_1. 2-leg parlay: ESP to advance + ATL 1st 5 innings run line vs STL. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$352.50 confirmed from ticket display.
+#1764 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + ATL -1.5 | Pick: ESP advance + ATL -1.5 | Odds:  | Risk $250.00 → Win $0.00 | Status: lost  P&L: -$250.00  Notes: GameDayWagers ticket #432751020_1. 2-leg parlay: ESP to advance + ATL -1.5 run line.
+#1763 | 2026-07-09 | Multi/Multi | 2-leg: FRA advance + TEX -1.5 | Pick: FRA advance + TEX -1.5 | Odds:  | Risk $328.05 → Win $0.00 | Status: lost  P&L: -$328.05  Notes: GameDayWagers ticket #432665169_1. 2-leg parlay: FRA to advance + TEX -1.5 run line.
+#1762 | 2026-07-09 | Multi/Multi | 2-leg: FRA advance + DET -1.5 | Pick: FRA advance + DET -1.5 | Odds:  | Risk $570.00 → Win $1,000.00 | Status: won  P&L: $1,000.00  Notes: GameDayWagers ticket #432665159_1. 2-leg parlay: FRA to advance + DET -1.5 vs OAK. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$1,000 confirmed from ticket display.
+#1761 | 2026-07-09 | Multi/Multi | 2-leg: FRA advance + SEA -1.5 | Pick: FRA advance + SEA -1.5 | Odds:  | Risk $500.00 → Win $0.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #432665152_1. 2-leg parlay: FRA to advance + SEA -1.5 run line.
+#1760 | 2026-07-09 | Multi/Multi | 4-leg: FRA advance + Kostyuk ML + Kostyuk games o22.5 + Kostyuk sets +3 | Pick: FRA advance + 3x Kostyuk match props | Odds:  | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: GameDayWagers ticket #432657336_1. 4-leg parlay: FRA to advance plus 3 correlated Kostyuk match props.
+#1759 | 2026-07-09 | Multi/Multi | 4-leg: FRA + ESP + ARG advance + Kostyuk ML | Pick: FRA, ESP, ARG to advance + Kostyuk ML | Odds:  | Risk $250.00 → Win $0.00 | Status: lost  P&L: -$250.00  Notes: GameDayWagers ticket #432657300_1. 4-leg parlay across WC advance markets and tennis ML.
+#1758 | 2026-07-09 | Multi/Multi | 4-leg: ESP + ARG + FRA advance + LAD -1.5 | Pick: ESP, ARG, FRA to advance + LAD -1.5 | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #425608426_1. 4-leg parlay across WC advance markets and MLB run line.
 #1757 | 2026-04-29 | Football/NFL | NFL 26/27 - Regular Season Wins - Props SEA Seahawks - Over 10.5 | Pick: SEA Over 10.5 | Odds: -130 | Risk $1,300.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse contest ticket #300514464. Pending NFL 2026-27 season.
 #1756 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props NFC West - SF 49ers | Pick: SF 49ers | Odds: +260 | Risk $375.00 → Win $975.00 | Status: pending  Notes: Wagerhouse contest ticket #300552455. Pending NFL 2026-27 season.
 #1755 | 2026-04-30 | Football/NFL | NFL 26/27 Division Winner - Props AFC West - KC Chiefs | Pick: KC Chiefs | Odds: +170 | Risk $500.00 → Win $850.00 | Status: pending  Notes: Wagerhouse contest ticket #300552456. Pending NFL 2026-27 season.
@@ -74,33 +104,3 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1710 | 2026-06-04 | Football/NFL | Dallas Cowboys Regular Season Wins U 9.5 | Pick: DAL Under 9.5 | Odds: -115 | Risk $1,150.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
 #1709 | 2026-06-04 | Football/NFL | Detroit Lions Regular Season Wins O 10.5 | Pick: DET Over 10.5 | Odds: -125 | Risk $1,250.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
 #1708 | 2026-06-04 | Football/NFL | JAX Jaguars Regular Season Wins O 9.5 | Pick: JAX Over 9.5 | Odds: +120 | Risk $1,000.00 → Win $1,200.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
-#1707 | 2026-06-04 | Football/NFL | LA Chargers Regular Season Wins O 10.5 | Pick: LAC Over 10.5 | Odds: +120 | Risk $500.00 → Win $600.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
-#1706 | 2026-06-04 | Football/NFL | NY Giants Regular Season Wins O 7.5 | Pick: NYG Over 7.5 | Odds: -110 | Risk $550.00 → Win $500.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
-#1705 | 2026-06-04 | Football/NFL | Odds to win Div of Super Bowl Winner - NFC West | Pick: NFC West | Odds: +285 | Risk $1,000.00 → Win $2,850.00 | Status: pending  Notes: Action Network. Pending end of 2026-27 NFL season.
-#1704 | 2026-05-31 | Football/NCAAF | Odds to win Big Ten Championship Game | Pick: Washington | Odds: +3000 | Risk $500.00 → Win $15,000.00 | Status: pending  Notes: Action Network. Pending end-of-CFB-season 2026-27.
-#1703 | 2026-06-16 | Football/NCAAF | Odds to win Big 12 Championship Game | Pick: BYU | Odds: +750 | Risk $300.00 → Win $2,250.00 | Status: pending  Notes: Action Network. Pending end-of-CFB-season 2026-27.
-#1702 | 2026-06-29 | Soccer/FIFA | Portugal eliminated in Last 16 | Pick: Portugal - Last 16 | Odds: +150 | Risk $1,000.00 → Win $1,500.00 | Status: won  P&L: $1,500.00  Notes: GameDayWagers ticket #411621899. Stage-of-elimination prop. | Portugal eliminated in L16 by Spain — hedge cashes.
-#1701 | 2026-06-29 | Soccer/FIFA | Germany eliminated in Last 16 | Pick: Germany - Last 16 | Odds: +110 | Risk $1,000.00 → Win $1,100.00 | Status: lost  P&L: -$1,000.00  Notes: GameDayWagers ticket #411621900. Stage-of-elimination prop. | Germany eliminated in R32, not L16 — hedge does not pay.
-#1700 | 2026-06-29 | Soccer/FIFA | Netherlands eliminated in Quarter-Finals | Pick: Netherlands - Quarter-Finals | Odds: +275 | Risk $400.00 → Win $1,100.00 | Status: lost  P&L: -$400.00  Notes: GameDayWagers ticket #411621901. Stage-of-elimination prop. | Netherlands eliminated in R32, not QF — hedge does not pay.
-#1699 | 2026-06-29 | Soccer/FIFA | Norway eliminated in Last 16 | Pick: Norway - Last 16 | Odds: +150 | Risk $500.00 → Win $750.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621902. Stage-of-elimination prop. | Norway eliminated in QF, not L16 — hedge does not pay.
-#1698 | 2026-06-29 | Soccer/FIFA | Argentina eliminated in Runner up | Pick: Argentina - Runner up | Odds: +425 | Risk $500.00 → Win $2,125.00 | Status: won  P&L: $2,125.00  Notes: GameDayWagers ticket #411621903. Stage-of-elimination prop. | Argentina reached Final but lost 0-1 to Spain (ET) — Runner-up prop cashes.
-#1697 | 2026-06-29 | Soccer/FIFA | United States eliminated in Quarter finals | Pick: United States - Quarter finals | Odds: +240 | Risk $500.00 → Win $1,200.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621904. Stage-of-elimination prop. | USA eliminated in R16 by Belgium 1-4, not QF.
-#1696 | 2026-06-29 | Soccer/FIFA | Ivory Coast eliminated in Last 32 | Pick: Ivory Coast - Last 32 | Odds: -185 | Risk $925.00 → Win $500.00 | Status: won  P&L: $500.00  Notes: GameDayWagers ticket #411621905. Stage-of-elimination prop. | Ivory Coast eliminated in R32 by Norway.
-#1695 | 2026-06-29 | Soccer/FIFA | Colombia eliminated in Quarter finals | Pick: Colombia - Quarter finals | Odds: +200 | Risk $500.00 → Win $1,000.00 | Status: lost  P&L: -$500.00  Notes: GameDayWagers ticket #411621906. Stage-of-elimination prop. | Colombia eliminated in R16 on pens by Switzerland, not QF.
-#1694 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $75.00 → Win $2,850.00 | Status: lost  P&L: -$75.00  Notes: GameDayWagers ticket #411622757. Larger stake on same 5 legs as #411622793. | Parlay dead: DEU-PAR leg lost when Germany fell to Paraguay on pens in R32.
-#1693 | 2026-06-29 | Soccer/International | 5-leg parlay: DEU ML (DEU-PAR) / BTTS Yes (NED-MRC) / NED ML (NED-MRC) / HT/FT BRA/BRA (BRA-JPN) / BRA Total Goals Over 2.5 (BRA-JPN) | Pick: 5-leg | Odds: Combo | Risk $25.00 → Win $950.00 | Status: lost  P&L: -$25.00  Notes: GameDayWagers ticket #411622793. | Parlay dead: DEU-PAR leg lost when Germany fell to Paraguay on pens in R32.
-#1692 | 2026-06-29 | Soccer/International | Brazil Game Money Line | Pick: Brazil ML | Odds: -125 | Risk $400.00 → Win $320.00 | Status: won  P&L: $320.00  Notes: GameDayWagers ticket #411622270.
-#1691 | 2026-06-29 | Soccer/International | Brazil Team Total - Over 1.5 | Pick: Brazil Over 1.5 | Odds: -100 | Risk $200.00 → Win $200.00 | Status: won  P&L: $200.00  Notes: GameDayWagers ticket #411622271.
-#1690 | 2026-06-29 | Soccer/International | Brazil 1st Half Spread -0.5 | Pick: Brazil -0.5 (1H) | Odds: +140 | Risk $100.00 → Win $140.00 | Status: lost  P&L: -$100.00  Notes: GameDayWagers ticket #411622272.
-#1689 | 2026-06-29 | Soccer/International | Brazil/Japan 1st Half Total - Over 1 | Pick: Over 1 (1H) | Odds: +106 | Risk $100.00 → Win $106.00 | Status: push  P&L: $0.00  Notes: GameDayWagers ticket #411622273. 1HT total exactly 1 = PUSH.
-#1688 | 2026-06-28 | Soccer/International | 9-leg parlay: DC JOR/DRAW JOR-ARG / O0.5 JOR JOR-ARG / FRA ML FRA-SWE / USA ML USA-BIH / DEU ML DEU-PAR / BRA ML BRA-JPN + 3 more | Pick: 9-leg | Odds: Combo | Risk $150.00 → Win $0.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse ticket #392841418.
-#1687 | 2026-06-28 | Mixed/Mixed | 9-leg parlay: COD ML COD-UZB / ARG ML JOR-ARG / 1st Inning DRAW SEA@CLE + 6 more | Pick: 9-leg | Odds: Combo | Risk $350.00 → Win $833.00 | Status: won  P&L: $833.00  Notes: Wagerhouse ticket #392819170. Won +$833. Cross-sport (Soccer + MLB 1st inning).
-#1686 | 2026-06-28 | Mixed/Mixed | 9-leg parlay: ENG ML PAN-ENG / ARG ML JOR-ARG / DC COL/DRAW COL-PRT / COD ML COD-UZB + 5 more | Pick: 9-leg | Odds: Combo | Risk $350.00 → Win $1,120.00 | Status: won  P&L: $1,120.00  Notes: Wagerhouse ticket #392802361. Won +$1,120.
-#1685 | 2026-06-27 | Soccer/International | 5 4-team parlays @ $10 each (Aus/Par DRAW +135 (W) / Iran/Egy DRAW +165 (W) / Gha/Cro DRAW +225 (L) / Portugal ML -120 (L) / Austria/Alg DRAW +120 (W)) | Pick: 5 parlays @ $10 | Odds: Mixed | Risk $50.00 → Win $0.00 | Status: lost  P&L: -$50.00  Notes: Wagerhouse 5-leg RR. 4-way tier: 5 combos x $10 = $50 stake. Every 4-way requires 4 winners but only 3 picks hit. All combos lost.
-#1684 | 2026-06-27 | Soccer/International | 10 3-team parlays @ $15 each (Aus/Par DRAW +135 (W) / Iran/Egy DRAW +165 (W) / Gha/Cro DRAW +225 (L) / Portugal ML -120 (L) / Austria/Alg DRAW +120 (W)) | Pick: 10 parlays @ $15 | Odds: Mixed | Risk $0.00 → Win $55.51 | Status: won  P&L: $55.51  Notes: Wagerhouse 5-leg RR. 3-way tier: 10 combos x $15 = $150 stake. 1 winning combo: Aus/Par+Iran/Egy+Aus/Alg paid $205.51. Net +$55.51.
-#1683 | 2026-06-27 | Soccer/International | 10 2-team parlays @ $15 each (Aus/Par DRAW +135 (W) / Iran/Egy DRAW +165 (W) / Gha/Cro DRAW +225 (L) / Portugal ML -120 (L) / Austria/Alg DRAW +120 (W)) | Pick: 10 parlays @ $15 | Odds: Mixed | Risk $0.00 → Win $108.41 | Status: won  P&L: $108.41  Notes: Wagerhouse 5-leg RR. 2-way tier: 10 combos x $15 = $150 stake. 3 winning combos: Aus/Par+Iran/Egy ($78.41), Aus/Par+Aus/Alg ($62.55), Iran/Egy+Aus/Alg ($72.45). Net +$108.41.
-#1682 | 2026-06-27 | Mixed/Mixed | 9-leg parlay: ENG ML PAN-ENG / ARG ML JOR-ARG / COD ML COD-UZB / 1st Inning DRAW CIN@PIT / 1st Inning DRAW SEA@CLE + 4 more | Pick: 9-leg | Odds: Combo | Risk $250.00 → Win $0.00 | Status: lost  P&L: -$250.00  Notes: Wagerhouse ticket #392802134. Cross-sport (Soccer + MLB 1st innings).
-#1681 | 2026-06-27 | Soccer/International | 9-leg parlay: DC EGY-IRN / BTTS COL-PRT / PRT ML / BTTS URU-ESP + 5 more | Pick: 9-leg | Odds: Combo | Risk $200.00 → Win $0.00 | Status: lost  P&L: -$200.00  Notes: Wagerhouse ticket #392751940.
-#1680 | 2026-06-27 | Soccer/International | 9-leg parlay: NED ML / BTTS TUR-USA / DRAW EGY-IRN / BTTS NOR-FRA / BTTS COL-PRT / PRT ML + 3 more | Pick: 9-leg | Odds: Combo | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse ticket #392652491.
-#1679 | 2026-06-25 | Soccer/International | 9-leg parlay: BTTS TUR-USA / HT/FT NED-NED / BTTS NOR-FRA / Over 2.5 JPN-SWE + 5 more | Pick: 9-leg | Odds: Combo | Risk $121.00 → Win $0.00 | Status: lost  P&L: -$121.00  Notes: Wagerhouse ticket #392650228.
-#1678 | 2026-06-24 | Soccer/International | Qatar/Bosnia 2nd Half DRAW | Pick: DRAW | Odds: +175 | Risk $100.00 → Win $175.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse 2nd-half market.
