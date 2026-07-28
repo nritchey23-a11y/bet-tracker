@@ -1,14 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-07-28T17:29:29.684267+00:00
+Generated: 2026-07-28T21:57:56.639938+00:00
 Total bets in tracker: 1800
 
 OVERALL STATUS
   Won: 757  Lost: 927  Push: 37  Pending: 79
   Lifetime settled P&L: $14,182.57
-  Pending risk: $57,665.00   Pending max win: $94,333.57
+  Pending risk: $57,665.00   Pending max win: $94,583.57
 
 RECENT DAYS (most recent 8 with activity)
-  2026-07-28: 0W-0L  P&L: $0.00  Pending: 1 (risk $250.00, max $127.50)
+  2026-07-28: 0W-0L  P&L: $0.00  Pending: 1 (risk $250.00, max $377.50)
   2026-07-27: 0W-0L  P&L: $0.00  Pending: 10 (risk $6,775.00, max $10,371.00)
   2026-07-26: 1W-0L  P&L: $179.64  Pending: 4 (risk $1,100.00, max $1,233.33)
   2026-07-19: 1W-2L  P&L: $2,075.00
@@ -24,7 +24,7 @@ RECENT WEEKS (Tue–Mon, most recent 4)
   Week 2026-07-07 → 2026-07-13: 7W-9L  P&L: $837.16
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
-#1802 | 2026-07-28 | Baseball/MLB | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML | Pick: Castillo U4.5 Ks (-124) + LAD ML | Odds: +150 | Risk $250.00 → Win $127.50 | Status: pending  Notes: Wagerhouse pending. 2-leg parlay submitted 7/28 10:28 AM PT. Return $377.50 on $250 wager.
+#1802 | 2026-07-28 | Baseball/MLB | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML | Pick: Castillo U4.5 Ks (-124) + LAD ML | Odds: +150 | Risk $250.00 → Win $377.50 | Status: pending  Notes: Wagerhouse pending. 2-leg parlay submitted 7/28 10:28 AM PT. $250 risk, $377.50 profit if wins ($627.50 total return).
 #1801 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props UConn - Under 5.5 | Pick: UConn Under 5.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: GameDayWagers contest ticket #433700356_1. Pending end of CFB 2026-27 regular season.
 #1800 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props James Madison - Under 8.5 | Pick: James Madison Under 8.5 | Odds: +125 | Risk $250.00 → Win $312.50 | Status: pending  Notes: GameDayWagers contest ticket #433700357_1. Pending end of CFB 2026-27 regular season.
 #1799 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Missouri - Under 6.5 | Pick: Missouri Under 6.5 | Odds: +105 | Risk $250.00 → Win $262.50 | Status: pending  Notes: GameDayWagers contest ticket #433700358_1. Pending end of CFB 2026-27 regular season.
