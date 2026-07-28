@@ -1,13 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-07-28T14:52:23.040491+00:00
-Total bets in tracker: 1799
+Generated: 2026-07-28T17:29:29.684267+00:00
+Total bets in tracker: 1800
 
 OVERALL STATUS
-  Won: 757  Lost: 927  Push: 37  Pending: 78
+  Won: 757  Lost: 927  Push: 37  Pending: 79
   Lifetime settled P&L: $14,182.57
-  Pending risk: $57,415.00   Pending max win: $94,206.07
+  Pending risk: $57,665.00   Pending max win: $94,333.57
 
 RECENT DAYS (most recent 8 with activity)
+  2026-07-28: 0W-0L  P&L: $0.00  Pending: 1 (risk $250.00, max $127.50)
   2026-07-27: 0W-0L  P&L: $0.00  Pending: 10 (risk $6,775.00, max $10,371.00)
   2026-07-26: 1W-0L  P&L: $179.64  Pending: 4 (risk $1,100.00, max $1,233.33)
   2026-07-19: 1W-2L  P&L: $2,075.00
@@ -15,15 +16,15 @@ RECENT DAYS (most recent 8 with activity)
   2026-07-17: 0W-1L  P&L: -$220.00
   2026-07-15: 0W-1L  P&L: -$200.00
   2026-07-14: 0W-2L  P&L: -$250.00
-  2026-07-11: 2W-0L  P&L: $590.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
+  Week 2026-07-28 → 2026-08-03: 0W-0L  P&L: $0.00  Pending: 1 (risk $250.00)
   Week 2026-07-21 → 2026-07-27: 1W-0L  P&L: $179.64  Pending: 14 (risk $7,875.00)
   Week 2026-07-14 → 2026-07-20: 1W-8L  P&L: $890.00
   Week 2026-07-07 → 2026-07-13: 7W-9L  P&L: $837.16
-  Week 2026-06-30 → 2026-07-06: 1W-3L  P&L: -$300.00
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1802 | 2026-07-28 | Baseball/MLB | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML | Pick: Castillo U4.5 Ks (-124) + LAD ML | Odds: +150 | Risk $250.00 → Win $127.50 | Status: pending  Notes: Wagerhouse pending. 2-leg parlay submitted 7/28 10:28 AM PT. Return $377.50 on $250 wager.
 #1801 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props UConn - Under 5.5 | Pick: UConn Under 5.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: GameDayWagers contest ticket #433700356_1. Pending end of CFB 2026-27 regular season.
 #1800 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props James Madison - Under 8.5 | Pick: James Madison Under 8.5 | Odds: +125 | Risk $250.00 → Win $312.50 | Status: pending  Notes: GameDayWagers contest ticket #433700357_1. Pending end of CFB 2026-27 regular season.
 #1799 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Missouri - Under 6.5 | Pick: Missouri Under 6.5 | Odds: +105 | Risk $250.00 → Win $262.50 | Status: pending  Notes: GameDayWagers contest ticket #433700358_1. Pending end of CFB 2026-27 regular season.
@@ -103,4 +104,3 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1725 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Colombia | Pick: Colombia | Odds: +120 | Risk $650.00 → Win $780.00 | Status: won  P&L: $780.00  Notes: Action Network. Group stage in progress / R16 not yet clinched. | Colombia beat Ghana in R32 to reach R16 (0-0, lost R16 on pens to SUI).
 #1724 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Uruguay | Pick: Uruguay | Odds: +130 | Risk $600.00 → Win $780.00 | Status: lost  P&L: -$600.00  Notes: Action Network. Group stage status uncertain - mark pending pending user confirmation. | Uruguay eliminated in group stage — did not reach R32.
 #1723 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Portugal | Pick: Portugal | Odds: +125 | Risk $600.00 → Win $750.00 | Status: lost  P&L: -$600.00  Notes: Action Network. | Portugal 0-1 Spain in R16 — eliminated before QF.
-#1722 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Germany | Pick: Germany | Odds: +150 | Risk $500.00 → Win $750.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany 1-1 (3-4 pens) Paraguay in R32 — eliminated before QF.
