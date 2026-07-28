@@ -1,29 +1,43 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-07-27T19:37:59.979012+00:00
-Total bets in tracker: 1785
+Generated: 2026-07-28T14:52:23.040491+00:00
+Total bets in tracker: 1799
 
 OVERALL STATUS
-  Won: 757  Lost: 927  Push: 37  Pending: 64
+  Won: 757  Lost: 927  Push: 37  Pending: 78
   Lifetime settled P&L: $14,182.57
-  Pending risk: $49,540.00   Pending max win: $82,601.74
+  Pending risk: $57,415.00   Pending max win: $94,206.07
 
 RECENT DAYS (most recent 8 with activity)
-  2026-07-26: 1W-0L  P&L: $179.64
+  2026-07-27: 0W-0L  P&L: $0.00  Pending: 10 (risk $6,775.00, max $10,371.00)
+  2026-07-26: 1W-0L  P&L: $179.64  Pending: 4 (risk $1,100.00, max $1,233.33)
   2026-07-19: 1W-2L  P&L: $2,075.00
   2026-07-18: 0W-2L  P&L: -$515.00
   2026-07-17: 0W-1L  P&L: -$220.00
   2026-07-15: 0W-1L  P&L: -$200.00
   2026-07-14: 0W-2L  P&L: -$250.00
   2026-07-11: 2W-0L  P&L: $590.00
-  2026-07-10: 3W-3L  P&L: $403.21
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-07-21 → 2026-07-27: 1W-0L  P&L: $179.64
+  Week 2026-07-21 → 2026-07-27: 1W-0L  P&L: $179.64  Pending: 14 (risk $7,875.00)
   Week 2026-07-14 → 2026-07-20: 1W-8L  P&L: $890.00
   Week 2026-07-07 → 2026-07-13: 7W-9L  P&L: $837.16
   Week 2026-06-30 → 2026-07-06: 1W-3L  P&L: -$300.00
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1801 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props UConn - Under 5.5 | Pick: UConn Under 5.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: GameDayWagers contest ticket #433700356_1. Pending end of CFB 2026-27 regular season.
+#1800 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props James Madison - Under 8.5 | Pick: James Madison Under 8.5 | Odds: +125 | Risk $250.00 → Win $312.50 | Status: pending  Notes: GameDayWagers contest ticket #433700357_1. Pending end of CFB 2026-27 regular season.
+#1799 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Missouri - Under 6.5 | Pick: Missouri Under 6.5 | Odds: +105 | Risk $250.00 → Win $262.50 | Status: pending  Notes: GameDayWagers contest ticket #433700358_1. Pending end of CFB 2026-27 regular season.
+#1798 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Texas AM - Under 8.5 | Pick: Texas A&M Under 8.5 | Odds: -120 | Risk $100.00 → Win $83.33 | Status: pending  Notes: GameDayWagers contest ticket #433700359_1. Pending end of CFB 2026-27 regular season.
+#1797 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Cowboys - Under 9.5 | Pick: DAL Under 9.5 | Odds: -115 | Risk $1,150.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
+#1796 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Lions - Over 10.5 | Pick: DET Over 10.5 | Odds: -125 | Risk $1,250.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
+#1795 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Jaguars - Over 9.5 | Pick: JAX Over 9.5 | Odds: +120 | Risk $1,000.00 → Win $1,200.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
+#1794 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Chargers - Over 10.5 | Pick: LAC Over 10.5 | Odds: +120 | Risk $500.00 → Win $600.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
+#1793 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Giants - Over 7.5 | Pick: NYG Over 7.5 | Odds: -110 | Risk $550.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
+#1792 | 2026-07-27 | Football/NFL | Odds to win Division of Super Bowl Winner - NFC West | Pick: NFC West | Odds: +285 | Risk $1,000.00 → Win $2,850.00 | Status: pending  Notes: Wagerhouse pending. Pending end of Super Bowl LXI (2026-27 NFL season).
+#1791 | 2026-07-27 | Football/NCAAF | Odds to win Big 12 Championship Game - BYU | Pick: BYU | Odds: +750 | Risk $300.00 → Win $2,250.00 | Status: pending  Notes: Wagerhouse pending. Pending 2026-27 Big 12 Championship Game.
+#1790 | 2026-07-27 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - James Madison - Under 8.5 | Pick: James Madison Under 8.5 | Odds: +115 | Risk $250.00 → Win $287.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
+#1789 | 2026-07-27 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Missouri - Under 6.5 | Pick: Missouri Under 6.5 | Odds: -110 | Risk $275.00 → Win $250.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
+#1788 | 2026-07-27 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Texas A&M - Under 8.5 | Pick: Texas A&M Under 8.5 | Odds: -115 | Risk $500.00 → Win $434.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
 #1787 | 2026-07-26 | Golf/PGA Tour | Jackson Koivun to win 3M Open | Pick: Jackson Koivun | Odds: -835 | Risk $1,500.00 → Win $179.64 | Status: won  P&L: $179.64  Notes: Wagerhouse ticket #G306282450. Heavy chalk outright at 3M Open — won.
 #1786 | 2026-07-19 | Golf/PGA Tour | Ryan Fox to win 2026 Open Championship | Pick: Ryan Fox | Odds: +305 | Risk $1,500.00 → Win $4,575.00 | Status: won  P&L: $4,575.00  Notes: Wagerhouse ticket #G305520772. Open Championship outright. Fox won — biggest cash of the stretch.
 #1785 | 2026-07-19 | Golf/PGA Tour | Cameron Young to win 2026 Open Championship | Pick: Cameron Young | Odds: +105 | Risk $2,000.00 → Win $2,100.00 | Status: lost  P&L: -$2,000.00  Notes: Wagerhouse ticket #G305520501. Open Championship outright. Fox won.
@@ -90,17 +104,3 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1724 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Uruguay | Pick: Uruguay | Odds: +130 | Risk $600.00 → Win $780.00 | Status: lost  P&L: -$600.00  Notes: Action Network. Group stage status uncertain - mark pending pending user confirmation. | Uruguay eliminated in group stage — did not reach R32.
 #1723 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Portugal | Pick: Portugal | Odds: +125 | Risk $600.00 → Win $750.00 | Status: lost  P&L: -$600.00  Notes: Action Network. | Portugal 0-1 Spain in R16 — eliminated before QF.
 #1722 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Germany | Pick: Germany | Odds: +150 | Risk $500.00 → Win $750.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany 1-1 (3-4 pens) Paraguay in R32 — eliminated before QF.
-#1721 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Netherlands | Pick: Netherlands | Odds: +160 | Risk $450.00 → Win $720.00 | Status: lost  P&L: -$450.00  Notes: Action Network. | Netherlands out R32 to Morocco (never reached R16, forfeits QF ticket).
-#1720 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Norway | Pick: Norway | Odds: +200 | Risk $400.00 → Win $800.00 | Status: won  P&L: $800.00  Notes: Action Network. | Norway 2-1 Brazil in R16 to reach QF.
-#1719 | 2026-06-04 | Soccer/FIFA | Reach Final - Portugal | Pick: Portugal | Odds: +450 | Risk $550.00 → Win $2,475.00 | Status: lost  P&L: -$550.00  Notes: Action Network. | Portugal out R16 to Spain — did not reach Final.
-#1718 | 2026-06-04 | Soccer/FIFA | Reach Final - Germany | Pick: Germany | Odds: +550 | Risk $500.00 → Win $2,750.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany out R32 to Paraguay — did not reach Final.
-#1717 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Portugal | Pick: Portugal | Odds: +250 | Risk $600.00 → Win $1,500.00 | Status: lost  P&L: -$600.00  Notes: Action Network. | Portugal out R16 to Spain — did not reach SF.
-#1716 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Germany | Pick: Germany | Odds: +325 | Risk $500.00 → Win $1,625.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany out R32 to Paraguay — did not reach SF.
-#1715 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Netherlands | Pick: Netherlands | Odds: +450 | Risk $200.00 → Win $900.00 | Status: lost  P&L: -$200.00  Notes: Action Network. | Netherlands out R32 to Morocco — did not reach SF.
-#1714 | 2026-06-04 | Soccer/FIFA | Reach Semi Finals - Norway | Pick: Norway | Odds: +500 | Risk $200.00 → Win $1,000.00 | Status: lost  P&L: -$200.00  Notes: Action Network. | Norway 1-2 (aet) England in QF — did not reach SF.
-#1713 | 2026-06-04 | Soccer/FIFA | Tournament Winner - Germany | Pick: Germany | Odds: +1500 | Risk $500.00 → Win $7,500.00 | Status: lost  P&L: -$500.00  Notes: Action Network. | Germany out R32 to Paraguay — cannot win tournament.
-#1712 | 2026-06-04 | Soccer/FIFA | CONCACAF Top Finish - Mexico | Pick: Mexico | Odds: +160 | Risk $133.33 → Win $0.00 | Status: lost  P&L: -$133.33  Notes: Action Network. | DEAD HEAT: USA, Mexico, Canada all eliminated R16 (3-way tie). Original stake $1,000 at +160. 1/3 wins at full odds ($333.33 → +$533.33 profit); 2/3 loses ($666.67). Net -$133.33. Risk field overridden to net loss amount per partial-win convention.
-#1711 | 2026-06-04 | Soccer/FIFA | UEFA Top Finish - Germany | Pick: Germany | Odds: +900 | Risk $100.00 → Win $900.00 | Status: lost  P&L: -$100.00  Notes: Action Network. | Germany out R32 — Spain/England/France all finished higher.
-#1710 | 2026-06-04 | Football/NFL | Dallas Cowboys Regular Season Wins U 9.5 | Pick: DAL Under 9.5 | Odds: -115 | Risk $1,150.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
-#1709 | 2026-06-04 | Football/NFL | Detroit Lions Regular Season Wins O 10.5 | Pick: DET Over 10.5 | Odds: -125 | Risk $1,250.00 → Win $1,000.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
-#1708 | 2026-06-04 | Football/NFL | JAX Jaguars Regular Season Wins O 9.5 | Pick: JAX Over 9.5 | Odds: +120 | Risk $1,000.00 → Win $1,200.00 | Status: pending  Notes: Action Network. Pending 2026-27 NFL season.
