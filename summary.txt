@@ -1,30 +1,34 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-07-28T21:57:56.639938+00:00
-Total bets in tracker: 1800
+Generated: 2026-08-10T20:59:42.620446+00:00
+Total bets in tracker: 1804
 
 OVERALL STATUS
-  Won: 757  Lost: 927  Push: 37  Pending: 79
-  Lifetime settled P&L: $14,182.57
-  Pending risk: $57,665.00   Pending max win: $94,583.57
+  Won: 728  Lost: 885  Push: 34  Pending: 72
+  Lifetime settled P&L: $16,937.69
+  Pending risk: $51,775.00   Pending max win: $87,905.07
 
 RECENT DAYS (most recent 8 with activity)
-  2026-07-28: 0W-0L  P&L: $0.00  Pending: 1 (risk $250.00, max $377.50)
+  2026-08-02: 0W-2L  P&L: $-750.00
+  2026-08-01: 1W-0L  P&L: $531.18
+  2026-07-30: 0W-1L  P&L: $-200.00
+  2026-07-28: 0W-1L  P&L: $-250.00
   2026-07-27: 0W-0L  P&L: $0.00  Pending: 10 (risk $6,775.00, max $10,371.00)
   2026-07-26: 1W-0L  P&L: $179.64  Pending: 4 (risk $1,100.00, max $1,233.33)
-  2026-07-19: 1W-2L  P&L: $2,075.00
-  2026-07-18: 0W-2L  P&L: -$515.00
-  2026-07-17: 0W-1L  P&L: -$220.00
-  2026-07-15: 0W-1L  P&L: -$200.00
-  2026-07-14: 0W-2L  P&L: -$250.00
+  2026-07-20: 1W-2L  P&L: $2,075.00
+  2026-07-19: 2W-4L  P&L: $2,910.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-07-28 → 2026-08-03: 0W-0L  P&L: $0.00  Pending: 1 (risk $250.00)
+  Week 2026-07-28 → 2026-08-03: 1W-4L  P&L: $-668.82
   Week 2026-07-21 → 2026-07-27: 1W-0L  P&L: $179.64  Pending: 14 (risk $7,875.00)
-  Week 2026-07-14 → 2026-07-20: 1W-8L  P&L: $890.00
-  Week 2026-07-07 → 2026-07-13: 7W-9L  P&L: $837.16
+  Week 2026-07-14 → 2026-07-20: 3W-10L  P&L: $4,315.00
+  Week 2026-07-07 → 2026-07-13: 8W-12L  P&L: $417.16
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
-#1802 | 2026-07-28 | Baseball/MLB | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML | Pick: Castillo U4.5 Ks (-124) + LAD ML | Odds: +150 | Risk $250.00 → Win $377.50 | Status: pending  Notes: Wagerhouse pending. 2-leg parlay submitted 7/28 10:28 AM PT. $250 risk, $377.50 profit if wins ($627.50 total return).
+#1806 | 2026-08-02 | Golf/PGA Tour | Tournament Outright Winner: Rasmus Hojgaard | Pick: Rasmus Hojgaard | Odds: +315 | Risk $250.00 → Win $787.50 | Status: lost  P&L: -$250.00  Notes: GameDayWagers ticket 434129988-1. Placed 08/02/2026 16:07. Graded lost -$250 (Paid: -250).
+#1805 | 2026-08-02 | Golf/PGA Tour | Tournament Outright Winner: Cameron Young | Pick: Cameron Young | Odds: +370 | Risk $500.00 → Win $1,850.00 | Status: lost  P&L: -$500.00  Notes: Wagerhouse ticket G306917826. Graded lost -$500.
+#1804 | 2026-08-01 | MMA/UFC | 3-team ML parlay: M. Oliveira -360 + U. Medic -380 + A. Rakic -360 | Pick: Oliveira ML + Medic ML + Rakic ML | Odds: +106 | Risk $500.00 → Win $531.18 | Status: won  P&L: $531.18  Notes: Wagerhouse. 3-leg UFC ML parlay, all three legs won. Combined odds +106 back-calculated from $500 risk / $531.18 profit.
+#1803 | 2026-07-30 | Baseball/MLB | Junior Caminero (TB) Over 0.5 Hits — 1st Half (5 innings) result | Pick: Caminero O0.5 Hits 1H | Odds: -110 | Risk $200.00 → Win $181.82 | Status: lost  P&L: -$200.00  Notes: Wagerhouse ticket 394704239. Graded lost -$200. Odds marked -110 (odds not shown on slip).
+#1802 | 2026-07-28 | Baseball/MLB | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML | Pick: Castillo U4.5 Ks (-124) + LAD ML | Odds: +150 | Risk $250.00 → Win $377.50 | Status: lost  P&L: -$250.00  Notes: Wagerhouse. 2-leg parlay submitted 7/28 10:28 AM PT. $250 risk, $377.50 profit if wins ($627.50 total return). Graded LOST: Castillo went 5 IP / 2 K (Under 4.5 Ks WON) but LAD lost 6-7 to SEA (Canzone 2-run HR in 8th), so LAD ML LEG LOST.
 #1801 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props UConn - Under 5.5 | Pick: UConn Under 5.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: GameDayWagers contest ticket #433700356_1. Pending end of CFB 2026-27 regular season.
 #1800 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props James Madison - Under 8.5 | Pick: James Madison Under 8.5 | Odds: +125 | Risk $250.00 → Win $312.50 | Status: pending  Notes: GameDayWagers contest ticket #433700357_1. Pending end of CFB 2026-27 regular season.
 #1799 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Missouri - Under 6.5 | Pick: Missouri Under 6.5 | Odds: +105 | Risk $250.00 → Win $262.50 | Status: pending  Notes: GameDayWagers contest ticket #433700358_1. Pending end of CFB 2026-27 regular season.
@@ -100,7 +104,3 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1729 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Virginia Tech - Under 6.5 | Pick: Virginia Tech Under 6.5 | Odds: +120 | Risk $500.00 → Win $600.00 | Status: pending  Notes: Wagerhouse contest ticket #410645405. Pending end of CFB 2026-27 regular season.
 #1728 | 2026-06-09 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Nebraska - Over 6.5 | Pick: Nebraska Over 6.5 | Odds: +105 | Risk $500.00 → Win $525.00 | Status: pending  Notes: Wagerhouse contest ticket #410645406. Pending end of CFB 2026-27 regular season.
 #1727 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Netherlands | Pick: Netherlands | Odds: -150 | Risk $1,500.00 → Win $1,000.00 | Status: lost  P&L: -$1,500.00  Notes: Action Network. Group stage in progress / R16 not yet clinched. | Netherlands lost 1-1 (2-3 pens) to Morocco in R32.
-#1726 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Norway | Pick: Norway | Odds: -150 | Risk $1,500.00 → Win $1,000.00 | Status: won  P&L: $1,000.00  Notes: Action Network. Group stage in progress / R16 not yet clinched. | Norway beat Ivory Coast in R32 to reach R16.
-#1725 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Colombia | Pick: Colombia | Odds: +120 | Risk $650.00 → Win $780.00 | Status: won  P&L: $780.00  Notes: Action Network. Group stage in progress / R16 not yet clinched. | Colombia beat Ghana in R32 to reach R16 (0-0, lost R16 on pens to SUI).
-#1724 | 2026-06-04 | Soccer/FIFA | Reach Round of 16 - Uruguay | Pick: Uruguay | Odds: +130 | Risk $600.00 → Win $780.00 | Status: lost  P&L: -$600.00  Notes: Action Network. Group stage status uncertain - mark pending pending user confirmation. | Uruguay eliminated in group stage — did not reach R32.
-#1723 | 2026-06-04 | Soccer/FIFA | Reach Quarter Finals - Portugal | Pick: Portugal | Odds: +125 | Risk $600.00 → Win $750.00 | Status: lost  P&L: -$600.00  Notes: Action Network. | Portugal 0-1 Spain in R16 — eliminated before QF.
