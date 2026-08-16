@@ -30669,6 +30669,40 @@
       "Result Date": "2026-08-02",
       "Notes": "GameDayWagers ticket 434129988-1. Placed 08/02/2026 16:07. Graded lost -$250 (Paid: -250).",
       "ID": "1806"
+    },
+    {
+      "Date": "2026-08-15",
+      "Sport": "MMA",
+      "League": "UFC",
+      "Event": "UFC 330: Makhachev vs. Machado Garry (Philadelphia)",
+      "Type": "parlay",
+      "Description": "4-team ML parlay: M. Orolbai -1310 + M. Dern -195 + I. Makhachev -350 + E. Ribovics -780",
+      "Pick": "Orolbai ML + Dern ML + Makhachev ML + Ribovics ML",
+      "Opponent": "",
+      "Odds": "+136",
+      "Risk": "500",
+      "To Win": "680.97",
+      "Status": "lost",
+      "Result Date": "2026-08-15",
+      "Notes": "Wagerhouse. 4-leg UFC 330 ML parlay. LOST on Orolbai leg only (-1310) \u2014 Jeremiah Wells beat Myktybek Orolbai by technical submission (ninja choke) R3 1:24. Other 3 legs all won (Dern, Makhachev, Ribovics). Combined odds +136 computed from legs.",
+      "ID": "1807"
+    },
+    {
+      "Date": "2026-08-15",
+      "Sport": "MMA",
+      "League": "UFC",
+      "Event": "UFC 330: Makhachev vs. Machado Garry (Philadelphia)",
+      "Type": "parlay",
+      "Description": "3-team ML parlay: M. Dern -195 + I. Makhachev -350 + E. Ribovics -770",
+      "Pick": "Dern ML + Makhachev ML + Ribovics ML",
+      "Opponent": "",
+      "Odds": "+120",
+      "Risk": "1000",
+      "To Win": "1197.65",
+      "Status": "won",
+      "Result Date": "2026-08-15",
+      "Notes": "Wagerhouse. 3-leg UFC 330 ML parlay, all legs won: Dern def. Robertson (UD), Makhachev def. Machado Garry (UD), Ribovics def. Barboza (TKO R2). $1,000 risk back-calculated from +120 combined odds / $1,197.65 profit. Reconciles to Wagerhouse 8/15 day total +$697.65.",
+      "ID": "1808"
     }
   ]
 }
