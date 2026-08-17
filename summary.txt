@@ -1,14 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-08-16T15:07:03.917130+00:00
+Generated: 2026-08-17T18:45:50.827957+00:00
 Total bets in tracker: 1807
 
 OVERALL STATUS
-  Won: 759  Lost: 931  Push: 37  Pending: 80
-  Lifetime settled P&L: $14,461.40
-  Pending risk: $57,943.00   Pending max win: $94,972.77
+  Won: 759  Lost: 932  Push: 37  Pending: 79
+  Lifetime settled P&L: $14,183.40
+  Pending risk: $57,665.00   Pending max win: $94,583.57
 
 RECENT DAYS (most recent 8 with activity)
-  2026-08-16: 0W-0L  P&L: $0.00  Pending: 1 (risk $278.00, max $389.20)
+  2026-08-16: 0W-1L  P&L: -$278.00
   2026-08-15: 1W-1L  P&L: $697.65
   2026-08-02: 0W-2L  P&L: -$750.00
   2026-08-01: 1W-0L  P&L: $531.18
@@ -18,13 +18,13 @@ RECENT DAYS (most recent 8 with activity)
   2026-07-26: 1W-0L  P&L: $179.64  Pending: 4 (risk $1,100.00, max $1,233.33)
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-08-11 → 2026-08-17: 1W-1L  P&L: $697.65  Pending: 1 (risk $278.00)
+  Week 2026-08-11 → 2026-08-17: 1W-2L  P&L: $419.65
   Week 2026-07-28 → 2026-08-03: 1W-3L  P&L: -$418.82  Pending: 1 (risk $250.00)
   Week 2026-07-21 → 2026-07-27: 1W-0L  P&L: $179.64  Pending: 14 (risk $7,875.00)
   Week 2026-07-14 → 2026-07-20: 1W-8L  P&L: $890.00
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
-#1809 | 2026-08-16 | Golf/PGA Tour | Sungjae Im R4 matchup ML | Pick: Sungjae Im | Odds: +140 | Risk $278.00 → Win $389.20 | Status: pending  Notes: Wagerhouse ticket 1515405977. R4 matchups selection 7448. Tee time 08/16/2026 10:20 AM PST. Opponent not shown on ticket screenshot.
+#1809 | 2026-08-16 | Golf/PGA Tour | R4 H2H: Im > S.W. Kim | Pick: Sungjae Im | Odds: +140 | Risk $278.00 → Win $389.20 | Status: lost  P&L: -$278.00  Notes: Wagerhouse ticket 1515405977. R4 matchups selection 7448. LOST: Si Woo Kim shot bogey-free 68 (finished solo 2nd, -9); Sungjae Im shot 74 (T5, -7). Graded lost -$278.
 #1808 | 2026-08-15 | MMA/UFC | 3-team ML parlay: M. Dern -195 + I. Makhachev -350 + E. Ribovics -770 | Pick: Dern ML + Makhachev ML + Ribovics ML | Odds: +120 | Risk $1,000.00 → Win $1,197.65 | Status: won  P&L: $1,197.65  Notes: Wagerhouse. 3-leg UFC 330 ML parlay, all legs won: Dern def. Robertson (UD), Makhachev def. Machado Garry (UD), Ribovics def. Barboza (TKO R2). $1,000 risk back-calculated from +120 combined odds / $1,197.65 profit. Reconciles to Wagerhouse 8/15 day total +$697.65.
 #1807 | 2026-08-15 | MMA/UFC | 4-team ML parlay: M. Orolbai -1310 + M. Dern -195 + I. Makhachev -350 + E. Ribovics -780 | Pick: Orolbai ML + Dern ML + Makhachev ML + Ribovics ML | Odds: +136 | Risk $500.00 → Win $680.97 | Status: lost  P&L: -$500.00  Notes: Wagerhouse. 4-leg UFC 330 ML parlay. LOST on Orolbai leg only (-1310) — Jeremiah Wells beat Myktybek Orolbai by technical submission (ninja choke) R3 1:24. Other 3 legs all won (Dern, Makhachev, Ribovics). Combined odds +136 computed from legs.
 #1806 | 2026-08-02 | Golf/PGA Tour | Tournament Outright Winner: Rasmus Hojgaard | Pick: Rasmus Hojgaard | Odds: +315 | Risk $250.00 → Win $787.50 | Status: lost  P&L: -$250.00  Notes: GameDayWagers ticket 434129988-1. Placed 08/02/2026 16:07. Graded lost -$250 (Paid: -250).
