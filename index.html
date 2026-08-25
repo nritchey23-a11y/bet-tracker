@@ -31540,6 +31540,13 @@ const FALLBACK_BETS = [
 // ===== CONFIG =====
 const SHEET_ID = '1rzLN93JOthfLKPXha-ehWtf1tAO73kxghRbHVpOX70g';
 const SHEET_CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=Bets`;
+// Primary source: public raw GitHub CSV (CORS-enabled, always current).
+// The Google Sheet is kept as a secondary source but returns 401 unless shared publicly.
+const GITHUB_CSV_URL = 'https://raw.githubusercontent.com/nritchey23-a11y/bet-tracker/master/bets.csv';
+const DATA_SOURCES = [
+  { name: 'GitHub', url: GITHUB_CSV_URL },
+  { name: 'Sheet',  url: SHEET_CSV_URL },
+];
 let LS;
 try { LS = window['local'+'Storage']; } catch(e) { LS = { getItem:()=>null, setItem:()=>{} }; }
 if (!LS) LS = { getItem:()=>null, setItem:()=>{} };
@@ -31657,24 +31664,29 @@ function normalizeBets(bets) {
 
 // ===== DATA LOADING =====
 async function loadData() {
-  try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 5000);
-    const resp = await fetch(SHEET_CSV_URL, { signal: controller.signal });
-    clearTimeout(timeoutId);
-    if (!resp.ok) throw new Error('HTTP ' + resp.status);
-    const text = await resp.text();
-    const parsed = parseBetsCSV(text);
-    if (parsed.length > 100) {
-      allBets = normalizeBets(parsed);
-      setStatus(true, `${allBets.length} bets (live)`);
-      return;
+  for (const src of DATA_SOURCES) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 8000);
+      // cache-bust so GitHub's 5-minute CDN cache never serves a stale ledger
+      const url = src.url + (src.url.includes('?') ? '&' : '?') + 'cb=' + Date.now();
+      const resp = await fetch(url, { signal: controller.signal, cache: 'no-store' });
+      clearTimeout(timeoutId);
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      const text = await resp.text();
+      const parsed = parseBetsCSV(text);
+      if (parsed.length > 100) {
+        allBets = normalizeBets(parsed);
+        setStatus(true, `${allBets.length} bets · live via ${src.name}`);
+        return;
+      }
+      throw new Error('only ' + parsed.length + ' rows parsed');
+    } catch(e) {
+      console.log(src.name + ' fetch failed:', e.message);
     }
-  } catch(e) {
-    console.log('Sheet fetch failed, using fallback:', e.message);
   }
   allBets = normalizeBets(FALLBACK_BETS);
-  setStatus(false, `${allBets.length} bets (cached)`);
+  setStatus(false, `${allBets.length} bets · cached snapshot`);
 }
 
 function setStatus(live, text) {
