@@ -129,7 +129,7 @@ for k, v in sorted(ps.items(), key=lambda x: -x[1][1]):
     L.append(f"  {k[:16]:<18}{v[0]:>4} {unit}  risk {money(v[1]):>12}  max win {money(v[2]):>12}")
 L.append("")
 L.append("MORE DETAIL")
-for n in ("futures", "pending", "stats"):
+for n in ("futures", "pending", "teams", "stats"):
     L.append(f"  {BASE}/{n}.txt")
 brief = "\n".join(L) + "\n"
 
@@ -164,6 +164,57 @@ for b in sorted(pending, key=lambda b: -f(b.get("Risk"))):
     L.append(f"     pick {b.get('Pick')} | odds {b.get('Odds') or 'n/a'} | risk {money(f(b.get('Risk')))}"
              f" | to win {money(f(b.get('To Win')))} | book {book_of(b)}")
 pend_txt = "\n".join(L) + "\n"
+
+# ---------------------------------------------------------------- teams.txt
+# Per-team index of OPEN bets. Exists so a "what do I have on <team>?" question
+# resolves from one contiguous block instead of scanning a league-grouped file.
+TRAIL = re.compile(
+    r"\s+(over|under|o|u)\s*[\d.]+$|\s*[+-]\d+(\.\d+)?$|\s+ml$|\s+moneyline$",
+    re.IGNORECASE)
+
+
+def team_of(b):
+    p = (b.get("Pick") or "").strip()
+    if not p or len(p) > 60:
+        return None
+    prev = None
+    while prev != p:
+        prev = p
+        p = TRAIL.sub("", p).strip()
+    return p or None
+
+
+by_team = defaultdict(list)
+for b in pending:
+    t = team_of(b)
+    if t:
+        by_team[t].append(b)
+
+L = [head("BET TRACKER - OPEN BETS BY TEAM")]
+L.append("Alphabetical index of every team/selection with at least one OPEN bet.")
+L.append("To answer 'what do I have on <team>?', find the team heading below and read")
+L.append("every line under it. A team may hold several open bets (e.g. a season win")
+L.append("total AND a championship future) - report all of them, not just the first.")
+L.append("")
+L.append(f"Teams with open action: {len(by_team)}")
+L.append("")
+L.append("QUICK INDEX: " + ", ".join(sorted(by_team)))
+L.append("")
+for t in sorted(by_team):
+    rows = by_team[t]
+    tr = sum(f(b.get("Risk")) for b in rows)
+    tw = sum(f(b.get("To Win")) for b in rows)
+    L.append(f"### {t}  --  {len(rows)} open bet{'s' if len(rows) != 1 else ''},"
+             f" risk {money(tr)}, max win {money(tw)}")
+    for b in sorted(rows, key=lambda b: -f(b.get("Risk"))):
+        L.append(f"    [{b.get('ID')}] {b.get('Date')} | {b.get('Type')}"
+                 f" | {b.get('Sport')}/{b.get('League')}")
+        L.append(f"        {b.get('Description')}")
+        L.append(f"        pick {b.get('Pick')} | odds {b.get('Odds') or 'n/a'}"
+                 f" | risk {money(f(b.get('Risk')))} | to win {money(f(b.get('To Win')))}"
+                 f" | book {book_of(b)}")
+    L.append("")
+teams = "\n".join(L) + "\n"
 
 # ---------------------------------------------------------------- stats.txt
 L = [head("BET TRACKER - BREAKDOWNS")]
@@ -221,7 +272,8 @@ L.append("")
 stats = "\n".join(L) + "\n"
 
 # ---------------------------------------------------------------- write
-files = {"brief.txt": brief, "futures.txt": futures, "pending.txt": pend_txt, "stats.txt": stats}
+files = {"brief.txt": brief, "futures.txt": futures, "pending.txt": pend_txt,
+         "teams.txt": teams, "stats.txt": stats}
 for name, body in files.items():
     with open(os.path.join(ROOT, name), "w", encoding="utf-8") as fh:
         fh.write(body)
@@ -242,6 +294,7 @@ rows = "".join(
     for s, d in [("brief", "headline record, P&amp;L, ROI, exposure by sport"),
                  ("futures", "every open future, grouped by league"),
                  ("pending", "every open bet with stake and price"),
+                 ("teams", "open bets grouped by team &mdash; best for &ldquo;what do I have on X?&rdquo;"),
                  ("stats", "breakdowns by sport/league/type/book/month, streaks, best &amp; worst")])
 with open(os.path.join(ROOT, "ask.html"), "w", encoding="utf-8") as fh:
     fh.write(f"""<!doctype html><html lang=en><head><meta charset=utf-8>
