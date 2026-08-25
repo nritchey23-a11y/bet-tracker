@@ -1,0 +1,194 @@
+BET TRACKER - BREAKDOWNS
+========================
+
+This file is a plain-text digest of Nick Ritchey's personal sports-betting
+tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
+total payout (payout = Risk + To Win). Settled excludes pending/refunded.
+Generated: 2026-08-25 20:08 UTC
+
+
+BY SPORT
+  Key                         Record               Risked      Net P&L      ROI
+  Football                    396W-440L-11P   $204,545.51   $18,119.05     8.9%
+  Golf                        49W-66L-3P       $40,359.50    $4,743.21    11.8%
+  MMA                         3W-1L-0P         $10,625.00    $2,728.83    25.7%
+  Baseball                    101W-106L-17P    $46,340.64      $449.89     1.0%
+  Horse Racing                4W-15L-1P         $3,374.00      $335.23     9.9%
+  Motorsports                 1W-2L-0P            $933.00       $27.00     2.9%
+  Soccer                      17W-45L-1P       $22,724.33   -$1,675.41    -7.4%
+  Basketball                  140W-143L-4P     $61,910.50   -$1,711.06    -2.8%
+  Mixed                       3W-13L-0P         $5,030.03   -$1,745.80   -34.7%
+  Hockey                      7W-10L-0P         $4,108.94   -$2,220.96   -54.1%
+  Multi                       38W-93L-0P       $44,185.45   -$5,366.58   -12.1%
+
+BY LEAGUE
+  Key                         Record               Risked      Net P&L      ROI
+  Football/NFL                147W-191L-2P     $84,438.51   $10,497.56    12.4%
+  Football/NCAAF              249W-249L-9P    $120,107.00    $7,621.49     6.3%
+  Golf/PGA Tour               46W-63L-2P       $34,872.50    $4,456.21    12.8%
+  Horse Racing/KY Oaks        3W-0L-0P            $870.00    $2,422.23   278.4%
+  Mixed/Mixed                 2W-1L-0P            $950.00    $1,703.00   179.3%
+  MMA/Combat                  1W-0L-0P          $8,625.00    $1,500.00    17.4%
+  MMA/UFC                     2W-1L-0P          $2,000.00    $1,228.83    61.4%
+  Golf/PGA Championship       3W-2L-1P          $4,987.00      $787.00    15.8%
+  Multi/NBA/NCAAB             2W-1L-0P          $1,500.00      $585.00    39.0%
+  Baseball/MLB                101W-106L-17P    $46,340.64      $449.89     1.0%
+  Multi/NBA/NCAAF/NFL         1W-0L-0P            $400.00      $400.00   100.0%
+  Mixed/MLB/NBA               1W-1L-0P            $357.37      $273.86    76.6%
+  Multi/MLB/NCAAF/NFL         1W-0L-0P            $200.00      $264.00   132.0%
+  Multi/NCAAB/NCAAF/NFL       1W-1L-0P          $1,000.00      $160.00    16.0%
+  Basketball/NCAAB            132W-133L-4P     $53,260.00      $104.44     0.2%
+  Multi/Multi                 7W-13L-0P         $5,308.05       $97.16     1.8%
+  Motorsports/F1              1W-2L-0P            $933.00       $27.00     2.9%
+  Multi/NCAAB/NCAAF           2W-3L-0P          $2,400.00      -$35.00    -1.5%
+  Soccer/FIFA                 9W-26L-0P        $18,728.33      -$48.33    -0.3%
+  Multi/MLB/NFL               0W-1L-0P            $100.00     -$100.00  -100.0%
+  Mixed/MLB/NHL               0W-1L-0P            $100.00     -$100.00  -100.0%
+  Horse Racing/Churchill Down 0W-1L-0P            $180.00     -$180.00  -100.0%
+  Multi/MLB/NCAAF             1W-2L-0P            $750.00     -$215.00   -28.7%
+  Mixed/MLB+Soccer            0W-2L-0P            $308.75     -$308.75  -100.0%
+  Mixed/NBA/MLB               0W-1L-0P            $400.00     -$400.00  -100.0%
+  Golf/Majors Futures         0W-1L-0P            $500.00     -$500.00  -100.0%
+  Multi/NBA/NFL               1W-1L-0P          $1,150.00     -$562.00   -48.9%
+  Horse Racing/KY Derby       0W-4L-0P            $570.00     -$570.00  -100.0%
+  Horse Racing/NYRA           1W-5L-0P            $774.00     -$657.00   -84.9%
+  Horse Racing/Thoroughbred   0W-5L-1P            $980.00     -$680.00   -69.4%
+  Multi/NBA/NCAAB/NFL         0W-1L-0P            $886.00     -$886.00  -100.0%
+  Mixed/NBA+MLB               0W-5L-0P            $913.91     -$913.91  -100.0%
+  Multi/NBA/NCAAF             0W-2L-0P          $1,000.00   -$1,000.00  -100.0%
+  Mixed/NHL/MLB               0W-1L-0P          $1,000.00   -$1,000.00  -100.0%
+  Mixed/NBA/NHL               0W-1L-0P          $1,000.00   -$1,000.00  -100.0%
+  Multi/NFL/NHL               0W-5L-0P          $1,026.40   -$1,026.40  -100.0%
+  Multi/NCAAB/NFL             3W-6L-0P          $3,008.00   -$1,376.00   -45.7%
+  Soccer/International        8W-19L-1P         $3,996.00   -$1,627.08   -40.7%
+  Multi/NCAAF/NFL             19W-57L-0P       $25,457.00   -$1,672.34    -6.6%
+  Basketball/NBA              8W-10L-0P         $8,650.50   -$1,815.50   -21.0%
+  Hockey/NHL                  7W-10L-0P         $4,108.94   -$2,220.96   -54.1%
+
+BY BET TYPE
+  Key                         Record               Risked      Net P&L      ROI
+  parlay                      126W-242L-0P    $108,805.45   $18,783.74    17.3%
+  outright                    3W-2L-0P          $9,580.00    $2,900.00    30.3%
+  moneyline                   51W-63L-0P       $38,850.44    $2,502.27     6.4%
+  future                      14W-29L-1P       $28,088.33    $2,081.31     7.4%
+  1st 5 run line              28W-16L-3P        $8,460.20    $1,457.75    17.2%
+  r2under                     5W-0L-0P          $1,462.00    $1,250.00    85.5%
+  top20                       5W-2L-0P          $2,471.50      $946.00    38.3%
+  run line                    18W-19L-4P        $7,593.00      $855.00    11.3%
+  r4over                      3W-0L-0P            $924.00      $750.00    81.2%
+  straight                    1W-0L-0P            $600.00      $697.00   116.2%
+  exotic                      2W-8L-0P          $1,300.00      $695.23    53.5%
+  winning constructor         1W-0L-0P            $300.00      $660.00   220.0%
+  r3over                      5W-3L-0P          $2,173.00      $491.00    22.6%
+  prop                        16W-21L-0P        $8,461.00      $489.63     5.8%
+  f5 ml                       1W-0L-0P            $200.00      $260.00   130.0%
+  outright winner             2W-0L-0P            $720.00      $225.00    31.2%
+  ml                          3W-2L-0P          $1,177.00      $214.00    18.2%
+  2h ml                       1W-0L-0P            $100.00      $180.00   180.0%
+  top10                       2W-4L-0P            $675.00      $156.00    23.1%
+  combo                       1W-0L-0P              $0.00      $100.00     0.0%
+  spread (f5)                 1W-1L-0P            $505.00       $70.00    13.9%
+  matchup                     2W-2L-1P          $1,415.00       $59.00     4.2%
+  1st 5 (voided)              0W-0L-1P              $0.00        $0.00     0.0%
+  voided                      0W-0L-3P              $0.00        $0.00     0.0%
+  1h total                    0W-0L-1P            $100.00        $0.00     0.0%
+  superfecta box              1W-1L-0P            $120.00       -$3.00    -2.5%
+  r4best                      0W-1L-0P             $50.00      -$50.00  -100.0%
+  2h draw                     0W-1L-0P            $100.00     -$100.00  -100.0%
+  1h spread                   0W-1L-0P            $100.00     -$100.00  -100.0%
+  r2matchup                   7W-6L-1P          $4,385.00     -$150.00    -3.4%
+  w/p/s                       0W-1L-0P            $174.00     -$174.00  -100.0%
+  1st half ml                 0W-1L-0P            $200.00     -$200.00  -100.0%
+  alt run line                0W-3L-0P            $225.00     -$225.00  -100.0%
+  exacta box                  0W-2L-0P            $240.00     -$240.00  -100.0%
+  trifecta box                0W-1L-0P            $240.00     -$240.00  -100.0%
+  r4under                     0W-1L-0P            $250.00     -$250.00  -100.0%
+  r4matchup                   2W-3L-0P          $1,324.00     -$250.00   -18.9%
+  driver winner               0W-1L-0P            $300.00     -$300.00  -100.0%
+  top 3 finish                0W-1L-0P            $333.00     -$333.00  -100.0%
+  parlay (2-leg)              1W-4L-0P          $1,000.00     -$368.77   -36.9%
+  r1under                     2W-3L-0P          $1,536.00     -$399.00   -26.0%
+  r3matchup                   2W-4L-1P          $1,762.00     -$401.00   -22.8%
+  asian handicap              1W-1L-0P            $750.00     -$450.00   -60.0%
+  team total                  1W-1L-0P            $892.00     -$492.00   -55.2%
+  futures                     0W-1L-0P            $500.00     -$500.00  -100.0%
+  r2threeball                 2W-5L-0P          $1,962.00     -$713.00   -36.3%
+  correct score               0W-1L-0P            $715.00     -$715.00  -100.0%
+  puck line                   0W-1L-0P            $750.00     -$750.00  -100.0%
+  money line                  16W-14L-0P        $8,023.50     -$906.00   -11.3%
+  1st 5 money line            11W-12L-4P        $4,761.25   -$1,252.64   -26.3%
+  round robin                 4W-17L-0P         $4,670.35   -$2,183.64   -46.8%
+  total                       83W-98L-3P       $32,815.78   -$3,552.27   -10.8%
+  spread                      335W-334L-14P   $151,997.10   -$6,841.21    -4.5%
+
+BY BOOK (Notes-derived; most rows untagged)
+  Key                         Record               Risked      Net P&L      ROI
+  Untagged                    697W-839L-31P   $384,096.58   $12,405.30     3.2%
+  Wagerhouse                  49W-65L-5P       $43,027.90      $821.02     1.9%
+  GameDayWagers               13W-30L-1P       $17,012.42      $457.08     2.7%
+
+BY MONTH PLACED
+  Key                         Record               Risked      Net P&L      ROI
+  2025-11                     50W-55L-1P       $54,072.00    $8,128.94    15.0%
+  2026-01                     7W-21L-0P        $11,797.00    $7,522.35    63.8%
+  2024-12                     25W-20L-0P       $12,184.00    $4,115.52    33.8%
+  2023-12                     37W-23L-0P        $6,811.00    $2,785.54    40.9%
+  2026-04                     43W-63L-3P       $29,530.00    $2,410.57     8.2%
+  2026-03                     17W-13L-0P       $15,745.00    $2,120.96    13.5%
+  2024-09                     30W-34L-1P       $12,890.00    $1,935.93    15.0%
+  2024-11                     19W-17L-0P        $7,879.00    $1,918.46    24.3%
+  2026-07                     9W-21L-0P        $11,853.05    $1,306.80    11.0%
+  2023-11                     33W-34L-0P        $8,682.00      $930.47    10.7%
+  2025-08                     2W-0L-0P            $763.00      $755.48    99.0%
+  2023-09                     42W-47L-3P       $13,023.00      $652.19     5.0%
+  2026-05                     52W-56L-3P       $46,016.04      $468.26     1.0%
+  2024-02                     1W-0L-0P            $420.00      $400.00    95.2%
+  2025-09                     5W-6L-0P          $2,062.00      $349.58    17.0%
+  2022-12                     12W-8L-0P         $4,642.00      $109.98     2.4%
+  2023-02                     3W-3L-0P            $575.44       $58.56    10.2%
+  2025-01                     4W-4L-0P          $1,449.00      -$59.34    -4.1%
+  2024-01                     51W-56L-3P       $13,542.00      -$93.90    -0.7%
+  2023-03                     36W-35L-0P        $7,829.00     -$104.00    -1.3%
+  2023-04                     3W-3L-0P            $733.00     -$106.00   -14.5%
+  2024-08                     0W-1L-0P            $109.00     -$109.00  -100.0%
+  2025-03                     0W-1L-0P            $112.00     -$112.00  -100.0%
+  2026-02                     4W-6L-0P          $6,163.00     -$129.00    -2.1%
+  2026-08                     2W-6L-0P          $3,528.00     -$299.17    -8.5%
+  2024-03                     5W-8L-0P          $1,484.00     -$384.00   -25.9%
+  2023-08                     5W-8L-0P          $1,543.00     -$485.00   -31.4%
+  2024-10                     30W-48L-2P       $10,100.00   -$1,276.17   -12.6%
+  2023-10                     51W-72L-2P       $13,404.00   -$1,360.63   -10.2%
+  2023-01                     38W-52L-2P       $12,293.41   -$1,870.41   -15.2%
+  2025-10                     21W-23L-0P       $21,798.00   -$2,504.50   -11.5%
+  2026-06                     83W-118L-16P     $52,012.96   -$5,531.85   -10.6%
+  2025-12                     39W-72L-1P       $59,092.00   -$7,861.22   -13.3%
+
+STREAKS (settled, chronological by result date)
+  Longest win streak : 10
+  Longest loss streak: 13
+  Last 40 results    : LLLWLLWLWLWWLLLWWLLLLLWLWLLLLWWLWLLLWLLL
+
+TOP 10 WINS (realized profit)
+  +$5,001.85     [1316] 2026-01-03    2305 | 8-leg parlay:  + LV +195 + DEN -1000 + JAC -715 + MIN -575 + H
+  +$4,575.00     [1786] 2026-07-20    +305 | Ryan Fox to win 2026 Open Championship
+  +$4,386.00     [1317] 2026-01-03    4386 | 6-leg parlay:  + JAC -715 + LV +195 + HOU -375 + MIN -575 + NE
+  +$3,552.00     [1315] 2026-01-03    1920 | 7-leg parlay: SEA -155 + NYG +150 + NO +190 + WAS +150 + PIT +
+  +$3,150.00     [1197] 2025-11-08     630 | 5-leg parlay: TCU -292 + SMU -425 + UGA -352 + TTU -500 + IU -
+  +$3,115.00     [1200] 2025-11-15     623 | 5-leg parlay: BYU -150 + UGA -175 + WSU -375
+  +$2,534.00     [1058] 2026-02-08     724 | SEA +724
+  +$2,340.00     [1201] 2025-11-16     468 | 5-leg parlay: BUF -275 + BAL -450 + SEA +3 +100 + PHI -145 + G
+  +$2,300.00     [1390] 2026-07-19    +460 | Win 2026 FIFA World Cup
+  +$2,205.00     [1297] 2025-12-27     735 | 3-leg parlay: M-OH @ FRES: o41 -110 + NE -900 + HOU +7.5 -108 
+
+TOP 10 LOSSES (realized loss)
+  -$2,000.00     [1785] 2026-07-20    +105 | Cameron Young to win 2026 Open Championship
+  -$1,850.00     [1435] 2026-05-22    -185 | Avalanche ML
+  -$1,500.00     [1727] 2026-06-30    -150 | Reach Round of 16 - Netherlands
+  -$1,350.00     [976] 2025-11-09    -135 | 
+  -$1,180.00     [943] 2025-10-18    -118 | (Live) PUR +4.5 -118
+  -$1,170.00     [934] 2025-10-05    -117 | (Live) BUF -6.5 -117
+  -$1,150.00     [1422] 2026-05-22    -115 | Spurs -1.5
+  -$1,100.00     [974] 2025-11-09    -110 | JAC -1 -110
+  -$1,100.00     [975] 2025-11-09    -110 | (2H) BUF -10.5 -110
+  -$1,100.00     [1038] 2025-12-14    -110 | (2H) SEA -9.5 -110
+

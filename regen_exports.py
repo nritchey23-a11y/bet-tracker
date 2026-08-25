@@ -157,3 +157,12 @@ with open(os.path.join(ROOT, "report.html"), "w") as f:
     f.write(report)
 
 print(f"OK: regenerated 4 export files. {len(bets)} bets. {won}W-{lost}L-{push}P, {pending} pending. Settled P&L {fmt_money(settled_total)}.")
+
+# -------- LLM-readable digests (brief/futures/pending/stats + ask.html)
+# Keeps the small plain-text pages in sync so search threads never read stale numbers.
+import subprocess
+_d = subprocess.run([sys.executable, os.path.join(ROOT, "gen_digests.py")],
+                    capture_output=True, text=True)
+print(_d.stdout.strip() or _d.stderr.strip())
+if _d.returncode != 0:
+    sys.exit("gen_digests.py failed")
