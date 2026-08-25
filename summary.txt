@@ -1,5 +1,5 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-08-25T20:56:32.450119+00:00
+Generated: 2026-08-25T21:05:19.973648+00:00
 Total bets in tracker: 1821
 
 OVERALL STATUS
@@ -104,3 +104,204 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1769 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826621_1. 2-leg parlay: ARG to advance + Sinner match ML at Wimbledon. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
 #1768 | 2026-07-10 | Multi/Multi | 4-leg: Clemens Over 1.5 HRR + Sinner ML + ARG advance + MIN ML | Pick: Clemens O1.5 HRR + Sinner ML + ARG advance + MIN ML | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432805795_1. 4-leg parlay: Clemens hits+runs+RBI prop + Sinner match ML + ARG to advance + MIN ML.
 #1767 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + TOR ML | Pick: ESP advance + TOR ML | Odds:  | Risk $410.00 → Win $612.00 | Status: won  P&L: $612.00  Notes: GameDayWagers ticket #432751122_1. 2-leg parlay: ESP to advance + TOR ML vs SD. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$612 confirmed from ticket display.
+
+==============================================================================
+OPEN BETS BY TEAM  (compact index - every open bet, grouped by team)
+==============================================================================
+A team may hold SEVERAL open bets (e.g. a win total AND a championship
+future). Read every line under a heading and report all of them.
+'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,
+Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.
+
+Teams with open action (80): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Castillo U4.5 Ks (-124) + LAD, Clemson, Colorado, Colorado State, Connecticut, DAL, DET, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML + Rams ML + Lions ML + Eagles, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
+
+### ATL Falcons  --  1 open, risk $250.00, max win $1,125.00
+    [1753] 2026-04-30 future NFL | ATL Falcons | +450 | risk $250.00 | win $1,125.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC South - ATL Falcons
+### Army  --  1 open, risk $500.00, max win $550.00
+    [1831] 2026-08-24 future NCAAF | Army Under 7.5 | +110 | risk $500.00 | win $550.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Army - Under 7.5
+### Auburn  --  1 open, risk $625.00, max win $500.00
+    [1830] 2026-08-24 future NCAAF | Auburn Over 6.5 | -125 | risk $625.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Auburn - Over 6.5
+### BUF Bills  --  1 open, risk $900.00, max win $750.00
+    [1741] 2026-06-04 future NFL | BUF Bills Over 10.5 | -120 | risk $900.00 | win $750.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props BUF Bills - Over 10.5
+### BYU  --  1 open, risk $300.00, max win $2,250.00
+    [1791] 2026-07-27 future NCAAF | BYU | +750 | risk $300.00 | win $2,250.00 | Wagerhouse | Odds to win Big 12 Championship Game - BYU
+### Baylor  --  1 open, risk $800.00, max win $500.00
+    [1829] 2026-08-24 future NCAAF | Baylor Under 6.5 | -160 | risk $800.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Baylor - Under 6.5
+### Boise State  --  1 open, risk $650.00, max win $500.00
+    [1828] 2026-08-24 future NCAAF | Boise State Over 8 | -130 | risk $650.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Boise State - Over 8
+### Buffalo  --  1 open, risk $1,000.00, max win $500.00
+    [1840] 2026-08-22 future NCAAF | Buffalo Under 6.5 | -200 | risk $1,000.00 | win $500.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props Buffalo - Under 6.5
+### CHI Bears  --  1 open, risk $375.00, max win $1,200.00
+    [1751] 2026-04-30 future NFL | CHI Bears | +320 | risk $375.00 | win $1,200.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC North - CHI Bears
+### CIN Bengals  --  2 open, risk $1,000.00, max win $1,625.00
+    [1744] 2026-06-04 future NFL | CIN Bengals Over 10.5 | +115 | risk $500.00 | win $575.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props CIN Bengals - Over 10.5
+    [1754] 2026-04-30 future NFL | CIN Bengals | +210 | risk $500.00 | win $1,050.00 | Wagerhouse | NFL 26/27 Division Winner - Props AFC North - CIN Bengals
+### Castillo U4.5 Ks (-124) + LAD  --  1 open, risk $250.00, max win $377.50
+    [1802] 2026-07-28 parlay MLB | Castillo U4.5 Ks (-124) + LAD ML | +150 | risk $250.00 | win $377.50 | Wagerhouse | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML
+### Clemson  --  1 open, risk $500.00, max win $625.00
+    [1827] 2026-08-24 future NCAAF | Clemson Under 7.5 | +125 | risk $500.00 | win $625.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Clemson - Under 7.5
+### Colorado  --  1 open, risk $500.00, max win $650.00
+    [1825] 2026-08-24 future NCAAF | Colorado Over 4.5 | +130 | risk $500.00 | win $650.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Colorado - Over 4.5
+### Colorado State  --  1 open, risk $725.00, max win $500.00
+    [1826] 2026-08-24 future NCAAF | Colorado State Over 3.5 | -145 | risk $725.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Colorado State - Over 3.5
+### Connecticut  --  1 open, risk $650.00, max win $500.00
+    [1812] 2026-08-24 future NCAAF | Connecticut Under 5.5 | -130 | risk $650.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Connecticut - Under 5.5
+### DAL  --  1 open, risk $1,150.00, max win $1,000.00
+    [1797] 2026-07-27 future NFL | DAL Under 9.5 | -115 | risk $1,150.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Cowboys - Under 9.5
+### DET  --  1 open, risk $1,250.00, max win $1,000.00
+    [1796] 2026-07-27 future NFL | DET Over 10.5 | -125 | risk $1,250.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Lions - Over 10.5
+### Florida Atlantic  --  1 open, risk $800.00, max win $500.00
+    [1823] 2026-08-24 future NCAAF | Florida Atlantic Over 5.5 | -160 | risk $800.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Florida Atlantic - Over 5.5
+### Fresno State  --  1 open, risk $825.00, max win $500.00
+    [1824] 2026-08-24 future NCAAF | Fresno State Under 7.5 | -165 | risk $825.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Fresno State - Under 7.5
+### George Russell  --  1 open, risk $250.00, max win $5,000.00
+    [1834] 2026-08-24 future F1 | George Russell | +2000 | risk $250.00 | win $5,000.00 | Wagerhouse | F1 2026 Drivers Championship - George Russell
+### Georgia  --  1 open, risk $750.00, max win $1,125.00
+    [1737] 2026-06-09 future NCAAF | Georgia Under 9.5 | +150 | risk $750.00 | win $1,125.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Georgia - Under 9.5
+### Georgia Tech  --  1 open, risk $675.00, max win $500.00
+    [1822] 2026-08-24 future NCAAF | Georgia Tech Under 6.5 | -135 | risk $675.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Georgia Tech - Under 6.5
+### Iowa  --  1 open, risk $500.00, max win $575.00
+    [1821] 2026-08-24 future NCAAF | Iowa Under 7.5 | +115 | risk $500.00 | win $575.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Iowa - Under 7.5
+### Iowa State  --  1 open, risk $750.00, max win $787.50
+    [1733] 2026-06-09 future NCAAF | Iowa State Over 5.5 | +105 | risk $750.00 | win $787.50 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Iowa State - Over 5.5
+### JAX  --  1 open, risk $1,000.00, max win $1,200.00
+    [1795] 2026-07-27 future NFL | JAX Over 9.5 | +120 | risk $1,000.00 | win $1,200.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Jaguars - Over 9.5
+### JAX Jaguars  --  1 open, risk $1,300.00, max win $1,000.00
+    [1742] 2026-06-04 future NFL | JAX Jaguars Over 8.5 | -130 | risk $1,300.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props JAX Jaguars - Over 8.5
+### James Madison  --  2 open, risk $500.00, max win $599.50
+    [1790] 2026-07-27 future NCAAF | James Madison Under 8.5 | +115 | risk $250.00 | win $287.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - James Madison - Under 8.5
+    [1800] 2026-07-26 future NCAAF | James Madison Under 8.5 | +125 | risk $250.00 | win $312.50 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props James Madison - Under 8.5
+### KC Chiefs  --  1 open, risk $500.00, max win $850.00
+    [1755] 2026-04-30 future NFL | KC Chiefs | +170 | risk $500.00 | win $850.00 | Wagerhouse | NFL 26/27 Division Winner - Props AFC West - KC Chiefs
+### Kansas State  --  1 open, risk $750.00, max win $787.50
+    [1731] 2026-06-09 future NCAAF | Kansas State Over 8.5 | +105 | risk $750.00 | win $787.50 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Kansas State - Over 8.5
+### Kimi Antonelli  --  1 open, risk $4,500.00, max win $1,000.00
+    [1835] 2026-08-24 future F1 | Kimi Antonelli | -450 | risk $4,500.00 | win $1,000.00 | Wagerhouse | F1 2026 Drivers Championship - Kimi Antonelli
+### LA Chargers  --  1 open, risk $1,300.00, max win $1,000.00
+    [1743] 2026-06-04 future NFL | LA Chargers Over 9.5 | -130 | risk $1,300.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props LA Chargers - Over 9.5
+### LAC  --  1 open, risk $500.00, max win $600.00
+    [1794] 2026-07-27 future NFL | LAC Over 10.5 | +120 | risk $500.00 | win $600.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Chargers - Over 10.5
+### Ludvig Aberg  --  1 open, risk $250.00, max win $4,750.00
+    [1389] 2026-04-16 future PGA Tour | Ludvig Aberg | +1900 | risk $250.00 | win $4,750.00 | GameDayWagers | Win 2027 US Masters
+### Massachusetts  --  1 open, risk $1,000.00, max win $500.00
+    [1811] 2026-08-24 future NCAAF | Massachusetts Over 2.5 | -200 | risk $1,000.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Massachusetts - Over 2.5
+### Miami (FL)  --  1 open, risk $825.00, max win $500.00
+    [1833] 2026-08-24 future NCAAF | Miami (FL) | -165 | risk $825.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Conference Championship Winner - ACC - Miami (FL)
+### Miami Hurricanes  --  1 open, risk $745.00, max win $500.00
+    [1841] 2026-08-22 future NCAAF | Miami Hurricanes | -149 | risk $745.00 | win $500.00 | GameDayWagers | NCAA FB 26/27 - Conference Championship Winner - ACC - Miami Hurricanes
+### Michigan  --  1 open, risk $750.00, max win $1,012.50
+    [1735] 2026-06-09 future NCAAF | Michigan Over 8.5 | +135 | risk $750.00 | win $1,012.50 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Michigan - Over 8.5
+### Michigan State  --  1 open, risk $500.00, max win $416.00
+    [1820] 2026-08-24 future NCAAF | Michigan State Under 4 | -120 | risk $500.00 | win $416.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Michigan State - Under 4
+### Missouri  --  2 open, risk $525.00, max win $512.50
+    [1789] 2026-07-27 future NCAAF | Missouri Under 6.5 | -110 | risk $275.00 | win $250.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Missouri - Under 6.5
+    [1799] 2026-07-26 future NCAAF | Missouri Under 6.5 | +105 | risk $250.00 | win $262.50 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props Missouri - Under 6.5
+### NC State  --  1 open, risk $1,000.00, max win $1,000.00
+    [1734] 2026-06-09 future NCAAF | NC State Over 7.5 | +100 | risk $1,000.00 | win $1,000.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props NC State - Over 7.5
+### NFC West  --  1 open, risk $1,000.00, max win $2,850.00
+    [1792] 2026-07-27 future NFL | NFC West | +285 | risk $1,000.00 | win $2,850.00 | Wagerhouse | Odds to win Division of Super Bowl Winner - NFC West
+### NY Jets  --  1 open, risk $1,050.00, max win $1,000.00
+    [1740] 2026-06-04 future NFL | NY Jets Under 5.5 | -105 | risk $1,050.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props NY Jets - Under 5.5
+### NYG  --  1 open, risk $550.00, max win $500.00
+    [1793] 2026-07-27 future NFL | NYG Over 7.5 | -110 | risk $550.00 | win $500.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Giants - Over 7.5
+### Navy  --  1 open, risk $400.00, max win $600.00
+    [1819] 2026-08-24 future NCAAF | Navy Under 7.5 | +150 | risk $400.00 | win $600.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Navy - Under 7.5
+### Nebraska  --  1 open, risk $500.00, max win $525.00
+    [1728] 2026-06-09 future NCAAF | Nebraska Over 6.5 | +105 | risk $500.00 | win $525.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Nebraska - Over 6.5
+### North Texas  --  1 open, risk $575.00, max win $500.00
+    [1818] 2026-08-24 future NCAAF | North Texas Over 5.5 | -115 | risk $575.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props North Texas - Over 5.5
+### Northwestern  --  1 open, risk $650.00, max win $500.00
+    [1730] 2026-06-09 future NCAAF | Northwestern Under 5.5 | -130 | risk $650.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Northwestern - Under 5.5
+### Ohio  --  1 open, risk $500.00, max win $575.00
+    [1842] 2026-08-25 future NCAAF | Ohio Under 6.5 | +115 | risk $500.00 | win $575.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Ohio - Under 6.5
+### Ohio State  --  1 open, risk $1,650.00, max win $1,000.00
+    [1739] 2026-06-09 future NCAAF | Ohio State Over 9.5 | -165 | risk $1,650.00 | win $1,000.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Ohio State - Over 9.5
+### Oregon  --  1 open, risk $1,000.00, max win $1,000.00
+    [1738] 2026-06-09 future NCAAF | Oregon Over 10.5 | +100 | risk $1,000.00 | win $1,000.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Oregon - Over 10.5
+### Over 10.5  --  2 open, risk $2,000.00, max win $2,250.00
+    [1413] 2026-05-17 futures NFL | Over 10.5 | +120 | risk $1,000.00 | win $1,200.00 | Wagerhouse | San Francisco 49ers Regular Season Wins Over 10.5
+    [1417] 2026-05-17 futures NFL | Over 10.5 | +105 | risk $1,000.00 | win $1,050.00 | Wagerhouse | Kansas City Chiefs Regular Season Wins Over 10.5
+### Over 5.5  --  1 open, risk $1,000.00, max win $1,050.00
+    [1415] 2026-05-17 futures NFL | Over 5.5 | +105 | risk $1,000.00 | win $1,050.00 | Wagerhouse | New York Jets Regular Season Wins Over 5.5
+### Over 6.5  --  1 open, risk $1,300.00, max win $1,000.00
+    [1418] 2026-05-17 futures NFL | Over 6.5 | -130 | risk $1,300.00 | win $1,000.00 | Wagerhouse | Carolina Panthers Regular Season Wins Over 6.5
+### Over 7.5 Wins  --  1 open, risk $1,000.00, max win $1,000.00
+    [1388] 2026-04-29 future NFL | Over 7.5 Wins | +100 | risk $1,000.00 | win $1,000.00 | GameDayWagers | Carolina Panthers regular season wins Over 7.5
+### Over 8.5  --  1 open, risk $715.00, max win $1,001.00
+    [1414] 2026-05-17 futures NFL | Over 8.5 | +140 | risk $715.00 | win $1,001.00 | Wagerhouse | Pittsburgh Steelers Regular Season Wins Over 8.5
+### Over 8.5 Wins  --  1 open, risk $1,000.00, max win $1,000.00
+    [1386] 2026-04-29 future NFL | Over 8.5 Wins | +100 | risk $1,000.00 | win $1,000.00 | GameDayWagers | Minnesota Vikings regular season wins Over 8.5
+### Over 9.5 Wins  --  2 open, risk $2,300.00, max win $2,000.00
+    [1385] 2026-04-29 future NFL | Over 9.5 Wins | -120 | risk $1,200.00 | win $1,000.00 | GameDayWagers | Houston Texans regular season wins Over 9.5
+    [1387] 2026-04-29 future NFL | Over 9.5 Wins | -110 | risk $1,100.00 | win $1,000.00 | GameDayWagers | Chicago Bears regular season wins Over 9.5
+### SEA  --  1 open, risk $1,300.00, max win $1,000.00
+    [1757] 2026-04-29 future NFL | SEA Over 10.5 | -130 | risk $1,300.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props SEA Seahawks - Over 10.5
+### SF 49ers  --  1 open, risk $375.00, max win $975.00
+    [1756] 2026-04-30 future NFL | SF 49ers | +260 | risk $375.00 | win $975.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC West - SF 49ers
+### Sacramento State  --  1 open, risk $550.00, max win $500.00
+    [1817] 2026-08-24 future NCAAF | Sacramento State Under 4.5 | -110 | risk $550.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Sacramento State - Under 4.5
+### San Diego State  --  1 open, risk $650.00, max win $500.00
+    [1843] 2026-08-25 future NCAAF | San Diego State Over 6.5 | -130 | risk $650.00 | win $500.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props San Diego State (FLEX WEEK INCLUDED) - Over 6.5
+### Seahawks ML + Rams ML + Lions ML + Eagles  --  1 open, risk $500.00, max win $1,668.00
+    [1839] 2026-08-24 parlay NFL | Seahawks ML + Rams ML + Lions ML + Eagles ML | +334 | risk $500.00 | win $1,668.00 | Wagerhouse | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
+### Seattle Mariners  --  3 open, risk $1,500.00, max win $12,850.00
+    [1750] 2026-05-27 future MLB | Seattle Mariners | +110 | risk $1,000.00 | win $1,100.00 | Wagerhouse | MLB 2026 Division Winner - American League West - Seattle Mariners
+    [1836] 2026-08-24 future MLB | Seattle Mariners | +3500 | risk $250.00 | win $8,750.00 | Wagerhouse | MLB 2026 World Series Winner - Seattle Mariners
+    [1837] 2026-08-24 future MLB | Seattle Mariners | +1200 | risk $250.00 | win $3,000.00 | Wagerhouse | MLB 2026 AL Pennant Winner - Seattle Mariners
+### Seattle Seahawks Over 11.5 Alt  --  1 open, risk $500.00, max win $750.00
+    [1838] 2026-08-24 future NFL | Seattle Seahawks Over 11.5 Alt | +150 | risk $500.00 | win $750.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props SEA Seahawks - Over 11.5 (Alt)
+### South Carolina  --  1 open, risk $1,000.00, max win $1,150.00
+    [1736] 2026-06-09 future NCAAF | South Carolina Over 6.5 | +115 | risk $1,000.00 | win $1,150.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props South Carolina - Over 6.5
+### Southern Miss  --  2 open, risk $1,000.00, max win $1,025.00
+    [1816] 2026-08-24 future NCAAF | Southern Miss Under 3.5 | +100 | risk $500.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Southern Miss - Under 3.5
+    [1832] 2026-08-24 future NCAAF | Southern Miss Under 3.5 | +105 | risk $500.00 | win $525.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Southern Miss - Under 3.5
+### Texas A&M  --  2 open, risk $600.00, max win $517.33
+    [1788] 2026-07-27 future NCAAF | Texas A&M Under 8.5 | -115 | risk $500.00 | win $434.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Texas A&M - Under 8.5
+    [1798] 2026-07-26 future NCAAF | Texas A&M Under 8.5 | -120 | risk $100.00 | win $83.33 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props Texas AM - Under 8.5
+### Texas State  --  1 open, risk $500.00, max win $625.00
+    [1815] 2026-08-24 future NCAAF | Texas State Over 6.5 | +125 | risk $500.00 | win $625.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Texas State - Over 6.5
+### Tulsa  --  1 open, risk $650.00, max win $500.00
+    [1814] 2026-08-24 future NCAAF | Tulsa Over 5.5 | -130 | risk $650.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Tulsa - Over 5.5
+### UCLA  --  1 open, risk $525.00, max win $500.00
+    [1813] 2026-08-24 future NCAAF | UCLA Over 6.5 | -105 | risk $525.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props UCLA - Over 6.5
+### UConn  --  1 open, risk $500.00, max win $575.00
+    [1801] 2026-07-26 future NCAAF | UConn Under 5.5 | +115 | risk $500.00 | win $575.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props UConn - Under 5.5
+### Under 10.5 Wins  --  2 open, risk $1,275.00, max win $1,000.00
+    [1382] 2026-04-29 future NFL | Under 10.5 Wins | -140 | risk $700.00 | win $500.00 | GameDayWagers | Green Bay Packers regular season wins Under 10.5
+    [1381] 2026-04-29 future NFL | Under 10.5 Wins | -115 | risk $575.00 | win $500.00 | GameDayWagers | Detroit Lions regular season wins Under 10.5
+### Under 11.5 Wins  --  1 open, risk $725.00, max win $500.00
+    [1383] 2026-04-29 future NFL | Under 11.5 Wins | -145 | risk $725.00 | win $500.00 | GameDayWagers | Baltimore Ravens regular season wins Under 11.5
+### Under 8.5  --  1 open, risk $625.00, max win $1,000.00
+    [1416] 2026-05-17 futures NFL | Under 8.5 | +160 | risk $625.00 | win $1,000.00 | Wagerhouse | Dallas Cowboys Regular Season Wins Under 8.5
+### Under 9.5 Wins  --  1 open, risk $550.00, max win $500.00
+    [1384] 2026-04-29 future NFL | Under 9.5 Wins | -110 | risk $550.00 | win $500.00 | GameDayWagers | Denver Broncos regular season wins Under 9.5
+### Virginia Tech  --  1 open, risk $500.00, max win $600.00
+    [1729] 2026-06-09 future NCAAF | Virginia Tech Under 6.5 | +120 | risk $500.00 | win $600.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Virginia Tech - Under 6.5
+### WAS Commanders  --  1 open, risk $250.00, max win $1,250.00
+    [1752] 2026-04-30 future NFL | WAS Commanders | +500 | risk $250.00 | win $1,250.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC East - WAS Commanders
+### Washington  --  2 open, risk $1,500.00, max win $15,588.24
+    [1732] 2026-06-09 future NCAAF | Washington Over 7.5 | -170 | risk $1,000.00 | win $588.24 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Washington - Over 7.5
+    [1704] 2026-05-31 future NCAAF | Washington | +3000 | risk $500.00 | win $15,000.00 | Wagerhouse | Odds to win Big Ten Championship Game
+### Washington State  --  1 open, risk $500.00, max win $725.00
+    [1844] 2026-08-25 future NCAAF | Washington State Over 5.5 | +145 | risk $500.00 | win $725.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props Washington State (FLEX WEEK INCLUDED) - Over 5.5
+### Western Michigan  --  1 open, risk $825.00, max win $500.00
+    [1810] 2026-08-24 future NCAAF | Western Michigan Under 7.5 | -165 | risk $825.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Western Michigan - Under 7.5
+
+==============================================================================
+SETTLED BY SPORT
+==============================================================================
+  Sport         Record               Risked      Net P&L      ROI
+  Football      396W-440L-11P   $204,545.51   $18,119.05     8.9%
+  Golf          49W-66L-3P       $40,359.50    $4,743.21    11.8%
+  MMA           3W-1L-0P         $10,625.00    $2,728.83    25.7%
+  Baseball      101W-106L-17P    $46,340.64      $449.89     1.0%
+  Horse Racing  4W-15L-1P         $3,374.00      $335.23     9.9%
+  Motorsports   1W-2L-0P            $933.00       $27.00     2.9%
+  Soccer        17W-45L-1P       $22,724.33   -$1,675.41    -7.4%
+  Basketball    140W-143L-4P     $61,910.50   -$1,711.06    -2.8%
+  Mixed         3W-13L-0P         $5,030.03   -$1,745.80   -34.7%
+  Hockey        7W-10L-0P         $4,108.94   -$2,220.96   -54.1%
+  Multi         38W-93L-0P       $44,185.45   -$5,366.58   -12.1%
+
+Deeper cuts (breakdowns by league/type/book/month, streaks, biggest wins and
+losses): https://nritchey23-a11y.github.io/bet-tracker/stats.txt

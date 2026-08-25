@@ -313,6 +313,56 @@ Full ledger: <a href="bets.csv">bets.csv</a>. Interactive dashboard:
 </body></html>
 """)
 
+# ---------------------------------------------------------------- summary.txt appendix
+# The "Bet tracking" project restricts web search to summary.txt alone, so a team
+# question there cannot reach teams.txt. Append a compact team index (one line per
+# bet) to summary.txt so that single allowed file can answer team questions too.
+A = []
+A.append("")
+A.append("=" * 78)
+A.append("OPEN BETS BY TEAM  (compact index - every open bet, grouped by team)")
+A.append("=" * 78)
+A.append("A team may hold SEVERAL open bets (e.g. a win total AND a championship")
+A.append("future). Read every line under a heading and report all of them.")
+A.append("'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,")
+A.append("Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.")
+A.append("")
+A.append(f"Teams with open action ({len(by_team)}): " + ", ".join(sorted(by_team)))
+A.append("")
+for t in sorted(by_team):
+    rows = by_team[t]
+    tr = sum(f(b.get("Risk")) for b in rows)
+    tw = sum(f(b.get("To Win")) for b in rows)
+    A.append(f"### {t}  --  {len(rows)} open, risk {money(tr)}, max win {money(tw)}")
+    for b in sorted(rows, key=lambda b: -f(b.get("Risk"))):
+        A.append(f"    [{b.get('ID')}] {b.get('Date')} {b.get('Type')} "
+                 f"{b.get('League')} | {b.get('Pick')} | {b.get('Odds') or 'n/a'} | "
+                 f"risk {money(f(b.get('Risk')))} | win {money(f(b.get('To Win')))} | "
+                 f"{book_of(b)} | {b.get('Description')}")
+A.append("")
+A.append("=" * 78)
+A.append("SETTLED BY SPORT")
+A.append("=" * 78)
+A.append(f"  {'Sport':<14}{'Record':<14}{'Risked':>13}{'Net P&L':>13}{'ROI':>9}")
+for k, v in sorted(bysport.items(), key=lambda x: -x[1]["n"]):
+    r = f"{v['w']}W-{v['l']}L-{v['p']}P"
+    ro = (v["n"] / v["r"] * 100) if v["r"] else 0.0
+    A.append(f"  {k[:13]:<14}{r:<14}{money(v['r']):>13}{money(v['n']):>13}{ro:>8.1f}%")
+A.append("")
+A.append("Deeper cuts (breakdowns by league/type/book/month, streaks, biggest wins and")
+A.append(f"losses): {BASE}/stats.txt")
+A.append("")
+
+summary_path = os.path.join(ROOT, "summary.txt")
+with open(summary_path, encoding="utf-8") as fh:
+    base_summary = fh.read()
+marker = "OPEN BETS BY TEAM"
+if marker in base_summary:  # idempotent: drop any prior appendix before re-adding
+    base_summary = base_summary[:base_summary.index("=" * 78)].rstrip() + "\n"
+with open(summary_path, "w", encoding="utf-8") as fh:
+    fh.write(base_summary.rstrip() + "\n" + "\n".join(A))
+
 print(f"OK: digests for {len(bets)} bets ({len(pending)} open).")
+print(f"  summary.txt   {os.path.getsize(summary_path) / 1024:6.1f} KB (with team appendix)")
 for n in list(files) + ["ask.html"]:
     print(f"  {n:<14}{os.path.getsize(os.path.join(ROOT, n)) / 1024:6.1f} KB")

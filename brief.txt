@@ -4,7 +4,7 @@ BET TRACKER - BRIEF
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-08-25 20:56 UTC
+Generated: 2026-08-25 21:05 UTC
 
 
 HEADLINE
