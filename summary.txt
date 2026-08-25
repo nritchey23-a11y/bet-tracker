@@ -1,29 +1,34 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-08-25T15:53:32.848884+00:00
-Total bets in tracker: 1839
+Generated: 2026-08-25T16:30:36.250397+00:00
+Total bets in tracker: 1844
 
 OVERALL STATUS
-  Won: 759  Lost: 932  Push: 37  Pending: 111
-  Lifetime settled P&L: $14,183.40
-  Pending risk: $80,760.00   Pending max win: $128,317.57
+  Won: 759  Lost: 934  Push: 37  Pending: 114
+  Lifetime settled P&L: $13,683.40
+  Pending risk: $82,410.00   Pending max win: $130,117.57
 
 RECENT DAYS (most recent 8 with activity)
+  2026-08-25: 0W-0L  P&L: $0.00  Pending: 3 (risk $1,650.00, max $1,800.00)
   2026-08-24: 0W-0L  P&L: $0.00  Pending: 30 (risk $21,350.00, max $32,734.00)
-  2026-08-22: 0W-0L  P&L: $0.00  Pending: 2 (risk $1,745.00, max $1,000.00)
+  2026-08-22: 0W-1L  P&L: -$200.00  Pending: 2 (risk $1,745.00, max $1,000.00)
+  2026-08-18: 0W-1L  P&L: -$300.00
   2026-08-16: 0W-1L  P&L: -$278.00
   2026-08-15: 1W-1L  P&L: $697.65
   2026-08-02: 0W-2L  P&L: -$750.00
   2026-08-01: 1W-0L  P&L: $531.18
-  2026-07-30: 0W-1L  P&L: -$200.00
-  2026-07-28: 0W-0L  P&L: $0.00  Pending: 1 (risk $250.00, max $377.50)
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-08-18 → 2026-08-24: 0W-0L  P&L: $0.00  Pending: 32 (risk $23,095.00)
+  Week 2026-08-25 → 2026-08-31: 0W-0L  P&L: $0.00  Pending: 3 (risk $1,650.00)
+  Week 2026-08-18 → 2026-08-24: 0W-2L  P&L: -$500.00  Pending: 32 (risk $23,095.00)
   Week 2026-08-11 → 2026-08-17: 1W-2L  P&L: $419.65
   Week 2026-07-28 → 2026-08-03: 1W-3L  P&L: -$418.82  Pending: 1 (risk $250.00)
-  Week 2026-07-21 → 2026-07-27: 1W-0L  P&L: $179.64  Pending: 14 (risk $7,875.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1846 | 2026-08-22 | Baseball/MLB | 4-leg parlay: D. Peterson O4.5 Ks + K. Anderson O5.5 Ks + 1st Inning DRAW + SEA +1.5 | Pick: Peterson O4.5 Ks + Anderson O5.5 Ks + 1st Inn DRAW + SEA +1.5 | Odds:  | Risk $200.00 → Win $0.00 | Status: lost  P&L: -$200.00  Notes: GameDayWagers ticket #435430288_1. 4-leg CHC @ SEA parlay, game 08/22/2026 06:21 PM. Won/Lost field: -200.0 (graded lost -$200). Leg prices not shown on slip — combined odds and To Win unavailable, not inferred.
+#1845 | 2026-08-18 | Baseball/MLB | 2-leg parlay: LAD -1.5 -129 + SEA ML +152 | Pick: LAD -1.5 + SEA ML | Odds: +347 | Risk $300.00 → Win $1,042.05 | Status: lost  P&L: -$300.00  Notes: GameDayWagers. 2-leg MLB parlay, BOTH legs lost. Leg 1: LAD -1.5 -129 (Lauer/Feltner must start) vs COL - Loss. Leg 2: SEA ML +152 (Miller/Harrison action) vs MIL - Loss. Won/Lost field: -300.0. Combined +347 computed from legs.
+#1844 | 2026-08-25 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Washington State (FLEX WEEK INCLUDED) - Over 5.5 | Pick: Washington State Over 5.5 | Odds: +145 | Risk $500.00 → Win $725.00 | Status: pending  Notes: GameDayWagers contest ticket #435608643-1. Placed 08/25/2026 12:25. FLEX WEEK INCLUDED. Pending end of CFB 2026-27 regular season.
+#1843 | 2026-08-25 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props San Diego State (FLEX WEEK INCLUDED) - Over 6.5 | Pick: San Diego State Over 6.5 | Odds: -130 | Risk $650.00 → Win $500.00 | Status: pending  Notes: GameDayWagers contest ticket #435608644-1. Placed 08/25/2026 12:25. FLEX WEEK INCLUDED. Pending end of CFB 2026-27 regular season.
+#1842 | 2026-08-25 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Ohio - Under 6.5 | Pick: Ohio Under 6.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: Wagerhouse pending. Ohio Bobcats (not Ohio State). Pending end of CFB 2026-27 regular season.
 #1841 | 2026-08-22 | Football/NCAAF | NCAA FB 26/27 - Conference Championship Winner - ACC - Miami Hurricanes | Pick: Miami Hurricanes | Odds: -149 | Risk $745.00 → Win $500.00 | Status: pending  Notes: GameDayWagers contest ticket #435423893-1. Placed 08/22/2026 16:15. Pending 2026 ACC Championship Game.
 #1840 | 2026-08-22 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Buffalo - Under 6.5 | Pick: Buffalo Under 6.5 | Odds: -200 | Risk $1,000.00 → Win $500.00 | Status: pending  Notes: GameDayWagers contest ticket #435424278-1. Placed 08/22/2026 16:25. Pending end of CFB 2026-27 regular season.
 #1839 | 2026-08-24 | Football/NFL | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220 | Pick: Seahawks ML + Rams ML + Lions ML + Eagles ML | Odds: +334 | Risk $500.00 → Win $1,668.00 | Status: pending  Notes: Wagerhouse pending. 4-team NFL ML parlay: SEA -195, LAR -195, DET -330, PHI -220. Combined ~+334, profit $1,668 on $500 stake (total return $2,168).
@@ -99,8 +104,3 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1769 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826621_1. 2-leg parlay: ARG to advance + Sinner match ML at Wimbledon. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
 #1768 | 2026-07-10 | Multi/Multi | 4-leg: Clemens Over 1.5 HRR + Sinner ML + ARG advance + MIN ML | Pick: Clemens O1.5 HRR + Sinner ML + ARG advance + MIN ML | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432805795_1. 4-leg parlay: Clemens hits+runs+RBI prop + Sinner match ML + ARG to advance + MIN ML.
 #1767 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + TOR ML | Pick: ESP advance + TOR ML | Odds:  | Risk $410.00 → Win $612.00 | Status: won  P&L: $612.00  Notes: GameDayWagers ticket #432751122_1. 2-leg parlay: ESP to advance + TOR ML vs SD. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$612 confirmed from ticket display.
-#1766 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + PHI ML | Pick: ESP advance + PHI ML | Odds:  | Risk $400.00 → Win $0.00 | Status: lost  P&L: -$400.00  Notes: GameDayWagers ticket #432751038_1. 2-leg parlay: ESP to advance + PHI moneyline.
-#1765 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + ATL 1st 5 innings +0.5 | Pick: ESP advance + ATL 1H run line | Odds:  | Risk $260.00 → Win $352.50 | Status: won  P&L: $352.50  Notes: GameDayWagers ticket #432751032_1. 2-leg parlay: ESP to advance + ATL 1st 5 innings run line vs STL. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$352.50 confirmed from ticket display.
-#1764 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + ATL -1.5 | Pick: ESP advance + ATL -1.5 | Odds:  | Risk $250.00 → Win $0.00 | Status: lost  P&L: -$250.00  Notes: GameDayWagers ticket #432751020_1. 2-leg parlay: ESP to advance + ATL -1.5 run line.
-#1763 | 2026-07-09 | Multi/Multi | 2-leg: FRA advance + TEX -1.5 | Pick: FRA advance + TEX -1.5 | Odds:  | Risk $328.05 → Win $0.00 | Status: lost  P&L: -$328.05  Notes: GameDayWagers ticket #432665169_1. 2-leg parlay: FRA to advance + TEX -1.5 run line.
-#1762 | 2026-07-09 | Multi/Multi | 2-leg: FRA advance + DET -1.5 | Pick: FRA advance + DET -1.5 | Odds:  | Risk $570.00 → Win $1,000.00 | Status: won  P&L: $1,000.00  Notes: GameDayWagers ticket #432665159_1. 2-leg parlay: FRA to advance + DET -1.5 vs OAK. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$1,000 confirmed from ticket display.
