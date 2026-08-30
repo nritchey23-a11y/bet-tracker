@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T21:05:19.973648+00:00",
- "count": 1821,
+ "generated_at": "2026-08-30T18:18:46.851204+00:00",
+ "count": 1823,
  "bets": [
   {
    "ID": "1",
@@ -30958,6 +30958,40 @@
    "Status": "lost",
    "Result Date": "2026-08-22",
    "Notes": "GameDayWagers ticket #435430288_1. 4-leg CHC @ SEA parlay, game 08/22/2026 06:21 PM. Won/Lost field: -200.0 (graded lost -$200). Leg prices not shown on slip \u2014 combined odds and To Win unavailable, not inferred."
+  },
+  {
+   "ID": "1847",
+   "Date": "2026-08-30",
+   "Sport": "Golf",
+   "League": "PGA Tour",
+   "Event": "2026 Tour Championship",
+   "Type": "future",
+   "Description": "Tournament Outright Winner: Scottie Scheffler",
+   "Pick": "Scottie Scheffler",
+   "Opponent": "field",
+   "Odds": "-141",
+   "Risk": "166.67",
+   "To Win": "118.21",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "GameDayWagers contest ticket #436002586-1. Placed 08/30/2026 14:16. Pending completion of 2026 Tour Championship."
+  },
+  {
+   "ID": "1848",
+   "Date": "2026-08-30",
+   "Sport": "Golf",
+   "League": "PGA Tour",
+   "Event": "2026 Tour Championship",
+   "Type": "future",
+   "Description": "Tournament Outright Winner: Scottie Scheffler",
+   "Pick": "Scottie Scheffler",
+   "Opponent": "field",
+   "Odds": "-150",
+   "Risk": "500",
+   "To Win": "333.33",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "GameDayWagers contest ticket #436002556-1. Placed 08/30/2026 14:16. Separate ticket from #436002586-1 at a different price (-150 vs -141). Pending completion of 2026 Tour Championship."
   }
  ]
 }

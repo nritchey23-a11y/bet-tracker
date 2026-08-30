@@ -1,13 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-08-25T21:05:19.973648+00:00
-Total bets in tracker: 1821
+Generated: 2026-08-30T18:18:46.851204+00:00
+Total bets in tracker: 1823
 
 OVERALL STATUS
-  Won: 759  Lost: 934  Push: 37  Pending: 91
+  Won: 759  Lost: 934  Push: 37  Pending: 93
   Lifetime settled P&L: $13,683.40
-  Pending risk: $66,010.00   Pending max win: $102,517.57
+  Pending risk: $66,676.67   Pending max win: $102,969.11
 
 RECENT DAYS (most recent 8 with activity)
+  2026-08-30: 0W-0L  P&L: $0.00  Pending: 2 (risk $666.67, max $451.54)
   2026-08-25: 0W-0L  P&L: $0.00  Pending: 3 (risk $1,650.00, max $1,800.00)
   2026-08-24: 0W-0L  P&L: $0.00  Pending: 30 (risk $21,350.00, max $32,734.00)
   2026-08-22: 0W-1L  P&L: -$200.00  Pending: 2 (risk $1,745.00, max $1,000.00)
@@ -15,15 +16,16 @@ RECENT DAYS (most recent 8 with activity)
   2026-08-16: 0W-1L  P&L: -$278.00
   2026-08-15: 1W-1L  P&L: $697.65
   2026-08-02: 0W-2L  P&L: -$750.00
-  2026-08-01: 1W-0L  P&L: $531.18
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-08-25 → 2026-08-31: 0W-0L  P&L: $0.00  Pending: 3 (risk $1,650.00)
+  Week 2026-08-25 → 2026-08-31: 0W-0L  P&L: $0.00  Pending: 5 (risk $2,316.67)
   Week 2026-08-18 → 2026-08-24: 0W-2L  P&L: -$500.00  Pending: 32 (risk $23,095.00)
   Week 2026-08-11 → 2026-08-17: 1W-2L  P&L: $419.65
   Week 2026-07-28 → 2026-08-03: 1W-3L  P&L: -$418.82  Pending: 1 (risk $250.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1848 | 2026-08-30 | Golf/PGA Tour | Tournament Outright Winner: Scottie Scheffler | Pick: Scottie Scheffler | Odds: -150 | Risk $500.00 → Win $333.33 | Status: pending  Notes: GameDayWagers contest ticket #436002556-1. Placed 08/30/2026 14:16. Separate ticket from #436002586-1 at a different price (-150 vs -141). Pending completion of 2026 Tour Championship.
+#1847 | 2026-08-30 | Golf/PGA Tour | Tournament Outright Winner: Scottie Scheffler | Pick: Scottie Scheffler | Odds: -141 | Risk $166.67 → Win $118.21 | Status: pending  Notes: GameDayWagers contest ticket #436002586-1. Placed 08/30/2026 14:16. Pending completion of 2026 Tour Championship.
 #1846 | 2026-08-22 | Baseball/MLB | 4-leg parlay: D. Peterson O4.5 Ks + K. Anderson O5.5 Ks + 1st Inning DRAW + SEA +1.5 | Pick: Peterson O4.5 Ks + Anderson O5.5 Ks + 1st Inn DRAW + SEA +1.5 | Odds:  | Risk $200.00 → Win $0.00 | Status: lost  P&L: -$200.00  Notes: GameDayWagers ticket #435430288_1. 4-leg CHC @ SEA parlay, game 08/22/2026 06:21 PM. Won/Lost field: -200.0 (graded lost -$200). Leg prices not shown on slip — combined odds and To Win unavailable, not inferred.
 #1845 | 2026-08-18 | Baseball/MLB | 2-leg parlay: LAD -1.5 -129 + SEA ML +152 | Pick: LAD -1.5 + SEA ML | Odds: +347 | Risk $300.00 → Win $1,042.05 | Status: lost  P&L: -$300.00  Notes: GameDayWagers. 2-leg MLB parlay, BOTH legs lost. Leg 1: LAD -1.5 -129 (Lauer/Feltner must start) vs COL - Loss. Leg 2: SEA ML +152 (Miller/Harrison action) vs MIL - Loss. Won/Lost field: -300.0. Combined +347 computed from legs.
 #1844 | 2026-08-25 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Washington State (FLEX WEEK INCLUDED) - Over 5.5 | Pick: Washington State Over 5.5 | Odds: +145 | Risk $500.00 → Win $725.00 | Status: pending  Notes: GameDayWagers contest ticket #435608643-1. Placed 08/25/2026 12:25. FLEX WEEK INCLUDED. Pending end of CFB 2026-27 regular season.
@@ -102,8 +104,6 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1771 | 2026-07-14 | Multi/Multi | 4-leg: FRA advance + FRA/ESP BTTS + ENG advance + ASG 1st inning Draw | Pick: FRA advance + FRA/ESP BTTS + ENG advance + ASG 1I Draw | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432945417_1. 4-leg parlay: FRA to advance + FRA/ESP BTTS + ENG to advance + MLB All-Star Game 1st inning draw.
 #1770 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML (duplicate ticket) | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826632_1. Duplicate 2-leg parlay: ARG to advance + Sinner match ML. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
 #1769 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826621_1. 2-leg parlay: ARG to advance + Sinner match ML at Wimbledon. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
-#1768 | 2026-07-10 | Multi/Multi | 4-leg: Clemens Over 1.5 HRR + Sinner ML + ARG advance + MIN ML | Pick: Clemens O1.5 HRR + Sinner ML + ARG advance + MIN ML | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432805795_1. 4-leg parlay: Clemens hits+runs+RBI prop + Sinner match ML + ARG to advance + MIN ML.
-#1767 | 2026-07-10 | Multi/Multi | 2-leg: ESP advance + TOR ML | Pick: ESP advance + TOR ML | Odds:  | Risk $410.00 → Win $612.00 | Status: won  P&L: $612.00  Notes: GameDayWagers ticket #432751122_1. 2-leg parlay: ESP to advance + TOR ML vs SD. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$612 confirmed from ticket display.
 
 ==============================================================================
 OPEN BETS BY TEAM  (compact index - every open bet, grouped by team)
@@ -113,7 +113,7 @@ future). Read every line under a heading and report all of them.
 'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,
 Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.
 
-Teams with open action (80): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Castillo U4.5 Ks (-124) + LAD, Clemson, Colorado, Colorado State, Connecticut, DAL, DET, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML + Rams ML + Lions ML + Eagles, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
+Teams with open action (81): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Castillo U4.5 Ks (-124) + LAD, Clemson, Colorado, Colorado State, Connecticut, DAL, DET, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Scottie Scheffler, Seahawks ML + Rams ML + Lions ML + Eagles, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
 
 ### ATL Falcons  --  1 open, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 future NFL | ATL Falcons | +450 | risk $250.00 | win $1,125.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC South - ATL Falcons
@@ -242,6 +242,9 @@ Teams with open action (80): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1817] 2026-08-24 future NCAAF | Sacramento State Under 4.5 | -110 | risk $550.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Sacramento State - Under 4.5
 ### San Diego State  --  1 open, risk $650.00, max win $500.00
     [1843] 2026-08-25 future NCAAF | San Diego State Over 6.5 | -130 | risk $650.00 | win $500.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props San Diego State (FLEX WEEK INCLUDED) - Over 6.5
+### Scottie Scheffler  --  2 open, risk $666.67, max win $451.54
+    [1848] 2026-08-30 future PGA Tour | Scottie Scheffler | -150 | risk $500.00 | win $333.33 | GameDayWagers | Tournament Outright Winner: Scottie Scheffler
+    [1847] 2026-08-30 future PGA Tour | Scottie Scheffler | -141 | risk $166.67 | win $118.21 | GameDayWagers | Tournament Outright Winner: Scottie Scheffler
 ### Seahawks ML + Rams ML + Lions ML + Eagles  --  1 open, risk $500.00, max win $1,668.00
     [1839] 2026-08-24 parlay NFL | Seahawks ML + Rams ML + Lions ML + Eagles ML | +334 | risk $500.00 | win $1,668.00 | Wagerhouse | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 ### Seattle Mariners  --  3 open, risk $1,500.00, max win $12,850.00
