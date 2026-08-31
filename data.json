@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T18:18:46.851204+00:00",
+ "generated_at": "2026-08-31T17:27:18.302832+00:00",
  "count": 1823,
  "bets": [
   {
@@ -30206,9 +30206,9 @@
    "Odds": "+150",
    "Risk": "250",
    "To Win": "377.50",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse pending. 2-leg parlay submitted 7/28 10:28 AM PT. $250 risk, $377.50 profit if wins ($627.50 total return).",
+   "Status": "lost",
+   "Result Date": "2026-07-28",
+   "Notes": "Wagerhouse. 2-leg parlay submitted 7/28 10:28 AM PT. $250 risk, $377.50 profit if won ($627.50 total return). Graded lost: LAD ML leg lost - SEA beat LAD 7-6 at Dodger Stadium on 2026-07-28 (ESPN final). One dead leg settles the parlay; the Castillo U4.5 Ks leg is unverified because ESPN no longer serves player stats for that date. Settled 2026-08-31 during stale-pending audit.",
    "ID": "1802"
   },
   {
@@ -30972,9 +30972,9 @@
    "Odds": "-141",
    "Risk": "166.67",
    "To Win": "118.21",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "GameDayWagers contest ticket #436002586-1. Placed 08/30/2026 14:16. Pending completion of 2026 Tour Championship."
+   "Status": "won",
+   "Result Date": "2026-08-30",
+   "Notes": "GameDayWagers contest ticket #436002586-1. Placed 08/30/2026 14:16. Graded won: Scheffler won the 2026 Tour Championship at East Lake on 2026-08-30 at 16 under, by three shots over Hovland. Settled 2026-08-31 during stale-pending audit."
   },
   {
    "ID": "1848",
@@ -30989,9 +30989,9 @@
    "Odds": "-150",
    "Risk": "500",
    "To Win": "333.33",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "GameDayWagers contest ticket #436002556-1. Placed 08/30/2026 14:16. Separate ticket from #436002586-1 at a different price (-150 vs -141). Pending completion of 2026 Tour Championship."
+   "Status": "won",
+   "Result Date": "2026-08-30",
+   "Notes": "GameDayWagers contest ticket #436002556-1. Placed 08/30/2026 14:16. Separate ticket from #436002586-1 at a different price (-150 vs -141). Graded won: Scheffler won the 2026 Tour Championship at East Lake on 2026-08-30 at 16 under, by three shots over Hovland. Settled 2026-08-31 during stale-pending audit."
   }
  ]
 }

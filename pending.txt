@@ -4,23 +4,17 @@ BET TRACKER - ALL OPEN BETS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-08-31 17:15 UTC
+Generated: 2026-08-31 17:27 UTC
 
 
-Open bets: 93   Total risk: $66,676.67   Max win: $102,969.11
-  of which near-term action: 4 (risk $1,416.67)
+Open bets: 90   Total risk: $65,760.00   Max win: $102,140.07
+  of which near-term action: 1 (risk $500.00)
   of which season-long futures: 89 (risk $65,260.00)
 Local date: 2026-08-31. 'settles' = when the bet grades.
 
 ==========================================================================
 SECTION 1 - NEAR-TERM ACTION (what is actually riding now)
 ==========================================================================
-
-NEEDS GRADING - 3 bet(s), risk $916.67
-These events have finished but are still marked pending.
-  [1802] 2026-07-28 (34d ago) | risk $250.00 | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML
-  [1847] 2026-08-30 (1d ago) | risk $166.67 | Tournament Outright Winner: Scottie Scheffler
-  [1848] 2026-08-30 (1d ago) | risk $500.00 | Tournament Outright Winner: Scottie Scheffler
 
 [1839] settles 2026-09-14 (in 14d) | Football/NFL | parlay | placed 2026-08-24
      4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
