@@ -6,14 +6,24 @@ Source of truth is FALLBACK_BETS inside index.html (same as regen_exports.py).
 Outputs (all tiny, all text-first):
   ask.html      - landing page listing the digest URLs
   brief.txt     - one-page headline numbers
+  today.txt     - ONLY what settles today, plus anything overdue for grading
+  action.txt    - near-term action (game bets + short-dated outrights), by date
   futures.txt   - every open future, grouped by league, with totals
-  pending.txt   - every open bet
+  pending.txt   - every open bet, near-term action first, futures collapsed below
   stats.txt     - breakdowns by sport/league/type/book/month + streaks + best/worst
 plus a .html mirror of each .txt (same text in <pre>) for crawlers that prefer HTML.
 """
 import json, re, os, html
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from collections import defaultdict
+
+import horizon as HZ
+
+try:
+    from zoneinfo import ZoneInfo
+    LOCAL_TZ = ZoneInfo("America/Los_Angeles")
+except Exception:
+    LOCAL_TZ = timezone.utc
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 BASE = "https://nritchey23-a11y.github.io/bet-tracker"
@@ -27,6 +37,14 @@ bets = json.loads(m.group(1))
 
 now = datetime.now(timezone.utc)
 STAMP = now.strftime("%Y-%m-%d %H:%M UTC")
+
+# "Today" must be the bettor's local day, not UTC -- a UTC day boundary falls at
+# 5pm PT, i.e. in the middle of Sunday night football.
+TODAY = now.astimezone(LOCAL_TZ).date()
+LOCAL_STAMP = now.astimezone(LOCAL_TZ).strftime("%Y-%m-%d %H:%M %Z")
+
+# Derive settle date + horizon for every row before any digest is built.
+HZ.enrich(bets)
 
 
 def f(x):
@@ -90,6 +108,70 @@ def head(title):
     return f"{title}\n{'=' * len(title)}\n\n{HDR}\n"
 
 
+# ------------------------------------------------- near-term action buckets
+# The whole point of these: 90 of ~93 open bets are season-long futures, so a
+# flat "open bets" list buries the two or three tickets actually live today.
+near = [b for b in pending if b.get("Horizon") != "season"]
+season = [b for b in pending if b.get("Horizon") == "season"]
+stale = sorted((b for b in pending if HZ.is_stale(b, TODAY)),
+               key=lambda b: b.get("Event Date") or "")
+today_rows = [b for b in pending if (b.get("Event Date") or "") == TODAY.isoformat()]
+week_end = (TODAY + timedelta(days=7)).isoformat()
+week_rows = [b for b in pending
+             if TODAY.isoformat() <= (b.get("Event Date") or "") <= week_end]
+# Season-long tickets that are about to grade -- worth a heads-up even though
+# they are not "action".
+soon_fut = sorted((b for b in season
+                   if 0 <= (HZ.days_out(b, TODAY) or 999) <= 21),
+                  key=lambda b: b.get("Event Date") or "")
+
+
+def tot(rows):
+    return sum(f(b.get("Risk")) for b in rows), sum(f(b.get("To Win")) for b in rows)
+
+
+def detail(b, ind="     "):
+    """Three-line full detail block for one bet."""
+    d = HZ.days_out(b, TODAY)
+    when = b.get("Event Date") or "?"
+    if d == 0:
+        tag = "TODAY"
+    elif d is None:
+        tag = ""
+    elif d < 0:
+        tag = f"{abs(d)}d OVERDUE - needs grading"
+    else:
+        tag = f"in {d}d"
+    return [
+        f"[{b.get('ID')}] settles {when} ({tag}) | {b.get('Sport')}/{b.get('League')}"
+        f" | {b.get('Type')} | placed {b.get('Date')}",
+        f"{ind}{b.get('Description')}",
+        f"{ind}pick {b.get('Pick')} | odds {b.get('Odds') or 'n/a'}"
+        f" | risk {money(f(b.get('Risk')))} | to win {money(f(b.get('To Win')))}"
+        f" | book {book_of(b)}",
+    ]
+
+
+def oneline(b):
+    return (f"  [{b.get('ID')}] {b.get('Event Date')} | {b.get('Pick')}"
+            f" | {b.get('Odds') or 'n/a'} | risk {money(f(b.get('Risk')))}"
+            f" | win {money(f(b.get('To Win')))} | {book_of(b)}")
+
+
+def stale_block(prefix=""):
+    if not stale:
+        return []
+    r, w = tot(stale)
+    out = [f"{prefix}NEEDS GRADING - {len(stale)} bet(s), risk {money(r)}",
+           f"{prefix}These events have finished but are still marked pending."]
+    for b in stale:
+        out.append(f"{prefix}  [{b.get('ID')}] {b.get('Event Date')}"
+                   f" ({abs(HZ.days_out(b, TODAY))}d ago) | risk {money(f(b.get('Risk')))}"
+                   f" | {b.get('Description')}")
+    out.append("")
+    return out
+
+
 # ---------------------------------------------------------------- brief.txt
 L = [head("BET TRACKER - BRIEF")]
 L.append("HEADLINE")
@@ -102,6 +184,15 @@ L.append(f"  ROI                    : {roi:+.2f}%")
 L.append(f"  Open bets              : {len(pending)}")
 L.append(f"  Open risk (exposure)   : {money(pend_risk)}")
 L.append(f"  Open max win           : {money(pend_max)}")
+L.append("")
+L.append(f"TODAY ({TODAY.isoformat()})")
+L.append(f"  Settling today         : {len(today_rows)} bet(s), risk {money(tot(today_rows)[0])}")
+L.append(f"  Settling next 7 days   : {len(week_rows)} bet(s), risk {money(tot(week_rows)[0])}")
+L.append(f"  Near-term action open  : {len(near)} bet(s), risk {money(tot(near)[0])}")
+L.append(f"  Season-long futures    : {len(season)} bet(s), risk {money(tot(season)[0])}")
+if stale:
+    L.append(f"  NEEDS GRADING          : {len(stale)} bet(s) whose event has finished"
+             f" - see {BASE}/today.txt")
 L.append("")
 
 bysport = defaultdict(lambda: {"w": 0, "l": 0, "p": 0, "r": 0.0, "n": 0.0})
@@ -129,7 +220,7 @@ for k, v in sorted(ps.items(), key=lambda x: -x[1][1]):
     L.append(f"  {k[:16]:<18}{v[0]:>4} {unit}  risk {money(v[1]):>12}  max win {money(v[2]):>12}")
 L.append("")
 L.append("MORE DETAIL")
-for n in ("futures", "pending", "teams", "stats"):
+for n in ("today", "action", "futures", "pending", "teams", "stats"):
     L.append(f"  {BASE}/{n}.txt")
 brief = "\n".join(L) + "\n"
 
@@ -154,15 +245,127 @@ for k in sorted(grp, key=lambda k: -sum(f(b.get("Risk")) for b in grp[k])):
     L.append("")
 futures = "\n".join(L) + "\n"
 
+# ---------------------------------------------------------------- today.txt
+L = [head("BET TRACKER - TODAY")]
+L.append(f"Local date: {TODAY.isoformat()}  (as of {LOCAL_STAMP})")
+L.append("")
+L.append("This file answers 'what is riding today?' and nothing else. Season-long")
+L.append("futures are deliberately excluded - see futures.txt for those.")
+L.append("")
+if today_rows:
+    r, w = tot(today_rows)
+    L.append(f"SETTLING TODAY: {len(today_rows)} bet(s)   risk {money(r)}   max win {money(w)}")
+    L.append("")
+    for b in sorted(today_rows, key=lambda b: -f(b.get("Risk"))):
+        L += detail(b)
+    L.append("")
+else:
+    L.append("SETTLING TODAY: nothing. No open bet grades today.")
+    L.append("")
+
+L += stale_block()
+
+rest = [b for b in week_rows if (b.get("Event Date") or "") != TODAY.isoformat()]
+if rest:
+    r, w = tot(rest)
+    L.append(f"NEXT 7 DAYS: {len(rest)} bet(s)   risk {money(r)}   max win {money(w)}")
+    for b in sorted(rest, key=lambda b: (b.get("Event Date") or "", -f(b.get("Risk")))):
+        L.append(oneline(b))
+    L.append("")
+else:
+    L.append("NEXT 7 DAYS: nothing scheduled to grade.")
+    L.append("")
+
+L.append(f"CONTEXT: {len(pending)} total open bets, {money(pend_risk)} at risk,"
+         f" of which {len(season)} are season-long futures"
+         f" ({money(tot(season)[0])}).")
+L.append(f"Full near-term list: {BASE}/action.txt   Futures: {BASE}/futures.txt")
+today_txt = "\n".join(L) + "\n"
+
+# --------------------------------------------------------------- action.txt
+L = [head("BET TRACKER - NEAR-TERM ACTION")]
+L.append(f"Local date: {TODAY.isoformat()}  (as of {LOCAL_STAMP})")
+L.append("")
+L.append("Game bets and short-dated outrights only, sorted by SETTLE date (soonest")
+L.append("first). Season-long futures are excluded on purpose - they live in")
+L.append("futures.txt. 'Event Date' is when the bet grades, not when it was placed.")
+L.append("")
+nr, nw = tot(near)
+L.append(f"Near-term open: {len(near)}   Risk: {money(nr)}   Max win: {money(nw)}")
+L.append("")
+
+L += stale_block()
+
+upcoming = sorted((b for b in near if not HZ.is_stale(b, TODAY)),
+                  key=lambda b: (b.get("Event Date") or "", -f(b.get("Risk"))))
+if upcoming:
+    bydate = defaultdict(list)
+    for b in upcoming:
+        bydate[b.get("Event Date") or "?"].append(b)
+    for d in sorted(bydate):
+        rows = bydate[d]
+        r, w = tot(rows)
+        try:
+            dow = datetime.strptime(d, "%Y-%m-%d").strftime("%a")
+        except Exception:
+            dow = "?"
+        lbl = " (TODAY)" if d == TODAY.isoformat() else ""
+        L.append(f"--- {d} {dow}{lbl}  ({len(rows)} bet(s), risk {money(r)},"
+                 f" max win {money(w)}) ---")
+        for b in rows:
+            L += detail(b, ind="       ")
+        L.append("")
+else:
+    L.append("No upcoming near-term bets. Everything open is a season-long future.")
+    L.append("")
+
+if soon_fut:
+    r, w = tot(soon_fut)
+    L.append(f"FUTURES GRADING WITHIN 21 DAYS: {len(soon_fut)}, risk {money(r)},"
+             f" max win {money(w)}")
+    for b in soon_fut:
+        L.append(oneline(b) + f"  <- {b.get('Description')[:50]}")
+    L.append("")
+action_txt = "\n".join(L) + "\n"
+
 # ---------------------------------------------------------------- pending.txt
+# Restructured: near-term action first at full detail, season-long futures
+# collapsed to one line each underneath. Totals still cover ALL open bets so
+# exposure questions keep working off this file.
 L = [head("BET TRACKER - ALL OPEN BETS")]
 L.append(f"Open bets: {len(pending)}   Total risk: {money(pend_risk)}   Max win: {money(pend_max)}")
+L.append(f"  of which near-term action: {len(near)} (risk {money(nr)})")
+L.append(f"  of which season-long futures: {len(season)} (risk {money(tot(season)[0])})")
+L.append(f"Local date: {TODAY.isoformat()}. 'settles' = when the bet grades.")
 L.append("")
-for b in sorted(pending, key=lambda b: -f(b.get("Risk"))):
-    L.append(f"[{b.get('ID')}] {b.get('Date')} | {b.get('Sport')}/{b.get('League')} | {b.get('Type')}")
-    L.append(f"     {b.get('Description')}")
-    L.append(f"     pick {b.get('Pick')} | odds {b.get('Odds') or 'n/a'} | risk {money(f(b.get('Risk')))}"
-             f" | to win {money(f(b.get('To Win')))} | book {book_of(b)}")
+L.append("=" * 74)
+L.append("SECTION 1 - NEAR-TERM ACTION (what is actually riding now)")
+L.append("=" * 74)
+L.append("")
+L += stale_block()
+if upcoming:
+    for b in upcoming:
+        L += detail(b)
+    L.append("")
+elif not stale:
+    L.append("Nothing near-term. All open bets are season-long futures.")
+    L.append("")
+
+L.append("=" * 74)
+L.append(f"SECTION 2 - SEASON-LONG FUTURES ({len(season)}, one line each)")
+L.append("=" * 74)
+L.append("Full detail and league grouping: " + BASE + "/futures.txt")
+L.append("")
+fgrp = defaultdict(list)
+for b in season:
+    fgrp[f"{b.get('Sport') or '?'} / {b.get('League') or '?'}"].append(b)
+for k in sorted(fgrp, key=lambda k: -tot(fgrp[k])[0]):
+    rows = sorted(fgrp[k], key=lambda b: -f(b.get("Risk")))
+    r, w = tot(rows)
+    L.append(f"--- {k}  ({len(rows)} open, risk {money(r)}, max win {money(w)}) ---")
+    for b in rows:
+        L.append(oneline(b) + f"  <- {b.get('Description')}")
+    L.append("")
 pend_txt = "\n".join(L) + "\n"
 
 # ---------------------------------------------------------------- teams.txt
@@ -272,7 +475,8 @@ L.append("")
 stats = "\n".join(L) + "\n"
 
 # ---------------------------------------------------------------- write
-files = {"brief.txt": brief, "futures.txt": futures, "pending.txt": pend_txt,
+files = {"brief.txt": brief, "today.txt": today_txt, "action.txt": action_txt,
+         "futures.txt": futures, "pending.txt": pend_txt,
          "teams.txt": teams, "stats.txt": stats}
 for name, body in files.items():
     with open(os.path.join(ROOT, name), "w", encoding="utf-8") as fh:
@@ -291,9 +495,11 @@ for name, body in files.items():
 
 rows = "".join(
     f"<li><a href='{s}.txt'>{s}.txt</a> &nbsp;<a href='{s}.html'>(html)</a> &mdash; {d}</li>"
-    for s, d in [("brief", "headline record, P&amp;L, ROI, exposure by sport"),
+    for s, d in [("today", "<strong>what is riding today</strong> &mdash; plus anything overdue for grading"),
+                 ("action", "near-term action only (no season futures), sorted by settle date"),
+                 ("brief", "headline record, P&amp;L, ROI, exposure by sport"),
                  ("futures", "every open future, grouped by league"),
-                 ("pending", "every open bet with stake and price"),
+                 ("pending", "every open bet &mdash; action first, futures collapsed below"),
                  ("teams", "open bets grouped by team &mdash; best for &ldquo;what do I have on X?&rdquo;"),
                  ("stats", "breakdowns by sport/league/type/book/month, streaks, best &amp; worst")])
 with open(os.path.join(ROOT, "ask.html"), "w", encoding="utf-8") as fh:
@@ -318,6 +524,59 @@ Full ledger: <a href="bets.csv">bets.csv</a>. Interactive dashboard:
 # question there cannot reach teams.txt. Append a compact team index (one line per
 # bet) to summary.txt so that single allowed file can answer team questions too.
 A = []
+A.append("")
+# --- near-term action first. summary.txt is the project's guaranteed-reachable
+# --- file, so "what is riding today?" has to be answerable from it alone.
+A.append("=" * 78)
+A.append(f"TODAY AND NEAR-TERM ACTION  (local date {TODAY.isoformat()})")
+A.append("=" * 78)
+A.append("Use this section for 'what is pending today', 'what is riding this week',")
+A.append("'what is my action today'. Season-long futures are listed separately below")
+A.append("and should NOT be reported as today's action. 'settles' = when it grades.")
+A.append("")
+A.append(f"Settling today: {len(today_rows)} bet(s), risk {money(tot(today_rows)[0])},"
+         f" max win {money(tot(today_rows)[1])}")
+if today_rows:
+    for b in sorted(today_rows, key=lambda b: -f(b.get("Risk"))):
+        A.append(f"    [{b.get('ID')}] settles {b.get('Event Date')} | {b.get('Type')}"
+                 f" | {b.get('League')} | {b.get('Pick')} | {b.get('Odds') or 'n/a'}"
+                 f" | risk {money(f(b.get('Risk')))} | win {money(f(b.get('To Win')))}"
+                 f" | {book_of(b)} | {b.get('Description')}")
+else:
+    A.append("    (nothing grades today)")
+A.append("")
+_rest7 = [b for b in week_rows if (b.get("Event Date") or "") != TODAY.isoformat()]
+A.append(f"Settling in the next 7 days: {len(_rest7)} bet(s),"
+         f" risk {money(tot(_rest7)[0])}")
+for b in sorted(_rest7, key=lambda b: (b.get("Event Date") or "", -f(b.get("Risk")))):
+    A.append(f"    [{b.get('ID')}] settles {b.get('Event Date')} | {b.get('Type')}"
+             f" | {b.get('League')} | {b.get('Pick')} | {b.get('Odds') or 'n/a'}"
+             f" | risk {money(f(b.get('Risk')))} | win {money(f(b.get('To Win')))}"
+             f" | {book_of(b)} | {b.get('Description')}")
+if not _rest7:
+    A.append("    (nothing scheduled)")
+A.append("")
+A.append(f"All near-term open action (game bets + short-dated outrights):"
+         f" {len(near)} bet(s), risk {money(tot(near)[0])},"
+         f" max win {money(tot(near)[1])}")
+for b in sorted(near, key=lambda b: (b.get("Event Date") or "", -f(b.get("Risk")))):
+    A.append(f"    [{b.get('ID')}] settles {b.get('Event Date')} | {b.get('Type')}"
+             f" | {b.get('League')} | {b.get('Pick')} | {b.get('Odds') or 'n/a'}"
+             f" | risk {money(f(b.get('Risk')))} | win {money(f(b.get('To Win')))}"
+             f" | {book_of(b)} | {b.get('Description')}")
+A.append("")
+A.append(f"Season-long futures (NOT today's action): {len(season)} bet(s),"
+         f" risk {money(tot(season)[0])}. Detail: {BASE}/futures.txt")
+A.append("")
+if stale:
+    A.append(f"NEEDS GRADING - {len(stale)} bet(s) whose event has already finished"
+             f" but are still marked pending:")
+    for b in stale:
+        A.append(f"    [{b.get('ID')}] event {b.get('Event Date')}"
+                 f" ({abs(HZ.days_out(b, TODAY))}d ago) | risk {money(f(b.get('Risk')))}"
+                 f" | {b.get('Description')}")
+    A.append("")
+A.append(f"Day-by-day near-term view: {BASE}/today.txt and {BASE}/action.txt")
 A.append("")
 A.append("=" * 78)
 A.append("OPEN BETS BY TEAM  (compact index - every open bet, grouped by team)")

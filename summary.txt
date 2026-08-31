@@ -106,6 +106,34 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1769 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826621_1. 2-leg parlay: ARG to advance + Sinner match ML at Wimbledon. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
 
 ==============================================================================
+TODAY AND NEAR-TERM ACTION  (local date 2026-08-31)
+==============================================================================
+Use this section for 'what is pending today', 'what is riding this week',
+'what is my action today'. Season-long futures are listed separately below
+and should NOT be reported as today's action. 'settles' = when it grades.
+
+Settling today: 0 bet(s), risk $0.00, max win $0.00
+    (nothing grades today)
+
+Settling in the next 7 days: 0 bet(s), risk $0.00
+    (nothing scheduled)
+
+All near-term open action (game bets + short-dated outrights): 4 bet(s), risk $1,416.67, max win $2,497.04
+    [1802] settles 2026-07-28 | parlay | MLB | Castillo U4.5 Ks (-124) + LAD ML | +150 | risk $250.00 | win $377.50 | Wagerhouse | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML
+    [1848] settles 2026-08-30 | future | PGA Tour | Scottie Scheffler | -150 | risk $500.00 | win $333.33 | GameDayWagers | Tournament Outright Winner: Scottie Scheffler
+    [1847] settles 2026-08-30 | future | PGA Tour | Scottie Scheffler | -141 | risk $166.67 | win $118.21 | GameDayWagers | Tournament Outright Winner: Scottie Scheffler
+    [1839] settles 2026-09-14 | parlay | NFL | Seahawks ML + Rams ML + Lions ML + Eagles ML | +334 | risk $500.00 | win $1,668.00 | Wagerhouse | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
+
+Season-long futures (NOT today's action): 89 bet(s), risk $65,260.00. Detail: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
+
+NEEDS GRADING - 3 bet(s) whose event has already finished but are still marked pending:
+    [1802] event 2026-07-28 (34d ago) | risk $250.00 | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML
+    [1847] event 2026-08-30 (1d ago) | risk $166.67 | Tournament Outright Winner: Scottie Scheffler
+    [1848] event 2026-08-30 (1d ago) | risk $500.00 | Tournament Outright Winner: Scottie Scheffler
+
+Day-by-day near-term view: https://nritchey23-a11y.github.io/bet-tracker/today.txt and https://nritchey23-a11y.github.io/bet-tracker/action.txt
+
+==============================================================================
 OPEN BETS BY TEAM  (compact index - every open bet, grouped by team)
 ==============================================================================
 A team may hold SEVERAL open bets (e.g. a win total AND a championship

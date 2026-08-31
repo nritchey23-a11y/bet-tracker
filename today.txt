@@ -1,0 +1,26 @@
+BET TRACKER - TODAY
+===================
+
+This file is a plain-text digest of Nick Ritchey's personal sports-betting
+tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
+total payout (payout = Risk + To Win). Settled excludes pending/refunded.
+Generated: 2026-08-31 17:15 UTC
+
+
+Local date: 2026-08-31  (as of 2026-08-31 10:15 PDT)
+
+This file answers 'what is riding today?' and nothing else. Season-long
+futures are deliberately excluded - see futures.txt for those.
+
+SETTLING TODAY: nothing. No open bet grades today.
+
+NEEDS GRADING - 3 bet(s), risk $916.67
+These events have finished but are still marked pending.
+  [1802] 2026-07-28 (34d ago) | risk $250.00 | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML
+  [1847] 2026-08-30 (1d ago) | risk $166.67 | Tournament Outright Winner: Scottie Scheffler
+  [1848] 2026-08-30 (1d ago) | risk $500.00 | Tournament Outright Winner: Scottie Scheffler
+
+NEXT 7 DAYS: nothing scheduled to grade.
+
+CONTEXT: 93 total open bets, $66,676.67 at risk, of which 89 are season-long futures ($65,260.00).
+Full near-term list: https://nritchey23-a11y.github.io/bet-tracker/action.txt   Futures: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
