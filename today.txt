@@ -4,22 +4,48 @@ BET TRACKER - TODAY
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-16 21:48 UTC
+Generated: 2026-09-16 21:54 UTC
 
 
-Local date: 2026-09-16  (as of 2026-09-16 14:48 PDT)
+Local date: 2026-09-16  (as of 2026-09-16 14:54 PDT)
 
 This file answers 'what is riding today?' and nothing else. Season-long
 futures are deliberately excluded - see futures.txt for those.
 
 SETTLING TODAY: nothing. No open bet grades today.
 
-NEXT 7 DAYS: 5 bet(s)   risk $1,200.00   max win $3,682.00
+NEXT 7 DAYS: 31 bet(s)   risk $1,460.00   max win $7,184.41
   [1965] 2026-09-19 | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse
   [1968] 2026-09-19 | Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | +508 | risk $0.00 | win $1,270.00 | Wagerhouse
   [1969] 2026-09-20 | Eagles -1, Chargers -1 | n/a | risk $600.00 | win $545.00 | Wagerhouse
   [1966] 2026-09-20 | Over 50.5, Chiefs ML | +155 | risk $300.00 | win $463.00 | Wagerhouse
   [1967] 2026-09-20 | Broncos -2.5, Patriots ML | +170 | risk $300.00 | win $511.00 | Wagerhouse
+  [1970] 2026-09-20 | Jets ML, Bengals ML | +498 | risk $10.00 | win $49.80 | Wagerhouse
+  [1971] 2026-09-20 | Jets ML, Commanders ML | +615 | risk $10.00 | win $61.50 | Wagerhouse
+  [1972] 2026-09-20 | Jets ML, Broncos -3 | +420 | risk $10.00 | win $42.00 | Wagerhouse
+  [1973] 2026-09-20 | Jets ML, Panthers -2.5 | +396 | risk $10.00 | win $39.64 | Wagerhouse
+  [1974] 2026-09-20 | Bengals ML, Commanders ML | +532 | risk $10.00 | win $53.25 | Wagerhouse
+  [1975] 2026-09-20 | Bengals ML, Broncos -3 | +360 | risk $10.00 | win $36.00 | Wagerhouse
+  [1976] 2026-09-20 | Bengals ML, Panthers -2.5 | +339 | risk $10.00 | win $33.91 | Wagerhouse
+  [1977] 2026-09-20 | Commanders ML, Broncos -3 | +450 | risk $10.00 | win $45.00 | Wagerhouse
+  [1978] 2026-09-20 | Commanders ML, Panthers -2.5 | +425 | risk $10.00 | win $42.50 | Wagerhouse
+  [1979] 2026-09-20 | Broncos -3, Panthers -2.5 | +282 | risk $10.00 | win $28.18 | Wagerhouse
+  [1980] 2026-09-20 | Jets ML, Bengals ML, Commanders ML | +1544 | risk $10.00 | win $154.45 | Wagerhouse
+  [1981] 2026-09-20 | Jets ML, Bengals ML, Broncos -3 | +1096 | risk $10.00 | win $109.60 | Wagerhouse
+  [1982] 2026-09-20 | Jets ML, Bengals ML, Panthers -2.5 | +1042 | risk $10.00 | win $104.16 | Wagerhouse
+  [1983] 2026-09-20 | Jets ML, Commanders ML, Broncos -3 | +1330 | risk $10.00 | win $133.00 | Wagerhouse
+  [1984] 2026-09-20 | Jets ML, Commanders ML, Panthers -2.5 | +1265 | risk $10.00 | win $126.50 | Wagerhouse
+  [1985] 2026-09-20 | Jets ML, Broncos -3, Panthers -2.5 | +893 | risk $10.00 | win $89.27 | Wagerhouse
+  [1986] 2026-09-20 | Bengals ML, Commanders ML, Broncos -3 | +1165 | risk $10.00 | win $116.50 | Wagerhouse
+  [1987] 2026-09-20 | Bengals ML, Commanders ML, Panthers -2.5 | +1108 | risk $10.00 | win $110.75 | Wagerhouse
+  [1988] 2026-09-20 | Bengals ML, Broncos -3, Panthers -2.5 | +778 | risk $10.00 | win $77.82 | Wagerhouse
+  [1989] 2026-09-20 | Commanders ML, Broncos -3, Panthers -2.5 | +950 | risk $10.00 | win $95.00 | Wagerhouse
+  [1990] 2026-09-20 | Jets ML, Bengals ML, Commanders ML, Broncos -3 | +3189 | risk $10.00 | win $318.90 | Wagerhouse
+  [1991] 2026-09-20 | Jets ML, Bengals ML, Commanders ML, Panthers -2.5 | +3040 | risk $10.00 | win $303.95 | Wagerhouse
+  [1992] 2026-09-20 | Jets ML, Bengals ML, Broncos -3, Panthers -2.5 | +2183 | risk $10.00 | win $218.33 | Wagerhouse
+  [1993] 2026-09-20 | Jets ML, Commanders ML, Broncos -3, Panthers -2.5 | +2630 | risk $10.00 | win $263.00 | Wagerhouse
+  [1994] 2026-09-20 | Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +2315 | risk $10.00 | win $231.50 | Wagerhouse
+  [1995] 2026-09-20 | Jets ML, Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +6179 | risk $10.00 | win $617.90 | Wagerhouse
 
-CONTEXT: 94 total open bets, $66,460.00 at risk, of which 89 are season-long futures ($65,260.00).
+CONTEXT: 120 total open bets, $66,720.00 at risk, of which 89 are season-long futures ($65,260.00).
 Full near-term list: https://nritchey23-a11y.github.io/bet-tracker/action.txt   Futures: https://nritchey23-a11y.github.io/bet-tracker/futures.txt

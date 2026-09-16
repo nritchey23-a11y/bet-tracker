@@ -4,24 +4,24 @@ BET TRACKER - BRIEF
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-16 21:48 UTC
+Generated: 2026-09-16 21:54 UTC
 
 
 HEADLINE
-  Total bets logged      : 1944
+  Total bets logged      : 1970
   Settled record         : 782W-1031L-37P
   Win rate (excl. pushes): 43.1%
   Total risked (settled) : $477,766.87
   Net profit/loss        : $10,214.28
   ROI                    : +2.14%
-  Open bets              : 94
-  Open risk (exposure)   : $66,460.00
-  Open max win           : $104,154.07
+  Open bets              : 120
+  Open risk (exposure)   : $66,720.00
+  Open max win           : $107,656.48
 
 TODAY (2026-09-16)
   Settling today         : 0 bet(s), risk $0.00
-  Settling next 7 days   : 5 bet(s), risk $1,200.00
-  Near-term action open  : 5 bet(s), risk $1,200.00
+  Settling next 7 days   : 31 bet(s), risk $1,460.00
+  Near-term action open  : 31 bet(s), risk $1,460.00
   Season-long futures    : 89 bet(s), risk $65,260.00
 
 SETTLED BY SPORT (sorted by net P&L)
@@ -39,7 +39,7 @@ SETTLED BY SPORT (sorted by net P&L)
   Multi         38W-96L-0P       $45,085.45   -$6,266.58   -13.9%
 
 OPEN EXPOSURE BY SPORT
-  Football            86 bets  risk   $59,960.00  max win   $78,391.07
+  Football           112 bets  risk   $60,220.00  max win   $81,893.48
   Auto Racing          2 bets  risk    $4,750.00  max win    $6,000.00
   Baseball             3 bets  risk    $1,500.00  max win   $12,850.00
   Golf                 1 bet   risk      $250.00  max win    $4,750.00
