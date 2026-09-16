@@ -4,18 +4,35 @@ BET TRACKER - NEAR-TERM ACTION
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-16 21:26 UTC
+Generated: 2026-09-16 21:48 UTC
 
 
-Local date: 2026-09-16  (as of 2026-09-16 14:26 PDT)
+Local date: 2026-09-16  (as of 2026-09-16 14:48 PDT)
 
 Game bets and short-dated outrights only, sorted by SETTLE date (soonest
 first). Season-long futures are excluded on purpose - they live in
 futures.txt. 'Event Date' is when the bet grades, not when it was placed.
 
-Near-term open: 0   Risk: $0.00   Max win: $0.00
+Near-term open: 5   Risk: $1,200.00   Max win: $3,682.00
 
-No upcoming near-term bets. Everything open is a season-long future.
+--- 2026-09-19 Sat  (2 bet(s), risk $0.00, max win $2,163.00) ---
+[1965] settles 2026-09-19 (in 3d) | Multi/NFL/NCAAF | parlay | placed 2026-09-19
+       3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
+       pick Bengals ML, Texas Tech ML, Rams ML | odds +298 | risk $0.00 | to win $893.00 | book Wagerhouse
+[1968] settles 2026-09-19 (in 3d) | Multi/NFL/NCAAF | parlay | placed 2026-09-19
+       6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350
+       pick Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | odds +508 | risk $0.00 | to win $1,270.00 | book Wagerhouse
+
+--- 2026-09-20 Sun  (3 bet(s), risk $1,200.00, max win $1,519.00) ---
+[1969] settles 2026-09-20 (in 4d) | Football/NFL | parlay | placed 2026-09-20
+       2-team teaser: Eagles -1 + Chargers -1
+       pick Eagles -1, Chargers -1 | odds n/a | risk $600.00 | to win $545.00 | book Wagerhouse
+[1966] settles 2026-09-20 (in 4d) | Football/NFL | parlay | placed 2026-09-20
+       2-leg parlay: Commanders/Cowboys O50.5 -110 + Chiefs ML -300
+       pick Over 50.5, Chiefs ML | odds +155 | risk $300.00 | to win $463.00 | book Wagerhouse
+[1967] settles 2026-09-20 (in 4d) | Football/NFL | parlay | placed 2026-09-20
+       2-leg parlay: Broncos -2.5 -110 + Patriots ML -240
+       pick Broncos -2.5, Patriots ML | odds +170 | risk $300.00 | to win $511.00 | book Wagerhouse
 
 FUTURES GRADING WITHIN 21 DAYS: 1, risk $1,000.00, max win $1,100.00
   [1750] 2026-09-27 | Seattle Mariners | +110 | risk $1,000.00 | win $1,100.00 | Wagerhouse  <- MLB 2026 Division Winner - American League West - 

@@ -4,7 +4,7 @@ BET TRACKER - OPEN BETS BY TEAM
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-16 21:26 UTC
+Generated: 2026-09-16 21:48 UTC
 
 
 Alphabetical index of every team/selection with at least one OPEN bet.
@@ -12,9 +12,9 @@ To answer 'what do I have on <team>?', find the team heading below and read
 every line under it. A team may hold several open bets (e.g. a season win
 total AND a championship future) - report all of them, not just the first.
 
-Teams with open action: 78
+Teams with open action: 82
 
-QUICK INDEX: ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Clemson, Colorado, Colorado State, Connecticut, DAL, DET, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
+QUICK INDEX: ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Bengals ML, Texas Tech ML, Rams, Boise State, Broncos -2.5, Patriots, Buffalo, CHI Bears, CIN Bengals, Clemson, Colorado, Colorado State, Connecticut, DAL, DET, Eagles -1, Chargers, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 50.5, Chiefs, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
 
 ### ATL Falcons  --  1 open bet, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 | future | Football/NFL
@@ -46,10 +46,20 @@ QUICK INDEX: ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buf
         NCAA FB 26/27 - Regular Season Wins - Props Baylor - Under 6.5
         pick Baylor Under 6.5 | odds -160 | risk $800.00 | to win $500.00 | book Wagerhouse
 
+### Bengals ML, Texas Tech ML, Rams  --  1 open bet, risk $0.00, max win $893.00
+    [1965] 2026-09-19 | parlay | Multi/NFL/NCAAF
+        3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
+        pick Bengals ML, Texas Tech ML, Rams ML | odds +298 | risk $0.00 | to win $893.00 | book Wagerhouse
+
 ### Boise State  --  1 open bet, risk $650.00, max win $500.00
     [1828] 2026-08-24 | future | Football/NCAAF
         NCAA FB 26/27 - Regular Season Wins - Props Boise State - Over 8
         pick Boise State Over 8 | odds -130 | risk $650.00 | to win $500.00 | book Wagerhouse
+
+### Broncos -2.5, Patriots  --  1 open bet, risk $300.00, max win $511.00
+    [1967] 2026-09-20 | parlay | Football/NFL
+        2-leg parlay: Broncos -2.5 -110 + Patriots ML -240
+        pick Broncos -2.5, Patriots ML | odds +170 | risk $300.00 | to win $511.00 | book Wagerhouse
 
 ### Buffalo  --  1 open bet, risk $1,000.00, max win $500.00
     [1840] 2026-08-22 | future | Football/NCAAF
@@ -98,6 +108,11 @@ QUICK INDEX: ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buf
     [1796] 2026-07-27 | future | Football/NFL
         NFL 26/27 - Regular Season Wins - Lions - Over 10.5
         pick DET Over 10.5 | odds -125 | risk $1,250.00 | to win $1,000.00 | book Wagerhouse
+
+### Eagles -1, Chargers  --  1 open bet, risk $600.00, max win $545.00
+    [1969] 2026-09-20 | parlay | Football/NFL
+        2-team teaser: Eagles -1 + Chargers -1
+        pick Eagles -1, Chargers -1 | odds n/a | risk $600.00 | to win $545.00 | book Wagerhouse
 
 ### Florida Atlantic  --  1 open bet, risk $800.00, max win $500.00
     [1823] 2026-08-24 | future | Football/NCAAF
@@ -282,6 +297,11 @@ QUICK INDEX: ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buf
     [1415] 2026-05-17 | futures | Football/NFL
         New York Jets Regular Season Wins Over 5.5
         pick Over 5.5 | odds +105 | risk $1,000.00 | to win $1,050.00 | book Wagerhouse
+
+### Over 50.5, Chiefs  --  1 open bet, risk $300.00, max win $463.00
+    [1966] 2026-09-20 | parlay | Football/NFL
+        2-leg parlay: Commanders/Cowboys O50.5 -110 + Chiefs ML -300
+        pick Over 50.5, Chiefs ML | odds +155 | risk $300.00 | to win $463.00 | book Wagerhouse
 
 ### Over 6.5  --  1 open bet, risk $1,300.00, max win $1,000.00
     [1418] 2026-05-17 | futures | Football/NFL
