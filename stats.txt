@@ -4,12 +4,12 @@ BET TRACKER - BREAKDOWNS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-16 21:06 UTC
+Generated: 2026-09-16 21:26 UTC
 
 
 BY SPORT
   Key                         Record               Risked      Net P&L      ROI
-  Football                    396W-441L-11P   $205,045.51   $17,619.05     8.6%
+  Football                    417W-533L-11P   $236,358.81   $15,348.39     6.5%
   Golf                        51W-66L-3P       $41,026.17    $5,194.75    12.7%
   MMA                         3W-1L-0P         $10,625.00    $2,728.83    25.7%
   Horse Racing                4W-15L-1P         $3,374.00      $335.23     9.9%
@@ -19,12 +19,12 @@ BY SPORT
   Basketball                  140W-143L-4P     $61,910.50   -$1,711.06    -2.8%
   Mixed                       3W-13L-0P         $5,030.03   -$1,745.80   -34.7%
   Hockey                      7W-10L-0P         $4,108.94   -$2,220.96   -54.1%
-  Multi                       38W-93L-0P       $44,185.45   -$5,366.58   -12.1%
+  Multi                       38W-96L-0P       $45,085.45   -$6,266.58   -13.9%
 
 BY LEAGUE
   Key                         Record               Risked      Net P&L      ROI
-  Football/NFL                147W-192L-2P     $84,938.51    $9,997.56    11.8%
-  Football/NCAAF              249W-249L-9P    $120,107.00    $7,621.49     6.3%
+  Football/NFL                150W-198L-2P     $87,463.51    $9,047.56    10.3%
+  Football/NCAAF              267W-335L-9P    $148,895.30    $6,300.83     4.2%
   Golf/PGA Tour               48W-63L-2P       $35,539.17    $4,907.75    13.8%
   Horse Racing/KY Oaks        3W-0L-0P            $870.00    $2,422.23   278.4%
   Mixed/Mixed                 2W-1L-0P            $950.00    $1,703.00   179.3%
@@ -46,6 +46,7 @@ BY LEAGUE
   Mixed/MLB/NHL               0W-1L-0P            $100.00     -$100.00  -100.0%
   Horse Racing/Churchill Down 0W-1L-0P            $180.00     -$180.00  -100.0%
   Multi/MLB/NCAAF             1W-2L-0P            $750.00     -$215.00   -28.7%
+  Multi/NCAAF/MLB             0W-1L-0P            $300.00     -$300.00  -100.0%
   Mixed/MLB+Soccer            0W-2L-0P            $308.75     -$308.75  -100.0%
   Mixed/NBA/MLB               0W-1L-0P            $400.00     -$400.00  -100.0%
   Golf/Majors Futures         0W-1L-0P            $500.00     -$500.00  -100.0%
@@ -61,16 +62,16 @@ BY LEAGUE
   Multi/NFL/NHL               0W-5L-0P          $1,026.40   -$1,026.40  -100.0%
   Multi/NCAAB/NFL             3W-6L-0P          $3,008.00   -$1,376.00   -45.7%
   Soccer/International        8W-19L-1P         $3,996.00   -$1,627.08   -40.7%
-  Multi/NCAAF/NFL             19W-57L-0P       $25,457.00   -$1,672.34    -6.6%
   Basketball/NBA              8W-10L-0P         $8,650.50   -$1,815.50   -21.0%
   Hockey/NHL                  7W-10L-0P         $4,108.94   -$2,220.96   -54.1%
+  Multi/NCAAF/NFL             19W-59L-0P       $26,057.00   -$2,272.34    -8.7%
 
 BY BET TYPE
   Key                         Record               Risked      Net P&L      ROI
-  parlay                      126W-244L-0P    $109,555.45   $18,033.74    16.5%
+  parlay                      134W-330L-0P    $114,995.45   $14,738.24    12.8%
+  moneyline                   53W-63L-0P       $49,865.44    $5,002.27    10.0%
   outright                    3W-2L-0P          $9,580.00    $2,900.00    30.3%
   future                      16W-29L-1P       $28,755.00    $2,532.85     8.8%
-  moneyline                   51W-63L-0P       $38,850.44    $2,502.27     6.4%
   1st 5 run line              28W-16L-3P        $8,460.20    $1,457.75    17.2%
   r2under                     5W-0L-0P          $1,462.00    $1,250.00    85.5%
   top20                       5W-2L-0P          $2,471.50      $946.00    38.3%
@@ -118,14 +119,14 @@ BY BET TYPE
   money line                  16W-14L-0P        $8,023.50     -$906.00   -11.3%
   1st 5 money line            11W-12L-4P        $4,761.25   -$1,252.64   -26.3%
   round robin                 4W-17L-0P         $4,670.35   -$2,183.64   -46.8%
-  total                       83W-98L-3P       $32,815.78   -$3,552.27   -10.8%
-  spread                      335W-334L-14P   $151,997.10   -$6,841.21    -4.5%
+  total                       87W-102L-3P      $35,240.78   -$3,585.81   -10.2%
+  spread                      342W-339L-14P   $165,330.40   -$9,182.83    -5.6%
 
 BY BOOK (Notes-derived; most rows untagged)
   Key                         Record               Risked      Net P&L      ROI
-  Untagged                    697W-839L-31P   $384,096.58   $12,405.30     3.2%
+  Untagged                    698W-839L-31P   $384,096.58   $12,673.30     3.3%
   GameDayWagers               15W-30L-1P       $17,679.09      $908.62     5.1%
-  Wagerhouse                  49W-67L-5P       $43,777.90       $71.02     0.2%
+  Wagerhouse                  69W-162L-5P      $75,991.20   -$3,367.64    -4.4%
 
 BY MONTH PLACED
   Key                         Record               Risked      Net P&L      ROI
@@ -160,13 +161,14 @@ BY MONTH PLACED
   2023-10                     51W-72L-2P       $13,404.00   -$1,360.63   -10.2%
   2023-01                     38W-52L-2P       $12,293.41   -$1,870.41   -15.2%
   2025-10                     21W-23L-0P       $21,798.00   -$2,504.50   -11.5%
+  2026-09                     21W-95L-0P       $32,213.30   -$3,170.66    -9.8%
   2026-06                     83W-118L-16P     $52,012.96   -$5,531.85   -10.6%
   2025-12                     39W-72L-1P       $59,092.00   -$7,861.22   -13.3%
 
 STREAKS (settled, chronological by result date)
   Longest win streak : 10
-  Longest loss streak: 13
-  Last 40 results    : LLWLWLWWLLLWWLLLLLWLWLLLLWWLLWLLLWLLLWWL
+  Longest loss streak: 24
+  Last 40 results    : LLWLLLLLLLLLLLLLLLLLLLLLLLLWLWWLLLLLLLWL
 
 TOP 10 WINS (realized profit)
   +$5,001.85     [1316] 2026-01-03    2305 | 8-leg parlay:  + LV +195 + DEN -1000 + JAC -715 + MIN -575 + H
@@ -181,7 +183,9 @@ TOP 10 WINS (realized profit)
   +$2,205.00     [1297] 2025-12-27     735 | 3-leg parlay: M-OH @ FRES: o41 -110 + NE -900 + HOU +7.5 -108 
 
 TOP 10 LOSSES (realized loss)
+  -$4,540.00     [1952] 2026-09-12    -227 | Washington -11.5 -227
   -$2,000.00     [1785] 2026-07-20    +105 | Cameron Young to win 2026 Open Championship
+  -$2,000.00     [1954] 2026-09-12    +112 | Tulsa -7.5 +112
   -$1,850.00     [1435] 2026-05-22    -185 | Avalanche ML
   -$1,500.00     [1727] 2026-06-30    -150 | Reach Round of 16 - Netherlands
   -$1,350.00     [976] 2025-11-09    -135 | 
@@ -189,6 +193,4 @@ TOP 10 LOSSES (realized loss)
   -$1,170.00     [934] 2025-10-05    -117 | (Live) BUF -6.5 -117
   -$1,150.00     [1422] 2026-05-22    -115 | Spurs -1.5
   -$1,100.00     [974] 2025-11-09    -110 | JAC -1 -110
-  -$1,100.00     [975] 2025-11-09    -110 | (2H) BUF -10.5 -110
-  -$1,100.00     [1038] 2025-12-14    -110 | (2H) SEA -9.5 -110
 
