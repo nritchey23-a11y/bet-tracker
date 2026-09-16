@@ -4,15 +4,19 @@ BET TRACKER - TODAY
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-08-31 17:27 UTC
+Generated: 2026-09-16 20:14 UTC
 
 
-Local date: 2026-08-31  (as of 2026-08-31 10:27 PDT)
+Local date: 2026-09-16  (as of 2026-09-16 13:14 PDT)
 
 This file answers 'what is riding today?' and nothing else. Season-long
 futures are deliberately excluded - see futures.txt for those.
 
 SETTLING TODAY: nothing. No open bet grades today.
+
+NEEDS GRADING - 1 bet(s), risk $500.00
+These events have finished but are still marked pending.
+  [1839] 2026-09-14 (2d ago) | risk $500.00 | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 
 NEXT 7 DAYS: nothing scheduled to grade.
 

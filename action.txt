@@ -4,10 +4,10 @@ BET TRACKER - NEAR-TERM ACTION
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-08-31 17:27 UTC
+Generated: 2026-09-16 20:14 UTC
 
 
-Local date: 2026-08-31  (as of 2026-08-31 10:27 PDT)
+Local date: 2026-09-16  (as of 2026-09-16 13:14 PDT)
 
 Game bets and short-dated outrights only, sorted by SETTLE date (soonest
 first). Season-long futures are excluded on purpose - they live in
@@ -15,8 +15,12 @@ futures.txt. 'Event Date' is when the bet grades, not when it was placed.
 
 Near-term open: 1   Risk: $500.00   Max win: $1,668.00
 
---- 2026-09-14 Mon  (1 bet(s), risk $500.00, max win $1,668.00) ---
-[1839] settles 2026-09-14 (in 14d) | Football/NFL | parlay | placed 2026-08-24
-       4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
-       pick Seahawks ML + Rams ML + Lions ML + Eagles ML | odds +334 | risk $500.00 | to win $1,668.00 | book Wagerhouse
+NEEDS GRADING - 1 bet(s), risk $500.00
+These events have finished but are still marked pending.
+  [1839] 2026-09-14 (2d ago) | risk $500.00 | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
+
+No upcoming near-term bets. Everything open is a season-long future.
+
+FUTURES GRADING WITHIN 21 DAYS: 1, risk $1,000.00, max win $1,100.00
+  [1750] 2026-09-27 | Seattle Mariners | +110 | risk $1,000.00 | win $1,100.00 | Wagerhouse  <- MLB 2026 Division Winner - American League West - 
 

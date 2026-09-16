@@ -1,5 +1,5 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-08-31T17:27:18.302832+00:00
+Generated: 2026-09-16T20:14:48.087803+00:00
 Total bets in tracker: 1823
 
 OVERALL STATUS
@@ -106,7 +106,7 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1769 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826621_1. 2-leg parlay: ARG to advance + Sinner match ML at Wimbledon. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
 
 ==============================================================================
-TODAY AND NEAR-TERM ACTION  (local date 2026-08-31)
+TODAY AND NEAR-TERM ACTION  (local date 2026-09-16)
 ==============================================================================
 Use this section for 'what is pending today', 'what is riding this week',
 'what is my action today'. Season-long futures are listed separately below
@@ -122,6 +122,9 @@ All near-term open action (game bets + short-dated outrights): 1 bet(s), risk $5
     [1839] settles 2026-09-14 | parlay | NFL | Seahawks ML + Rams ML + Lions ML + Eagles ML | +334 | risk $500.00 | win $1,668.00 | Wagerhouse | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 
 Season-long futures (NOT today's action): 89 bet(s), risk $65,260.00. Detail: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
+
+NEEDS GRADING - 1 bet(s) whose event has already finished but are still marked pending:
+    [1839] event 2026-09-14 (2d ago) | risk $500.00 | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 
 Day-by-day near-term view: https://nritchey23-a11y.github.io/bet-tracker/today.txt and https://nritchey23-a11y.github.io/bet-tracker/action.txt
 
