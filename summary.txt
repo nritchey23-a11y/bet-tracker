@@ -1,109 +1,109 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-09-16T20:14:48.087803+00:00
-Total bets in tracker: 1823
+Generated: 2026-09-16T20:58:45.159454+00:00
+Total bets in tracker: 1901
 
 OVERALL STATUS
-  Won: 761  Lost: 935  Push: 37  Pending: 90
+  Won: 761  Lost: 935  Push: 37  Pending: 168
   Lifetime settled P&L: $13,884.94
-  Pending risk: $65,760.00   Pending max win: $102,140.07
+  Pending risk: $66,800.00   Pending max win: $120,713.97
 
 RECENT DAYS (most recent 8 with activity)
+  2026-09-11: 0W-0L  P&L: $0.00  Pending: 26 (risk $260.00, max $5,586.10)
+  2026-09-03: 0W-0L  P&L: $0.00  Pending: 52 (risk $780.00, max $12,987.80)
   2026-08-30: 2W-0L  P&L: $451.54
   2026-08-25: 0W-0L  P&L: $0.00  Pending: 3 (risk $1,650.00, max $1,800.00)
   2026-08-24: 0W-0L  P&L: $0.00  Pending: 30 (risk $21,350.00, max $32,734.00)
   2026-08-22: 0W-1L  P&L: -$200.00  Pending: 2 (risk $1,745.00, max $1,000.00)
   2026-08-18: 0W-1L  P&L: -$300.00
   2026-08-16: 0W-1L  P&L: -$278.00
-  2026-08-15: 1W-1L  P&L: $697.65
-  2026-08-02: 0W-2L  P&L: -$750.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
+  Week 2026-09-08 → 2026-09-14: 0W-0L  P&L: $0.00  Pending: 26 (risk $260.00)
+  Week 2026-09-01 → 2026-09-07: 0W-0L  P&L: $0.00  Pending: 52 (risk $780.00)
   Week 2026-08-25 → 2026-08-31: 2W-0L  P&L: $451.54  Pending: 3 (risk $1,650.00)
   Week 2026-08-18 → 2026-08-24: 0W-2L  P&L: -$500.00  Pending: 32 (risk $23,095.00)
-  Week 2026-08-11 → 2026-08-17: 1W-2L  P&L: $419.65
-  Week 2026-07-28 → 2026-08-03: 1W-4L  P&L: -$668.82
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1926 | 2026-09-11 | Football/NCAAF | RR 5-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130 | Pick: Kansas, Appalachian St, Duke, JAX State, Rutgers | Odds: +11468 | Risk $10.00 → Win $1,146.81 | Status: pending  Notes: Round Robin 5-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2, ticket #1530210997; placement date approximated to first game day
+#1925 | 2026-09-11 | Football/NCAAF | RR 4-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130 | Pick: Appalachian St, Duke, JAX State, Rutgers | Odds: +4349 | Risk $10.00 → Win $434.93 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1924 | 2026-09-11 | Football/NCAAF | RR 4-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130 | Pick: Kansas, Duke, JAX State, Rutgers | Odds: +3693 | Risk $10.00 → Win $369.28 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1923 | 2026-09-11 | Football/NCAAF | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130 | Pick: Kansas, Appalachian St, JAX State, Rutgers | Odds: +3821 | Risk $10.00 → Win $382.14 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1922 | 2026-09-11 | Football/NCAAF | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130 | Pick: Kansas, Appalachian St, Duke, Rutgers | Odds: +5281 | Risk $10.00 → Win $528.05 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1921 | 2026-09-11 | Football/NCAAF | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 | Pick: Kansas, Appalachian St, Duke, JAX State | Odds: +4930 | Risk $10.00 → Win $492.96 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1920 | 2026-09-11 | Football/NCAAF | RR 3-way: Duke ML +195 + JAX State ML +115 + Rutgers ML +130 | Pick: Duke, JAX State, Rutgers | Odds: +1359 | Risk $10.00 → Win $135.88 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1919 | 2026-09-11 | Football/NCAAF | RR 3-way: Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130 | Pick: Appalachian St, JAX State, Rutgers | Odds: +1408 | Risk $10.00 → Win $140.82 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1918 | 2026-09-11 | Football/NCAAF | RR 3-way: Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130 | Pick: Appalachian St, Duke, Rutgers | Odds: +1969 | Risk $10.00 → Win $196.94 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1917 | 2026-09-11 | Football/NCAAF | RR 3-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 | Pick: Appalachian St, Duke, JAX State | Odds: +1834 | Risk $10.00 → Win $183.45 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1916 | 2026-09-11 | Football/NCAAF | RR 3-way: Kansas ML +160 + JAX State ML +115 + Rutgers ML +130 | Pick: Kansas, JAX State, Rutgers | Odds: +1186 | Risk $10.00 → Win $118.57 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1915 | 2026-09-11 | Football/NCAAF | RR 3-way: Kansas ML +160 + Duke ML +195 + Rutgers ML +130 | Pick: Kansas, Duke, Rutgers | Odds: +1664 | Risk $10.00 → Win $166.41 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1914 | 2026-09-11 | Football/NCAAF | RR 3-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115 | Pick: Kansas, Duke, JAX State | Odds: +1549 | Risk $10.00 → Win $154.91 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1913 | 2026-09-11 | Football/NCAAF | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + Rutgers ML +130 | Pick: Kansas, Appalachian St, Rutgers | Odds: +1724 | Risk $10.00 → Win $172.39 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1912 | 2026-09-11 | Football/NCAAF | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + JAX State ML +115 | Pick: Kansas, Appalachian St, JAX State | Odds: +1605 | Risk $10.00 → Win $160.49 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1911 | 2026-09-11 | Football/NCAAF | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 | Pick: Kansas, Appalachian St, Duke | Odds: +2239 | Risk $10.00 → Win $223.94 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1910 | 2026-09-11 | Football/NCAAF | RR 2-way: JAX State ML +115 + Rutgers ML +130 | Pick: JAX State, Rutgers | Odds: +394 | Risk $10.00 → Win $39.45 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1909 | 2026-09-11 | Football/NCAAF | RR 2-way: Duke ML +195 + Rutgers ML +130 | Pick: Duke, Rutgers | Odds: +578 | Risk $10.00 → Win $57.85 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1908 | 2026-09-11 | Football/NCAAF | RR 2-way: Duke ML +195 + JAX State ML +115 | Pick: Duke, JAX State | Odds: +534 | Risk $10.00 → Win $53.43 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1907 | 2026-09-11 | Football/NCAAF | RR 2-way: Appalachian St ML +205 + Rutgers ML +130 | Pick: Appalachian St, Rutgers | Odds: +601 | Risk $10.00 → Win $60.15 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1906 | 2026-09-11 | Football/NCAAF | RR 2-way: Appalachian St ML +205 + JAX State ML +115 | Pick: Appalachian St, JAX State | Odds: +556 | Risk $10.00 → Win $55.57 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1905 | 2026-09-11 | Football/NCAAF | RR 2-way: Appalachian St ML +205 + Duke ML +195 | Pick: Appalachian St, Duke | Odds: +800 | Risk $10.00 → Win $79.98 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1904 | 2026-09-11 | Football/NCAAF | RR 2-way: Kansas ML +160 + Rutgers ML +130 | Pick: Kansas, Rutgers | Odds: +498 | Risk $10.00 → Win $49.80 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1903 | 2026-09-11 | Football/NCAAF | RR 2-way: Kansas ML +160 + JAX State ML +115 | Pick: Kansas, JAX State | Odds: +459 | Risk $10.00 → Win $45.90 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1902 | 2026-09-11 | Football/NCAAF | RR 2-way: Kansas ML +160 + Duke ML +195 | Pick: Kansas, Duke | Odds: +667 | Risk $10.00 → Win $66.70 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1901 | 2026-09-11 | Football/NCAAF | RR 2-way: Kansas ML +160 + Appalachian St ML +205 | Pick: Kansas, Appalachian St | Odds: +693 | Risk $10.00 → Win $69.30 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day
+#1900 | 2026-09-03 | Football/NCAAF | RR 5-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Louisville ML +220 + Hawaii ML +125 | Pick: Colorado, Clemson, California, Louisville, Hawaii | Odds: +17833 | Risk $10.00 → Win $1,783.34 | Status: pending  Notes: Round Robin 5-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1899 | 2026-09-03 | Football/NCAAF | RR 4-way: Clemson ML +305 + California ML +105 + Louisville ML +220 + Hawaii ML +125 | Pick: Clemson, California, Louisville, Hawaii | Odds: +5878 | Risk $10.00 → Win $587.78 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1898 | 2026-09-03 | Football/NCAAF | RR 4-way: Colorado ML +200 + California ML +105 + Louisville ML +220 + Hawaii ML +125 | Pick: Colorado, California, Louisville, Hawaii | Odds: +4328 | Risk $10.00 → Win $432.80 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1897 | 2026-09-03 | Football/NCAAF | RR 4-way: Colorado ML +200 + Clemson ML +305 + Louisville ML +220 + Hawaii ML +125 | Pick: Colorado, Clemson, Louisville, Hawaii | Odds: +8648 | Risk $10.00 → Win $864.80 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1896 | 2026-09-03 | Football/NCAAF | RR 4-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Hawaii ML +125 | Pick: Colorado, Clemson, California, Hawaii | Odds: +5504 | Risk $10.00 → Win $550.42 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1895 | 2026-09-03 | Football/NCAAF | RR 4-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Louisville ML +220 | Pick: Colorado, Clemson, California, Louisville | Odds: +7870 | Risk $10.00 → Win $787.04 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1894 | 2026-09-03 | Football/NCAAF | RR 3-way: California ML +105 + Louisville ML +220 + Hawaii ML +125 | Pick: California, Louisville, Hawaii | Odds: +1376 | Risk $10.00 → Win $137.60 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1893 | 2026-09-03 | Football/NCAAF | RR 3-way: Clemson ML +305 + Louisville ML +220 + Hawaii ML +125 | Pick: Clemson, Louisville, Hawaii | Odds: +2816 | Risk $10.00 → Win $281.60 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1892 | 2026-09-03 | Football/NCAAF | RR 3-way: Clemson ML +305 + California ML +105 + Hawaii ML +125 | Pick: Clemson, California, Hawaii | Odds: +1768 | Risk $10.00 → Win $176.81 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1891 | 2026-09-03 | Football/NCAAF | RR 3-way: Clemson ML +305 + California ML +105 + Louisville ML +220 | Pick: Clemson, California, Louisville | Odds: +2557 | Risk $10.00 → Win $255.68 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1890 | 2026-09-03 | Football/NCAAF | RR 3-way: Colorado ML +200 + Louisville ML +220 + Hawaii ML +125 | Pick: Colorado, Louisville, Hawaii | Odds: +2060 | Risk $10.00 → Win $206.00 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1889 | 2026-09-03 | Football/NCAAF | RR 3-way: Colorado ML +200 + California ML +105 + Hawaii ML +125 | Pick: Colorado, California, Hawaii | Odds: +1284 | Risk $10.00 → Win $128.38 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1888 | 2026-09-03 | Football/NCAAF | RR 3-way: Colorado ML +200 + California ML +105 + Louisville ML +220 | Pick: Colorado, California, Louisville | Odds: +1868 | Risk $10.00 → Win $186.80 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1887 | 2026-09-03 | Football/NCAAF | RR 3-way: Colorado ML +200 + Clemson ML +305 + Hawaii ML +125 | Pick: Colorado, Clemson, Hawaii | Odds: +2634 | Risk $10.00 → Win $263.38 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1886 | 2026-09-03 | Football/NCAAF | RR 3-way: Colorado ML +200 + Clemson ML +305 + Louisville ML +220 | Pick: Colorado, Clemson, Louisville | Odds: +3788 | Risk $10.00 → Win $378.80 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1885 | 2026-09-03 | Football/NCAAF | RR 3-way: Colorado ML +200 + Clemson ML +305 + California ML +105 | Pick: Colorado, Clemson, California | Odds: +2391 | Risk $10.00 → Win $239.07 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1884 | 2026-09-03 | Football/NCAAF | RR 2-way: Louisville ML +220 + Hawaii ML +125 | Pick: Louisville, Hawaii | Odds: +620 | Risk $10.00 → Win $62.00 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1883 | 2026-09-03 | Football/NCAAF | RR 2-way: California ML +105 + Hawaii ML +125 | Pick: California, Hawaii | Odds: +361 | Risk $10.00 → Win $36.12 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1882 | 2026-09-03 | Football/NCAAF | RR 2-way: California ML +105 + Louisville ML +220 | Pick: California, Louisville | Odds: +556 | Risk $10.00 → Win $55.60 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1881 | 2026-09-03 | Football/NCAAF | RR 2-way: Clemson ML +305 + Hawaii ML +125 | Pick: Clemson, Hawaii | Odds: +811 | Risk $10.00 → Win $81.12 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1880 | 2026-09-03 | Football/NCAAF | RR 2-way: Clemson ML +305 + Louisville ML +220 | Pick: Clemson, Louisville | Odds: +1196 | Risk $10.00 → Win $119.60 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1879 | 2026-09-03 | Football/NCAAF | RR 2-way: Clemson ML +305 + California ML +105 | Pick: Clemson, California | Odds: +730 | Risk $10.00 → Win $73.02 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1878 | 2026-09-03 | Football/NCAAF | RR 2-way: Colorado ML +200 + Hawaii ML +125 | Pick: Colorado, Hawaii | Odds: +575 | Risk $10.00 → Win $57.50 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1877 | 2026-09-03 | Football/NCAAF | RR 2-way: Colorado ML +200 + Louisville ML +220 | Pick: Colorado, Louisville | Odds: +860 | Risk $10.00 → Win $86.00 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1876 | 2026-09-03 | Football/NCAAF | RR 2-way: Colorado ML +200 + California ML +105 | Pick: Colorado, California | Odds: +515 | Risk $10.00 → Win $51.50 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1875 | 2026-09-03 | Football/NCAAF | RR 2-way: Colorado ML +200 + Clemson ML +305 | Pick: Colorado, Clemson | Odds: +1115 | Risk $10.00 → Win $111.50 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1874 | 2026-09-03 | Football/NCAAF | RR 5-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + Nevada ML +115 + SMU ML -160 | Pick: San Jose St, Wyoming, California, Nevada, SMU | Odds: +3939 | Risk $20.00 → Win $787.89 | Status: pending  Notes: Round Robin 5-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1873 | 2026-09-03 | Football/NCAAF | RR 4-way: Wyoming ML +140 + California ML +105 + Nevada ML +115 + SMU ML -160 | Pick: Wyoming, California, Nevada, SMU | Odds: +1619 | Risk $20.00 → Win $323.78 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1872 | 2026-09-03 | Football/NCAAF | RR 4-way: San Jose St ML +135 + California ML +105 + Nevada ML +115 + SMU ML -160 | Pick: San Jose St, California, Nevada, SMU | Odds: +1583 | Risk $20.00 → Win $316.62 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1871 | 2026-09-03 | Football/NCAAF | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115 + SMU ML -160 | Pick: San Jose St, Wyoming, Nevada, SMU | Odds: +1870 | Risk $20.00 → Win $374.10 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1870 | 2026-09-03 | Football/NCAAF | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + SMU ML -160 | Pick: San Jose St, Wyoming, California, SMU | Odds: +1779 | Risk $20.00 → Win $355.76 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1869 | 2026-09-03 | Football/NCAAF | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + Nevada ML +115 | Pick: San Jose St, Wyoming, California, Nevada | Odds: +2386 | Risk $20.00 → Win $477.17 | Status: pending  Notes: Round Robin 4-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1868 | 2026-09-03 | Football/NCAAF | RR 3-way: California ML +105 + Nevada ML +115 + SMU ML -160 | Pick: California, Nevada, SMU | Odds: +616 | Risk $20.00 → Win $123.24 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1867 | 2026-09-03 | Football/NCAAF | RR 3-way: Wyoming ML +140 + Nevada ML +115 + SMU ML -160 | Pick: Wyoming, Nevada, SMU | Odds: +738 | Risk $20.00 → Win $147.70 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1866 | 2026-09-03 | Football/NCAAF | RR 3-way: Wyoming ML +140 + California ML +105 + SMU ML -160 | Pick: Wyoming, California, SMU | Odds: +699 | Risk $20.00 → Win $139.90 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1865 | 2026-09-03 | Football/NCAAF | RR 3-way: Wyoming ML +140 + California ML +105 + Nevada ML +115 | Pick: Wyoming, California, Nevada | Odds: +958 | Risk $20.00 → Win $191.56 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1864 | 2026-09-03 | Football/NCAAF | RR 3-way: San Jose St ML +135 + Nevada ML +115 + SMU ML -160 | Pick: San Jose St, Nevada, SMU | Odds: +721 | Risk $20.00 → Win $144.21 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1863 | 2026-09-03 | Football/NCAAF | RR 3-way: San Jose St ML +135 + California ML +105 + SMU ML -160 | Pick: San Jose St, California, SMU | Odds: +683 | Risk $20.00 → Win $136.57 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1862 | 2026-09-03 | Football/NCAAF | RR 3-way: San Jose St ML +135 + California ML +105 + Nevada ML +115 | Pick: San Jose St, California, Nevada | Odds: +936 | Risk $20.00 → Win $187.15 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1861 | 2026-09-03 | Football/NCAAF | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + SMU ML -160 | Pick: San Jose St, Wyoming, SMU | Odds: +816 | Risk $20.00 → Win $163.30 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1860 | 2026-09-03 | Football/NCAAF | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115 | Pick: San Jose St, Wyoming, Nevada | Odds: +1113 | Risk $20.00 → Win $222.52 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1859 | 2026-09-03 | Football/NCAAF | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 | Pick: San Jose St, Wyoming, California | Odds: +1056 | Risk $20.00 → Win $211.24 | Status: pending  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1858 | 2026-09-03 | Football/NCAAF | RR 2-way: Nevada ML +115 + SMU ML -160 | Pick: Nevada, SMU | Odds: +249 | Risk $20.00 → Win $49.88 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1857 | 2026-09-03 | Football/NCAAF | RR 2-way: California ML +105 + SMU ML -160 | Pick: California, SMU | Odds: +233 | Risk $20.00 → Win $46.62 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1856 | 2026-09-03 | Football/NCAAF | RR 2-way: California ML +105 + Nevada ML +115 | Pick: California, Nevada | Odds: +341 | Risk $20.00 → Win $68.15 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1855 | 2026-09-03 | Football/NCAAF | RR 2-way: Wyoming ML +140 + SMU ML -160 | Pick: Wyoming, SMU | Odds: +290 | Risk $20.00 → Win $58.00 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1854 | 2026-09-03 | Football/NCAAF | RR 2-way: Wyoming ML +140 + Nevada ML +115 | Pick: Wyoming, Nevada | Odds: +416 | Risk $20.00 → Win $83.20 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1853 | 2026-09-03 | Football/NCAAF | RR 2-way: Wyoming ML +140 + California ML +105 | Pick: Wyoming, California | Odds: +392 | Risk $20.00 → Win $78.40 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1852 | 2026-09-03 | Football/NCAAF | RR 2-way: San Jose St ML +135 + SMU ML -160 | Pick: San Jose St, SMU | Odds: +282 | Risk $20.00 → Win $56.38 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1851 | 2026-09-03 | Football/NCAAF | RR 2-way: San Jose St ML +135 + Nevada ML +115 | Pick: San Jose St, Nevada | Odds: +405 | Risk $20.00 → Win $81.05 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1850 | 2026-09-03 | Football/NCAAF | RR 2-way: San Jose St ML +135 + California ML +105 | Pick: San Jose St, California | Odds: +382 | Risk $20.00 → Win $76.35 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
+#1849 | 2026-09-03 | Football/NCAAF | RR 2-way: San Jose St ML +135 + Wyoming ML +140 | Pick: San Jose St, Wyoming | Odds: +464 | Risk $20.00 → Win $92.80 | Status: pending  Notes: Round Robin 2-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 1; placement date approximated to first game day
 #1848 | 2026-08-30 | Golf/PGA Tour | Tournament Outright Winner: Scottie Scheffler | Pick: Scottie Scheffler | Odds: -150 | Risk $500.00 → Win $333.33 | Status: won  P&L: $333.33  Notes: GameDayWagers contest ticket #436002556-1. Placed 08/30/2026 14:16. Separate ticket from #436002586-1 at a different price (-150 vs -141). Graded won: Scheffler won the 2026 Tour Championship at East Lake on 2026-08-30 at 16 under, by three shots over Hovland. Settled 2026-08-31 during stale-pending audit.
 #1847 | 2026-08-30 | Golf/PGA Tour | Tournament Outright Winner: Scottie Scheffler | Pick: Scottie Scheffler | Odds: -141 | Risk $166.67 → Win $118.21 | Status: won  P&L: $118.21  Notes: GameDayWagers contest ticket #436002586-1. Placed 08/30/2026 14:16. Graded won: Scheffler won the 2026 Tour Championship at East Lake on 2026-08-30 at 16 under, by three shots over Hovland. Settled 2026-08-31 during stale-pending audit.
-#1846 | 2026-08-22 | Baseball/MLB | 4-leg parlay: D. Peterson O4.5 Ks + K. Anderson O5.5 Ks + 1st Inning DRAW + SEA +1.5 | Pick: Peterson O4.5 Ks + Anderson O5.5 Ks + 1st Inn DRAW + SEA +1.5 | Odds:  | Risk $200.00 → Win $0.00 | Status: lost  P&L: -$200.00  Notes: GameDayWagers ticket #435430288_1. 4-leg CHC @ SEA parlay, game 08/22/2026 06:21 PM. Won/Lost field: -200.0 (graded lost -$200). Leg prices not shown on slip — combined odds and To Win unavailable, not inferred.
-#1845 | 2026-08-18 | Baseball/MLB | 2-leg parlay: LAD -1.5 -129 + SEA ML +152 | Pick: LAD -1.5 + SEA ML | Odds: +347 | Risk $300.00 → Win $1,042.05 | Status: lost  P&L: -$300.00  Notes: GameDayWagers. 2-leg MLB parlay, BOTH legs lost. Leg 1: LAD -1.5 -129 (Lauer/Feltner must start) vs COL - Loss. Leg 2: SEA ML +152 (Miller/Harrison action) vs MIL - Loss. Won/Lost field: -300.0. Combined +347 computed from legs.
-#1844 | 2026-08-25 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Washington State (FLEX WEEK INCLUDED) - Over 5.5 | Pick: Washington State Over 5.5 | Odds: +145 | Risk $500.00 → Win $725.00 | Status: pending  Notes: GameDayWagers contest ticket #435608643-1. Placed 08/25/2026 12:25. FLEX WEEK INCLUDED. Pending end of CFB 2026-27 regular season.
-#1843 | 2026-08-25 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props San Diego State (FLEX WEEK INCLUDED) - Over 6.5 | Pick: San Diego State Over 6.5 | Odds: -130 | Risk $650.00 → Win $500.00 | Status: pending  Notes: GameDayWagers contest ticket #435608644-1. Placed 08/25/2026 12:25. FLEX WEEK INCLUDED. Pending end of CFB 2026-27 regular season.
-#1842 | 2026-08-25 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Ohio - Under 6.5 | Pick: Ohio Under 6.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: Wagerhouse pending. Ohio Bobcats (not Ohio State). Pending end of CFB 2026-27 regular season.
-#1841 | 2026-08-22 | Football/NCAAF | NCAA FB 26/27 - Conference Championship Winner - ACC - Miami Hurricanes | Pick: Miami Hurricanes | Odds: -149 | Risk $745.00 → Win $500.00 | Status: pending  Notes: GameDayWagers contest ticket #435423893-1. Placed 08/22/2026 16:15. Pending 2026 ACC Championship Game.
-#1840 | 2026-08-22 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Buffalo - Under 6.5 | Pick: Buffalo Under 6.5 | Odds: -200 | Risk $1,000.00 → Win $500.00 | Status: pending  Notes: GameDayWagers contest ticket #435424278-1. Placed 08/22/2026 16:25. Pending end of CFB 2026-27 regular season.
-#1839 | 2026-08-24 | Football/NFL | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220 | Pick: Seahawks ML + Rams ML + Lions ML + Eagles ML | Odds: +334 | Risk $500.00 → Win $1,668.00 | Status: pending  Notes: Wagerhouse pending. 4-team NFL ML parlay: SEA -195, LAR -195, DET -330, PHI -220. Combined ~+334, profit $1,668 on $500 stake (total return $2,168).
-#1838 | 2026-08-24 | Football/NFL | NFL 26/27 - Regular Season Wins - Props SEA Seahawks - Over 11.5 (Alt) | Pick: Seattle Seahawks Over 11.5 Alt | Odds: +150 | Risk $500.00 → Win $750.00 | Status: pending  Notes: Wagerhouse pending. Alternate line — separate ticket from Over 10.5 -130 position. Pending end of NFL 2026-27 regular season.
-#1837 | 2026-08-24 | Baseball/MLB | MLB 2026 AL Pennant Winner - Seattle Mariners | Pick: Seattle Mariners | Odds: +1200 | Risk $250.00 → Win $3,000.00 | Status: pending  Notes: Wagerhouse pending. Pending 2026 ALCS.
-#1836 | 2026-08-24 | Baseball/MLB | MLB 2026 World Series Winner - Seattle Mariners | Pick: Seattle Mariners | Odds: +3500 | Risk $250.00 → Win $8,750.00 | Status: pending  Notes: Wagerhouse pending. Pending 2026 World Series.
-#1835 | 2026-08-24 | Auto Racing/F1 | F1 2026 Drivers Championship - Kimi Antonelli | Pick: Kimi Antonelli | Odds: -450 | Risk $4,500.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse pending. Pending end of 2026 F1 season.
-#1834 | 2026-08-24 | Auto Racing/F1 | F1 2026 Drivers Championship - George Russell | Pick: George Russell | Odds: +2000 | Risk $250.00 → Win $5,000.00 | Status: pending  Notes: Wagerhouse pending. Pending end of 2026 F1 season.
-#1833 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Conference Championship Winner - ACC - Miami (FL) | Pick: Miami (FL) | Odds: -165 | Risk $825.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending 2026 ACC Championship Game.
-#1832 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Southern Miss - Under 3.5 | Pick: Southern Miss Under 3.5 | Odds: +105 | Risk $500.00 → Win $525.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1831 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Army - Under 7.5 | Pick: Army Under 7.5 | Odds: +110 | Risk $500.00 → Win $550.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1830 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Auburn - Over 6.5 | Pick: Auburn Over 6.5 | Odds: -125 | Risk $625.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1829 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Baylor - Under 6.5 | Pick: Baylor Under 6.5 | Odds: -160 | Risk $800.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1828 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Boise State - Over 8 | Pick: Boise State Over 8 | Odds: -130 | Risk $650.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1827 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Clemson - Under 7.5 | Pick: Clemson Under 7.5 | Odds: +125 | Risk $500.00 → Win $625.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1826 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Colorado State - Over 3.5 | Pick: Colorado State Over 3.5 | Odds: -145 | Risk $725.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1825 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Colorado - Over 4.5 | Pick: Colorado Over 4.5 | Odds: +130 | Risk $500.00 → Win $650.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1824 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Fresno State - Under 7.5 | Pick: Fresno State Under 7.5 | Odds: -165 | Risk $825.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1823 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Florida Atlantic - Over 5.5 | Pick: Florida Atlantic Over 5.5 | Odds: -160 | Risk $800.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1822 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Georgia Tech - Under 6.5 | Pick: Georgia Tech Under 6.5 | Odds: -135 | Risk $675.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1821 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Iowa - Under 7.5 | Pick: Iowa Under 7.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1820 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Michigan State - Under 4 | Pick: Michigan State Under 4 | Odds: -120 | Risk $500.00 → Win $416.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1819 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Navy - Under 7.5 | Pick: Navy Under 7.5 | Odds: +150 | Risk $400.00 → Win $600.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1818 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props North Texas - Over 5.5 | Pick: North Texas Over 5.5 | Odds: -115 | Risk $575.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1817 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Sacramento State - Under 4.5 | Pick: Sacramento State Under 4.5 | Odds: -110 | Risk $550.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1816 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Southern Miss - Under 3.5 | Pick: Southern Miss Under 3.5 | Odds: +100 | Risk $500.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1815 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Texas State - Over 6.5 | Pick: Texas State Over 6.5 | Odds: +125 | Risk $500.00 → Win $625.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1814 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Tulsa - Over 5.5 | Pick: Tulsa Over 5.5 | Odds: -130 | Risk $650.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1813 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props UCLA - Over 6.5 | Pick: UCLA Over 6.5 | Odds: -105 | Risk $525.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1812 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Connecticut - Under 5.5 | Pick: Connecticut Under 5.5 | Odds: -130 | Risk $650.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1811 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Massachusetts - Over 2.5 | Pick: Massachusetts Over 2.5 | Odds: -200 | Risk $1,000.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1810 | 2026-08-24 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Western Michigan - Under 7.5 | Pick: Western Michigan Under 7.5 | Odds: -165 | Risk $825.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1809 | 2026-08-16 | Golf/PGA Tour | R4 H2H: Im > S.W. Kim | Pick: Sungjae Im | Odds: +140 | Risk $278.00 → Win $389.20 | Status: lost  P&L: -$278.00  Notes: Wagerhouse ticket 1515405977. R4 matchups selection 7448. LOST: Si Woo Kim shot bogey-free 68 (finished solo 2nd, -9); Sungjae Im shot 74 (T5, -7). Graded lost -$278.
-#1808 | 2026-08-15 | MMA/UFC | 3-team ML parlay: M. Dern -195 + I. Makhachev -350 + E. Ribovics -770 | Pick: Dern ML + Makhachev ML + Ribovics ML | Odds: +120 | Risk $1,000.00 → Win $1,197.65 | Status: won  P&L: $1,197.65  Notes: Wagerhouse. 3-leg UFC 330 ML parlay, all legs won: Dern def. Robertson (UD), Makhachev def. Machado Garry (UD), Ribovics def. Barboza (TKO R2). $1,000 risk back-calculated from +120 combined odds / $1,197.65 profit. Reconciles to Wagerhouse 8/15 day total +$697.65.
-#1807 | 2026-08-15 | MMA/UFC | 4-team ML parlay: M. Orolbai -1310 + M. Dern -195 + I. Makhachev -350 + E. Ribovics -780 | Pick: Orolbai ML + Dern ML + Makhachev ML + Ribovics ML | Odds: +136 | Risk $500.00 → Win $680.97 | Status: lost  P&L: -$500.00  Notes: Wagerhouse. 4-leg UFC 330 ML parlay. LOST on Orolbai leg only (-1310) — Jeremiah Wells beat Myktybek Orolbai by technical submission (ninja choke) R3 1:24. Other 3 legs all won (Dern, Makhachev, Ribovics). Combined odds +136 computed from legs.
-#1806 | 2026-08-02 | Golf/PGA Tour | Tournament Outright Winner: Rasmus Hojgaard | Pick: Rasmus Hojgaard | Odds: +315 | Risk $250.00 → Win $787.50 | Status: lost  P&L: -$250.00  Notes: GameDayWagers ticket 434129988-1. Placed 08/02/2026 16:07. Graded lost -$250 (Paid: -250).
-#1805 | 2026-08-02 | Golf/PGA Tour | Tournament Outright Winner: Cameron Young | Pick: Cameron Young | Odds: +370 | Risk $500.00 → Win $1,850.00 | Status: lost  P&L: -$500.00  Notes: Wagerhouse ticket G306917826. Graded lost -$500.
-#1804 | 2026-08-01 | MMA/UFC | 3-team ML parlay: M. Oliveira -360 + U. Medic -380 + A. Rakic -360 | Pick: Oliveira ML + Medic ML + Rakic ML | Odds: +106 | Risk $500.00 → Win $531.18 | Status: won  P&L: $531.18  Notes: Wagerhouse. 3-leg UFC ML parlay, all three legs won. Combined odds +106 back-calculated from $500 risk / $531.18 profit.
-#1803 | 2026-07-30 | Baseball/MLB | Junior Caminero (TB) Over 0.5 Hits — 1st Half (5 innings) result | Pick: Caminero O0.5 Hits 1H | Odds: -110 | Risk $200.00 → Win $181.82 | Status: lost  P&L: -$200.00  Notes: Wagerhouse ticket 394704239. Graded lost -$200. Odds marked -110 (odds not shown on slip).
-#1802 | 2026-07-28 | Baseball/MLB | 2-leg: Luis Castillo Under 4.5 Ks + LAD ML | Pick: Castillo U4.5 Ks (-124) + LAD ML | Odds: +150 | Risk $250.00 → Win $377.50 | Status: lost  P&L: -$250.00  Notes: Wagerhouse. 2-leg parlay submitted 7/28 10:28 AM PT. $250 risk, $377.50 profit if won ($627.50 total return). Graded lost: LAD ML leg lost - SEA beat LAD 7-6 at Dodger Stadium on 2026-07-28 (ESPN final). One dead leg settles the parlay; the Castillo U4.5 Ks leg is unverified because ESPN no longer serves player stats for that date. Settled 2026-08-31 during stale-pending audit.
-#1801 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props UConn - Under 5.5 | Pick: UConn Under 5.5 | Odds: +115 | Risk $500.00 → Win $575.00 | Status: pending  Notes: GameDayWagers contest ticket #433700356_1. Pending end of CFB 2026-27 regular season.
-#1800 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props James Madison - Under 8.5 | Pick: James Madison Under 8.5 | Odds: +125 | Risk $250.00 → Win $312.50 | Status: pending  Notes: GameDayWagers contest ticket #433700357_1. Pending end of CFB 2026-27 regular season.
-#1799 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Missouri - Under 6.5 | Pick: Missouri Under 6.5 | Odds: +105 | Risk $250.00 → Win $262.50 | Status: pending  Notes: GameDayWagers contest ticket #433700358_1. Pending end of CFB 2026-27 regular season.
-#1798 | 2026-07-26 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Props Texas AM - Under 8.5 | Pick: Texas A&M Under 8.5 | Odds: -120 | Risk $100.00 → Win $83.33 | Status: pending  Notes: GameDayWagers contest ticket #433700359_1. Pending end of CFB 2026-27 regular season.
-#1797 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Cowboys - Under 9.5 | Pick: DAL Under 9.5 | Odds: -115 | Risk $1,150.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
-#1796 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Lions - Over 10.5 | Pick: DET Over 10.5 | Odds: -125 | Risk $1,250.00 → Win $1,000.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
-#1795 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Jaguars - Over 9.5 | Pick: JAX Over 9.5 | Odds: +120 | Risk $1,000.00 → Win $1,200.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
-#1794 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Chargers - Over 10.5 | Pick: LAC Over 10.5 | Odds: +120 | Risk $500.00 → Win $600.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
-#1793 | 2026-07-27 | Football/NFL | NFL 26/27 - Regular Season Wins - Giants - Over 7.5 | Pick: NYG Over 7.5 | Odds: -110 | Risk $550.00 → Win $500.00 | Status: pending  Notes: Wagerhouse pending. Pending end of NFL 2026-27 regular season.
-#1792 | 2026-07-27 | Football/NFL | Odds to win Division of Super Bowl Winner - NFC West | Pick: NFC West | Odds: +285 | Risk $1,000.00 → Win $2,850.00 | Status: pending  Notes: Wagerhouse pending. Pending end of Super Bowl LXI (2026-27 NFL season).
-#1791 | 2026-07-27 | Football/NCAAF | Odds to win Big 12 Championship Game - BYU | Pick: BYU | Odds: +750 | Risk $300.00 → Win $2,250.00 | Status: pending  Notes: Wagerhouse pending. Pending 2026-27 Big 12 Championship Game.
-#1790 | 2026-07-27 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - James Madison - Under 8.5 | Pick: James Madison Under 8.5 | Odds: +115 | Risk $250.00 → Win $287.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1789 | 2026-07-27 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Missouri - Under 6.5 | Pick: Missouri Under 6.5 | Odds: -110 | Risk $275.00 → Win $250.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1788 | 2026-07-27 | Football/NCAAF | NCAA FB 26/27 - Regular Season Wins - Texas A&M - Under 8.5 | Pick: Texas A&M Under 8.5 | Odds: -115 | Risk $500.00 → Win $434.00 | Status: pending  Notes: Wagerhouse pending. Pending end of CFB 2026-27 regular season.
-#1787 | 2026-07-26 | Golf/PGA Tour | Jackson Koivun to win 3M Open | Pick: Jackson Koivun | Odds: -835 | Risk $1,500.00 → Win $179.64 | Status: won  P&L: $179.64  Notes: Wagerhouse ticket #G306282450. Heavy chalk outright at 3M Open — won.
-#1786 | 2026-07-19 | Golf/PGA Tour | Ryan Fox to win 2026 Open Championship | Pick: Ryan Fox | Odds: +305 | Risk $1,500.00 → Win $4,575.00 | Status: won  P&L: $4,575.00  Notes: Wagerhouse ticket #G305520772. Open Championship outright. Fox won — biggest cash of the stretch.
-#1785 | 2026-07-19 | Golf/PGA Tour | Cameron Young to win 2026 Open Championship | Pick: Cameron Young | Odds: +105 | Risk $2,000.00 → Win $2,100.00 | Status: lost  P&L: -$2,000.00  Notes: Wagerhouse ticket #G305520501. Open Championship outright. Fox won.
-#1784 | 2026-07-19 | Golf/PGA Tour | Si Woo Kim to win 2026 Open Championship | Pick: Si Woo Kim | Odds: +105 | Risk $500.00 → Win $525.00 | Status: lost  P&L: -$500.00  Notes: Wagerhouse ticket #G305506219. Open Championship outright. Fox won.
-#1783 | 2026-07-17 | Golf/PGA Tour | Jordan Spieth 2nd Round Under 70.5 | Pick: Spieth 2R Under 70.5 | Odds: -110 | Risk $220.00 → Win $200.00 | Status: lost  P&L: -$220.00  Notes: Wagerhouse ticket (Spieth 2R prop). Round-2 total strokes prop.
-#1782 | 2026-07-10 | Multi/Multi | 2-leg: TB ML 1st 5 innings -120 + ESP advance | Pick: TB ML 1st 5 + ESP advance | Odds:  | Risk $150.00 → Win $213.71 | Status: won  P&L: $213.71  Notes: Wagerhouse ticket (unnamed). 2-leg parlay: TB ML 1st 5 innings -120 + ESP to advance. Stake estimated from typical closing odds (actual Wagerhouse stake not recovered); profit +$213.71 confirmed from ticket display.
-#1781 | 2026-07-09 | Multi/Multi | 3-leg: Luzardo Over 7.5 Ks + FRA advance + PHI ML | Pick: Luzardo O7.5 Ks + FRA advance + PHI ML | Odds:  | Risk $100.00 → Win $247.00 | Status: won  P&L: $247.00  Notes: Wagerhouse ticket #393810672. 3-leg parlay: Luzardo strikeout prop + FRA to advance + PHI ML. Stake estimated from typical closing odds (actual Wagerhouse stake not recovered); profit +$247 confirmed from ticket display.
-#1780 | 2026-07-09 | Multi/Multi | 3-leg: Eovaldi Over 6.5 Ks + FRA advance + TEX -1.5 | Pick: Eovaldi O6.5 Ks + FRA advance + TEX -1.5 | Odds:  | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse ticket #393810229. 3-leg parlay: Eovaldi strikeout prop + FRA to advance + TEX run line.
-#1779 | 2026-07-03 | Multi/Multi | 5-leg: LAD -1.5 + ARG HT/FT + COL ML + WC BTTS | Pick: LAD -1.5 + ARG HT/FT + COL ML + BTTS legs | Odds:  | Risk $100.00 → Win $0.00 | Status: lost  P&L: -$100.00  Notes: Wagerhouse ticket #393316703. 5-leg parlay: LAD -1.5 + ARG HT/FT + COL ML + WC BTTS markets.
-#1778 | 2026-07-03 | Soccer/FIFA | 5-leg: SUI/DZA BTTS + FRA/MRC/USA advance | Pick: SUI/DZA BTTS + FRA/MRC/USA advance | Odds:  | Risk $150.00 → Win $0.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse ticket #393270984. 5-leg WC parlay.
-#1777 | 2026-07-03 | Soccer/FIFA | 5-leg WC advance/BTTS parlay | Pick: ESP/PRT/HRV/SUI/DZA/ARG mix | Odds:  | Risk $150.00 → Win $0.00 | Status: lost  P&L: -$150.00  Notes: Wagerhouse ticket #393201042. 5-leg WC parlay across advance markets and BTTS.
-#1776 | 2026-06-30 | Baseball/MLB | LAA +0.5 (1st 5 innings) -121 | Pick: LAA +0.5 (1st 5) | Odds: -121 | Risk $121.00 → Win $100.00 | Status: won  P&L: $100.00  Notes: Wagerhouse ticket #G303196491. 1st-half run line.
-#1775 | 2026-07-18 | Multi/Multi | 2-leg: ARG lift trophy + SF/SEA 1st inning Draw (duplicate) | Pick: ARG win WC + SF/SEA 1I Draw | Odds:  | Risk $115.00 → Win $0.00 | Status: lost  P&L: -$115.00  Notes: GameDayWagers ticket #433205825_1. Duplicate 2-leg parlay: ARG to win WC + SF/SEA 1st inning draw.
-#1774 | 2026-07-18 | Multi/Multi | 2-leg: ARG lift trophy + SF/SEA 1st inning Draw | Pick: ARG win WC + SF/SEA 1I Draw | Odds:  | Risk $400.00 → Win $0.00 | Status: lost  P&L: -$400.00  Notes: GameDayWagers ticket #433205774_1. 2-leg parlay: ARG to win WC + SF/SEA 1st inning draw.
-#1773 | 2026-07-15 | Soccer/FIFA | 2-leg: ENG/ARG BTTS + ENG advance | Pick: ENG/ARG BTTS + ENG advance | Odds:  | Risk $200.00 → Win $0.00 | Status: lost  P&L: -$200.00  Notes: GameDayWagers ticket #433029533_1. 2-leg WC parlay: ENG/ARG BTTS + ENG to advance.
-#1772 | 2026-07-14 | Soccer/FIFA | 3-leg: FRA advance + FRA/ESP BTTS + ENG advance | Pick: FRA advance + FRA/ESP BTTS + ENG advance | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432945447_1. 3-leg WC parlay: FRA to advance + FRA/ESP BTTS + ENG to advance.
-#1771 | 2026-07-14 | Multi/Multi | 4-leg: FRA advance + FRA/ESP BTTS + ENG advance + ASG 1st inning Draw | Pick: FRA advance + FRA/ESP BTTS + ENG advance + ASG 1I Draw | Odds:  | Risk $125.00 → Win $0.00 | Status: lost  P&L: -$125.00  Notes: GameDayWagers ticket #432945417_1. 4-leg parlay: FRA to advance + FRA/ESP BTTS + ENG to advance + MLB All-Star Game 1st inning draw.
-#1770 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML (duplicate ticket) | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826632_1. Duplicate 2-leg parlay: ARG to advance + Sinner match ML. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
-#1769 | 2026-07-11 | Multi/Multi | 2-leg: ARG advance + Sinner ML | Pick: ARG advance + Sinner match ML | Odds:  | Risk $450.00 → Win $295.00 | Status: won  P&L: $295.00  Notes: GameDayWagers ticket #432826621_1. 2-leg parlay: ARG to advance + Sinner match ML at Wimbledon. Stake estimated from typical closing odds (actual GDW stake not recovered); profit +$295 confirmed from ticket display.
 
 ==============================================================================
 TODAY AND NEAR-TERM ACTION  (local date 2026-09-16)
@@ -118,12 +118,168 @@ Settling today: 0 bet(s), risk $0.00, max win $0.00
 Settling in the next 7 days: 0 bet(s), risk $0.00
     (nothing scheduled)
 
-All near-term open action (game bets + short-dated outrights): 1 bet(s), risk $500.00, max win $1,668.00
+All near-term open action (game bets + short-dated outrights): 79 bet(s), risk $1,540.00, max win $20,241.90
+    [1849] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming | +464 | risk $20.00 | win $92.80 | Wagerhouse | RR 2-way: San Jose St ML +135 + Wyoming ML +140
+    [1850] settles 2026-09-03 | parlay | NCAAF | San Jose St, California | +382 | risk $20.00 | win $76.35 | Wagerhouse | RR 2-way: San Jose St ML +135 + California ML +105
+    [1851] settles 2026-09-03 | parlay | NCAAF | San Jose St, Nevada | +405 | risk $20.00 | win $81.05 | Wagerhouse | RR 2-way: San Jose St ML +135 + Nevada ML +115
+    [1852] settles 2026-09-03 | parlay | NCAAF | San Jose St, SMU | +282 | risk $20.00 | win $56.38 | Wagerhouse | RR 2-way: San Jose St ML +135 + SMU ML -160
+    [1853] settles 2026-09-03 | parlay | NCAAF | Wyoming, California | +392 | risk $20.00 | win $78.40 | Wagerhouse | RR 2-way: Wyoming ML +140 + California ML +105
+    [1854] settles 2026-09-03 | parlay | NCAAF | Wyoming, Nevada | +416 | risk $20.00 | win $83.20 | Wagerhouse | RR 2-way: Wyoming ML +140 + Nevada ML +115
+    [1855] settles 2026-09-03 | parlay | NCAAF | Wyoming, SMU | +290 | risk $20.00 | win $58.00 | Wagerhouse | RR 2-way: Wyoming ML +140 + SMU ML -160
+    [1856] settles 2026-09-03 | parlay | NCAAF | California, Nevada | +341 | risk $20.00 | win $68.15 | Wagerhouse | RR 2-way: California ML +105 + Nevada ML +115
+    [1857] settles 2026-09-03 | parlay | NCAAF | California, SMU | +233 | risk $20.00 | win $46.62 | Wagerhouse | RR 2-way: California ML +105 + SMU ML -160
+    [1858] settles 2026-09-03 | parlay | NCAAF | Nevada, SMU | +249 | risk $20.00 | win $49.88 | Wagerhouse | RR 2-way: Nevada ML +115 + SMU ML -160
+    [1859] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming, California | +1056 | risk $20.00 | win $211.24 | Wagerhouse | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105
+    [1860] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming, Nevada | +1113 | risk $20.00 | win $222.52 | Wagerhouse | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115
+    [1861] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming, SMU | +816 | risk $20.00 | win $163.30 | Wagerhouse | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + SMU ML -160
+    [1862] settles 2026-09-03 | parlay | NCAAF | San Jose St, California, Nevada | +936 | risk $20.00 | win $187.15 | Wagerhouse | RR 3-way: San Jose St ML +135 + California ML +105 + Nevada ML +115
+    [1863] settles 2026-09-03 | parlay | NCAAF | San Jose St, California, SMU | +683 | risk $20.00 | win $136.57 | Wagerhouse | RR 3-way: San Jose St ML +135 + California ML +105 + SMU ML -160
+    [1864] settles 2026-09-03 | parlay | NCAAF | San Jose St, Nevada, SMU | +721 | risk $20.00 | win $144.21 | Wagerhouse | RR 3-way: San Jose St ML +135 + Nevada ML +115 + SMU ML -160
+    [1865] settles 2026-09-03 | parlay | NCAAF | Wyoming, California, Nevada | +958 | risk $20.00 | win $191.56 | Wagerhouse | RR 3-way: Wyoming ML +140 + California ML +105 + Nevada ML +115
+    [1866] settles 2026-09-03 | parlay | NCAAF | Wyoming, California, SMU | +699 | risk $20.00 | win $139.90 | Wagerhouse | RR 3-way: Wyoming ML +140 + California ML +105 + SMU ML -160
+    [1867] settles 2026-09-03 | parlay | NCAAF | Wyoming, Nevada, SMU | +738 | risk $20.00 | win $147.70 | Wagerhouse | RR 3-way: Wyoming ML +140 + Nevada ML +115 + SMU ML -160
+    [1868] settles 2026-09-03 | parlay | NCAAF | California, Nevada, SMU | +616 | risk $20.00 | win $123.24 | Wagerhouse | RR 3-way: California ML +105 + Nevada ML +115 + SMU ML -160
+    [1869] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming, California, Nevada | +2386 | risk $20.00 | win $477.17 | Wagerhouse | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + Nevada ML +115
+    [1870] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming, California, SMU | +1779 | risk $20.00 | win $355.76 | Wagerhouse | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + SMU ML -160
+    [1871] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming, Nevada, SMU | +1870 | risk $20.00 | win $374.10 | Wagerhouse | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115 + SMU ML -160
+    [1872] settles 2026-09-03 | parlay | NCAAF | San Jose St, California, Nevada, SMU | +1583 | risk $20.00 | win $316.62 | Wagerhouse | RR 4-way: San Jose St ML +135 + California ML +105 + Nevada ML +115 + SMU ML -160
+    [1873] settles 2026-09-03 | parlay | NCAAF | Wyoming, California, Nevada, SMU | +1619 | risk $20.00 | win $323.78 | Wagerhouse | RR 4-way: Wyoming ML +140 + California ML +105 + Nevada ML +115 + SMU ML -160
+    [1874] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming, California, Nevada, SMU | +3939 | risk $20.00 | win $787.89 | Wagerhouse | RR 5-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + Nevada ML +115 + SMU ML -160
+    [1875] settles 2026-09-03 | parlay | NCAAF | Colorado, Clemson | +1115 | risk $10.00 | win $111.50 | Wagerhouse | RR 2-way: Colorado ML +200 + Clemson ML +305
+    [1876] settles 2026-09-03 | parlay | NCAAF | Colorado, California | +515 | risk $10.00 | win $51.50 | Wagerhouse | RR 2-way: Colorado ML +200 + California ML +105
+    [1877] settles 2026-09-03 | parlay | NCAAF | Colorado, Louisville | +860 | risk $10.00 | win $86.00 | Wagerhouse | RR 2-way: Colorado ML +200 + Louisville ML +220
+    [1878] settles 2026-09-03 | parlay | NCAAF | Colorado, Hawaii | +575 | risk $10.00 | win $57.50 | Wagerhouse | RR 2-way: Colorado ML +200 + Hawaii ML +125
+    [1879] settles 2026-09-03 | parlay | NCAAF | Clemson, California | +730 | risk $10.00 | win $73.02 | Wagerhouse | RR 2-way: Clemson ML +305 + California ML +105
+    [1880] settles 2026-09-03 | parlay | NCAAF | Clemson, Louisville | +1196 | risk $10.00 | win $119.60 | Wagerhouse | RR 2-way: Clemson ML +305 + Louisville ML +220
+    [1881] settles 2026-09-03 | parlay | NCAAF | Clemson, Hawaii | +811 | risk $10.00 | win $81.12 | Wagerhouse | RR 2-way: Clemson ML +305 + Hawaii ML +125
+    [1882] settles 2026-09-03 | parlay | NCAAF | California, Louisville | +556 | risk $10.00 | win $55.60 | Wagerhouse | RR 2-way: California ML +105 + Louisville ML +220
+    [1883] settles 2026-09-03 | parlay | NCAAF | California, Hawaii | +361 | risk $10.00 | win $36.12 | Wagerhouse | RR 2-way: California ML +105 + Hawaii ML +125
+    [1884] settles 2026-09-03 | parlay | NCAAF | Louisville, Hawaii | +620 | risk $10.00 | win $62.00 | Wagerhouse | RR 2-way: Louisville ML +220 + Hawaii ML +125
+    [1885] settles 2026-09-03 | parlay | NCAAF | Colorado, Clemson, California | +2391 | risk $10.00 | win $239.07 | Wagerhouse | RR 3-way: Colorado ML +200 + Clemson ML +305 + California ML +105
+    [1886] settles 2026-09-03 | parlay | NCAAF | Colorado, Clemson, Louisville | +3788 | risk $10.00 | win $378.80 | Wagerhouse | RR 3-way: Colorado ML +200 + Clemson ML +305 + Louisville ML +220
+    [1887] settles 2026-09-03 | parlay | NCAAF | Colorado, Clemson, Hawaii | +2634 | risk $10.00 | win $263.38 | Wagerhouse | RR 3-way: Colorado ML +200 + Clemson ML +305 + Hawaii ML +125
+    [1888] settles 2026-09-03 | parlay | NCAAF | Colorado, California, Louisville | +1868 | risk $10.00 | win $186.80 | Wagerhouse | RR 3-way: Colorado ML +200 + California ML +105 + Louisville ML +220
+    [1889] settles 2026-09-03 | parlay | NCAAF | Colorado, California, Hawaii | +1284 | risk $10.00 | win $128.38 | Wagerhouse | RR 3-way: Colorado ML +200 + California ML +105 + Hawaii ML +125
+    [1890] settles 2026-09-03 | parlay | NCAAF | Colorado, Louisville, Hawaii | +2060 | risk $10.00 | win $206.00 | Wagerhouse | RR 3-way: Colorado ML +200 + Louisville ML +220 + Hawaii ML +125
+    [1891] settles 2026-09-03 | parlay | NCAAF | Clemson, California, Louisville | +2557 | risk $10.00 | win $255.68 | Wagerhouse | RR 3-way: Clemson ML +305 + California ML +105 + Louisville ML +220
+    [1892] settles 2026-09-03 | parlay | NCAAF | Clemson, California, Hawaii | +1768 | risk $10.00 | win $176.81 | Wagerhouse | RR 3-way: Clemson ML +305 + California ML +105 + Hawaii ML +125
+    [1893] settles 2026-09-03 | parlay | NCAAF | Clemson, Louisville, Hawaii | +2816 | risk $10.00 | win $281.60 | Wagerhouse | RR 3-way: Clemson ML +305 + Louisville ML +220 + Hawaii ML +125
+    [1894] settles 2026-09-03 | parlay | NCAAF | California, Louisville, Hawaii | +1376 | risk $10.00 | win $137.60 | Wagerhouse | RR 3-way: California ML +105 + Louisville ML +220 + Hawaii ML +125
+    [1895] settles 2026-09-03 | parlay | NCAAF | Colorado, Clemson, California, Louisville | +7870 | risk $10.00 | win $787.04 | Wagerhouse | RR 4-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Louisville ML +220
+    [1896] settles 2026-09-03 | parlay | NCAAF | Colorado, Clemson, California, Hawaii | +5504 | risk $10.00 | win $550.42 | Wagerhouse | RR 4-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Hawaii ML +125
+    [1897] settles 2026-09-03 | parlay | NCAAF | Colorado, Clemson, Louisville, Hawaii | +8648 | risk $10.00 | win $864.80 | Wagerhouse | RR 4-way: Colorado ML +200 + Clemson ML +305 + Louisville ML +220 + Hawaii ML +125
+    [1898] settles 2026-09-03 | parlay | NCAAF | Colorado, California, Louisville, Hawaii | +4328 | risk $10.00 | win $432.80 | Wagerhouse | RR 4-way: Colorado ML +200 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+    [1899] settles 2026-09-03 | parlay | NCAAF | Clemson, California, Louisville, Hawaii | +5878 | risk $10.00 | win $587.78 | Wagerhouse | RR 4-way: Clemson ML +305 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+    [1900] settles 2026-09-03 | parlay | NCAAF | Colorado, Clemson, California, Louisville, Hawaii | +17833 | risk $10.00 | win $1,783.34 | Wagerhouse | RR 5-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+    [1901] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St | +693 | risk $10.00 | win $69.30 | Wagerhouse | RR 2-way: Kansas ML +160 + Appalachian St ML +205
+    [1902] settles 2026-09-11 | parlay | NCAAF | Kansas, Duke | +667 | risk $10.00 | win $66.70 | Wagerhouse | RR 2-way: Kansas ML +160 + Duke ML +195
+    [1903] settles 2026-09-11 | parlay | NCAAF | Kansas, JAX State | +459 | risk $10.00 | win $45.90 | Wagerhouse | RR 2-way: Kansas ML +160 + JAX State ML +115
+    [1904] settles 2026-09-11 | parlay | NCAAF | Kansas, Rutgers | +498 | risk $10.00 | win $49.80 | Wagerhouse | RR 2-way: Kansas ML +160 + Rutgers ML +130
+    [1905] settles 2026-09-11 | parlay | NCAAF | Appalachian St, Duke | +800 | risk $10.00 | win $79.98 | Wagerhouse | RR 2-way: Appalachian St ML +205 + Duke ML +195
+    [1906] settles 2026-09-11 | parlay | NCAAF | Appalachian St, JAX State | +556 | risk $10.00 | win $55.57 | Wagerhouse | RR 2-way: Appalachian St ML +205 + JAX State ML +115
+    [1907] settles 2026-09-11 | parlay | NCAAF | Appalachian St, Rutgers | +601 | risk $10.00 | win $60.15 | Wagerhouse | RR 2-way: Appalachian St ML +205 + Rutgers ML +130
+    [1908] settles 2026-09-11 | parlay | NCAAF | Duke, JAX State | +534 | risk $10.00 | win $53.43 | Wagerhouse | RR 2-way: Duke ML +195 + JAX State ML +115
+    [1909] settles 2026-09-11 | parlay | NCAAF | Duke, Rutgers | +578 | risk $10.00 | win $57.85 | Wagerhouse | RR 2-way: Duke ML +195 + Rutgers ML +130
+    [1910] settles 2026-09-11 | parlay | NCAAF | JAX State, Rutgers | +394 | risk $10.00 | win $39.45 | Wagerhouse | RR 2-way: JAX State ML +115 + Rutgers ML +130
+    [1911] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St, Duke | +2239 | risk $10.00 | win $223.94 | Wagerhouse | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195
+    [1912] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St, JAX State | +1605 | risk $10.00 | win $160.49 | Wagerhouse | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + JAX State ML +115
+    [1913] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St, Rutgers | +1724 | risk $10.00 | win $172.39 | Wagerhouse | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + Rutgers ML +130
+    [1914] settles 2026-09-11 | parlay | NCAAF | Kansas, Duke, JAX State | +1549 | risk $10.00 | win $154.91 | Wagerhouse | RR 3-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115
+    [1915] settles 2026-09-11 | parlay | NCAAF | Kansas, Duke, Rutgers | +1664 | risk $10.00 | win $166.41 | Wagerhouse | RR 3-way: Kansas ML +160 + Duke ML +195 + Rutgers ML +130
+    [1916] settles 2026-09-11 | parlay | NCAAF | Kansas, JAX State, Rutgers | +1186 | risk $10.00 | win $118.57 | Wagerhouse | RR 3-way: Kansas ML +160 + JAX State ML +115 + Rutgers ML +130
+    [1917] settles 2026-09-11 | parlay | NCAAF | Appalachian St, Duke, JAX State | +1834 | risk $10.00 | win $183.45 | Wagerhouse | RR 3-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115
+    [1918] settles 2026-09-11 | parlay | NCAAF | Appalachian St, Duke, Rutgers | +1969 | risk $10.00 | win $196.94 | Wagerhouse | RR 3-way: Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130
+    [1919] settles 2026-09-11 | parlay | NCAAF | Appalachian St, JAX State, Rutgers | +1408 | risk $10.00 | win $140.82 | Wagerhouse | RR 3-way: Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130
+    [1920] settles 2026-09-11 | parlay | NCAAF | Duke, JAX State, Rutgers | +1359 | risk $10.00 | win $135.88 | Wagerhouse | RR 3-way: Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+    [1921] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St, Duke, JAX State | +4930 | risk $10.00 | win $492.96 | Wagerhouse | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115
+    [1922] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St, Duke, Rutgers | +5281 | risk $10.00 | win $528.05 | Wagerhouse | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130
+    [1923] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St, JAX State, Rutgers | +3821 | risk $10.00 | win $382.14 | Wagerhouse | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130
+    [1924] settles 2026-09-11 | parlay | NCAAF | Kansas, Duke, JAX State, Rutgers | +3693 | risk $10.00 | win $369.28 | Wagerhouse | RR 4-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+    [1925] settles 2026-09-11 | parlay | NCAAF | Appalachian St, Duke, JAX State, Rutgers | +4349 | risk $10.00 | win $434.93 | Wagerhouse | RR 4-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+    [1926] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St, Duke, JAX State, Rutgers | +11468 | risk $10.00 | win $1,146.81 | Wagerhouse | RR 5-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
     [1839] settles 2026-09-14 | parlay | NFL | Seahawks ML + Rams ML + Lions ML + Eagles ML | +334 | risk $500.00 | win $1,668.00 | Wagerhouse | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 
 Season-long futures (NOT today's action): 89 bet(s), risk $65,260.00. Detail: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
 
-NEEDS GRADING - 1 bet(s) whose event has already finished but are still marked pending:
+NEEDS GRADING - 79 bet(s) whose event has already finished but are still marked pending:
+    [1849] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + Wyoming ML +140
+    [1850] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + California ML +105
+    [1851] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + Nevada ML +115
+    [1852] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + SMU ML -160
+    [1853] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: Wyoming ML +140 + California ML +105
+    [1854] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: Wyoming ML +140 + Nevada ML +115
+    [1855] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: Wyoming ML +140 + SMU ML -160
+    [1856] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: California ML +105 + Nevada ML +115
+    [1857] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: California ML +105 + SMU ML -160
+    [1858] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: Nevada ML +115 + SMU ML -160
+    [1859] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105
+    [1860] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115
+    [1861] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + SMU ML -160
+    [1862] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: San Jose St ML +135 + California ML +105 + Nevada ML +115
+    [1863] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: San Jose St ML +135 + California ML +105 + SMU ML -160
+    [1864] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: San Jose St ML +135 + Nevada ML +115 + SMU ML -160
+    [1865] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: Wyoming ML +140 + California ML +105 + Nevada ML +115
+    [1866] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: Wyoming ML +140 + California ML +105 + SMU ML -160
+    [1867] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: Wyoming ML +140 + Nevada ML +115 + SMU ML -160
+    [1868] event 2026-09-03 (13d ago) | risk $20.00 | RR 3-way: California ML +105 + Nevada ML +115 + SMU ML -160
+    [1869] event 2026-09-03 (13d ago) | risk $20.00 | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + Nevada ML +115
+    [1870] event 2026-09-03 (13d ago) | risk $20.00 | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + SMU ML -160
+    [1871] event 2026-09-03 (13d ago) | risk $20.00 | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115 + SMU ML -160
+    [1872] event 2026-09-03 (13d ago) | risk $20.00 | RR 4-way: San Jose St ML +135 + California ML +105 + Nevada ML +115 + SMU ML -160
+    [1873] event 2026-09-03 (13d ago) | risk $20.00 | RR 4-way: Wyoming ML +140 + California ML +105 + Nevada ML +115 + SMU ML -160
+    [1874] event 2026-09-03 (13d ago) | risk $20.00 | RR 5-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + Nevada ML +115 + SMU ML -160
+    [1875] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: Colorado ML +200 + Clemson ML +305
+    [1876] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: Colorado ML +200 + California ML +105
+    [1877] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: Colorado ML +200 + Louisville ML +220
+    [1878] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: Colorado ML +200 + Hawaii ML +125
+    [1879] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: Clemson ML +305 + California ML +105
+    [1880] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: Clemson ML +305 + Louisville ML +220
+    [1881] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: Clemson ML +305 + Hawaii ML +125
+    [1882] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: California ML +105 + Louisville ML +220
+    [1883] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: California ML +105 + Hawaii ML +125
+    [1884] event 2026-09-03 (13d ago) | risk $10.00 | RR 2-way: Louisville ML +220 + Hawaii ML +125
+    [1885] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Colorado ML +200 + Clemson ML +305 + California ML +105
+    [1886] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Colorado ML +200 + Clemson ML +305 + Louisville ML +220
+    [1887] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Colorado ML +200 + Clemson ML +305 + Hawaii ML +125
+    [1888] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Colorado ML +200 + California ML +105 + Louisville ML +220
+    [1889] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Colorado ML +200 + California ML +105 + Hawaii ML +125
+    [1890] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Colorado ML +200 + Louisville ML +220 + Hawaii ML +125
+    [1891] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Clemson ML +305 + California ML +105 + Louisville ML +220
+    [1892] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Clemson ML +305 + California ML +105 + Hawaii ML +125
+    [1893] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: Clemson ML +305 + Louisville ML +220 + Hawaii ML +125
+    [1894] event 2026-09-03 (13d ago) | risk $10.00 | RR 3-way: California ML +105 + Louisville ML +220 + Hawaii ML +125
+    [1895] event 2026-09-03 (13d ago) | risk $10.00 | RR 4-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Louisville ML +220
+    [1896] event 2026-09-03 (13d ago) | risk $10.00 | RR 4-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Hawaii ML +125
+    [1897] event 2026-09-03 (13d ago) | risk $10.00 | RR 4-way: Colorado ML +200 + Clemson ML +305 + Louisville ML +220 + Hawaii ML +125
+    [1898] event 2026-09-03 (13d ago) | risk $10.00 | RR 4-way: Colorado ML +200 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+    [1899] event 2026-09-03 (13d ago) | risk $10.00 | RR 4-way: Clemson ML +305 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+    [1900] event 2026-09-03 (13d ago) | risk $10.00 | RR 5-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+    [1901] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Kansas ML +160 + Appalachian St ML +205
+    [1902] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Kansas ML +160 + Duke ML +195
+    [1903] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Kansas ML +160 + JAX State ML +115
+    [1904] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Kansas ML +160 + Rutgers ML +130
+    [1905] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Appalachian St ML +205 + Duke ML +195
+    [1906] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Appalachian St ML +205 + JAX State ML +115
+    [1907] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Appalachian St ML +205 + Rutgers ML +130
+    [1908] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Duke ML +195 + JAX State ML +115
+    [1909] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: Duke ML +195 + Rutgers ML +130
+    [1910] event 2026-09-11 (5d ago) | risk $10.00 | RR 2-way: JAX State ML +115 + Rutgers ML +130
+    [1911] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195
+    [1912] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + JAX State ML +115
+    [1913] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + Rutgers ML +130
+    [1914] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115
+    [1915] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Kansas ML +160 + Duke ML +195 + Rutgers ML +130
+    [1916] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Kansas ML +160 + JAX State ML +115 + Rutgers ML +130
+    [1917] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115
+    [1918] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130
+    [1919] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130
+    [1920] event 2026-09-11 (5d ago) | risk $10.00 | RR 3-way: Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+    [1921] event 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115
+    [1922] event 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130
+    [1923] event 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130
+    [1924] event 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+    [1925] event 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+    [1926] event 2026-09-11 (5d ago) | risk $10.00 | RR 5-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
     [1839] event 2026-09-14 (2d ago) | risk $500.00 | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 
 Day-by-day near-term view: https://nritchey23-a11y.github.io/bet-tracker/today.txt and https://nritchey23-a11y.github.io/bet-tracker/action.txt
@@ -136,10 +292,24 @@ future). Read every line under a heading and report all of them.
 'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,
 Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.
 
-Teams with open action (79): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Clemson, Colorado, Colorado State, Connecticut, DAL, DET, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML + Rams ML + Lions ML + Eagles, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
+Teams with open action (157): ATL Falcons, Appalachian St, Duke, Appalachian St, Duke, JAX State, Appalachian St, Duke, JAX State, Rutgers, Appalachian St, Duke, Rutgers, Appalachian St, JAX State, Appalachian St, JAX State, Rutgers, Appalachian St, Rutgers, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, California, Hawaii, California, Louisville, California, Louisville, Hawaii, California, Nevada, California, Nevada, SMU, California, SMU, Clemson, Clemson, California, Clemson, California, Hawaii, Clemson, California, Louisville, Clemson, California, Louisville, Hawaii, Clemson, Hawaii, Clemson, Louisville, Clemson, Louisville, Hawaii, Colorado, Colorado State, Colorado, California, Colorado, California, Hawaii, Colorado, California, Louisville, Colorado, California, Louisville, Hawaii, Colorado, Clemson, Colorado, Clemson, California, Colorado, Clemson, California, Hawaii, Colorado, Clemson, California, Louisville, Colorado, Clemson, California, Louisville, Hawaii, Colorado, Clemson, Hawaii, Colorado, Clemson, Louisville, Colorado, Clemson, Louisville, Hawaii, Colorado, Hawaii, Colorado, Louisville, Colorado, Louisville, Hawaii, Connecticut, DAL, DET, Duke, JAX State, Duke, JAX State, Rutgers, Duke, Rutgers, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, JAX State, Rutgers, James Madison, KC Chiefs, Kansas State, Kansas, Appalachian St, Kansas, Appalachian St, Duke, Kansas, Appalachian St, Duke, JAX State, Kansas, Appalachian St, Duke, JAX State, Rutgers, Kansas, Appalachian St, Duke, Rutgers, Kansas, Appalachian St, JAX State, Kansas, Appalachian St, JAX State, Rutgers, Kansas, Appalachian St, Rutgers, Kansas, Duke, Kansas, Duke, JAX State, Kansas, Duke, JAX State, Rutgers, Kansas, Duke, Rutgers, Kansas, JAX State, Kansas, JAX State, Rutgers, Kansas, Rutgers, Kimi Antonelli, LA Chargers, LAC, Louisville, Hawaii, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, Nevada, SMU, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, San Jose St, California, San Jose St, California, Nevada, San Jose St, California, Nevada, SMU, San Jose St, California, SMU, San Jose St, Nevada, San Jose St, Nevada, SMU, San Jose St, SMU, San Jose St, Wyoming, San Jose St, Wyoming, California, San Jose St, Wyoming, California, Nevada, San Jose St, Wyoming, California, Nevada, SMU, San Jose St, Wyoming, California, SMU, San Jose St, Wyoming, Nevada, San Jose St, Wyoming, Nevada, SMU, San Jose St, Wyoming, SMU, Seahawks ML + Rams ML + Lions ML + Eagles, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan, Wyoming, California, Wyoming, California, Nevada, Wyoming, California, Nevada, SMU, Wyoming, California, SMU, Wyoming, Nevada, Wyoming, Nevada, SMU, Wyoming, SMU
 
 ### ATL Falcons  --  1 open, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 future NFL | ATL Falcons | +450 | risk $250.00 | win $1,125.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC South - ATL Falcons
+### Appalachian St, Duke  --  1 open, risk $10.00, max win $79.98
+    [1905] 2026-09-11 parlay NCAAF | Appalachian St, Duke | +800 | risk $10.00 | win $79.98 | Wagerhouse | RR 2-way: Appalachian St ML +205 + Duke ML +195
+### Appalachian St, Duke, JAX State  --  1 open, risk $10.00, max win $183.45
+    [1917] 2026-09-11 parlay NCAAF | Appalachian St, Duke, JAX State | +1834 | risk $10.00 | win $183.45 | Wagerhouse | RR 3-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115
+### Appalachian St, Duke, JAX State, Rutgers  --  1 open, risk $10.00, max win $434.93
+    [1925] 2026-09-11 parlay NCAAF | Appalachian St, Duke, JAX State, Rutgers | +4349 | risk $10.00 | win $434.93 | Wagerhouse | RR 4-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+### Appalachian St, Duke, Rutgers  --  1 open, risk $10.00, max win $196.94
+    [1918] 2026-09-11 parlay NCAAF | Appalachian St, Duke, Rutgers | +1969 | risk $10.00 | win $196.94 | Wagerhouse | RR 3-way: Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130
+### Appalachian St, JAX State  --  1 open, risk $10.00, max win $55.57
+    [1906] 2026-09-11 parlay NCAAF | Appalachian St, JAX State | +556 | risk $10.00 | win $55.57 | Wagerhouse | RR 2-way: Appalachian St ML +205 + JAX State ML +115
+### Appalachian St, JAX State, Rutgers  --  1 open, risk $10.00, max win $140.82
+    [1919] 2026-09-11 parlay NCAAF | Appalachian St, JAX State, Rutgers | +1408 | risk $10.00 | win $140.82 | Wagerhouse | RR 3-way: Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130
+### Appalachian St, Rutgers  --  1 open, risk $10.00, max win $60.15
+    [1907] 2026-09-11 parlay NCAAF | Appalachian St, Rutgers | +601 | risk $10.00 | win $60.15 | Wagerhouse | RR 2-way: Appalachian St ML +205 + Rutgers ML +130
 ### Army  --  1 open, risk $500.00, max win $550.00
     [1831] 2026-08-24 future NCAAF | Army Under 7.5 | +110 | risk $500.00 | win $550.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Army - Under 7.5
 ### Auburn  --  1 open, risk $625.00, max win $500.00
@@ -159,18 +329,80 @@ Teams with open action (79): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
 ### CIN Bengals  --  2 open, risk $1,000.00, max win $1,625.00
     [1744] 2026-06-04 future NFL | CIN Bengals Over 10.5 | +115 | risk $500.00 | win $575.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props CIN Bengals - Over 10.5
     [1754] 2026-04-30 future NFL | CIN Bengals | +210 | risk $500.00 | win $1,050.00 | Wagerhouse | NFL 26/27 Division Winner - Props AFC North - CIN Bengals
+### California, Hawaii  --  1 open, risk $10.00, max win $36.12
+    [1883] 2026-09-03 parlay NCAAF | California, Hawaii | +361 | risk $10.00 | win $36.12 | Wagerhouse | RR 2-way: California ML +105 + Hawaii ML +125
+### California, Louisville  --  1 open, risk $10.00, max win $55.60
+    [1882] 2026-09-03 parlay NCAAF | California, Louisville | +556 | risk $10.00 | win $55.60 | Wagerhouse | RR 2-way: California ML +105 + Louisville ML +220
+### California, Louisville, Hawaii  --  1 open, risk $10.00, max win $137.60
+    [1894] 2026-09-03 parlay NCAAF | California, Louisville, Hawaii | +1376 | risk $10.00 | win $137.60 | Wagerhouse | RR 3-way: California ML +105 + Louisville ML +220 + Hawaii ML +125
+### California, Nevada  --  1 open, risk $20.00, max win $68.15
+    [1856] 2026-09-03 parlay NCAAF | California, Nevada | +341 | risk $20.00 | win $68.15 | Wagerhouse | RR 2-way: California ML +105 + Nevada ML +115
+### California, Nevada, SMU  --  1 open, risk $20.00, max win $123.24
+    [1868] 2026-09-03 parlay NCAAF | California, Nevada, SMU | +616 | risk $20.00 | win $123.24 | Wagerhouse | RR 3-way: California ML +105 + Nevada ML +115 + SMU ML -160
+### California, SMU  --  1 open, risk $20.00, max win $46.62
+    [1857] 2026-09-03 parlay NCAAF | California, SMU | +233 | risk $20.00 | win $46.62 | Wagerhouse | RR 2-way: California ML +105 + SMU ML -160
 ### Clemson  --  1 open, risk $500.00, max win $625.00
     [1827] 2026-08-24 future NCAAF | Clemson Under 7.5 | +125 | risk $500.00 | win $625.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Clemson - Under 7.5
+### Clemson, California  --  1 open, risk $10.00, max win $73.02
+    [1879] 2026-09-03 parlay NCAAF | Clemson, California | +730 | risk $10.00 | win $73.02 | Wagerhouse | RR 2-way: Clemson ML +305 + California ML +105
+### Clemson, California, Hawaii  --  1 open, risk $10.00, max win $176.81
+    [1892] 2026-09-03 parlay NCAAF | Clemson, California, Hawaii | +1768 | risk $10.00 | win $176.81 | Wagerhouse | RR 3-way: Clemson ML +305 + California ML +105 + Hawaii ML +125
+### Clemson, California, Louisville  --  1 open, risk $10.00, max win $255.68
+    [1891] 2026-09-03 parlay NCAAF | Clemson, California, Louisville | +2557 | risk $10.00 | win $255.68 | Wagerhouse | RR 3-way: Clemson ML +305 + California ML +105 + Louisville ML +220
+### Clemson, California, Louisville, Hawaii  --  1 open, risk $10.00, max win $587.78
+    [1899] 2026-09-03 parlay NCAAF | Clemson, California, Louisville, Hawaii | +5878 | risk $10.00 | win $587.78 | Wagerhouse | RR 4-way: Clemson ML +305 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+### Clemson, Hawaii  --  1 open, risk $10.00, max win $81.12
+    [1881] 2026-09-03 parlay NCAAF | Clemson, Hawaii | +811 | risk $10.00 | win $81.12 | Wagerhouse | RR 2-way: Clemson ML +305 + Hawaii ML +125
+### Clemson, Louisville  --  1 open, risk $10.00, max win $119.60
+    [1880] 2026-09-03 parlay NCAAF | Clemson, Louisville | +1196 | risk $10.00 | win $119.60 | Wagerhouse | RR 2-way: Clemson ML +305 + Louisville ML +220
+### Clemson, Louisville, Hawaii  --  1 open, risk $10.00, max win $281.60
+    [1893] 2026-09-03 parlay NCAAF | Clemson, Louisville, Hawaii | +2816 | risk $10.00 | win $281.60 | Wagerhouse | RR 3-way: Clemson ML +305 + Louisville ML +220 + Hawaii ML +125
 ### Colorado  --  1 open, risk $500.00, max win $650.00
     [1825] 2026-08-24 future NCAAF | Colorado Over 4.5 | +130 | risk $500.00 | win $650.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Colorado - Over 4.5
 ### Colorado State  --  1 open, risk $725.00, max win $500.00
     [1826] 2026-08-24 future NCAAF | Colorado State Over 3.5 | -145 | risk $725.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Colorado State - Over 3.5
+### Colorado, California  --  1 open, risk $10.00, max win $51.50
+    [1876] 2026-09-03 parlay NCAAF | Colorado, California | +515 | risk $10.00 | win $51.50 | Wagerhouse | RR 2-way: Colorado ML +200 + California ML +105
+### Colorado, California, Hawaii  --  1 open, risk $10.00, max win $128.38
+    [1889] 2026-09-03 parlay NCAAF | Colorado, California, Hawaii | +1284 | risk $10.00 | win $128.38 | Wagerhouse | RR 3-way: Colorado ML +200 + California ML +105 + Hawaii ML +125
+### Colorado, California, Louisville  --  1 open, risk $10.00, max win $186.80
+    [1888] 2026-09-03 parlay NCAAF | Colorado, California, Louisville | +1868 | risk $10.00 | win $186.80 | Wagerhouse | RR 3-way: Colorado ML +200 + California ML +105 + Louisville ML +220
+### Colorado, California, Louisville, Hawaii  --  1 open, risk $10.00, max win $432.80
+    [1898] 2026-09-03 parlay NCAAF | Colorado, California, Louisville, Hawaii | +4328 | risk $10.00 | win $432.80 | Wagerhouse | RR 4-way: Colorado ML +200 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+### Colorado, Clemson  --  1 open, risk $10.00, max win $111.50
+    [1875] 2026-09-03 parlay NCAAF | Colorado, Clemson | +1115 | risk $10.00 | win $111.50 | Wagerhouse | RR 2-way: Colorado ML +200 + Clemson ML +305
+### Colorado, Clemson, California  --  1 open, risk $10.00, max win $239.07
+    [1885] 2026-09-03 parlay NCAAF | Colorado, Clemson, California | +2391 | risk $10.00 | win $239.07 | Wagerhouse | RR 3-way: Colorado ML +200 + Clemson ML +305 + California ML +105
+### Colorado, Clemson, California, Hawaii  --  1 open, risk $10.00, max win $550.42
+    [1896] 2026-09-03 parlay NCAAF | Colorado, Clemson, California, Hawaii | +5504 | risk $10.00 | win $550.42 | Wagerhouse | RR 4-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Hawaii ML +125
+### Colorado, Clemson, California, Louisville  --  1 open, risk $10.00, max win $787.04
+    [1895] 2026-09-03 parlay NCAAF | Colorado, Clemson, California, Louisville | +7870 | risk $10.00 | win $787.04 | Wagerhouse | RR 4-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Louisville ML +220
+### Colorado, Clemson, California, Louisville, Hawaii  --  1 open, risk $10.00, max win $1,783.34
+    [1900] 2026-09-03 parlay NCAAF | Colorado, Clemson, California, Louisville, Hawaii | +17833 | risk $10.00 | win $1,783.34 | Wagerhouse | RR 5-way: Colorado ML +200 + Clemson ML +305 + California ML +105 + Louisville ML +220 + Hawaii ML +125
+### Colorado, Clemson, Hawaii  --  1 open, risk $10.00, max win $263.38
+    [1887] 2026-09-03 parlay NCAAF | Colorado, Clemson, Hawaii | +2634 | risk $10.00 | win $263.38 | Wagerhouse | RR 3-way: Colorado ML +200 + Clemson ML +305 + Hawaii ML +125
+### Colorado, Clemson, Louisville  --  1 open, risk $10.00, max win $378.80
+    [1886] 2026-09-03 parlay NCAAF | Colorado, Clemson, Louisville | +3788 | risk $10.00 | win $378.80 | Wagerhouse | RR 3-way: Colorado ML +200 + Clemson ML +305 + Louisville ML +220
+### Colorado, Clemson, Louisville, Hawaii  --  1 open, risk $10.00, max win $864.80
+    [1897] 2026-09-03 parlay NCAAF | Colorado, Clemson, Louisville, Hawaii | +8648 | risk $10.00 | win $864.80 | Wagerhouse | RR 4-way: Colorado ML +200 + Clemson ML +305 + Louisville ML +220 + Hawaii ML +125
+### Colorado, Hawaii  --  1 open, risk $10.00, max win $57.50
+    [1878] 2026-09-03 parlay NCAAF | Colorado, Hawaii | +575 | risk $10.00 | win $57.50 | Wagerhouse | RR 2-way: Colorado ML +200 + Hawaii ML +125
+### Colorado, Louisville  --  1 open, risk $10.00, max win $86.00
+    [1877] 2026-09-03 parlay NCAAF | Colorado, Louisville | +860 | risk $10.00 | win $86.00 | Wagerhouse | RR 2-way: Colorado ML +200 + Louisville ML +220
+### Colorado, Louisville, Hawaii  --  1 open, risk $10.00, max win $206.00
+    [1890] 2026-09-03 parlay NCAAF | Colorado, Louisville, Hawaii | +2060 | risk $10.00 | win $206.00 | Wagerhouse | RR 3-way: Colorado ML +200 + Louisville ML +220 + Hawaii ML +125
 ### Connecticut  --  1 open, risk $650.00, max win $500.00
     [1812] 2026-08-24 future NCAAF | Connecticut Under 5.5 | -130 | risk $650.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Connecticut - Under 5.5
 ### DAL  --  1 open, risk $1,150.00, max win $1,000.00
     [1797] 2026-07-27 future NFL | DAL Under 9.5 | -115 | risk $1,150.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Cowboys - Under 9.5
 ### DET  --  1 open, risk $1,250.00, max win $1,000.00
     [1796] 2026-07-27 future NFL | DET Over 10.5 | -125 | risk $1,250.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Lions - Over 10.5
+### Duke, JAX State  --  1 open, risk $10.00, max win $53.43
+    [1908] 2026-09-11 parlay NCAAF | Duke, JAX State | +534 | risk $10.00 | win $53.43 | Wagerhouse | RR 2-way: Duke ML +195 + JAX State ML +115
+### Duke, JAX State, Rutgers  --  1 open, risk $10.00, max win $135.88
+    [1920] 2026-09-11 parlay NCAAF | Duke, JAX State, Rutgers | +1359 | risk $10.00 | win $135.88 | Wagerhouse | RR 3-way: Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+### Duke, Rutgers  --  1 open, risk $10.00, max win $57.85
+    [1909] 2026-09-11 parlay NCAAF | Duke, Rutgers | +578 | risk $10.00 | win $57.85 | Wagerhouse | RR 2-way: Duke ML +195 + Rutgers ML +130
 ### Florida Atlantic  --  1 open, risk $800.00, max win $500.00
     [1823] 2026-08-24 future NCAAF | Florida Atlantic Over 5.5 | -160 | risk $800.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Florida Atlantic - Over 5.5
 ### Fresno State  --  1 open, risk $825.00, max win $500.00
@@ -189,6 +421,8 @@ Teams with open action (79): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1795] 2026-07-27 future NFL | JAX Over 9.5 | +120 | risk $1,000.00 | win $1,200.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Jaguars - Over 9.5
 ### JAX Jaguars  --  1 open, risk $1,300.00, max win $1,000.00
     [1742] 2026-06-04 future NFL | JAX Jaguars Over 8.5 | -130 | risk $1,300.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props JAX Jaguars - Over 8.5
+### JAX State, Rutgers  --  1 open, risk $10.00, max win $39.45
+    [1910] 2026-09-11 parlay NCAAF | JAX State, Rutgers | +394 | risk $10.00 | win $39.45 | Wagerhouse | RR 2-way: JAX State ML +115 + Rutgers ML +130
 ### James Madison  --  2 open, risk $500.00, max win $599.50
     [1790] 2026-07-27 future NCAAF | James Madison Under 8.5 | +115 | risk $250.00 | win $287.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - James Madison - Under 8.5
     [1800] 2026-07-26 future NCAAF | James Madison Under 8.5 | +125 | risk $250.00 | win $312.50 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props James Madison - Under 8.5
@@ -196,12 +430,44 @@ Teams with open action (79): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1755] 2026-04-30 future NFL | KC Chiefs | +170 | risk $500.00 | win $850.00 | Wagerhouse | NFL 26/27 Division Winner - Props AFC West - KC Chiefs
 ### Kansas State  --  1 open, risk $750.00, max win $787.50
     [1731] 2026-06-09 future NCAAF | Kansas State Over 8.5 | +105 | risk $750.00 | win $787.50 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Kansas State - Over 8.5
+### Kansas, Appalachian St  --  1 open, risk $10.00, max win $69.30
+    [1901] 2026-09-11 parlay NCAAF | Kansas, Appalachian St | +693 | risk $10.00 | win $69.30 | Wagerhouse | RR 2-way: Kansas ML +160 + Appalachian St ML +205
+### Kansas, Appalachian St, Duke  --  1 open, risk $10.00, max win $223.94
+    [1911] 2026-09-11 parlay NCAAF | Kansas, Appalachian St, Duke | +2239 | risk $10.00 | win $223.94 | Wagerhouse | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195
+### Kansas, Appalachian St, Duke, JAX State  --  1 open, risk $10.00, max win $492.96
+    [1921] 2026-09-11 parlay NCAAF | Kansas, Appalachian St, Duke, JAX State | +4930 | risk $10.00 | win $492.96 | Wagerhouse | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115
+### Kansas, Appalachian St, Duke, JAX State, Rutgers  --  1 open, risk $10.00, max win $1,146.81
+    [1926] 2026-09-11 parlay NCAAF | Kansas, Appalachian St, Duke, JAX State, Rutgers | +11468 | risk $10.00 | win $1,146.81 | Wagerhouse | RR 5-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+### Kansas, Appalachian St, Duke, Rutgers  --  1 open, risk $10.00, max win $528.05
+    [1922] 2026-09-11 parlay NCAAF | Kansas, Appalachian St, Duke, Rutgers | +5281 | risk $10.00 | win $528.05 | Wagerhouse | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130
+### Kansas, Appalachian St, JAX State  --  1 open, risk $10.00, max win $160.49
+    [1912] 2026-09-11 parlay NCAAF | Kansas, Appalachian St, JAX State | +1605 | risk $10.00 | win $160.49 | Wagerhouse | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + JAX State ML +115
+### Kansas, Appalachian St, JAX State, Rutgers  --  1 open, risk $10.00, max win $382.14
+    [1923] 2026-09-11 parlay NCAAF | Kansas, Appalachian St, JAX State, Rutgers | +3821 | risk $10.00 | win $382.14 | Wagerhouse | RR 4-way: Kansas ML +160 + Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130
+### Kansas, Appalachian St, Rutgers  --  1 open, risk $10.00, max win $172.39
+    [1913] 2026-09-11 parlay NCAAF | Kansas, Appalachian St, Rutgers | +1724 | risk $10.00 | win $172.39 | Wagerhouse | RR 3-way: Kansas ML +160 + Appalachian St ML +205 + Rutgers ML +130
+### Kansas, Duke  --  1 open, risk $10.00, max win $66.70
+    [1902] 2026-09-11 parlay NCAAF | Kansas, Duke | +667 | risk $10.00 | win $66.70 | Wagerhouse | RR 2-way: Kansas ML +160 + Duke ML +195
+### Kansas, Duke, JAX State  --  1 open, risk $10.00, max win $154.91
+    [1914] 2026-09-11 parlay NCAAF | Kansas, Duke, JAX State | +1549 | risk $10.00 | win $154.91 | Wagerhouse | RR 3-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115
+### Kansas, Duke, JAX State, Rutgers  --  1 open, risk $10.00, max win $369.28
+    [1924] 2026-09-11 parlay NCAAF | Kansas, Duke, JAX State, Rutgers | +3693 | risk $10.00 | win $369.28 | Wagerhouse | RR 4-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
+### Kansas, Duke, Rutgers  --  1 open, risk $10.00, max win $166.41
+    [1915] 2026-09-11 parlay NCAAF | Kansas, Duke, Rutgers | +1664 | risk $10.00 | win $166.41 | Wagerhouse | RR 3-way: Kansas ML +160 + Duke ML +195 + Rutgers ML +130
+### Kansas, JAX State  --  1 open, risk $10.00, max win $45.90
+    [1903] 2026-09-11 parlay NCAAF | Kansas, JAX State | +459 | risk $10.00 | win $45.90 | Wagerhouse | RR 2-way: Kansas ML +160 + JAX State ML +115
+### Kansas, JAX State, Rutgers  --  1 open, risk $10.00, max win $118.57
+    [1916] 2026-09-11 parlay NCAAF | Kansas, JAX State, Rutgers | +1186 | risk $10.00 | win $118.57 | Wagerhouse | RR 3-way: Kansas ML +160 + JAX State ML +115 + Rutgers ML +130
+### Kansas, Rutgers  --  1 open, risk $10.00, max win $49.80
+    [1904] 2026-09-11 parlay NCAAF | Kansas, Rutgers | +498 | risk $10.00 | win $49.80 | Wagerhouse | RR 2-way: Kansas ML +160 + Rutgers ML +130
 ### Kimi Antonelli  --  1 open, risk $4,500.00, max win $1,000.00
     [1835] 2026-08-24 future F1 | Kimi Antonelli | -450 | risk $4,500.00 | win $1,000.00 | Wagerhouse | F1 2026 Drivers Championship - Kimi Antonelli
 ### LA Chargers  --  1 open, risk $1,300.00, max win $1,000.00
     [1743] 2026-06-04 future NFL | LA Chargers Over 9.5 | -130 | risk $1,300.00 | win $1,000.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Props LA Chargers - Over 9.5
 ### LAC  --  1 open, risk $500.00, max win $600.00
     [1794] 2026-07-27 future NFL | LAC Over 10.5 | +120 | risk $500.00 | win $600.00 | Wagerhouse | NFL 26/27 - Regular Season Wins - Chargers - Over 10.5
+### Louisville, Hawaii  --  1 open, risk $10.00, max win $62.00
+    [1884] 2026-09-03 parlay NCAAF | Louisville, Hawaii | +620 | risk $10.00 | win $62.00 | Wagerhouse | RR 2-way: Louisville ML +220 + Hawaii ML +125
 ### Ludvig Aberg  --  1 open, risk $250.00, max win $4,750.00
     [1389] 2026-04-16 future PGA Tour | Ludvig Aberg | +1900 | risk $250.00 | win $4,750.00 | GameDayWagers | Win 2027 US Masters
 ### Massachusetts  --  1 open, risk $1,000.00, max win $500.00
@@ -229,6 +495,8 @@ Teams with open action (79): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1819] 2026-08-24 future NCAAF | Navy Under 7.5 | +150 | risk $400.00 | win $600.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Navy - Under 7.5
 ### Nebraska  --  1 open, risk $500.00, max win $525.00
     [1728] 2026-06-09 future NCAAF | Nebraska Over 6.5 | +105 | risk $500.00 | win $525.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Nebraska - Over 6.5
+### Nevada, SMU  --  1 open, risk $20.00, max win $49.88
+    [1858] 2026-09-03 parlay NCAAF | Nevada, SMU | +249 | risk $20.00 | win $49.88 | Wagerhouse | RR 2-way: Nevada ML +115 + SMU ML -160
 ### North Texas  --  1 open, risk $575.00, max win $500.00
     [1818] 2026-08-24 future NCAAF | North Texas Over 5.5 | -115 | risk $575.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props North Texas - Over 5.5
 ### Northwestern  --  1 open, risk $650.00, max win $500.00
@@ -263,6 +531,36 @@ Teams with open action (79): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1817] 2026-08-24 future NCAAF | Sacramento State Under 4.5 | -110 | risk $550.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Sacramento State - Under 4.5
 ### San Diego State  --  1 open, risk $650.00, max win $500.00
     [1843] 2026-08-25 future NCAAF | San Diego State Over 6.5 | -130 | risk $650.00 | win $500.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props San Diego State (FLEX WEEK INCLUDED) - Over 6.5
+### San Jose St, California  --  1 open, risk $20.00, max win $76.35
+    [1850] 2026-09-03 parlay NCAAF | San Jose St, California | +382 | risk $20.00 | win $76.35 | Wagerhouse | RR 2-way: San Jose St ML +135 + California ML +105
+### San Jose St, California, Nevada  --  1 open, risk $20.00, max win $187.15
+    [1862] 2026-09-03 parlay NCAAF | San Jose St, California, Nevada | +936 | risk $20.00 | win $187.15 | Wagerhouse | RR 3-way: San Jose St ML +135 + California ML +105 + Nevada ML +115
+### San Jose St, California, Nevada, SMU  --  1 open, risk $20.00, max win $316.62
+    [1872] 2026-09-03 parlay NCAAF | San Jose St, California, Nevada, SMU | +1583 | risk $20.00 | win $316.62 | Wagerhouse | RR 4-way: San Jose St ML +135 + California ML +105 + Nevada ML +115 + SMU ML -160
+### San Jose St, California, SMU  --  1 open, risk $20.00, max win $136.57
+    [1863] 2026-09-03 parlay NCAAF | San Jose St, California, SMU | +683 | risk $20.00 | win $136.57 | Wagerhouse | RR 3-way: San Jose St ML +135 + California ML +105 + SMU ML -160
+### San Jose St, Nevada  --  1 open, risk $20.00, max win $81.05
+    [1851] 2026-09-03 parlay NCAAF | San Jose St, Nevada | +405 | risk $20.00 | win $81.05 | Wagerhouse | RR 2-way: San Jose St ML +135 + Nevada ML +115
+### San Jose St, Nevada, SMU  --  1 open, risk $20.00, max win $144.21
+    [1864] 2026-09-03 parlay NCAAF | San Jose St, Nevada, SMU | +721 | risk $20.00 | win $144.21 | Wagerhouse | RR 3-way: San Jose St ML +135 + Nevada ML +115 + SMU ML -160
+### San Jose St, SMU  --  1 open, risk $20.00, max win $56.38
+    [1852] 2026-09-03 parlay NCAAF | San Jose St, SMU | +282 | risk $20.00 | win $56.38 | Wagerhouse | RR 2-way: San Jose St ML +135 + SMU ML -160
+### San Jose St, Wyoming  --  1 open, risk $20.00, max win $92.80
+    [1849] 2026-09-03 parlay NCAAF | San Jose St, Wyoming | +464 | risk $20.00 | win $92.80 | Wagerhouse | RR 2-way: San Jose St ML +135 + Wyoming ML +140
+### San Jose St, Wyoming, California  --  1 open, risk $20.00, max win $211.24
+    [1859] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, California | +1056 | risk $20.00 | win $211.24 | Wagerhouse | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105
+### San Jose St, Wyoming, California, Nevada  --  1 open, risk $20.00, max win $477.17
+    [1869] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, California, Nevada | +2386 | risk $20.00 | win $477.17 | Wagerhouse | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + Nevada ML +115
+### San Jose St, Wyoming, California, Nevada, SMU  --  1 open, risk $20.00, max win $787.89
+    [1874] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, California, Nevada, SMU | +3939 | risk $20.00 | win $787.89 | Wagerhouse | RR 5-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + Nevada ML +115 + SMU ML -160
+### San Jose St, Wyoming, California, SMU  --  1 open, risk $20.00, max win $355.76
+    [1870] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, California, SMU | +1779 | risk $20.00 | win $355.76 | Wagerhouse | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + California ML +105 + SMU ML -160
+### San Jose St, Wyoming, Nevada  --  1 open, risk $20.00, max win $222.52
+    [1860] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, Nevada | +1113 | risk $20.00 | win $222.52 | Wagerhouse | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115
+### San Jose St, Wyoming, Nevada, SMU  --  1 open, risk $20.00, max win $374.10
+    [1871] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, Nevada, SMU | +1870 | risk $20.00 | win $374.10 | Wagerhouse | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115 + SMU ML -160
+### San Jose St, Wyoming, SMU  --  1 open, risk $20.00, max win $163.30
+    [1861] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, SMU | +816 | risk $20.00 | win $163.30 | Wagerhouse | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + SMU ML -160
 ### Seahawks ML + Rams ML + Lions ML + Eagles  --  1 open, risk $500.00, max win $1,668.00
     [1839] 2026-08-24 parlay NFL | Seahawks ML + Rams ML + Lions ML + Eagles ML | +334 | risk $500.00 | win $1,668.00 | Wagerhouse | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 ### Seattle Mariners  --  3 open, risk $1,500.00, max win $12,850.00
@@ -307,6 +605,20 @@ Teams with open action (79): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1844] 2026-08-25 future NCAAF | Washington State Over 5.5 | +145 | risk $500.00 | win $725.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props Washington State (FLEX WEEK INCLUDED) - Over 5.5
 ### Western Michigan  --  1 open, risk $825.00, max win $500.00
     [1810] 2026-08-24 future NCAAF | Western Michigan Under 7.5 | -165 | risk $825.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Western Michigan - Under 7.5
+### Wyoming, California  --  1 open, risk $20.00, max win $78.40
+    [1853] 2026-09-03 parlay NCAAF | Wyoming, California | +392 | risk $20.00 | win $78.40 | Wagerhouse | RR 2-way: Wyoming ML +140 + California ML +105
+### Wyoming, California, Nevada  --  1 open, risk $20.00, max win $191.56
+    [1865] 2026-09-03 parlay NCAAF | Wyoming, California, Nevada | +958 | risk $20.00 | win $191.56 | Wagerhouse | RR 3-way: Wyoming ML +140 + California ML +105 + Nevada ML +115
+### Wyoming, California, Nevada, SMU  --  1 open, risk $20.00, max win $323.78
+    [1873] 2026-09-03 parlay NCAAF | Wyoming, California, Nevada, SMU | +1619 | risk $20.00 | win $323.78 | Wagerhouse | RR 4-way: Wyoming ML +140 + California ML +105 + Nevada ML +115 + SMU ML -160
+### Wyoming, California, SMU  --  1 open, risk $20.00, max win $139.90
+    [1866] 2026-09-03 parlay NCAAF | Wyoming, California, SMU | +699 | risk $20.00 | win $139.90 | Wagerhouse | RR 3-way: Wyoming ML +140 + California ML +105 + SMU ML -160
+### Wyoming, Nevada  --  1 open, risk $20.00, max win $83.20
+    [1854] 2026-09-03 parlay NCAAF | Wyoming, Nevada | +416 | risk $20.00 | win $83.20 | Wagerhouse | RR 2-way: Wyoming ML +140 + Nevada ML +115
+### Wyoming, Nevada, SMU  --  1 open, risk $20.00, max win $147.70
+    [1867] 2026-09-03 parlay NCAAF | Wyoming, Nevada, SMU | +738 | risk $20.00 | win $147.70 | Wagerhouse | RR 3-way: Wyoming ML +140 + Nevada ML +115 + SMU ML -160
+### Wyoming, SMU  --  1 open, risk $20.00, max win $58.00
+    [1855] 2026-09-03 parlay NCAAF | Wyoming, SMU | +290 | risk $20.00 | win $58.00 | Wagerhouse | RR 2-way: Wyoming ML +140 + SMU ML -160
 
 ==============================================================================
 SETTLED BY SPORT
