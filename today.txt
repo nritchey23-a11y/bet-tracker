@@ -4,17 +4,17 @@ BET TRACKER - TODAY
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-16 20:58 UTC
+Generated: 2026-09-16 21:06 UTC
 
 
-Local date: 2026-09-16  (as of 2026-09-16 13:58 PDT)
+Local date: 2026-09-16  (as of 2026-09-16 14:06 PDT)
 
 This file answers 'what is riding today?' and nothing else. Season-long
 futures are deliberately excluded - see futures.txt for those.
 
 SETTLING TODAY: nothing. No open bet grades today.
 
-NEEDS GRADING - 79 bet(s), risk $1,540.00
+NEEDS GRADING - 78 bet(s), risk $1,040.00
 These events have finished but are still marked pending.
   [1849] 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + Wyoming ML +140
   [1850] 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + California ML +105
@@ -94,9 +94,8 @@ These events have finished but are still marked pending.
   [1924] 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
   [1925] 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
   [1926] 2026-09-11 (5d ago) | risk $10.00 | RR 5-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
-  [1839] 2026-09-14 (2d ago) | risk $500.00 | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 
 NEXT 7 DAYS: nothing scheduled to grade.
 
-CONTEXT: 168 total open bets, $66,800.00 at risk, of which 89 are season-long futures ($65,260.00).
+CONTEXT: 167 total open bets, $66,300.00 at risk, of which 89 are season-long futures ($65,260.00).
 Full near-term list: https://nritchey23-a11y.github.io/bet-tracker/action.txt   Futures: https://nritchey23-a11y.github.io/bet-tracker/futures.txt

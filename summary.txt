@@ -1,18 +1,18 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-09-16T20:58:45.159454+00:00
+Generated: 2026-09-16T21:06:53.885687+00:00
 Total bets in tracker: 1901
 
 OVERALL STATUS
-  Won: 761  Lost: 935  Push: 37  Pending: 168
-  Lifetime settled P&L: $13,884.94
-  Pending risk: $66,800.00   Pending max win: $120,713.97
+  Won: 761  Lost: 936  Push: 37  Pending: 167
+  Lifetime settled P&L: $13,384.94
+  Pending risk: $66,300.00   Pending max win: $119,045.97
 
 RECENT DAYS (most recent 8 with activity)
   2026-09-11: 0W-0L  P&L: $0.00  Pending: 26 (risk $260.00, max $5,586.10)
   2026-09-03: 0W-0L  P&L: $0.00  Pending: 52 (risk $780.00, max $12,987.80)
   2026-08-30: 2W-0L  P&L: $451.54
   2026-08-25: 0W-0L  P&L: $0.00  Pending: 3 (risk $1,650.00, max $1,800.00)
-  2026-08-24: 0W-0L  P&L: $0.00  Pending: 30 (risk $21,350.00, max $32,734.00)
+  2026-08-24: 0W-1L  P&L: -$500.00  Pending: 29 (risk $20,850.00, max $31,066.00)
   2026-08-22: 0W-1L  P&L: -$200.00  Pending: 2 (risk $1,745.00, max $1,000.00)
   2026-08-18: 0W-1L  P&L: -$300.00
   2026-08-16: 0W-1L  P&L: -$278.00
@@ -21,7 +21,7 @@ RECENT WEEKS (Tue–Mon, most recent 4)
   Week 2026-09-08 → 2026-09-14: 0W-0L  P&L: $0.00  Pending: 26 (risk $260.00)
   Week 2026-09-01 → 2026-09-07: 0W-0L  P&L: $0.00  Pending: 52 (risk $780.00)
   Week 2026-08-25 → 2026-08-31: 2W-0L  P&L: $451.54  Pending: 3 (risk $1,650.00)
-  Week 2026-08-18 → 2026-08-24: 0W-2L  P&L: -$500.00  Pending: 32 (risk $23,095.00)
+  Week 2026-08-18 → 2026-08-24: 0W-3L  P&L: -$1,000.00  Pending: 31 (risk $22,595.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1926 | 2026-09-11 | Football/NCAAF | RR 5-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130 | Pick: Kansas, Appalachian St, Duke, JAX State, Rutgers | Odds: +11468 | Risk $10.00 → Win $1,146.81 | Status: pending  Notes: Round Robin 5-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2, ticket #1530210997; placement date approximated to first game day
@@ -118,7 +118,7 @@ Settling today: 0 bet(s), risk $0.00, max win $0.00
 Settling in the next 7 days: 0 bet(s), risk $0.00
     (nothing scheduled)
 
-All near-term open action (game bets + short-dated outrights): 79 bet(s), risk $1,540.00, max win $20,241.90
+All near-term open action (game bets + short-dated outrights): 78 bet(s), risk $1,040.00, max win $18,573.90
     [1849] settles 2026-09-03 | parlay | NCAAF | San Jose St, Wyoming | +464 | risk $20.00 | win $92.80 | Wagerhouse | RR 2-way: San Jose St ML +135 + Wyoming ML +140
     [1850] settles 2026-09-03 | parlay | NCAAF | San Jose St, California | +382 | risk $20.00 | win $76.35 | Wagerhouse | RR 2-way: San Jose St ML +135 + California ML +105
     [1851] settles 2026-09-03 | parlay | NCAAF | San Jose St, Nevada | +405 | risk $20.00 | win $81.05 | Wagerhouse | RR 2-way: San Jose St ML +135 + Nevada ML +115
@@ -197,11 +197,10 @@ All near-term open action (game bets + short-dated outrights): 79 bet(s), risk $
     [1924] settles 2026-09-11 | parlay | NCAAF | Kansas, Duke, JAX State, Rutgers | +3693 | risk $10.00 | win $369.28 | Wagerhouse | RR 4-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
     [1925] settles 2026-09-11 | parlay | NCAAF | Appalachian St, Duke, JAX State, Rutgers | +4349 | risk $10.00 | win $434.93 | Wagerhouse | RR 4-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
     [1926] settles 2026-09-11 | parlay | NCAAF | Kansas, Appalachian St, Duke, JAX State, Rutgers | +11468 | risk $10.00 | win $1,146.81 | Wagerhouse | RR 5-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
-    [1839] settles 2026-09-14 | parlay | NFL | Seahawks ML + Rams ML + Lions ML + Eagles ML | +334 | risk $500.00 | win $1,668.00 | Wagerhouse | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 
 Season-long futures (NOT today's action): 89 bet(s), risk $65,260.00. Detail: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
 
-NEEDS GRADING - 79 bet(s) whose event has already finished but are still marked pending:
+NEEDS GRADING - 78 bet(s) whose event has already finished but are still marked pending:
     [1849] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + Wyoming ML +140
     [1850] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + California ML +105
     [1851] event 2026-09-03 (13d ago) | risk $20.00 | RR 2-way: San Jose St ML +135 + Nevada ML +115
@@ -280,7 +279,6 @@ NEEDS GRADING - 79 bet(s) whose event has already finished but are still marked 
     [1924] event 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Kansas ML +160 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
     [1925] event 2026-09-11 (5d ago) | risk $10.00 | RR 4-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
     [1926] event 2026-09-11 (5d ago) | risk $10.00 | RR 5-way: Kansas ML +160 + Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 + Rutgers ML +130
-    [1839] event 2026-09-14 (2d ago) | risk $500.00 | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 
 Day-by-day near-term view: https://nritchey23-a11y.github.io/bet-tracker/today.txt and https://nritchey23-a11y.github.io/bet-tracker/action.txt
 
@@ -292,7 +290,7 @@ future). Read every line under a heading and report all of them.
 'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,
 Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.
 
-Teams with open action (157): ATL Falcons, Appalachian St, Duke, Appalachian St, Duke, JAX State, Appalachian St, Duke, JAX State, Rutgers, Appalachian St, Duke, Rutgers, Appalachian St, JAX State, Appalachian St, JAX State, Rutgers, Appalachian St, Rutgers, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, California, Hawaii, California, Louisville, California, Louisville, Hawaii, California, Nevada, California, Nevada, SMU, California, SMU, Clemson, Clemson, California, Clemson, California, Hawaii, Clemson, California, Louisville, Clemson, California, Louisville, Hawaii, Clemson, Hawaii, Clemson, Louisville, Clemson, Louisville, Hawaii, Colorado, Colorado State, Colorado, California, Colorado, California, Hawaii, Colorado, California, Louisville, Colorado, California, Louisville, Hawaii, Colorado, Clemson, Colorado, Clemson, California, Colorado, Clemson, California, Hawaii, Colorado, Clemson, California, Louisville, Colorado, Clemson, California, Louisville, Hawaii, Colorado, Clemson, Hawaii, Colorado, Clemson, Louisville, Colorado, Clemson, Louisville, Hawaii, Colorado, Hawaii, Colorado, Louisville, Colorado, Louisville, Hawaii, Connecticut, DAL, DET, Duke, JAX State, Duke, JAX State, Rutgers, Duke, Rutgers, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, JAX State, Rutgers, James Madison, KC Chiefs, Kansas State, Kansas, Appalachian St, Kansas, Appalachian St, Duke, Kansas, Appalachian St, Duke, JAX State, Kansas, Appalachian St, Duke, JAX State, Rutgers, Kansas, Appalachian St, Duke, Rutgers, Kansas, Appalachian St, JAX State, Kansas, Appalachian St, JAX State, Rutgers, Kansas, Appalachian St, Rutgers, Kansas, Duke, Kansas, Duke, JAX State, Kansas, Duke, JAX State, Rutgers, Kansas, Duke, Rutgers, Kansas, JAX State, Kansas, JAX State, Rutgers, Kansas, Rutgers, Kimi Antonelli, LA Chargers, LAC, Louisville, Hawaii, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, Nevada, SMU, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, San Jose St, California, San Jose St, California, Nevada, San Jose St, California, Nevada, SMU, San Jose St, California, SMU, San Jose St, Nevada, San Jose St, Nevada, SMU, San Jose St, SMU, San Jose St, Wyoming, San Jose St, Wyoming, California, San Jose St, Wyoming, California, Nevada, San Jose St, Wyoming, California, Nevada, SMU, San Jose St, Wyoming, California, SMU, San Jose St, Wyoming, Nevada, San Jose St, Wyoming, Nevada, SMU, San Jose St, Wyoming, SMU, Seahawks ML + Rams ML + Lions ML + Eagles, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan, Wyoming, California, Wyoming, California, Nevada, Wyoming, California, Nevada, SMU, Wyoming, California, SMU, Wyoming, Nevada, Wyoming, Nevada, SMU, Wyoming, SMU
+Teams with open action (156): ATL Falcons, Appalachian St, Duke, Appalachian St, Duke, JAX State, Appalachian St, Duke, JAX State, Rutgers, Appalachian St, Duke, Rutgers, Appalachian St, JAX State, Appalachian St, JAX State, Rutgers, Appalachian St, Rutgers, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, California, Hawaii, California, Louisville, California, Louisville, Hawaii, California, Nevada, California, Nevada, SMU, California, SMU, Clemson, Clemson, California, Clemson, California, Hawaii, Clemson, California, Louisville, Clemson, California, Louisville, Hawaii, Clemson, Hawaii, Clemson, Louisville, Clemson, Louisville, Hawaii, Colorado, Colorado State, Colorado, California, Colorado, California, Hawaii, Colorado, California, Louisville, Colorado, California, Louisville, Hawaii, Colorado, Clemson, Colorado, Clemson, California, Colorado, Clemson, California, Hawaii, Colorado, Clemson, California, Louisville, Colorado, Clemson, California, Louisville, Hawaii, Colorado, Clemson, Hawaii, Colorado, Clemson, Louisville, Colorado, Clemson, Louisville, Hawaii, Colorado, Hawaii, Colorado, Louisville, Colorado, Louisville, Hawaii, Connecticut, DAL, DET, Duke, JAX State, Duke, JAX State, Rutgers, Duke, Rutgers, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, JAX State, Rutgers, James Madison, KC Chiefs, Kansas State, Kansas, Appalachian St, Kansas, Appalachian St, Duke, Kansas, Appalachian St, Duke, JAX State, Kansas, Appalachian St, Duke, JAX State, Rutgers, Kansas, Appalachian St, Duke, Rutgers, Kansas, Appalachian St, JAX State, Kansas, Appalachian St, JAX State, Rutgers, Kansas, Appalachian St, Rutgers, Kansas, Duke, Kansas, Duke, JAX State, Kansas, Duke, JAX State, Rutgers, Kansas, Duke, Rutgers, Kansas, JAX State, Kansas, JAX State, Rutgers, Kansas, Rutgers, Kimi Antonelli, LA Chargers, LAC, Louisville, Hawaii, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, Nevada, SMU, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, San Jose St, California, San Jose St, California, Nevada, San Jose St, California, Nevada, SMU, San Jose St, California, SMU, San Jose St, Nevada, San Jose St, Nevada, SMU, San Jose St, SMU, San Jose St, Wyoming, San Jose St, Wyoming, California, San Jose St, Wyoming, California, Nevada, San Jose St, Wyoming, California, Nevada, SMU, San Jose St, Wyoming, California, SMU, San Jose St, Wyoming, Nevada, San Jose St, Wyoming, Nevada, SMU, San Jose St, Wyoming, SMU, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan, Wyoming, California, Wyoming, California, Nevada, Wyoming, California, Nevada, SMU, Wyoming, California, SMU, Wyoming, Nevada, Wyoming, Nevada, SMU, Wyoming, SMU
 
 ### ATL Falcons  --  1 open, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 future NFL | ATL Falcons | +450 | risk $250.00 | win $1,125.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC South - ATL Falcons
@@ -561,8 +559,6 @@ Teams with open action (157): ATL Falcons, Appalachian St, Duke, Appalachian St,
     [1871] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, Nevada, SMU | +1870 | risk $20.00 | win $374.10 | Wagerhouse | RR 4-way: San Jose St ML +135 + Wyoming ML +140 + Nevada ML +115 + SMU ML -160
 ### San Jose St, Wyoming, SMU  --  1 open, risk $20.00, max win $163.30
     [1861] 2026-09-03 parlay NCAAF | San Jose St, Wyoming, SMU | +816 | risk $20.00 | win $163.30 | Wagerhouse | RR 3-way: San Jose St ML +135 + Wyoming ML +140 + SMU ML -160
-### Seahawks ML + Rams ML + Lions ML + Eagles  --  1 open, risk $500.00, max win $1,668.00
-    [1839] 2026-08-24 parlay NFL | Seahawks ML + Rams ML + Lions ML + Eagles ML | +334 | risk $500.00 | win $1,668.00 | Wagerhouse | 4-leg parlay: SEA ML -195 + LAR ML -195 + DET ML -330 + PHI ML -220
 ### Seattle Mariners  --  3 open, risk $1,500.00, max win $12,850.00
     [1750] 2026-05-27 future MLB | Seattle Mariners | +110 | risk $1,000.00 | win $1,100.00 | Wagerhouse | MLB 2026 Division Winner - American League West - Seattle Mariners
     [1836] 2026-08-24 future MLB | Seattle Mariners | +3500 | risk $250.00 | win $8,750.00 | Wagerhouse | MLB 2026 World Series Winner - Seattle Mariners
@@ -624,7 +620,7 @@ Teams with open action (157): ATL Falcons, Appalachian St, Duke, Appalachian St,
 SETTLED BY SPORT
 ==============================================================================
   Sport         Record               Risked      Net P&L      ROI
-  Football      396W-440L-11P   $204,545.51   $18,119.05     8.9%
+  Football      396W-441L-11P   $205,045.51   $17,619.05     8.6%
   Golf          51W-66L-3P       $41,026.17    $5,194.75    12.7%
   MMA           3W-1L-0P         $10,625.00    $2,728.83    25.7%
   Horse Racing  4W-15L-1P         $3,374.00      $335.23     9.9%
