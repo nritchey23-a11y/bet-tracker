@@ -1,29 +1,30 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-09-16T21:54:47.607403+00:00
-Total bets in tracker: 1970
+Generated: 2026-09-17T14:57:53.035636+00:00
+Total bets in tracker: 1971
 
 OVERALL STATUS
-  Won: 782  Lost: 1031  Push: 37  Pending: 120
+  Won: 782  Lost: 1031  Push: 37  Pending: 121
   Lifetime settled P&L: $10,214.28
-  Pending risk: $66,720.00   Pending max win: $107,656.48
+  Pending risk: $67,020.00   Pending max win: $110,496.48
 
 RECENT DAYS (most recent 8 with activity)
   2026-09-20: 0W-0L  P&L: $0.00  Pending: 29 (risk $1,460.00, max $5,021.41)
   2026-09-19: 0W-0L  P&L: $0.00  Pending: 2 (risk $0.00, max $2,163.00)
+  2026-09-17: 0W-0L  P&L: $0.00  Pending: 1 (risk $300.00, max $2,840.00)
   2026-09-13: 1W-6L  P&L: -$1,450.00
   2026-09-12: 3W-4L  P&L: -$1,860.00
   2026-09-11: 1W-26L  P&L: -$470.02
   2026-09-10: 1W-0L  P&L: $250.00
   2026-09-09: 1W-0L  P&L: $250.00
-  2026-09-06: 1W-0L  P&L: $500.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-09-15 → 2026-09-21: 0W-0L  P&L: $0.00  Pending: 31 (risk $1,460.00)
+  Week 2026-09-15 → 2026-09-21: 0W-0L  P&L: $0.00  Pending: 32 (risk $1,760.00)
   Week 2026-09-08 → 2026-09-14: 7W-36L  P&L: -$3,280.02
   Week 2026-09-01 → 2026-09-07: 14W-59L  P&L: $109.36
   Week 2026-08-25 → 2026-08-31: 2W-0L  P&L: $451.54  Pending: 3 (risk $1,650.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#1996 | 2026-09-17 | Football/NFL | 4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307 | Pick: Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs ML | Odds:  | Risk $300.00 → Win $2,840.00 | Status: pending  Notes: Wagerhouse. Ticket #G11734231; to-win $2,840 as shown on ticket (true-odds calc ~$3,124 at +1041; book rounds down parlay payout); placement date approx game day (DET/BUF 9/17 TNF, IND/KC 9/20 SNF)
 #1995 | 2026-09-20 | Football/NFL | RR 5-way: Jets ML +160 + Bengals ML +130 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110 | Pick: Jets ML, Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | Odds: +6179 | Risk $10.00 → Win $617.90 | Status: pending  Notes: Round Robin 5-way parlay (5-team RR, all 26 combos); Wagerhouse; $10 per combo; placement date approx game day. Ticket #1534186793
 #1994 | 2026-09-20 | Football/NFL | RR 4-way: Bengals ML +130 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110 | Pick: Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | Odds: +2315 | Risk $10.00 → Win $231.50 | Status: pending  Notes: Round Robin 4-way parlay (5-team RR, all 26 combos); Wagerhouse; $10 per combo; placement date approx game day
 #1993 | 2026-09-20 | Football/NFL | RR 4-way: Jets ML +160 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110 | Pick: Jets ML, Commanders ML, Broncos -3, Panthers -2.5 | Odds: +2630 | Risk $10.00 → Win $263.00 | Status: pending  Notes: Round Robin 4-way parlay (5-team RR, all 26 combos); Wagerhouse; $10 per combo; placement date approx game day
@@ -103,17 +104,16 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1919 | 2026-09-11 | Football/NCAAF | RR 3-way: Appalachian St ML +205 + JAX State ML +115 + Rutgers ML +130 | Pick: Appalachian St, JAX State, Rutgers | Odds: +1408 | Risk $10.00 → Win $140.82 | Status: lost  P&L: -$10.00  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day. Result (2026): lost via: JAX State, Rutgers
 #1918 | 2026-09-11 | Football/NCAAF | RR 3-way: Appalachian St ML +205 + Duke ML +195 + Rutgers ML +130 | Pick: Appalachian St, Duke, Rutgers | Odds: +1969 | Risk $10.00 → Win $196.94 | Status: lost  P&L: -$10.00  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day. Result (2026): lost via: Rutgers
 #1917 | 2026-09-11 | Football/NCAAF | RR 3-way: Appalachian St ML +205 + Duke ML +195 + JAX State ML +115 | Pick: Appalachian St, Duke, JAX State | Odds: +1834 | Risk $10.00 → Win $183.45 | Status: lost  P&L: -$10.00  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day. Result (2026): lost via: JAX State
-#1916 | 2026-09-11 | Football/NCAAF | RR 3-way: Kansas ML +160 + JAX State ML +115 + Rutgers ML +130 | Pick: Kansas, JAX State, Rutgers | Odds: +1186 | Risk $10.00 → Win $118.57 | Status: lost  P&L: -$10.00  Notes: Round Robin 3-way parlay; Wagerhouse full 5-team RR (26 combos), CFB Week 2 (ticket on ID 1926); placement date approximated to first game day. Result (2026): lost via: Kansas, JAX State, Rutgers
 
 ==============================================================================
-TODAY AND NEAR-TERM ACTION  (local date 2026-09-16)
+TODAY AND NEAR-TERM ACTION  (local date 2026-09-17)
 ==============================================================================
 Use this section for 'what is pending today', 'what is riding this week',
 'what is my action today'. Season-long futures are listed separately below
 and should NOT be reported as today's action. 'settles' = when it grades.
 
-Settling today: 0 bet(s), risk $0.00, max win $0.00
-    (nothing grades today)
+Settling today: 1 bet(s), risk $300.00, max win $2,840.00
+    [1996] settles 2026-09-17 | parlay | NFL | Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs ML | n/a | risk $300.00 | win $2,840.00 | Wagerhouse | 4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307
 
 Settling in the next 7 days: 31 bet(s), risk $1,460.00
     [1965] settles 2026-09-19 | parlay | NFL/NCAAF | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
@@ -148,7 +148,8 @@ Settling in the next 7 days: 31 bet(s), risk $1,460.00
     [1994] settles 2026-09-20 | parlay | NFL | Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +2315 | risk $10.00 | win $231.50 | Wagerhouse | RR 4-way: Bengals ML +130 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110
     [1995] settles 2026-09-20 | parlay | NFL | Jets ML, Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +6179 | risk $10.00 | win $617.90 | Wagerhouse | RR 5-way: Jets ML +160 + Bengals ML +130 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110
 
-All near-term open action (game bets + short-dated outrights): 31 bet(s), risk $1,460.00, max win $7,184.41
+All near-term open action (game bets + short-dated outrights): 32 bet(s), risk $1,760.00, max win $10,024.41
+    [1996] settles 2026-09-17 | parlay | NFL | Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs ML | n/a | risk $300.00 | win $2,840.00 | Wagerhouse | 4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307
     [1965] settles 2026-09-19 | parlay | NFL/NCAAF | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
     [1968] settles 2026-09-19 | parlay | NFL/NCAAF | Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | +508 | risk $0.00 | win $1,270.00 | Wagerhouse | 6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350
     [1969] settles 2026-09-20 | parlay | NFL | Eagles -1, Chargers -1 | n/a | risk $600.00 | win $545.00 | Wagerhouse | 2-team teaser: Eagles -1 + Chargers -1
@@ -193,7 +194,7 @@ future). Read every line under a heading and report all of them.
 'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,
 Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.
 
-Teams with open action (107): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Bengals ML, Broncos, Bengals ML, Broncos -3, Panthers, Bengals ML, Commanders, Bengals ML, Commanders ML, Broncos, Bengals ML, Commanders ML, Broncos -3, Panthers, Bengals ML, Commanders ML, Panthers, Bengals ML, Panthers, Bengals ML, Texas Tech ML, Rams, Boise State, Broncos -2.5, Patriots, Broncos -3, Panthers, Buffalo, CHI Bears, CIN Bengals, Clemson, Colorado, Colorado State, Commanders ML, Broncos, Commanders ML, Broncos -3, Panthers, Commanders ML, Panthers, Connecticut, DAL, DET, Eagles -1, Chargers, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, Jets ML, Bengals, Jets ML, Bengals ML, Broncos, Jets ML, Bengals ML, Broncos -3, Panthers, Jets ML, Bengals ML, Commanders, Jets ML, Bengals ML, Commanders ML, Broncos, Jets ML, Bengals ML, Commanders ML, Panthers, Jets ML, Bengals ML, Panthers, Jets ML, Broncos, Jets ML, Broncos -3, Panthers, Jets ML, Commanders, Jets ML, Commanders ML, Broncos, Jets ML, Commanders ML, Broncos -3, Panthers, Jets ML, Commanders ML, Panthers, Jets ML, Panthers, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 50.5, Chiefs, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
+Teams with open action (108): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Bengals ML, Broncos, Bengals ML, Broncos -3, Panthers, Bengals ML, Commanders, Bengals ML, Commanders ML, Broncos, Bengals ML, Commanders ML, Broncos -3, Panthers, Bengals ML, Commanders ML, Panthers, Bengals ML, Panthers, Bengals ML, Texas Tech ML, Rams, Boise State, Broncos -2.5, Patriots, Broncos -3, Panthers, Buffalo, CHI Bears, CIN Bengals, Clemson, Colorado, Colorado State, Commanders ML, Broncos, Commanders ML, Broncos -3, Panthers, Commanders ML, Panthers, Connecticut, DAL, DET, Eagles -1, Chargers, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, Jets ML, Bengals, Jets ML, Bengals ML, Broncos, Jets ML, Bengals ML, Broncos -3, Panthers, Jets ML, Bengals ML, Commanders, Jets ML, Bengals ML, Commanders ML, Broncos, Jets ML, Bengals ML, Commanders ML, Panthers, Jets ML, Bengals ML, Panthers, Jets ML, Broncos, Jets ML, Broncos -3, Panthers, Jets ML, Commanders, Jets ML, Commanders ML, Broncos, Jets ML, Commanders ML, Broncos -3, Panthers, Jets ML, Commanders ML, Panthers, Jets ML, Panthers, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 50.5, Chiefs, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
 
 ### ATL Falcons  --  1 open, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 future NFL | ATL Falcons | +450 | risk $250.00 | win $1,125.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC South - ATL Falcons
@@ -405,6 +406,8 @@ Teams with open action (107): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor,
     [1381] 2026-04-29 future NFL | Under 10.5 Wins | -115 | risk $575.00 | win $500.00 | GameDayWagers | Detroit Lions regular season wins Under 10.5
 ### Under 11.5 Wins  --  1 open, risk $725.00, max win $500.00
     [1383] 2026-04-29 future NFL | Under 11.5 Wins | -145 | risk $725.00 | win $500.00 | GameDayWagers | Baltimore Ravens regular season wins Under 11.5
+### Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs  --  1 open, risk $300.00, max win $2,840.00
+    [1996] 2026-09-17 parlay NFL | Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs ML | n/a | risk $300.00 | win $2,840.00 | Wagerhouse | 4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307
 ### Under 8.5  --  1 open, risk $625.00, max win $1,000.00
     [1416] 2026-05-17 futures NFL | Under 8.5 | +160 | risk $625.00 | win $1,000.00 | Wagerhouse | Dallas Cowboys Regular Season Wins Under 8.5
 ### Under 9.5 Wins  --  1 open, risk $550.00, max win $500.00

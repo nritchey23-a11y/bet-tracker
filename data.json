@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-16T21:54:47.607403+00:00",
- "count": 1970,
+ "generated_at": "2026-09-17T14:57:53.035636+00:00",
+ "count": 1971,
  "bets": [
   {
    "ID": "1",
@@ -33491,6 +33491,23 @@
    "Status": "pending",
    "Result Date": "",
    "Notes": "Round Robin 5-way parlay (5-team RR, all 26 combos); Wagerhouse; $10 per combo; placement date approx game day. Ticket #1534186793"
+  },
+  {
+   "ID": "1996",
+   "Date": "2026-09-17",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Lions/Bills + Colts/Chiefs (NFL Week 2 parlay)",
+   "Type": "parlay",
+   "Description": "4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307",
+   "Pick": "Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs ML",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "300",
+   "To Win": "2840.00",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse. Ticket #G11734231; to-win $2,840 as shown on ticket (true-odds calc ~$3,124 at +1041; book rounds down parlay payout); placement date approx game day (DET/BUF 9/17 TNF, IND/KC 9/20 SNF)"
   }
  ]
 }
