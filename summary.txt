@@ -1,14 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-09-18T13:15:38.505410+00:00
-Total bets in tracker: 1988
+Generated: 2026-09-18T14:33:33.713473+00:00
+Total bets in tracker: 1987
 
 OVERALL STATUS
-  Won: 782  Lost: 1031  Push: 37  Pending: 138
+  Won: 782  Lost: 1031  Push: 37  Pending: 137
   Lifetime settled P&L: $10,214.28
-  Pending risk: $67,320.00   Pending max win: $132,985.48
+  Pending risk: $67,320.00   Pending max win: $129,964.48
 
 RECENT DAYS (most recent 8 with activity)
-  2026-09-20: 0W-0L  P&L: $0.00  Pending: 45 (risk $1,460.00, max $27,143.41)
+  2026-09-20: 0W-0L  P&L: $0.00  Pending: 44 (risk $1,460.00, max $24,122.41)
   2026-09-19: 0W-0L  P&L: $0.00  Pending: 3 (risk $300.00, max $2,530.00)
   2026-09-17: 0W-0L  P&L: $0.00  Pending: 1 (risk $300.00, max $2,840.00)
   2026-09-13: 1W-6L  P&L: -$1,450.00
@@ -18,7 +18,7 @@ RECENT DAYS (most recent 8 with activity)
   2026-09-09: 1W-0L  P&L: $250.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-09-15 → 2026-09-21: 0W-0L  P&L: $0.00  Pending: 49 (risk $2,060.00)
+  Week 2026-09-15 → 2026-09-21: 0W-0L  P&L: $0.00  Pending: 48 (risk $2,060.00)
   Week 2026-09-08 → 2026-09-14: 7W-36L  P&L: -$3,280.02
   Week 2026-09-01 → 2026-09-07: 14W-59L  P&L: $109.36
   Week 2026-08-25 → 2026-08-31: 2W-0L  P&L: $451.54  Pending: 3 (risk $1,650.00)
@@ -38,7 +38,6 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #2002 | 2026-09-20 | Football/NFL | 5-leg parlay [Free Play]: Jets ML +155 + Buccaneers ML -425 + Bears ML -220 + Bengals ML +130 + Jaguars ML +130 | Pick: Jets ML, Buccaneers ML, Bears ML, Bengals ML, Jaguars ML | Odds:  | Risk $0.00 → Win $1,522.00 | Status: pending  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; risk logged 0 per user. Pending-list screenshot has no ticket number; placement date approx game day
 #2001 | 2026-09-20 | Football/NFL | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Texans ML -150 | Pick: Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Texans ML | Odds:  | Risk $0.00 → Win $1,527.00 | Status: pending  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; risk logged 0 per user. Pending-list screenshot has no ticket number; placement date approx game day
 #2000 | 2026-09-20 | Football/NFL | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Bengals ML +130 | Pick: Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Bengals ML | Odds:  | Risk $0.00 → Win $2,171.00 | Status: pending  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; risk logged 0 per user. Pending-list screenshot has no ticket number; placement date approx game day
-#1999 | 2026-09-20 | Football/NFL | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130 | Pick: Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | Odds:  | Risk $0.00 → Win $3,021.00 | Status: pending  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; risk logged 0 per user. Pending-list screenshot has no ticket number; placement date approx game day; separately listed identical pending ticket
 #1998 | 2026-09-20 | Football/NFL | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130 | Pick: Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | Odds:  | Risk $0.00 → Win $3,021.00 | Status: pending  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; risk logged 0 per user. Pending-list screenshot has no ticket number; placement date approx game day
 #1997 | 2026-09-19 | Multi/NFL/NCAAF | 2-leg parlay: Buccaneers ML -425 + Louisville ML -125 | Pick: Buccaneers ML, Louisville ML | Odds:  | Risk $300.00 → Win $367.00 | Status: pending  Notes: Wagerhouse pending; payout as shown on Pending list; no ticket number displayed; placement date approx game day (Louisville 9/19)
 #1996 | 2026-09-17 | Football/NFL | 4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307 | Pick: Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs ML | Odds:  | Risk $300.00 → Win $2,840.00 | Status: pending  Notes: Wagerhouse. Ticket #G11734231; to-win $2,840 as shown on ticket (true-odds calc ~$3,124 at +1041; book rounds down parlay payout); placement date approx game day (DET/BUF 9/17 TNF, IND/KC 9/20 SNF)
@@ -104,6 +103,7 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1936 | 2026-09-04 | Multi/NCAAF/MLB | 4-leg parlay: Washington -20.5 -152 + Yankees ML -161 + USC -20.5 -132 + Oregon -20.5 -182 | Pick: Washington -20.5, Yankees ML, USC -20.5, Oregon -20.5 | Odds: +632 | Risk $300.00 → Win $1,895.76 | Status: lost  P&L: -$300.00  Notes: Wagerhouse ticket #G11066611; placement date approx game day
 #1935 | 2026-09-03 | Football/NCAAF | 3-leg parlay: Demond Williams Jr. 1+ TDs + Demond Williams Jr. O51.5 rush yds + Washington ML | Pick: Demond TD, Demond O51.5 rush, Washington ML | Odds:  | Risk $0.00 → Win $268.00 | Status: won  P&L: $268.00  Notes: Ticket 436480797_1; stake and leg odds not shown on ticket; profit shown as 268.0 with no sign - user confirmed won
 #1934 | 2026-09-05 | Football/NCAAF | 2-leg parlay: LSU ML -400 + New Mexico -9.5 -120 (B+1/2) | Pick: LSU ML, New Mexico -9.5 | Odds: +129 | Risk $300.00 → Win $387.50 | Status: won  P&L: $387.50  Notes: Wagerhouse; placement date approx game day; NM leg bought half point to -9
+#1933 | 2026-09-05 | Football/NCAAF | 2-leg parlay: Michigan -27.5 -110 + Memphis ML -450 | Pick: Michigan -27.5, Memphis ML | Odds: +133 | Risk $300.00 → Win $400.00 | Status: lost  P&L: -$300.00  Notes: Wagerhouse; placement date approx game day
 
 ==============================================================================
 TODAY AND NEAR-TERM ACTION  (local date 2026-09-18)
@@ -115,7 +115,7 @@ and should NOT be reported as today's action. 'settles' = when it grades.
 Settling today: 0 bet(s), risk $0.00, max win $0.00
     (nothing grades today)
 
-Settling in the next 7 days: 48 bet(s), risk $1,760.00
+Settling in the next 7 days: 47 bet(s), risk $1,760.00
     [1997] settles 2026-09-19 | parlay | NFL/NCAAF | Buccaneers ML, Louisville ML | n/a | risk $300.00 | win $367.00 | Wagerhouse | 2-leg parlay: Buccaneers ML -425 + Louisville ML -125
     [1965] settles 2026-09-19 | parlay | NFL/NCAAF | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
     [1968] settles 2026-09-19 | parlay | NFL/NCAAF | Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | +508 | risk $0.00 | win $1,270.00 | Wagerhouse | 6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350
@@ -149,7 +149,6 @@ Settling in the next 7 days: 48 bet(s), risk $1,760.00
     [1994] settles 2026-09-20 | parlay | NFL | Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +2315 | risk $10.00 | win $231.50 | Wagerhouse | RR 4-way: Bengals ML +130 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110
     [1995] settles 2026-09-20 | parlay | NFL | Jets ML, Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +6179 | risk $10.00 | win $617.90 | Wagerhouse | RR 5-way: Jets ML +160 + Bengals ML +130 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110
     [1998] settles 2026-09-20 | parlay | NFL | Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $3,021.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130
-    [1999] settles 2026-09-20 | parlay | NFL | Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $3,021.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130
     [2000] settles 2026-09-20 | parlay | NFL | Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Bengals ML | n/a | risk $0.00 | win $2,171.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Bengals ML +130
     [2001] settles 2026-09-20 | parlay | NFL | Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Texans ML | n/a | risk $0.00 | win $1,527.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Texans ML -150
     [2002] settles 2026-09-20 | parlay | NFL | Jets ML, Buccaneers ML, Bears ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $1,522.00 | Wagerhouse | 5-leg parlay [Free Play]: Jets ML +155 + Buccaneers ML -425 + Bears ML -220 + Bengals ML +130 + Jaguars ML +130
@@ -165,7 +164,7 @@ Settling in the next 7 days: 48 bet(s), risk $1,760.00
     [2012] settles 2026-09-20 | parlay | NFL | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Bengals ML | n/a | risk $0.00 | win $643.00 | Wagerhouse | 5-leg parlay [Free Play]: Broncos ML -150 + Buccaneers ML -425 + Packers ML -175 + Bears ML -220 + Bengals ML +130
     [2013] settles 2026-09-20 | parlay | NFL | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Texans ML | n/a | risk $0.00 | win $448.00 | Wagerhouse | 5-leg parlay [Free Play]: Broncos ML -150 + Buccaneers ML -425 + Packers ML -175 + Bears ML -220 + Texans ML -150
 
-All near-term open action (game bets + short-dated outrights): 49 bet(s), risk $2,060.00, max win $32,513.41
+All near-term open action (game bets + short-dated outrights): 48 bet(s), risk $2,060.00, max win $29,492.41
     [1996] settles 2026-09-17 | parlay | NFL | Under 55, Jones O9.5 rush, Mahomes O19.5 rush, Chiefs ML | n/a | risk $300.00 | win $2,840.00 | Wagerhouse | 4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307
     [1997] settles 2026-09-19 | parlay | NFL/NCAAF | Buccaneers ML, Louisville ML | n/a | risk $300.00 | win $367.00 | Wagerhouse | 2-leg parlay: Buccaneers ML -425 + Louisville ML -125
     [1965] settles 2026-09-19 | parlay | NFL/NCAAF | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
@@ -200,7 +199,6 @@ All near-term open action (game bets + short-dated outrights): 49 bet(s), risk $
     [1994] settles 2026-09-20 | parlay | NFL | Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +2315 | risk $10.00 | win $231.50 | Wagerhouse | RR 4-way: Bengals ML +130 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110
     [1995] settles 2026-09-20 | parlay | NFL | Jets ML, Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +6179 | risk $10.00 | win $617.90 | Wagerhouse | RR 5-way: Jets ML +160 + Bengals ML +130 + Commanders ML +175 + Broncos -3 +100 + Panthers -2.5 -110
     [1998] settles 2026-09-20 | parlay | NFL | Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $3,021.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130
-    [1999] settles 2026-09-20 | parlay | NFL | Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $3,021.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130
     [2000] settles 2026-09-20 | parlay | NFL | Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Bengals ML | n/a | risk $0.00 | win $2,171.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Bengals ML +130
     [2001] settles 2026-09-20 | parlay | NFL | Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Texans ML | n/a | risk $0.00 | win $1,527.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Texans ML -150
     [2002] settles 2026-09-20 | parlay | NFL | Jets ML, Buccaneers ML, Bears ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $1,522.00 | Wagerhouse | 5-leg parlay [Free Play]: Jets ML +155 + Buccaneers ML -425 + Bears ML -220 + Bengals ML +130 + Jaguars ML +130
@@ -475,9 +473,8 @@ Teams with open action (122): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor,
     [2000] 2026-09-20 parlay NFL | Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Bengals ML | n/a | risk $0.00 | win $2,171.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Bengals ML +130
 ### Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Texans  --  1 open, risk $0.00, max win $1,527.00
     [2001] 2026-09-20 parlay NFL | Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Texans ML | n/a | risk $0.00 | win $1,527.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Texans ML -150
-### Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars  --  2 open, risk $0.00, max win $6,042.00
+### Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars  --  1 open, risk $0.00, max win $3,021.00
     [1998] 2026-09-20 parlay NFL | Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $3,021.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130
-    [1999] 2026-09-20 parlay NFL | Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $3,021.00 | Wagerhouse | 5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130
 ### Virginia Tech  --  1 open, risk $500.00, max win $600.00
     [1729] 2026-06-09 future NCAAF | Virginia Tech Under 6.5 | +120 | risk $500.00 | win $600.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Virginia Tech - Under 6.5
 ### WAS Commanders  --  1 open, risk $250.00, max win $1,250.00

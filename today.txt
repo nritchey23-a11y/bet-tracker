@@ -4,10 +4,10 @@ BET TRACKER - TODAY
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-18 13:15 UTC
+Generated: 2026-09-18 14:33 UTC
 
 
-Local date: 2026-09-18  (as of 2026-09-18 06:15 PDT)
+Local date: 2026-09-18  (as of 2026-09-18 07:33 PDT)
 
 This file answers 'what is riding today?' and nothing else. Season-long
 futures are deliberately excluded - see futures.txt for those.
@@ -18,7 +18,7 @@ NEEDS GRADING - 1 bet(s), risk $300.00
 These events have finished but are still marked pending.
   [1996] 2026-09-17 (1d ago) | risk $300.00 | 4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307
 
-NEXT 7 DAYS: 48 bet(s)   risk $1,760.00   max win $29,673.41
+NEXT 7 DAYS: 47 bet(s)   risk $1,760.00   max win $26,652.41
   [1997] 2026-09-19 | Buccaneers ML, Louisville ML | n/a | risk $300.00 | win $367.00 | Wagerhouse
   [1965] 2026-09-19 | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse
   [1968] 2026-09-19 | Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | +508 | risk $0.00 | win $1,270.00 | Wagerhouse
@@ -52,7 +52,6 @@ NEXT 7 DAYS: 48 bet(s)   risk $1,760.00   max win $29,673.41
   [1994] 2026-09-20 | Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +2315 | risk $10.00 | win $231.50 | Wagerhouse
   [1995] 2026-09-20 | Jets ML, Bengals ML, Commanders ML, Broncos -3, Panthers -2.5 | +6179 | risk $10.00 | win $617.90 | Wagerhouse
   [1998] 2026-09-20 | Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $3,021.00 | Wagerhouse
-  [1999] 2026-09-20 | Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $3,021.00 | Wagerhouse
   [2000] 2026-09-20 | Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Bengals ML | n/a | risk $0.00 | win $2,171.00 | Wagerhouse
   [2001] 2026-09-20 | Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Texans ML | n/a | risk $0.00 | win $1,527.00 | Wagerhouse
   [2002] 2026-09-20 | Jets ML, Buccaneers ML, Bears ML, Bengals ML, Jaguars ML | n/a | risk $0.00 | win $1,522.00 | Wagerhouse
@@ -68,5 +67,5 @@ NEXT 7 DAYS: 48 bet(s)   risk $1,760.00   max win $29,673.41
   [2012] 2026-09-20 | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Bengals ML | n/a | risk $0.00 | win $643.00 | Wagerhouse
   [2013] 2026-09-20 | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Texans ML | n/a | risk $0.00 | win $448.00 | Wagerhouse
 
-CONTEXT: 138 total open bets, $67,320.00 at risk, of which 89 are season-long futures ($65,260.00).
+CONTEXT: 137 total open bets, $67,320.00 at risk, of which 89 are season-long futures ($65,260.00).
 Full near-term list: https://nritchey23-a11y.github.io/bet-tracker/action.txt   Futures: https://nritchey23-a11y.github.io/bet-tracker/futures.txt

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18T13:15:38.505410+00:00",
- "count": 1988,
+ "generated_at": "2026-09-18T14:33:33.713473+00:00",
+ "count": 1987,
  "bets": [
   {
    "ID": "1",
@@ -33542,23 +33542,6 @@
    "Status": "pending",
    "Result Date": "",
    "Notes": "Wagerhouse Free Play (FP) bonus wager - no cash stake; risk logged 0 per user. Pending-list screenshot has no ticket number; placement date approx game day"
-  },
-  {
-   "ID": "1999",
-   "Date": "2026-09-20",
-   "Sport": "Football",
-   "League": "NFL",
-   "Event": "NFL Week 2 5-leg Free Play parlay",
-   "Type": "parlay",
-   "Description": "5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130",
-   "Pick": "Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML",
-   "Opponent": "",
-   "Odds": "",
-   "Risk": "0",
-   "To Win": "3021.00",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse Free Play (FP) bonus wager - no cash stake; risk logged 0 per user. Pending-list screenshot has no ticket number; placement date approx game day; separately listed identical pending ticket"
   },
   {
    "ID": "2000",

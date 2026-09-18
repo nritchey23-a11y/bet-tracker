@@ -4,7 +4,7 @@ BET TRACKER - OPEN BETS BY TEAM
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-18 13:15 UTC
+Generated: 2026-09-18 14:33 UTC
 
 
 Alphabetical index of every team/selection with at least one OPEN bet.
@@ -626,11 +626,8 @@ QUICK INDEX: ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Bengals ML, Bron
         5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Broncos ML -150 + Buccaneers ML -425 + Texans ML -150
         pick Vikings ML, Jets ML, Broncos ML, Buccaneers ML, Texans ML | odds n/a | risk $0.00 | to win $1,527.00 | book Wagerhouse
 
-### Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars  --  2 open bets, risk $0.00, max win $6,042.00
+### Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars  --  1 open bet, risk $0.00, max win $3,021.00
     [1998] 2026-09-20 | parlay | Football/NFL
-        5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130
-        pick Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | odds n/a | risk $0.00 | to win $3,021.00 | book Wagerhouse
-    [1999] 2026-09-20 | parlay | Football/NFL
         5-leg parlay [Free Play]: Vikings ML +180 + Jets ML +155 + Buccaneers ML -425 + Bengals ML +130 + Jaguars ML +130
         pick Vikings ML, Jets ML, Buccaneers ML, Bengals ML, Jaguars ML | odds n/a | risk $0.00 | to win $3,021.00 | book Wagerhouse
 
