@@ -4,12 +4,12 @@ BET TRACKER - BREAKDOWNS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-18 14:33 UTC
+Generated: 2026-09-19 03:12 UTC
 
 
 BY SPORT
   Key                         Record               Risked      Net P&L      ROI
-  Football                    417W-533L-11P   $236,358.81   $15,348.39     6.5%
+  Football                    417W-535L-11P   $237,158.81   $14,548.39     6.1%
   Golf                        51W-66L-3P       $41,026.17    $5,194.75    12.7%
   MMA                         3W-1L-0P         $10,625.00    $2,728.83    25.7%
   Horse Racing                4W-15L-1P         $3,374.00      $335.23     9.9%
@@ -23,8 +23,8 @@ BY SPORT
 
 BY LEAGUE
   Key                         Record               Risked      Net P&L      ROI
-  Football/NFL                150W-198L-2P     $87,463.51    $9,047.56    10.3%
-  Football/NCAAF              267W-335L-9P    $148,895.30    $6,300.83     4.2%
+  Football/NFL                150W-199L-2P     $87,763.51    $8,747.56    10.0%
+  Football/NCAAF              267W-336L-9P    $149,395.30    $5,800.83     3.9%
   Golf/PGA Tour               48W-63L-2P       $35,539.17    $4,907.75    13.8%
   Horse Racing/KY Oaks        3W-0L-0P            $870.00    $2,422.23   278.4%
   Mixed/Mixed                 2W-1L-0P            $950.00    $1,703.00   179.3%
@@ -68,7 +68,7 @@ BY LEAGUE
 
 BY BET TYPE
   Key                         Record               Risked      Net P&L      ROI
-  parlay                      134W-330L-0P    $114,995.45   $14,738.24    12.8%
+  parlay                      134W-331L-0P    $115,295.45   $14,438.24    12.5%
   moneyline                   53W-63L-0P       $49,865.44    $5,002.27    10.0%
   outright                    3W-2L-0P          $9,580.00    $2,900.00    30.3%
   future                      16W-29L-1P       $28,755.00    $2,532.85     8.8%
@@ -119,14 +119,14 @@ BY BET TYPE
   money line                  16W-14L-0P        $8,023.50     -$906.00   -11.3%
   1st 5 money line            11W-12L-4P        $4,761.25   -$1,252.64   -26.3%
   round robin                 4W-17L-0P         $4,670.35   -$2,183.64   -46.8%
-  total                       87W-102L-3P      $35,240.78   -$3,585.81   -10.2%
+  total                       87W-103L-3P      $35,740.78   -$4,085.81   -11.4%
   spread                      342W-339L-14P   $165,330.40   -$9,182.83    -5.6%
 
 BY BOOK (Notes-derived; most rows untagged)
   Key                         Record               Risked      Net P&L      ROI
   Untagged                    698W-839L-31P   $384,096.58   $12,673.30     3.3%
   GameDayWagers               15W-30L-1P       $17,679.09      $908.62     5.1%
-  Wagerhouse                  69W-162L-5P      $75,991.20   -$3,367.64    -4.4%
+  Wagerhouse                  69W-164L-5P      $76,791.20   -$4,167.64    -5.4%
 
 BY MONTH PLACED
   Key                         Record               Risked      Net P&L      ROI
@@ -161,14 +161,14 @@ BY MONTH PLACED
   2023-10                     51W-72L-2P       $13,404.00   -$1,360.63   -10.2%
   2023-01                     38W-52L-2P       $12,293.41   -$1,870.41   -15.2%
   2025-10                     21W-23L-0P       $21,798.00   -$2,504.50   -11.5%
-  2026-09                     21W-95L-0P       $32,213.30   -$3,170.66    -9.8%
+  2026-09                     21W-97L-0P       $33,013.30   -$3,970.66   -12.0%
   2026-06                     83W-118L-16P     $52,012.96   -$5,531.85   -10.6%
   2025-12                     39W-72L-1P       $59,092.00   -$7,861.22   -13.3%
 
 STREAKS (settled, chronological by result date)
   Longest win streak : 10
   Longest loss streak: 24
-  Last 40 results    : LLWLLLLLLLLLLLLLLLLLLLLLLLLWLWWLLLLLLLWL
+  Last 40 results    : WLLLLLLLLLLLLLLLLLLLLLLLLWLWWLLLLLLLWLLL
 
 TOP 10 WINS (realized profit)
   +$5,001.85     [1316] 2026-01-03    2305 | 8-leg parlay:  + LV +195 + DEN -1000 + JAC -715 + MIN -575 + H

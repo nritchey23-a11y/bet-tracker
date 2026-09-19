@@ -4,19 +4,25 @@ BET TRACKER - TODAY
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-18 14:33 UTC
+Generated: 2026-09-19 03:12 UTC
 
 
-Local date: 2026-09-18  (as of 2026-09-18 07:33 PDT)
+Local date: 2026-09-18  (as of 2026-09-18 20:12 PDT)
 
 This file answers 'what is riding today?' and nothing else. Season-long
 futures are deliberately excluded - see futures.txt for those.
 
-SETTLING TODAY: nothing. No open bet grades today.
+SETTLING TODAY: 3 bet(s)   risk $1,100.00   max win $1,935.00
 
-NEEDS GRADING - 1 bet(s), risk $300.00
-These events have finished but are still marked pending.
-  [1996] 2026-09-17 (1d ago) | risk $300.00 | 4-leg parlay: Lions/Bills U55 -110 + Daniel Jones O9.5 rush yds +105 + Mahomes O19.5 rush yds +120 + Chiefs ML -307
+[2015] settles 2026-09-18 (TODAY) | Football/NCAAF | parlay | placed 2026-09-18
+     2-leg parlay: Wake Forest +7.5 2H +100 + LSU ML -155
+     pick Wake Forest +7.5 (2H), LSU ML | odds n/a | risk $500.00 | to win $1,145.00 | book Wagerhouse
+[2016] settles 2026-09-18 (TODAY) | Football/NCAAF | parlay | placed 2026-09-18
+     2-leg parlay: Houston/Texas Tech U52.5 -110 + Texas Tech ML -324
+     pick Under 52.5, Texas Tech ML | odds n/a | risk $300.00 | to win $445.00 | book Wagerhouse
+[2017] settles 2026-09-18 (TODAY) | Football/NCAAF | parlay | placed 2026-09-18
+     2-leg parlay: LSU ML -155 + Texas Tech ML -325
+     pick LSU ML, Texas Tech ML | odds n/a | risk $300.00 | to win $345.00 | book Wagerhouse
 
 NEXT 7 DAYS: 47 bet(s)   risk $1,760.00   max win $26,652.41
   [1997] 2026-09-19 | Buccaneers ML, Louisville ML | n/a | risk $300.00 | win $367.00 | Wagerhouse
@@ -67,5 +73,5 @@ NEXT 7 DAYS: 47 bet(s)   risk $1,760.00   max win $26,652.41
   [2012] 2026-09-20 | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Bengals ML | n/a | risk $0.00 | win $643.00 | Wagerhouse
   [2013] 2026-09-20 | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Texans ML | n/a | risk $0.00 | win $448.00 | Wagerhouse
 
-CONTEXT: 137 total open bets, $67,320.00 at risk, of which 89 are season-long futures ($65,260.00).
+CONTEXT: 139 total open bets, $68,120.00 at risk, of which 89 are season-long futures ($65,260.00).
 Full near-term list: https://nritchey23-a11y.github.io/bet-tracker/action.txt   Futures: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
