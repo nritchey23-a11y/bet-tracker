@@ -4,30 +4,36 @@ BET TRACKER - TODAY
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-19 03:12 UTC
+Generated: 2026-09-19 17:11 UTC
 
 
-Local date: 2026-09-18  (as of 2026-09-18 20:12 PDT)
+Local date: 2026-09-19  (as of 2026-09-19 10:11 PDT)
 
 This file answers 'what is riding today?' and nothing else. Season-long
 futures are deliberately excluded - see futures.txt for those.
 
-SETTLING TODAY: 3 bet(s)   risk $1,100.00   max win $1,935.00
+SETTLING TODAY: 4 bet(s)   risk $800.00   max win $3,493.00
 
-[2015] settles 2026-09-18 (TODAY) | Football/NCAAF | parlay | placed 2026-09-18
-     2-leg parlay: Wake Forest +7.5 2H +100 + LSU ML -155
-     pick Wake Forest +7.5 (2H), LSU ML | odds n/a | risk $500.00 | to win $1,145.00 | book Wagerhouse
-[2016] settles 2026-09-18 (TODAY) | Football/NCAAF | parlay | placed 2026-09-18
-     2-leg parlay: Houston/Texas Tech U52.5 -110 + Texas Tech ML -324
-     pick Under 52.5, Texas Tech ML | odds n/a | risk $300.00 | to win $445.00 | book Wagerhouse
-[2017] settles 2026-09-18 (TODAY) | Football/NCAAF | parlay | placed 2026-09-18
-     2-leg parlay: LSU ML -155 + Texas Tech ML -325
-     pick LSU ML, Texas Tech ML | odds n/a | risk $300.00 | to win $345.00 | book Wagerhouse
+[2018] settles 2026-09-19 (TODAY) | Football/NCAAF | parlay | placed 2026-09-19
+     2-leg parlay: Kansas State -13.5 -121 + Wisconsin -7.5 -166
+     pick Kansas State -13.5, Wisconsin -7.5 | odds n/a | risk $500.00 | to win $963.00 | book Wagerhouse
+[1997] settles 2026-09-19 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-09-19
+     2-leg parlay: Buccaneers ML -425 + Louisville ML -125
+     pick Buccaneers ML, Louisville ML | odds n/a | risk $300.00 | to win $367.00 | book Wagerhouse
+[1965] settles 2026-09-19 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-09-19
+     3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
+     pick Bengals ML, Texas Tech ML, Rams ML | odds +298 | risk $0.00 | to win $893.00 | book Wagerhouse
+[1968] settles 2026-09-19 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-09-19
+     6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350
+     pick Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | odds +508 | risk $0.00 | to win $1,270.00 | book Wagerhouse
 
-NEXT 7 DAYS: 47 bet(s)   risk $1,760.00   max win $26,652.41
-  [1997] 2026-09-19 | Buccaneers ML, Louisville ML | n/a | risk $300.00 | win $367.00 | Wagerhouse
-  [1965] 2026-09-19 | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse
-  [1968] 2026-09-19 | Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | +508 | risk $0.00 | win $1,270.00 | Wagerhouse
+NEEDS GRADING - 3 bet(s), risk $1,100.00
+These events have finished but are still marked pending.
+  [2015] 2026-09-18 (1d ago) | risk $500.00 | 2-leg parlay: Wake Forest +7.5 2H +100 + LSU ML -155
+  [2016] 2026-09-18 (1d ago) | risk $300.00 | 2-leg parlay: Houston/Texas Tech U52.5 -110 + Texas Tech ML -324
+  [2017] 2026-09-18 (1d ago) | risk $300.00 | 2-leg parlay: LSU ML -155 + Texas Tech ML -325
+
+NEXT 7 DAYS: 44 bet(s)   risk $1,460.00   max win $24,122.41
   [1969] 2026-09-20 | Eagles -1, Chargers -1 | n/a | risk $600.00 | win $545.00 | Wagerhouse
   [1966] 2026-09-20 | Over 50.5, Chiefs ML | +155 | risk $300.00 | win $463.00 | Wagerhouse
   [1967] 2026-09-20 | Broncos -2.5, Patriots ML | +170 | risk $300.00 | win $511.00 | Wagerhouse
@@ -73,5 +79,5 @@ NEXT 7 DAYS: 47 bet(s)   risk $1,760.00   max win $26,652.41
   [2012] 2026-09-20 | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Bengals ML | n/a | risk $0.00 | win $643.00 | Wagerhouse
   [2013] 2026-09-20 | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Texans ML | n/a | risk $0.00 | win $448.00 | Wagerhouse
 
-CONTEXT: 139 total open bets, $68,120.00 at risk, of which 89 are season-long futures ($65,260.00).
+CONTEXT: 140 total open bets, $68,620.00 at risk, of which 89 are season-long futures ($65,260.00).
 Full near-term list: https://nritchey23-a11y.github.io/bet-tracker/action.txt   Futures: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
