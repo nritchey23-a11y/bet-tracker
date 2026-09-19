@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-19T17:27:13.182809+00:00",
- "count": 1995,
+ "generated_at": "2026-09-19T18:56:07.508809+00:00",
+ "count": 1996,
  "bets": [
   {
    "ID": "1",
@@ -33916,6 +33916,23 @@
    "Status": "pending",
    "Result Date": "",
    "Notes": "Wagerhouse ticket #1535912400; placement date approx game day (Sat 9/19); to-win as shown on slip (computed 560.61)"
+  },
+  {
+   "ID": "2022",
+   "Date": "2026-09-19",
+   "Sport": "Football",
+   "League": "NCAAF",
+   "Event": "Kansas State vs Tulane",
+   "Type": "spread",
+   "Description": "Tulane +17.5 +179",
+   "Pick": "Tulane +17.5",
+   "Opponent": "Kansas State",
+   "Odds": "+179",
+   "Risk": "500",
+   "To Win": "895.00",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G312942090; game Sat 9/19; note tracker also holds KSU -13.5 in parlay #2018 (opposite side)"
   }
  ]
 }

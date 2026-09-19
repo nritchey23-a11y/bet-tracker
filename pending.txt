@@ -4,11 +4,11 @@ BET TRACKER - ALL OPEN BETS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-19 17:27 UTC
+Generated: 2026-09-19 18:56 UTC
 
 
-Open bets: 141   Total risk: $69,070.00   Max win: $130,947.48
-  of which near-term action: 52 (risk $3,810.00)
+Open bets: 142   Total risk: $69,570.00   Max win: $131,842.48
+  of which near-term action: 53 (risk $4,310.00)
   of which season-long futures: 89 (risk $65,260.00)
 Local date: 2026-09-19. 'settles' = when the bet grades.
 
@@ -27,6 +27,9 @@ These events have finished but are still marked pending.
 [2021] settles 2026-09-19 (TODAY) | Football/NCAAF | parlay | placed 2026-09-19
      2-leg parlay: Yale -20.5 -110 + Texas A&M ML -900
      pick Yale -20.5, Texas A&M ML | odds +112 | risk $500.00 | to win $560.00 | book Wagerhouse
+[2022] settles 2026-09-19 (TODAY) | Football/NCAAF | spread | placed 2026-09-19
+     Tulane +17.5 +179
+     pick Tulane +17.5 | odds +179 | risk $500.00 | to win $895.00 | book Wagerhouse
 [1997] settles 2026-09-19 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-09-19
      2-leg parlay: Buccaneers ML -425 + Louisville ML -125
      pick Buccaneers ML, Louisville ML | odds n/a | risk $300.00 | to win $367.00 | book Wagerhouse
