@@ -1,15 +1,15 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-09-19T17:11:03.980047+00:00
-Total bets in tracker: 1992
+Generated: 2026-09-19T17:20:12.941338+00:00
+Total bets in tracker: 1993
 
 OVERALL STATUS
-  Won: 782  Lost: 1033  Push: 37  Pending: 140
+  Won: 782  Lost: 1033  Push: 37  Pending: 141
   Lifetime settled P&L: $9,414.28
-  Pending risk: $68,620.00   Pending max win: $130,022.48
+  Pending risk: $68,870.00   Pending max win: $130,832.48
 
 RECENT DAYS (most recent 8 with activity)
   2026-09-20: 0W-0L  P&L: $0.00  Pending: 44 (risk $1,460.00, max $24,122.41)
-  2026-09-19: 0W-0L  P&L: $0.00  Pending: 4 (risk $800.00, max $3,493.00)
+  2026-09-19: 0W-0L  P&L: $0.00  Pending: 5 (risk $1,050.00, max $4,303.00)
   2026-09-18: 0W-1L  P&L: -$500.00  Pending: 3 (risk $1,100.00, max $1,935.00)
   2026-09-17: 0W-1L  P&L: -$300.00
   2026-09-13: 1W-6L  P&L: -$1,450.00
@@ -18,12 +18,13 @@ RECENT DAYS (most recent 8 with activity)
   2026-09-10: 1W-0L  P&L: $250.00
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-09-15 → 2026-09-21: 0W-2L  P&L: -$800.00  Pending: 51 (risk $3,360.00)
+  Week 2026-09-15 → 2026-09-21: 0W-2L  P&L: -$800.00  Pending: 52 (risk $3,610.00)
   Week 2026-09-08 → 2026-09-14: 7W-36L  P&L: -$3,280.02
   Week 2026-09-01 → 2026-09-07: 14W-59L  P&L: $109.36
   Week 2026-08-25 → 2026-08-31: 2W-0L  P&L: $451.54  Pending: 3 (risk $1,650.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#2019 | 2026-09-19 | Multi/NCAAF/NFL | 5-leg parlay: Ole Miss +3 -110 + Texas A&M ML -900 + Ravens ML -425 + Cincinnati ML -700 + Patriots ML -240 | Pick: Ole Miss +3, Texas A&M ML, Ravens ML, Cincinnati ML, Patriots ML | Odds:  | Risk $250.00 → Win $810.00 | Status: pending  Notes: Wagerhouse pending; no ticket number shown; placement date approx game day (college legs Sat 9/19, NFL legs Sun 9/20); to-win as shown on slip (computed 810.18)
 #2018 | 2026-09-19 | Football/NCAAF | 2-leg parlay: Kansas State -13.5 -121 + Wisconsin -7.5 -166 | Pick: Kansas State -13.5, Wisconsin -7.5 | Odds:  | Risk $500.00 → Win $963.00 | Status: pending  Notes: Wagerhouse ticket #G312922433; placement date approx game day (Sat 9/19); to-win as shown on slip (computed 962.55)
 #2017 | 2026-09-18 | Football/NCAAF | 2-leg parlay: LSU ML -155 + Texas Tech ML -325 | Pick: LSU ML, Texas Tech ML | Odds:  | Risk $300.00 → Win $345.00 | Status: pending  Notes: Wagerhouse pending; no ticket number shown; placement date approx game day (TTU 9/18; LSU game date not shown on slip)
 #2016 | 2026-09-18 | Football/NCAAF | 2-leg parlay: Houston/Texas Tech U52.5 -110 + Texas Tech ML -324 | Pick: Under 52.5, Texas Tech ML | Odds:  | Risk $300.00 → Win $445.00 | Status: pending  Notes: Wagerhouse ticket #G11840719; game Fri 9/18 night; to-win as shown on slip (computed 449.49, book rounds down)
@@ -103,7 +104,6 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1941 | 2026-09-05 | Football/NCAAF | 3-leg parlay: Oregon 1H team total O20.5 -137 + Demond Williams Jr. TD -185 + Demond Williams Jr. O56.5 rush yds -113 | Pick: Oregon 1H TT O20.5, Demond TD, Demond O56.5 rush | Odds: +402 | Risk $300.00 → Win $1,207.03 | Status: lost  P&L: -$300.00  Notes: Wagerhouse ticket #G11148904; placement date approx game day
 #1940 | 2026-09-05 | Football/NCAAF | Nebraska -9.5 -114 | Pick: Nebraska -9.5 | Odds: -114 | Risk $500.00 → Win $438.60 | Status: won  P&L: $438.60  Notes: Wagerhouse ticket #G310774033; placement date approx game day
 #1939 | 2026-09-05 | Football/NCAAF | Nebraska -9.5 -115 | Pick: Nebraska -9.5 | Odds: -115 | Risk $500.00 → Win $434.78 | Status: won  P&L: $434.78  Notes: Wagerhouse ticket #G310773931; placement date approx game day
-#1938 | 2026-09-05 | Football/NCAAF | Nebraska 1st Half -1.5 -103 | Pick: Nebraska 1H -1.5 | Odds: -103 | Risk $300.00 → Win $291.26 | Status: lost  P&L: -$300.00  Notes: Wagerhouse ticket #G310772661; placement date approx game day
 
 ==============================================================================
 TODAY AND NEAR-TERM ACTION  (local date 2026-09-19)
@@ -112,9 +112,10 @@ Use this section for 'what is pending today', 'what is riding this week',
 'what is my action today'. Season-long futures are listed separately below
 and should NOT be reported as today's action. 'settles' = when it grades.
 
-Settling today: 4 bet(s), risk $800.00, max win $3,493.00
+Settling today: 5 bet(s), risk $1,050.00, max win $4,303.00
     [2018] settles 2026-09-19 | parlay | NCAAF | Kansas State -13.5, Wisconsin -7.5 | n/a | risk $500.00 | win $963.00 | Wagerhouse | 2-leg parlay: Kansas State -13.5 -121 + Wisconsin -7.5 -166
     [1997] settles 2026-09-19 | parlay | NFL/NCAAF | Buccaneers ML, Louisville ML | n/a | risk $300.00 | win $367.00 | Wagerhouse | 2-leg parlay: Buccaneers ML -425 + Louisville ML -125
+    [2019] settles 2026-09-19 | parlay | NCAAF/NFL | Ole Miss +3, Texas A&M ML, Ravens ML, Cincinnati ML, Patriots ML | n/a | risk $250.00 | win $810.00 | Wagerhouse | 5-leg parlay: Ole Miss +3 -110 + Texas A&M ML -900 + Ravens ML -425 + Cincinnati ML -700 + Patriots ML -240
     [1965] settles 2026-09-19 | parlay | NFL/NCAAF | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
     [1968] settles 2026-09-19 | parlay | NFL/NCAAF | Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | +508 | risk $0.00 | win $1,270.00 | Wagerhouse | 6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350
 
@@ -164,12 +165,13 @@ Settling in the next 7 days: 44 bet(s), risk $1,460.00
     [2012] settles 2026-09-20 | parlay | NFL | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Bengals ML | n/a | risk $0.00 | win $643.00 | Wagerhouse | 5-leg parlay [Free Play]: Broncos ML -150 + Buccaneers ML -425 + Packers ML -175 + Bears ML -220 + Bengals ML +130
     [2013] settles 2026-09-20 | parlay | NFL | Broncos ML, Buccaneers ML, Packers ML, Bears ML, Texans ML | n/a | risk $0.00 | win $448.00 | Wagerhouse | 5-leg parlay [Free Play]: Broncos ML -150 + Buccaneers ML -425 + Packers ML -175 + Bears ML -220 + Texans ML -150
 
-All near-term open action (game bets + short-dated outrights): 51 bet(s), risk $3,360.00, max win $29,550.41
+All near-term open action (game bets + short-dated outrights): 52 bet(s), risk $3,610.00, max win $30,360.41
     [2015] settles 2026-09-18 | parlay | NCAAF | Wake Forest +7.5 (2H), LSU ML | n/a | risk $500.00 | win $1,145.00 | Wagerhouse | 2-leg parlay: Wake Forest +7.5 2H +100 + LSU ML -155
     [2016] settles 2026-09-18 | parlay | NCAAF | Under 52.5, Texas Tech ML | n/a | risk $300.00 | win $445.00 | Wagerhouse | 2-leg parlay: Houston/Texas Tech U52.5 -110 + Texas Tech ML -324
     [2017] settles 2026-09-18 | parlay | NCAAF | LSU ML, Texas Tech ML | n/a | risk $300.00 | win $345.00 | Wagerhouse | 2-leg parlay: LSU ML -155 + Texas Tech ML -325
     [2018] settles 2026-09-19 | parlay | NCAAF | Kansas State -13.5, Wisconsin -7.5 | n/a | risk $500.00 | win $963.00 | Wagerhouse | 2-leg parlay: Kansas State -13.5 -121 + Wisconsin -7.5 -166
     [1997] settles 2026-09-19 | parlay | NFL/NCAAF | Buccaneers ML, Louisville ML | n/a | risk $300.00 | win $367.00 | Wagerhouse | 2-leg parlay: Buccaneers ML -425 + Louisville ML -125
+    [2019] settles 2026-09-19 | parlay | NCAAF/NFL | Ole Miss +3, Texas A&M ML, Ravens ML, Cincinnati ML, Patriots ML | n/a | risk $250.00 | win $810.00 | Wagerhouse | 5-leg parlay: Ole Miss +3 -110 + Texas A&M ML -900 + Ravens ML -425 + Cincinnati ML -700 + Patriots ML -240
     [1965] settles 2026-09-19 | parlay | NFL/NCAAF | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
     [1968] settles 2026-09-19 | parlay | NFL/NCAAF | Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | +508 | risk $0.00 | win $1,270.00 | Wagerhouse | 6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350
     [1969] settles 2026-09-20 | parlay | NFL | Eagles -1, Chargers -1 | n/a | risk $600.00 | win $545.00 | Wagerhouse | 2-team teaser: Eagles -1 + Chargers -1

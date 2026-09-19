@@ -4,11 +4,11 @@ BET TRACKER - ALL OPEN BETS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-19 17:11 UTC
+Generated: 2026-09-19 17:20 UTC
 
 
-Open bets: 140   Total risk: $68,620.00   Max win: $130,022.48
-  of which near-term action: 51 (risk $3,360.00)
+Open bets: 141   Total risk: $68,870.00   Max win: $130,832.48
+  of which near-term action: 52 (risk $3,610.00)
   of which season-long futures: 89 (risk $65,260.00)
 Local date: 2026-09-19. 'settles' = when the bet grades.
 
@@ -28,6 +28,9 @@ These events have finished but are still marked pending.
 [1997] settles 2026-09-19 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-09-19
      2-leg parlay: Buccaneers ML -425 + Louisville ML -125
      pick Buccaneers ML, Louisville ML | odds n/a | risk $300.00 | to win $367.00 | book Wagerhouse
+[2019] settles 2026-09-19 (TODAY) | Multi/NCAAF/NFL | parlay | placed 2026-09-19
+     5-leg parlay: Ole Miss +3 -110 + Texas A&M ML -900 + Ravens ML -425 + Cincinnati ML -700 + Patriots ML -240
+     pick Ole Miss +3, Texas A&M ML, Ravens ML, Cincinnati ML, Patriots ML | odds n/a | risk $250.00 | to win $810.00 | book Wagerhouse
 [1965] settles 2026-09-19 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-09-19
      3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
      pick Bengals ML, Texas Tech ML, Rams ML | odds +298 | risk $0.00 | to win $893.00 | book Wagerhouse
