@@ -4,21 +4,20 @@ BET TRACKER - NEAR-TERM ACTION
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-19 17:20 UTC
+Generated: 2026-09-19 17:22 UTC
 
 
-Local date: 2026-09-19  (as of 2026-09-19 10:20 PDT)
+Local date: 2026-09-19  (as of 2026-09-19 10:22 PDT)
 
 Game bets and short-dated outrights only, sorted by SETTLE date (soonest
 first). Season-long futures are excluded on purpose - they live in
 futures.txt. 'Event Date' is when the bet grades, not when it was placed.
 
-Near-term open: 52   Risk: $3,610.00   Max win: $30,360.41
+Near-term open: 51   Risk: $3,310.00   Max win: $29,915.41
 
-NEEDS GRADING - 3 bet(s), risk $1,100.00
+NEEDS GRADING - 2 bet(s), risk $800.00
 These events have finished but are still marked pending.
   [2015] 2026-09-18 (1d ago) | risk $500.00 | 2-leg parlay: Wake Forest +7.5 2H +100 + LSU ML -155
-  [2016] 2026-09-18 (1d ago) | risk $300.00 | 2-leg parlay: Houston/Texas Tech U52.5 -110 + Texas Tech ML -324
   [2017] 2026-09-18 (1d ago) | risk $300.00 | 2-leg parlay: LSU ML -155 + Texas Tech ML -325
 
 --- 2026-09-19 Sat (TODAY)  (5 bet(s), risk $1,050.00, max win $4,303.00) ---
