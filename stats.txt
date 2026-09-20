@@ -4,12 +4,12 @@ BET TRACKER - BREAKDOWNS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-20 20:50 UTC
+Generated: 2026-09-20 23:39 UTC
 
 
 BY SPORT
   Key                         Record               Risked      Net P&L      ROI
-  Football                    419W-538L-11P   $239,458.81   $14,593.84     6.1%
+  Football                    420W-568L-11P   $240,418.81   $13,677.75     5.7%
   Golf                        51W-66L-3P       $41,026.17    $5,194.75    12.7%
   MMA                         3W-1L-0P         $10,625.00    $2,728.83    25.7%
   Horse Racing                4W-15L-1P         $3,374.00      $335.23     9.9%
@@ -23,8 +23,8 @@ BY SPORT
 
 BY LEAGUE
   Key                         Record               Risked      Net P&L      ROI
-  Football/NFL                150W-199L-2P     $87,763.51    $8,747.56    10.0%
-  Football/NCAAF              269W-339L-9P    $151,695.30    $5,846.28     3.9%
+  Football/NFL                151W-227L-2P     $87,923.51    $8,631.47     9.8%
+  Football/NCAAF              269W-341L-9P    $152,495.30    $5,046.28     3.3%
   Golf/PGA Tour               48W-63L-2P       $35,539.17    $4,907.75    13.8%
   Horse Racing/KY Oaks        3W-0L-0P            $870.00    $2,422.23   278.4%
   Mixed/Mixed                 2W-1L-0P            $950.00    $1,703.00   179.3%
@@ -69,7 +69,7 @@ BY LEAGUE
 
 BY BET TYPE
   Key                         Record               Risked      Net P&L      ROI
-  parlay                      134W-336L-0P    $117,145.45   $12,588.24    10.7%
+  parlay                      135W-366L-0P    $118,105.45   $11,672.15     9.9%
   moneyline                   53W-63L-0P       $49,865.44    $5,002.27    10.0%
   outright                    3W-2L-0P          $9,580.00    $2,900.00    30.3%
   future                      16W-29L-1P       $28,755.00    $2,532.85     8.8%
@@ -127,7 +127,7 @@ BY BOOK (Notes-derived; most rows untagged)
   Key                         Record               Risked      Net P&L      ROI
   Untagged                    698W-839L-31P   $384,096.58   $12,673.30     3.3%
   GameDayWagers               15W-30L-1P       $17,679.09      $908.62     5.1%
-  Wagerhouse                  71W-169L-5P      $79,641.20   -$4,672.19    -5.9%
+  Wagerhouse                  72W-199L-5P      $80,601.20   -$5,588.28    -6.9%
 
 BY MONTH PLACED
   Key                         Record               Risked      Net P&L      ROI
@@ -162,14 +162,14 @@ BY MONTH PLACED
   2023-10                     51W-72L-2P       $13,404.00   -$1,360.63   -10.2%
   2023-01                     38W-52L-2P       $12,293.41   -$1,870.41   -15.2%
   2025-10                     21W-23L-0P       $21,798.00   -$2,504.50   -11.5%
-  2026-09                     23W-102L-0P      $35,863.30   -$4,475.21   -12.5%
+  2026-09                     24W-132L-0P      $36,823.30   -$5,391.30   -14.6%
   2026-06                     83W-118L-16P     $52,012.96   -$5,531.85   -10.6%
   2025-12                     39W-72L-1P       $59,092.00   -$7,861.22   -13.3%
 
 STREAKS (settled, chronological by result date)
   Longest win streak : 10
   Longest loss streak: 24
-  Last 40 results    : LLLLLLLLLLLLLLLLLLWLWWLLLLLLLWLLLLLLLLWW
+  Last 40 results    : LLLLLLLLLWWLLLLWLLLLLLLLLLLLLLLLLLLLLLLL
 
 TOP 10 WINS (realized profit)
   +$5,001.85     [1316] 2026-01-03    2305 | 8-leg parlay:  + LV +195 + DEN -1000 + JAC -715 + MIN -575 + H
