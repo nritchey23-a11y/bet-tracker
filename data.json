@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-20T02:52:32.072234+00:00",
- "count": 1997,
+ "generated_at": "2026-09-20T20:50:48.432284+00:00",
+ "count": 2001,
  "bets": [
   {
    "ID": "1",
@@ -33950,6 +33950,74 @@
    "Status": "won",
    "Result Date": "2026-09-19",
    "Notes": "Wagerhouse ticket #G312951041; won +450.45 per book Activity 9/19 (displayed +450); risk $500 derived from odds (standard unit); game Sat 9/19"
+  },
+  {
+   "ID": "2024",
+   "Date": "2026-09-20",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Buccaneers/Browns + Broncos/Jaguars (NFL Week 2 parlay)",
+   "Type": "parlay",
+   "Description": "2-leg parlay: Browns ML +104 + Broncos ML +166",
+   "Pick": "Browns ML, Broncos ML",
+   "Opponent": "",
+   "Odds": "+443",
+   "Risk": "500",
+   "To Win": "2213.00",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G313241510; to-win as shown on slip (computed 2213.20)"
+  },
+  {
+   "ID": "2025",
+   "Date": "2026-09-20",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Buccaneers/Browns + Broncos/Jaguars (NFL Week 2 parlay)",
+   "Type": "parlay",
+   "Description": "2-leg parlay: Browns ML +104 + Jaguars ML -220",
+   "Pick": "Browns ML, Jaguars ML",
+   "Opponent": "",
+   "Odds": "+197",
+   "Risk": "500",
+   "To Win": "983.00",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G313241275; opposite side of DEN/JAX from #2024; to-win as shown on slip (computed 983.64)"
+  },
+  {
+   "ID": "2026",
+   "Date": "2026-09-20",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Anytime-TD props parlay (NFL Week 2)",
+   "Type": "parlay",
+   "Description": "4-leg TD-prop parlay: Jadarian Price O0.5 TD +164 + Marvin Harrison Jr O0.5 TD +380 + Ashton Jeanty O0.5 TD -116 + Christian McCaffrey O1.5 TD +220",
+   "Pick": "Price O0.5 TD, Harrison Jr O0.5 TD, Jeanty O0.5 TD, McCaffrey O1.5 TD",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "70",
+   "To Win": "4972.00",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G11949191; same-game/prop pricing; to-win as shown on slip (true-odds calc ~5,217; book rounds down props)"
+  },
+  {
+   "ID": "2027",
+   "Date": "2026-09-19",
+   "Sport": "Multi",
+   "League": "NCAAF/NFL",
+   "Event": "Ole Miss (9/19) + Seahawks (9/20) parlay",
+   "Type": "parlay",
+   "Description": "2-leg parlay: Mississippi ML +125 + Seahawks ML -205",
+   "Pick": "Mississippi ML, Seahawks ML",
+   "Opponent": "",
+   "Odds": "+235",
+   "Risk": "500",
+   "To Win": "1173.00",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse pending; no ticket number shown; Ole Miss ML leg won 9/19 per slip (Seahawks leg pending 9/20); placement date approx game day; to-win as shown (computed 1173.77)"
   }
  ]
 }
