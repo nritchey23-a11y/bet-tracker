@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-19T18:56:07.508809+00:00",
- "count": 1996,
+ "generated_at": "2026-09-20T02:52:32.072234+00:00",
+ "count": 1997,
  "bets": [
   {
    "ID": "1",
@@ -33862,9 +33862,9 @@
    "Odds": "",
    "Risk": "500",
    "To Win": "963.00",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse ticket #G312922433; placement date approx game day (Sat 9/19); to-win as shown on slip (computed 962.55)"
+   "Status": "lost",
+   "Result Date": "2026-09-19",
+   "Notes": "Wagerhouse ticket #G312922433; placement date approx game day (Sat 9/19); to-win as shown on slip (computed 962.55) - LOST 2026-09-19: graded lost per book Activity 9/19 (-$500)"
   },
   {
    "ID": "2019",
@@ -33879,9 +33879,9 @@
    "Odds": "",
    "Risk": "250",
    "To Win": "810.00",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse pending; no ticket number shown; placement date approx game day (college legs Sat 9/19, NFL legs Sun 9/20); to-win as shown on slip (computed 810.18)"
+   "Status": "lost",
+   "Result Date": "2026-09-19",
+   "Notes": "Wagerhouse pending; no ticket number shown; placement date approx game day (college legs Sat 9/19, NFL legs Sun 9/20); to-win as shown on slip (computed 810.18) - LOST 2026-09-19: Texas A&M ML -900 leg lost; Cincinnati ML leg had won; per book Activity 9/19 (-$250)"
   },
   {
    "ID": "2020",
@@ -33913,9 +33913,9 @@
    "Odds": "+112",
    "Risk": "500",
    "To Win": "560.00",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse ticket #1535912400; placement date approx game day (Sat 9/19); to-win as shown on slip (computed 560.61)"
+   "Status": "lost",
+   "Result Date": "2026-09-19",
+   "Notes": "Wagerhouse ticket #1535912400; placement date approx game day (Sat 9/19); to-win as shown on slip (computed 560.61) - LOST 2026-09-19: Yale -20.5 and Texas A&M ML legs both lost; per book Activity 9/19 (-$500)"
   },
   {
    "ID": "2022",
@@ -33930,9 +33930,26 @@
    "Odds": "+179",
    "Risk": "500",
    "To Win": "895.00",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse ticket #G312942090; game Sat 9/19; note tracker also holds KSU -13.5 in parlay #2018 (opposite side)"
+   "Status": "won",
+   "Result Date": "2026-09-19",
+   "Notes": "Wagerhouse ticket #G312942090; game Sat 9/19; note tracker also holds KSU -13.5 in parlay #2018 (opposite side) - WON 2026-09-19: Tulane +17.5 covered at +179; +895 per book Activity 9/19"
+  },
+  {
+   "ID": "2023",
+   "Date": "2026-09-19",
+   "Sport": "Football",
+   "League": "NCAAF",
+   "Event": "Cincinnati vs Miami (OH)",
+   "Type": "spread",
+   "Description": "Cincinnati -3.5 -111",
+   "Pick": "Cincinnati -3.5",
+   "Opponent": "Miami (OH)",
+   "Odds": "-111",
+   "Risk": "500",
+   "To Win": "450.45",
+   "Status": "won",
+   "Result Date": "2026-09-19",
+   "Notes": "Wagerhouse ticket #G312951041; won +450.45 per book Activity 9/19 (displayed +450); risk $500 derived from odds (standard unit); game Sat 9/19"
   }
  ]
 }
