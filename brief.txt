@@ -4,30 +4,30 @@ BET TRACKER - BRIEF
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-20 23:39 UTC
+Generated: 2026-09-21 21:50 UTC
 
 
 HEADLINE
-  Total bets logged      : 2001
-  Settled record         : 785W-1068L-37P
-  Win rate (excl. pushes): 42.4%
-  Total risked (settled) : $482,376.87
-  Net profit/loss        : $7,993.64
-  ROI                    : +1.66%
-  Open bets              : 111
-  Open risk (exposure)   : $68,430.00
-  Open max win           : $117,790.57
+  Total bets logged      : 2003
+  Settled record         : 792W-1081L-37P
+  Win rate (excl. pushes): 42.3%
+  Total risked (settled) : $485,546.87
+  Net profit/loss        : $10,955.64
+  ROI                    : +2.26%
+  Open bets              : 93
+  Open risk (exposure)   : $66,060.00
+  Open max win           : $105,246.07
 
-TODAY (2026-09-20)
-  Settling today         : 18 bet(s), risk $2,370.00
-  Settling next 7 days   : 19 bet(s), risk $3,370.00
-  Near-term action open  : 22 bet(s), risk $3,170.00
+TODAY (2026-09-21)
+  Settling today         : 1 bet(s), risk $400.00
+  Settling next 7 days   : 2 bet(s), risk $1,400.00
+  Near-term action open  : 4 bet(s), risk $800.00
   Season-long futures    : 89 bet(s), risk $65,260.00
-  NEEDS GRADING          : 4 bet(s) whose event has finished - see https://nritchey23-a11y.github.io/bet-tracker/today.txt
+  NEEDS GRADING          : 3 bet(s) whose event has finished - see https://nritchey23-a11y.github.io/bet-tracker/today.txt
 
 SETTLED BY SPORT (sorted by net P&L)
   Sport         Record               Risked      Net P&L      ROI
-  Football      420W-568L-11P   $240,418.81   $13,677.75     5.7%
+  Football      426W-580L-11P   $242,788.81   $15,766.75     6.5%
   Golf          51W-66L-3P       $41,026.17    $5,194.75    12.7%
   MMA           3W-1L-0P         $10,625.00    $2,728.83    25.7%
   Horse Racing  4W-15L-1P         $3,374.00      $335.23     9.9%
@@ -37,13 +37,13 @@ SETTLED BY SPORT (sorted by net P&L)
   Basketball    140W-143L-4P     $61,910.50   -$1,711.06    -2.8%
   Mixed         3W-13L-0P         $5,030.03   -$1,745.80   -34.7%
   Hockey        7W-10L-0P         $4,108.94   -$2,220.96   -54.1%
-  Multi         38W-98L-0P       $45,635.45   -$6,816.58   -14.9%
+  Multi         39W-99L-0P       $46,435.45   -$5,943.58   -12.8%
 
 OPEN EXPOSURE BY SPORT
-  Football           101 bets  risk   $61,130.00  max win   $90,487.57
+  Football            84 bets  risk   $59,160.00  max win   $77,472.07
   Auto Racing          2 bets  risk    $4,750.00  max win    $6,000.00
   Baseball             3 bets  risk    $1,500.00  max win   $12,850.00
-  Multi                4 bets  risk      $800.00  max win    $3,703.00
+  Multi                3 bets  risk      $400.00  max win    $4,174.00
   Golf                 1 bet   risk      $250.00  max win    $4,750.00
 
 MORE DETAIL
