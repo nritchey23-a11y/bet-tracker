@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T21:50:27.957145+00:00",
+ "generated_at": "2026-09-22T15:07:38.724026+00:00",
  "count": 2003,
  "bets": [
   {
@@ -32978,9 +32978,9 @@
    "Odds": "+298",
    "Risk": "0",
    "To Win": "893.00",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse Free Play (FP) bonus wager - no cash stake; pays to-win only; risk logged 0 per user; placement date approx game day"
+   "Status": "won",
+   "Result Date": "2026-09-21",
+   "Notes": "Wagerhouse Free Play (FP) bonus wager - no cash stake; pays to-win only; risk logged 0 per user; placement date approx game day; Graded won 9/21: all legs won (Bengals 20-6; Texas Tech 28-26; Rams ML 28-6 over NYG)"
   },
   {
    "ID": "1966",
@@ -33029,9 +33029,9 @@
    "Odds": "+508",
    "Risk": "0",
    "To Win": "1270.00",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse Free Play (FP) bonus wager - no cash stake; pays to-win only; risk logged 0 per user; placement date approx game day"
+   "Status": "won",
+   "Result Date": "2026-09-21",
+   "Notes": "Wagerhouse Free Play (FP) bonus wager - no cash stake; pays to-win only; risk logged 0 per user; placement date approx game day; Graded won 9/21: all six legs won (Seahawks 31-7; 49ers 35-13; Texas Tech 28-26; Duke 35-7; Broncos 20-13; Rams 28-6 over NYG)"
   },
   {
    "ID": "1969",
@@ -34032,9 +34032,9 @@
    "Odds": "+502",
    "Risk": "400",
    "To Win": "2011",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse ticket #G12072181; legs: NYG +3 at LAR (MNF 9/21), Clemson ML at Cal (Fri 9/25), KC -2.5 vs MIA (Sun 9/27); to-win as shown on slip (computed 2009.75); placement date approx"
+   "Status": "lost",
+   "Result Date": "2026-09-21",
+   "Notes": "Wagerhouse ticket #G12072181; legs: NYG +3 at LAR (MNF 9/21), Clemson ML at Cal (Fri 9/25), KC -2.5 vs MIA (Sun 9/27); to-win as shown on slip (computed 2009.75); placement date approx; Graded lost 9/21: Giants +3 leg lost (Rams 28-6); Clemson and Chiefs legs never reached"
   },
   {
    "ID": "2029",
@@ -34049,9 +34049,9 @@
    "Odds": "",
    "Risk": "400",
    "To Win": "600",
-   "Status": "pending",
-   "Result Date": "",
-   "Notes": "Wagerhouse 3-team teaser; no ticket number shown on pending list; Giants +13 leg is MNF 9/21; placement date approx game day"
+   "Status": "lost",
+   "Result Date": "2026-09-21",
+   "Notes": "Wagerhouse 3-team teaser; no ticket number shown on pending list; Giants +13 leg is MNF 9/21; placement date approx game day; Graded lost 9/21: Giants +13 teaser leg lost (Rams 28-6); Seahawks -0.5 and Buccaneers +7.5 legs won"
   }
  ]
 }

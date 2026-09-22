@@ -1,16 +1,16 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-09-21T21:50:27.957145+00:00
+Generated: 2026-09-22T15:07:38.724026+00:00
 Total bets in tracker: 2003
 
 OVERALL STATUS
-  Won: 792  Lost: 1081  Push: 37  Pending: 93
-  Lifetime settled P&L: $10,955.64
-  Pending risk: $66,060.00   Pending max win: $105,246.07
+  Won: 794  Lost: 1083  Push: 37  Pending: 89
+  Lifetime settled P&L: $12,318.64
+  Pending risk: $65,260.00   Pending max win: $100,472.07
 
 RECENT DAYS (most recent 8 with activity)
-  2026-09-21: 0W-0L  P&L: $0.00  Pending: 1 (risk $400.00, max $2,011.00)
-  2026-09-20: 7W-40L  P&L: $1,972.91  Pending: 1 (risk $400.00, max $600.00)
-  2026-09-19: 3W-4L  P&L: $968.45  Pending: 2 (risk $0.00, max $2,163.00)
+  2026-09-21: 0W-1L  P&L: -$400.00
+  2026-09-20: 7W-41L  P&L: $1,572.91
+  2026-09-19: 5W-4L  P&L: $3,131.45
   2026-09-18: 0W-4L  P&L: -$1,600.00
   2026-09-17: 0W-2L  P&L: -$600.00
   2026-09-13: 1W-6L  P&L: -$1,450.00
@@ -18,14 +18,14 @@ RECENT DAYS (most recent 8 with activity)
   2026-09-11: 1W-26L  P&L: -$470.02
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-09-15 → 2026-09-21: 10W-50L  P&L: $741.36  Pending: 4 (risk $800.00)
+  Week 2026-09-15 → 2026-09-21: 12W-52L  P&L: $2,104.36
   Week 2026-09-08 → 2026-09-14: 7W-36L  P&L: -$3,280.02
   Week 2026-09-01 → 2026-09-07: 14W-59L  P&L: $109.36
   Week 2026-08-25 → 2026-08-31: 2W-0L  P&L: $451.54  Pending: 3 (risk $1,650.00)
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
-#2029 | 2026-09-20 | Football/NFL | 3-team teaser: Seahawks -0.5 + Buccaneers +7.5 + Giants +13 | Pick: Seahawks -0.5, Buccaneers +7.5, Giants +13 | Odds:  | Risk $400.00 → Win $600.00 | Status: pending  Notes: Wagerhouse 3-team teaser; no ticket number shown on pending list; Giants +13 leg is MNF 9/21; placement date approx game day
-#2028 | 2026-09-21 | Multi/NFL/NCAAF | 3-leg parlay: Giants +3 +172 + Clemson ML -114 + Chiefs -2.5 -554 | Pick: Giants +3, Clemson ML, Chiefs -2.5 | Odds: +502 | Risk $400.00 → Win $2,011.00 | Status: pending  Notes: Wagerhouse ticket #G12072181; legs: NYG +3 at LAR (MNF 9/21), Clemson ML at Cal (Fri 9/25), KC -2.5 vs MIA (Sun 9/27); to-win as shown on slip (computed 2009.75); placement date approx
+#2029 | 2026-09-20 | Football/NFL | 3-team teaser: Seahawks -0.5 + Buccaneers +7.5 + Giants +13 | Pick: Seahawks -0.5, Buccaneers +7.5, Giants +13 | Odds:  | Risk $400.00 → Win $600.00 | Status: lost  P&L: -$400.00  Notes: Wagerhouse 3-team teaser; no ticket number shown on pending list; Giants +13 leg is MNF 9/21; placement date approx game day; Graded lost 9/21: Giants +13 teaser leg lost (Rams 28-6); Seahawks -0.5 and Buccaneers +7.5 legs won
+#2028 | 2026-09-21 | Multi/NFL/NCAAF | 3-leg parlay: Giants +3 +172 + Clemson ML -114 + Chiefs -2.5 -554 | Pick: Giants +3, Clemson ML, Chiefs -2.5 | Odds: +502 | Risk $400.00 → Win $2,011.00 | Status: lost  P&L: -$400.00  Notes: Wagerhouse ticket #G12072181; legs: NYG +3 at LAR (MNF 9/21), Clemson ML at Cal (Fri 9/25), KC -2.5 vs MIA (Sun 9/27); to-win as shown on slip (computed 2009.75); placement date approx; Graded lost 9/21: Giants +3 leg lost (Rams 28-6); Clemson and Chiefs legs never reached
 #2027 | 2026-09-19 | Multi/NCAAF/NFL | 2-leg parlay: Mississippi ML +125 + Seahawks ML -205 | Pick: Mississippi ML, Seahawks ML | Odds: +235 | Risk $500.00 → Win $1,173.00 | Status: won  P&L: $1,173.00  Notes: Wagerhouse pending; no ticket number shown; Ole Miss ML leg won 9/19 per slip (Seahawks leg pending 9/20); placement date approx game day; to-win as shown (computed 1173.77); Graded won 9/20: both legs won (Ole Miss 32-24 over LSU; Seahawks 31-7 over ARI)
 #2026 | 2026-09-20 | Football/NFL | 4-leg TD-prop parlay: Jadarian Price O0.5 TD +164 + Marvin Harrison Jr O0.5 TD +380 + Ashton Jeanty O0.5 TD -116 + Christian McCaffrey O1.5 TD +220 | Pick: Price O0.5 TD, Harrison Jr O0.5 TD, Jeanty O0.5 TD, McCaffrey O1.5 TD | Odds:  | Risk $70.00 → Win $4,972.00 | Status: lost  P&L: -$70.00  Notes: Wagerhouse ticket #G11949191; same-game/prop pricing; to-win as shown on slip (true-odds calc ~5,217; book rounds down props); Graded lost 9/20: Jadarian Price did not score (SEA TDs: Smith-Njigba x3, Barner); Jeanty and Harrison Jr legs also lost; McCaffrey O1.5 leg won (2 TDs)
 #2025 | 2026-09-20 | Football/NFL | 2-leg parlay: Browns ML +104 + Jaguars ML -220 | Pick: Browns ML, Jaguars ML | Odds: +197 | Risk $500.00 → Win $983.00 | Status: lost  P&L: -$500.00  Notes: Wagerhouse ticket #G313241275; opposite side of DEN/JAX from #2024; to-win as shown on slip (computed 983.64); Graded lost 9/20: Jaguars ML -220 leg lost (DEN 20-13); Browns leg won
@@ -84,10 +84,10 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1971 | 2026-09-20 | Football/NFL | RR 2-way: Jets ML +160 + Commanders ML +175 | Pick: Jets ML, Commanders ML | Odds: +615 | Risk $10.00 → Win $61.50 | Status: lost  P&L: -$10.00  Notes: Round Robin 2-way parlay (5-team RR, all 26 combos); Wagerhouse; $10 per combo; placement date approx game day; Graded lost 9/20: Jets ML +160 leg lost (Packers 20-17 OT)
 #1970 | 2026-09-20 | Football/NFL | RR 2-way: Jets ML +160 + Bengals ML +130 | Pick: Jets ML, Bengals ML | Odds: +498 | Risk $10.00 → Win $49.80 | Status: lost  P&L: -$10.00  Notes: Round Robin 2-way parlay (5-team RR, all 26 combos); Wagerhouse; $10 per combo; placement date approx game day; Graded lost 9/20: Jets ML +160 leg lost (Packers 20-17 OT)
 #1969 | 2026-09-20 | Football/NFL | 2-team teaser: Eagles -1 + Chargers -1 | Pick: Eagles -1, Chargers -1 | Odds:  | Risk $600.00 → Win $545.00 | Status: lost  P&L: -$600.00  Notes: Wagerhouse teaser; teaser points/underlying spreads not shown on ticket; placement date approx game day; Graded lost 9/20: Chargers -1 teaser leg lost (Raiders 26-14); Eagles leg won
-#1968 | 2026-09-19 | Multi/NFL/NCAAF | 6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350 | Pick: Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | Odds: +508 | Risk $0.00 → Win $1,270.00 | Status: pending  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; pays to-win only; risk logged 0 per user; placement date approx game day
+#1968 | 2026-09-19 | Multi/NFL/NCAAF | 6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350 | Pick: Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | Odds: +508 | Risk $0.00 → Win $1,270.00 | Status: won  P&L: $1,270.00  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; pays to-win only; risk logged 0 per user; placement date approx game day; Graded won 9/21: all six legs won (Seahawks 31-7; 49ers 35-13; Texas Tech 28-26; Duke 35-7; Broncos 20-13; Rams 28-6 over NYG)
 #1967 | 2026-09-20 | Football/NFL | 2-leg parlay: Broncos -2.5 -110 + Patriots ML -240 | Pick: Broncos -2.5, Patriots ML | Odds: +170 | Risk $300.00 → Win $511.00 | Status: won  P&L: $511.00  Notes: Wagerhouse pending; placement date approx game day; Graded won 9/20: Patriots ML won 20-3; Broncos -2.5 covered (20-13 over JAX)
 #1966 | 2026-09-20 | Football/NFL | 2-leg parlay: Commanders/Cowboys O50.5 -110 + Chiefs ML -300 | Pick: Over 50.5, Chiefs ML | Odds: +155 | Risk $300.00 → Win $463.00 | Status: won  P&L: $463.00  Notes: Wagerhouse pending; placement date approx game day; Graded won 9/20: WSH/DAL over 50.5 hit (57 total pts, DAL 37-20); Chiefs ML won 33-30 in OT
-#1965 | 2026-09-19 | Multi/NFL/NCAAF | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350 | Pick: Bengals ML, Texas Tech ML, Rams ML | Odds: +298 | Risk $0.00 → Win $893.00 | Status: pending  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; pays to-win only; risk logged 0 per user; placement date approx game day
+#1965 | 2026-09-19 | Multi/NFL/NCAAF | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350 | Pick: Bengals ML, Texas Tech ML, Rams ML | Odds: +298 | Risk $0.00 → Win $893.00 | Status: won  P&L: $893.00  Notes: Wagerhouse Free Play (FP) bonus wager - no cash stake; pays to-win only; risk logged 0 per user; placement date approx game day; Graded won 9/21: all legs won (Bengals 20-6; Texas Tech 28-26; Rams ML 28-6 over NYG)
 #1964 | 2026-09-13 | Football/NFL | Bills/Texans Under 45 -110 | Pick: Under 45 | Odds: -110 | Risk $275.00 → Win $250.00 | Status: lost  P&L: -$275.00  Notes: Wagerhouse; placement date approx game day
 #1963 | 2026-09-13 | Football/NFL | Falcons/Steelers Under 41.5 -110 | Pick: Under 41.5 | Odds: -110 | Risk $275.00 → Win $250.00 | Status: won  P&L: $250.00  Notes: Wagerhouse; placement date approx game day
 #1962 | 2026-09-13 | Football/NFL | Ravens/Colts Under 48 -110 | Pick: Under 48 | Odds: -110 | Risk $275.00 → Win $250.00 | Status: lost  P&L: -$275.00  Notes: Wagerhouse; placement date approx game day
@@ -106,30 +106,21 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #1949 | 2026-09-10 | Football/NFL | 49ers/Rams Under 48 -110 | Pick: Under 48 | Odds: -110 | Risk $275.00 → Win $250.00 | Status: won  P&L: $250.00  Notes: Wagerhouse; placement date approx game day
 
 ==============================================================================
-TODAY AND NEAR-TERM ACTION  (local date 2026-09-21)
+TODAY AND NEAR-TERM ACTION  (local date 2026-09-22)
 ==============================================================================
 Use this section for 'what is pending today', 'what is riding this week',
 'what is my action today'. Season-long futures are listed separately below
 and should NOT be reported as today's action. 'settles' = when it grades.
 
-Settling today: 1 bet(s), risk $400.00, max win $2,011.00
-    [2028] settles 2026-09-21 | parlay | NFL/NCAAF | Giants +3, Clemson ML, Chiefs -2.5 | +502 | risk $400.00 | win $2,011.00 | Wagerhouse | 3-leg parlay: Giants +3 +172 + Clemson ML -114 + Chiefs -2.5 -554
+Settling today: 0 bet(s), risk $0.00, max win $0.00
+    (nothing grades today)
 
 Settling in the next 7 days: 1 bet(s), risk $1,000.00
     [1750] settles 2026-09-27 | future | MLB | Seattle Mariners | +110 | risk $1,000.00 | win $1,100.00 | Wagerhouse | MLB 2026 Division Winner - American League West - Seattle Mariners
 
-All near-term open action (game bets + short-dated outrights): 4 bet(s), risk $800.00, max win $4,774.00
-    [1965] settles 2026-09-19 | parlay | NFL/NCAAF | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
-    [1968] settles 2026-09-19 | parlay | NFL/NCAAF | Seahawks ML, 49ers ML, Rams ML, Broncos ML, Texas Tech ML, Duke ML | +508 | risk $0.00 | win $1,270.00 | Wagerhouse | 6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350
-    [2029] settles 2026-09-20 | parlay | NFL | Seahawks -0.5, Buccaneers +7.5, Giants +13 | n/a | risk $400.00 | win $600.00 | Wagerhouse | 3-team teaser: Seahawks -0.5 + Buccaneers +7.5 + Giants +13
-    [2028] settles 2026-09-21 | parlay | NFL/NCAAF | Giants +3, Clemson ML, Chiefs -2.5 | +502 | risk $400.00 | win $2,011.00 | Wagerhouse | 3-leg parlay: Giants +3 +172 + Clemson ML -114 + Chiefs -2.5 -554
+All near-term open action (game bets + short-dated outrights): 0 bet(s), risk $0.00, max win $0.00
 
 Season-long futures (NOT today's action): 89 bet(s), risk $65,260.00. Detail: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
-
-NEEDS GRADING - 3 bet(s) whose event has already finished but are still marked pending:
-    [1965] event 2026-09-19 (2d ago) | risk $0.00 | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
-    [1968] event 2026-09-19 (2d ago) | risk $0.00 | 6-team parlay [Free Play]: Seahawks ML -215 + 49ers ML -1000 + Rams ML -350 + Broncos ML -145 + Texas Tech ML -285 + Duke ML -350
-    [2029] event 2026-09-20 (1d ago) | risk $400.00 | 3-team teaser: Seahawks -0.5 + Buccaneers +7.5 + Giants +13
 
 Day-by-day near-term view: https://nritchey23-a11y.github.io/bet-tracker/today.txt and https://nritchey23-a11y.github.io/bet-tracker/action.txt
 
@@ -141,7 +132,7 @@ future). Read every line under a heading and report all of them.
 'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,
 Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.
 
-Teams with open action (81): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Bengals ML, Texas Tech ML, Rams, Boise State, Buffalo, CHI Bears, CIN Bengals, Clemson, Colorado, Colorado State, Connecticut, DAL, DET, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Giants +3, Clemson ML, Chiefs, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks -0.5, Buccaneers +7.5, Giants, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
+Teams with open action (78): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Clemson, Colorado, Colorado State, Connecticut, DAL, DET, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia Tech, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Ludvig Aberg, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Texas, Northwestern, Ohio, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
 
 ### ATL Falcons  --  1 open, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 future NFL | ATL Falcons | +450 | risk $250.00 | win $1,125.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC South - ATL Falcons
@@ -155,8 +146,6 @@ Teams with open action (81): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1791] 2026-07-27 future NCAAF | BYU | +750 | risk $300.00 | win $2,250.00 | Wagerhouse | Odds to win Big 12 Championship Game - BYU
 ### Baylor  --  1 open, risk $800.00, max win $500.00
     [1829] 2026-08-24 future NCAAF | Baylor Under 6.5 | -160 | risk $800.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Baylor - Under 6.5
-### Bengals ML, Texas Tech ML, Rams  --  1 open, risk $0.00, max win $893.00
-    [1965] 2026-09-19 parlay NFL/NCAAF | Bengals ML, Texas Tech ML, Rams ML | +298 | risk $0.00 | win $893.00 | Wagerhouse | 3-team parlay [Free Play]: Bengals ML +130 + Texas Tech ML -290 + Rams ML -350
 ### Boise State  --  1 open, risk $650.00, max win $500.00
     [1828] 2026-08-24 future NCAAF | Boise State Over 8 | -130 | risk $650.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Boise State - Over 8
 ### Buffalo  --  1 open, risk $1,000.00, max win $500.00
@@ -188,8 +177,6 @@ Teams with open action (81): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1737] 2026-06-09 future NCAAF | Georgia Under 9.5 | +150 | risk $750.00 | win $1,125.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Georgia - Under 9.5
 ### Georgia Tech  --  1 open, risk $675.00, max win $500.00
     [1822] 2026-08-24 future NCAAF | Georgia Tech Under 6.5 | -135 | risk $675.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Georgia Tech - Under 6.5
-### Giants +3, Clemson ML, Chiefs  --  1 open, risk $400.00, max win $2,011.00
-    [2028] 2026-09-21 parlay NFL/NCAAF | Giants +3, Clemson ML, Chiefs -2.5 | +502 | risk $400.00 | win $2,011.00 | Wagerhouse | 3-leg parlay: Giants +3 +172 + Clemson ML -114 + Chiefs -2.5 -554
 ### Iowa  --  1 open, risk $500.00, max win $575.00
     [1821] 2026-08-24 future NCAAF | Iowa Under 7.5 | +115 | risk $500.00 | win $575.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Iowa - Under 7.5
 ### Iowa State  --  1 open, risk $750.00, max win $787.50
@@ -272,8 +259,6 @@ Teams with open action (81): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
     [1817] 2026-08-24 future NCAAF | Sacramento State Under 4.5 | -110 | risk $550.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Sacramento State - Under 4.5
 ### San Diego State  --  1 open, risk $650.00, max win $500.00
     [1843] 2026-08-25 future NCAAF | San Diego State Over 6.5 | -130 | risk $650.00 | win $500.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props San Diego State (FLEX WEEK INCLUDED) - Over 6.5
-### Seahawks -0.5, Buccaneers +7.5, Giants  --  1 open, risk $400.00, max win $600.00
-    [2029] 2026-09-20 parlay NFL | Seahawks -0.5, Buccaneers +7.5, Giants +13 | n/a | risk $400.00 | win $600.00 | Wagerhouse | 3-team teaser: Seahawks -0.5 + Buccaneers +7.5 + Giants +13
 ### Seattle Mariners  --  3 open, risk $1,500.00, max win $12,850.00
     [1750] 2026-05-27 future MLB | Seattle Mariners | +110 | risk $1,000.00 | win $1,100.00 | Wagerhouse | MLB 2026 Division Winner - American League West - Seattle Mariners
     [1836] 2026-08-24 future MLB | Seattle Mariners | +3500 | risk $250.00 | win $8,750.00 | Wagerhouse | MLB 2026 World Series Winner - Seattle Mariners
@@ -321,7 +306,7 @@ Teams with open action (81): ATL Falcons, Army, Auburn, BUF Bills, BYU, Baylor, 
 SETTLED BY SPORT
 ==============================================================================
   Sport         Record               Risked      Net P&L      ROI
-  Football      426W-580L-11P   $242,788.81   $15,766.75     6.5%
+  Football      426W-581L-11P   $243,188.81   $15,366.75     6.3%
   Golf          51W-66L-3P       $41,026.17    $5,194.75    12.7%
   MMA           3W-1L-0P         $10,625.00    $2,728.83    25.7%
   Horse Racing  4W-15L-1P         $3,374.00      $335.23     9.9%
@@ -331,7 +316,7 @@ SETTLED BY SPORT
   Basketball    140W-143L-4P     $61,910.50   -$1,711.06    -2.8%
   Mixed         3W-13L-0P         $5,030.03   -$1,745.80   -34.7%
   Hockey        7W-10L-0P         $4,108.94   -$2,220.96   -54.1%
-  Multi         39W-99L-0P       $46,435.45   -$5,943.58   -12.8%
+  Multi         41W-100L-0P      $46,835.45   -$4,180.58    -8.9%
 
 Deeper cuts (breakdowns by league/type/book/month, streaks, biggest wins and
 losses): https://nritchey23-a11y.github.io/bet-tracker/stats.txt
