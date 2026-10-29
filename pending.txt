@@ -4,22 +4,67 @@ BET TRACKER - ALL OPEN BETS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-09-22 15:07 UTC
+Generated: 2026-10-29 22:04 UTC
 
 
-Open bets: 89   Total risk: $65,260.00   Max win: $100,472.07
-  of which near-term action: 0 (risk $0.00)
-  of which season-long futures: 89 (risk $65,260.00)
-Local date: 2026-09-22. 'settles' = when the bet grades.
+Open bets: 101   Total risk: $70,803.00   Max win: $102,311.07
+  of which near-term action: 14 (risk $6,043.00)
+  of which season-long futures: 87 (risk $64,760.00)
+Local date: 2026-10-29. 'settles' = when the bet grades.
 
 ==========================================================================
 SECTION 1 - NEAR-TERM ACTION (what is actually riding now)
 ==========================================================================
 
-Nothing near-term. All open bets are season-long futures.
+NEEDS GRADING - 1 bet(s), risk $1,000.00
+These events have finished but are still marked pending.
+  [1750] 2026-09-27 (32d ago) | risk $1,000.00 | MLB 2026 Division Winner - American League West - Seattle Mariners
+
+[2288] settles 2026-10-29 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-10-29
+     3-team parlay: Lions ML -180 + Ohio St ML -245 + Miami FL ML -650
+     pick Lions ML, Ohio St ML, Miami FL ML | odds n/a | risk $500.00 | to win $763.00 | book Wagerhouse
+[2289] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
+     3-team parlay: Ohio St ML -245 + Boise St ML -425 + Oregon St ML -225
+     pick Ohio St ML, Boise St ML, Oregon St ML | odds n/a | risk $500.00 | to win $756.00 | book Wagerhouse
+[2293] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
+     2-team parlay: Illinois -2.5 -110 + Michigan ML -700
+     pick Illinois -2.5, Michigan ML | odds n/a | risk $500.00 | to win $590.00 | book Wagerhouse
+[2294] settles 2026-10-29 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-10-29
+     2-team parlay: Chiefs ML -120 + Michigan ML -700
+     pick Chiefs ML, Michigan ML | odds n/a | risk $500.00 | to win $547.00 | book Wagerhouse
+[2296] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
+     2-team parlay: Colorado +1 -110 + Boise St ML -425
+     pick Colorado +1, Boise St ML | odds n/a | risk $500.00 | to win $679.00 | book Wagerhouse
+[2297] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
+     2-team parlay: Maryland ML +115 + Boise St ML -425
+     pick Maryland ML, Boise St ML | odds n/a | risk $500.00 | to win $827.00 | book Wagerhouse
+[2298] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
+     2-team parlay: Ohio St -6.5 -130 (B+1/2) + Boise St ML -450
+     pick Ohio St -6.5, Boise St ML | odds n/a | risk $500.00 | to win $581.00 | book Wagerhouse
+[2299] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
+     2-team parlay: North Carolina +15 -110 + Boise St ML -450
+     pick North Carolina +15, Boise St ML | odds n/a | risk $500.00 | to win $666.00 | book Wagerhouse
+[2300] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
+     2-team parlay: Florida Intl +14 -110 + Boise St ML -450
+     pick FIU +14, Boise St ML | odds n/a | risk $500.00 | to win $666.00 | book Wagerhouse
+[2301] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
+     2-team parlay: Indiana -19.5 -110 + Boise St ML -450
+     pick Indiana -19.5, Boise St ML | odds n/a | risk $500.00 | to win $666.00 | book Wagerhouse
+[2292] settles 2026-10-29 (TODAY) | Football/NFL | parlay | placed 2026-10-29
+     4-team parlay: Lions ML -180 + Chiefs ML -120 + Patriots ML -330 + Seahawks ML -170
+     pick Lions ML, Chiefs ML, Patriots ML, Seahawks ML | odds n/a | risk $400.00 | to win $1,960.00 | book Wagerhouse
+[2290] settles 2026-10-29 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-10-29
+     3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington +9 -130 (B+1/2)
+     pick Seahawks ML, WSU ML, Washington +9 | odds n/a | risk $250.00 | to win $1,260.00 | book Wagerhouse
+[2291] settles 2026-10-29 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-10-29
+     3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington ML +255
+     pick Seahawks ML, WSU ML, Washington ML | odds n/a | risk $250.00 | to win $2,780.00 | book Wagerhouse
+[2295] settles 2026-10-29 (TODAY) | Football/NFL | parlay | placed 2026-10-29
+     4-leg same-game parlay: Josh Jacobs Over 0.5 TD -146 + Chuba Hubbard Over 0.5 TD -120 + Jalen Coker Over 59.5 rec yds -124 + Christian Watson Over 4.5 receptions -136
+     pick Jacobs O0.5 TD, Hubbard O0.5 TD, Coker O59.5, Watson O4.5 rec | odds n/a | risk $143.00 | to win $848.00 | book Wagerhouse
 
 ==========================================================================
-SECTION 2 - SEASON-LONG FUTURES (89, one line each)
+SECTION 2 - SEASON-LONG FUTURES (87, one line each)
 ==========================================================================
 Full detail and league grouping: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
 
@@ -114,10 +159,8 @@ Full detail and league grouping: https://nritchey23-a11y.github.io/bet-tracker/f
   [1835] 2026-12-06 | Kimi Antonelli | -450 | risk $4,500.00 | win $1,000.00 | Wagerhouse  <- F1 2026 Drivers Championship - Kimi Antonelli
   [1834] 2026-12-06 | George Russell | +2000 | risk $250.00 | win $5,000.00 | Wagerhouse  <- F1 2026 Drivers Championship - George Russell
 
---- Baseball / MLB  (3 open, risk $1,500.00, max win $12,850.00) ---
+--- Baseball / MLB  (1 open, risk $1,000.00, max win $1,100.00) ---
   [1750] 2026-09-27 | Seattle Mariners | +110 | risk $1,000.00 | win $1,100.00 | Wagerhouse  <- MLB 2026 Division Winner - American League West - Seattle Mariners
-  [1836] 2026-10-31 | Seattle Mariners | +3500 | risk $250.00 | win $8,750.00 | Wagerhouse  <- MLB 2026 World Series Winner - Seattle Mariners
-  [1837] 2026-10-21 | Seattle Mariners | +1200 | risk $250.00 | win $3,000.00 | Wagerhouse  <- MLB 2026 AL Pennant Winner - Seattle Mariners
 
 --- Golf / PGA Tour  (1 open, risk $250.00, max win $4,750.00) ---
   [1389] 2027-04-11 | Ludvig Aberg | +1900 | risk $250.00 | win $4,750.00 | GameDayWagers  <- Win 2027 US Masters
