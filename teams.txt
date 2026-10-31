@@ -4,7 +4,7 @@ BET TRACKER - OPEN BETS BY TEAM
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-10-31 15:32 UTC
+Generated: 2026-10-31 15:33 UTC
 
 
 Alphabetical index of every team/selection with at least one OPEN bet.
@@ -12,9 +12,9 @@ To answer 'what do I have on <team>?', find the team heading below and read
 every line under it. A team may hold several open bets (e.g. a season win
 total AND a championship future) - report all of them, not just the first.
 
-Teams with open action: 94
+Teams with open action: 95
 
-QUICK INDEX: ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Chiefs ML, Michigan, Clemson, Colorado, Colorado +1, Boise St, Colorado State, Connecticut, DAL, DET, FIU +14, Boise St, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia ML, Cincinnati, Georgia Tech, Illinois -2.5, Michigan, Indiana -19.5, Boise St, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Lions ML, Chiefs ML, Patriots ML, Seahawks, Lions ML, Ohio St ML, Miami FL, Ludvig Aberg, Marshall -2.5, Ohio State, Maryland ML, Boise St, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Carolina +15, Boise St, North Texas, Northwestern, Ohio, Ohio St -6.5, Boise St, Ohio St ML, Boise St ML, Oregon St, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML, WSU ML, Washington, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Temple +6, BYU ML, Boise State, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
+QUICK INDEX: ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Chiefs ML, Michigan, Clemson, Colorado, Colorado +1, Boise St, Colorado State, Connecticut, DAL, DET, FIU +14, Boise St, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia ML, Cincinnati, Georgia Tech, Illinois -2.5, Michigan, Indiana -19.5, Boise St, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Lions ML, Chiefs ML, Patriots ML, Seahawks, Lions ML, Ohio St ML, Miami FL, Ludvig Aberg, Marshall -2.5, Ohio State, Maryland ML, Boise St, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Carolina +15, Boise St, North Texas, Northwestern, Ohio, Ohio St -6.5, Boise St, Ohio St ML, Boise St ML, Oregon St, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML, WSU ML, Washington, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Syracuse +10.5, Michigan ML, Georgia, Temple +6, BYU ML, Boise State, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
 
 ### ATL Falcons  --  1 open bet, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 | future | Football/NFL
@@ -431,6 +431,11 @@ QUICK INDEX: ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU
     [1832] 2026-08-24 | future | Football/NCAAF
         NCAA FB 26/27 - Regular Season Wins - Props Southern Miss - Under 3.5
         pick Southern Miss Under 3.5 | odds +105 | risk $500.00 | to win $525.00 | book Wagerhouse
+
+### Syracuse +10.5, Michigan ML, Georgia  --  1 open bet, risk $500.00, max win $708.00
+    [2306] 2026-10-31 | parlay | Football/NCAAF
+        3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450
+        pick Syracuse +10.5, Michigan ML, Georgia ML | odds n/a | risk $500.00 | to win $708.00 | book Wagerhouse
 
 ### Temple +6, BYU ML, Boise State  --  1 open bet, risk $500.00, max win $722.00
     [2304] 2026-10-31 | parlay | Football/NCAAF

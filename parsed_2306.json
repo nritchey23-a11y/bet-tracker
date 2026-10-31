@@ -1,0 +1,21 @@
+{
+  "bets": [
+    {
+      "ID": "2306",
+      "Date": "2026-10-31",
+      "Sport": "Football",
+      "League": "NCAAF",
+      "Event": "",
+      "Type": "parlay",
+      "Description": "3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450",
+      "Pick": "Syracuse +10.5, Michigan ML, Georgia ML",
+      "Opponent": "",
+      "Odds": "",
+      "Risk": "500",
+      "To Win": "708",
+      "Status": "pending",
+      "Result Date": "",
+      "Notes": "Wagerhouse ticket #1567143574; placement date 2026-10-31 confirmed by user (not printed on slip); risk and profit as printed; Syracuse +10.5 -130 (B+1), Michigan ML -850, Georgia ML -450."
+    }
+  ]
+}

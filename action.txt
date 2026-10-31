@@ -4,16 +4,16 @@ BET TRACKER - NEAR-TERM ACTION
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-10-31 15:32 UTC
+Generated: 2026-10-31 15:33 UTC
 
 
-Local date: 2026-10-31  (as of 2026-10-31 08:32 PDT)
+Local date: 2026-10-31  (as of 2026-10-31 08:33 PDT)
 
 Game bets and short-dated outrights only, sorted by SETTLE date (soonest
 first). Season-long futures are excluded on purpose - they live in
 futures.txt. 'Event Date' is when the bet grades, not when it was placed.
 
-Near-term open: 18   Risk: $8,043.00   Max win: $16,336.00
+Near-term open: 19   Risk: $8,543.00   Max win: $17,044.00
 
 NEEDS GRADING - 15 bet(s), risk $7,043.00
 These events have finished but are still marked pending.
@@ -33,7 +33,7 @@ These events have finished but are still marked pending.
   [2300] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Florida Intl +14 -110 + Boise St ML -450
   [2301] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Indiana -19.5 -110 + Boise St ML -450
 
---- 2026-10-31 Sat (TODAY)  (4 bet(s), risk $2,000.00, max win $2,747.00) ---
+--- 2026-10-31 Sat (TODAY)  (5 bet(s), risk $2,500.00, max win $3,455.00) ---
 [2302] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
        2-team parlay: Georgia ML -450 + Cincinnati +7.5 -120 (B+1/2)
        pick Georgia ML, Cincinnati +7.5 | odds n/a | risk $500.00 | to win $620.00 | book Wagerhouse
@@ -46,4 +46,7 @@ These events have finished but are still marked pending.
 [2305] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
        2-team parlay: Marshall -2.5 -122 + Ohio State -250
        pick Marshall -2.5, Ohio State ML | odds n/a | risk $500.00 | to win $773.00 | book Wagerhouse
+[2306] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
+       3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450
+       pick Syracuse +10.5, Michigan ML, Georgia ML | odds n/a | risk $500.00 | to win $708.00 | book Wagerhouse
 

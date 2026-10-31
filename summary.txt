@@ -1,14 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-10-31T15:32:34.416566+00:00
-Total bets in tracker: 2279
+Generated: 2026-10-31T15:33:28.007861+00:00
+Total bets in tracker: 2280
 
 OVERALL STATUS
-  Won: 843  Lost: 1293  Push: 38  Pending: 105
+  Won: 843  Lost: 1293  Push: 38  Pending: 106
   Lifetime settled P&L: $16,872.64
-  Pending risk: $72,803.00   Pending max win: $105,058.07
+  Pending risk: $73,303.00   Pending max win: $105,766.07
 
 RECENT DAYS (most recent 8 with activity)
-  2026-10-31: 0W-0L  P&L: $0.00  Pending: 4 (risk $2,000.00, max $2,747.00)
+  2026-10-31: 0W-0L  P&L: $0.00  Pending: 5 (risk $2,500.00, max $3,455.00)
   2026-10-29: 0W-0L  P&L: $0.00  Pending: 14 (risk $6,043.00, max $13,589.00)
   2026-10-26: 0W-6L  P&L: -$750.00
   2026-10-25: 3W-30L  P&L: $551.19
@@ -18,12 +18,13 @@ RECENT DAYS (most recent 8 with activity)
   2026-10-11: 2W-26L  P&L: $63.88
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-10-27 → 2026-11-02: 0W-0L  P&L: $0.00  Pending: 18 (risk $8,043.00)
+  Week 2026-10-27 → 2026-11-02: 0W-0L  P&L: $0.00  Pending: 19 (risk $8,543.00)
   Week 2026-10-20 → 2026-10-26: 11W-42L  P&L: $5,146.72
   Week 2026-10-13 → 2026-10-19: 9W-26L  P&L: $726.46
   Week 2026-10-06 → 2026-10-12: 11W-39L  P&L: -$409.38
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#2306 | 2026-10-31 | Football/NCAAF | 3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450 | Pick: Syracuse +10.5, Michigan ML, Georgia ML | Odds:  | Risk $500.00 → Win $708.00 | Status: pending  Notes: Wagerhouse ticket #1567143574; placement date 2026-10-31 confirmed by user (not printed on slip); risk and profit as printed; Syracuse +10.5 -130 (B+1), Michigan ML -850, Georgia ML -450.
 #2305 | 2026-10-31 | Football/NCAAF | 2-team parlay: Marshall -2.5 -122 + Ohio State -250 | Pick: Marshall -2.5, Ohio State ML | Odds:  | Risk $500.00 → Win $773.00 | Status: pending  Notes: Wagerhouse ticket #G14396441; pending slip 10/31/2026; legs: Marshall -2.5 -122 (Marshall vs Old Dominion), Ohio State -250 (Ohio State vs USC)
 #2304 | 2026-10-31 | Football/NCAAF | 3-team parlay: Temple +6 -130 + BYU -787 + Boise State -443 | Pick: Temple +6, BYU ML, Boise State ML | Odds:  | Risk $500.00 → Win $722.00 | Status: pending  Notes: Wagerhouse ticket #G14396524; pending slip 10/31/2026; legs: Temple +6 -130 (Temple vs East Carolina), BYU -787 (Arizona State vs BYU), Boise State -443 (Texas State vs Boise State)
 #2303 | 2026-10-31 | Football/NCAAF | 2-team parlay: Arkansas +10.5 -120 (B+1/2) + Boise St ML -425 | Pick: Arkansas +10.5, Boise St ML | Odds:  | Risk $500.00 → Win $632.00 | Status: pending  Notes: Wagerhouse; pending slip 10/31/2026; no ticket number shown; legs: Arkansas +10.5 -120 (Missouri vs Arkansas), Boise St ML -425 (Texas State vs Boise State)
@@ -103,7 +104,6 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #2229 | 2026-10-18 | Football/NFL | RR 4-way: Texans ML +125 + Titans ML +255 + Raiders ML +195 + Washington ML +135 | Pick: Texans, Titans, Raiders, Washington | Odds: +5437 | Risk $10.00 → Win $543.73 | Status: lost  P&L: -$10.00  Notes: Wagerhouse; combo of 10/18 5-team RR ($10/combo); winners: Texans ML, Titans ML, Washington ML
 #2228 | 2026-10-18 | Football/NFL | RR 4-way: Texans ML +125 + Eagles ML +160 + Raiders ML +195 + Washington ML +135 | Pick: Texans, Eagles, Raiders, Washington | Odds: +3956 | Risk $10.00 → Win $395.55 | Status: lost  P&L: -$10.00  Notes: Wagerhouse; combo of 10/18 5-team RR ($10/combo); winners: Texans ML, Titans ML, Washington ML
 #2227 | 2026-10-18 | Football/NFL | RR 4-way: Texans ML +125 + Eagles ML +160 + Titans ML +255 + Washington ML +135 | Pick: Texans, Eagles, Titans, Washington | Odds: +4780 | Risk $10.00 → Win $478.04 | Status: lost  P&L: -$10.00  Notes: Wagerhouse; combo of 10/18 5-team RR ($10/combo); winners: Texans ML, Titans ML, Washington ML
-#2226 | 2026-10-18 | Football/NFL | RR 4-way: Texans ML +125 + Eagles ML +160 + Titans ML +255 + Raiders ML +195 | Pick: Texans, Eagles, Titans, Raiders | Odds: +6026 | Risk $10.00 → Win $602.64 | Status: lost  P&L: -$10.00  Notes: Wagerhouse; combo of 10/18 5-team RR ($10/combo); winners: Texans ML, Titans ML, Washington ML
 
 ==============================================================================
 TODAY AND NEAR-TERM ACTION  (local date 2026-10-31)
@@ -112,16 +112,17 @@ Use this section for 'what is pending today', 'what is riding this week',
 'what is my action today'. Season-long futures are listed separately below
 and should NOT be reported as today's action. 'settles' = when it grades.
 
-Settling today: 4 bet(s), risk $2,000.00, max win $2,747.00
+Settling today: 5 bet(s), risk $2,500.00, max win $3,455.00
     [2302] settles 2026-10-31 | parlay | NCAAF | Georgia ML, Cincinnati +7.5 | n/a | risk $500.00 | win $620.00 | Wagerhouse | 2-team parlay: Georgia ML -450 + Cincinnati +7.5 -120 (B+1/2)
     [2303] settles 2026-10-31 | parlay | NCAAF | Arkansas +10.5, Boise St ML | n/a | risk $500.00 | win $632.00 | Wagerhouse | 2-team parlay: Arkansas +10.5 -120 (B+1/2) + Boise St ML -425
     [2304] settles 2026-10-31 | parlay | NCAAF | Temple +6, BYU ML, Boise State ML | n/a | risk $500.00 | win $722.00 | Wagerhouse | 3-team parlay: Temple +6 -130 + BYU -787 + Boise State -443
     [2305] settles 2026-10-31 | parlay | NCAAF | Marshall -2.5, Ohio State ML | n/a | risk $500.00 | win $773.00 | Wagerhouse | 2-team parlay: Marshall -2.5 -122 + Ohio State -250
+    [2306] settles 2026-10-31 | parlay | NCAAF | Syracuse +10.5, Michigan ML, Georgia ML | n/a | risk $500.00 | win $708.00 | Wagerhouse | 3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450
 
 Settling in the next 7 days: 0 bet(s), risk $0.00
     (nothing scheduled)
 
-All near-term open action (game bets + short-dated outrights): 18 bet(s), risk $8,043.00, max win $16,336.00
+All near-term open action (game bets + short-dated outrights): 19 bet(s), risk $8,543.00, max win $17,044.00
     [2288] settles 2026-10-29 | parlay | NFL/NCAAF | Lions ML, Ohio St ML, Miami FL ML | n/a | risk $500.00 | win $763.00 | Wagerhouse | 3-team parlay: Lions ML -180 + Ohio St ML -245 + Miami FL ML -650
     [2289] settles 2026-10-29 | parlay | NCAAF | Ohio St ML, Boise St ML, Oregon St ML | n/a | risk $500.00 | win $756.00 | Wagerhouse | 3-team parlay: Ohio St ML -245 + Boise St ML -425 + Oregon St ML -225
     [2293] settles 2026-10-29 | parlay | NCAAF | Illinois -2.5, Michigan ML | n/a | risk $500.00 | win $590.00 | Wagerhouse | 2-team parlay: Illinois -2.5 -110 + Michigan ML -700
@@ -140,6 +141,7 @@ All near-term open action (game bets + short-dated outrights): 18 bet(s), risk $
     [2303] settles 2026-10-31 | parlay | NCAAF | Arkansas +10.5, Boise St ML | n/a | risk $500.00 | win $632.00 | Wagerhouse | 2-team parlay: Arkansas +10.5 -120 (B+1/2) + Boise St ML -425
     [2304] settles 2026-10-31 | parlay | NCAAF | Temple +6, BYU ML, Boise State ML | n/a | risk $500.00 | win $722.00 | Wagerhouse | 3-team parlay: Temple +6 -130 + BYU -787 + Boise State -443
     [2305] settles 2026-10-31 | parlay | NCAAF | Marshall -2.5, Ohio State ML | n/a | risk $500.00 | win $773.00 | Wagerhouse | 2-team parlay: Marshall -2.5 -122 + Ohio State -250
+    [2306] settles 2026-10-31 | parlay | NCAAF | Syracuse +10.5, Michigan ML, Georgia ML | n/a | risk $500.00 | win $708.00 | Wagerhouse | 3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450
 
 Season-long futures (NOT today's action): 87 bet(s), risk $64,760.00. Detail: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
 
@@ -170,7 +172,7 @@ future). Read every line under a heading and report all of them.
 'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,
 Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.
 
-Teams with open action (94): ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Chiefs ML, Michigan, Clemson, Colorado, Colorado +1, Boise St, Colorado State, Connecticut, DAL, DET, FIU +14, Boise St, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia ML, Cincinnati, Georgia Tech, Illinois -2.5, Michigan, Indiana -19.5, Boise St, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Lions ML, Chiefs ML, Patriots ML, Seahawks, Lions ML, Ohio St ML, Miami FL, Ludvig Aberg, Marshall -2.5, Ohio State, Maryland ML, Boise St, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Carolina +15, Boise St, North Texas, Northwestern, Ohio, Ohio St -6.5, Boise St, Ohio St ML, Boise St ML, Oregon St, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML, WSU ML, Washington, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Temple +6, BYU ML, Boise State, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
+Teams with open action (95): ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Chiefs ML, Michigan, Clemson, Colorado, Colorado +1, Boise St, Colorado State, Connecticut, DAL, DET, FIU +14, Boise St, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia ML, Cincinnati, Georgia Tech, Illinois -2.5, Michigan, Indiana -19.5, Boise St, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Lions ML, Chiefs ML, Patriots ML, Seahawks, Lions ML, Ohio St ML, Miami FL, Ludvig Aberg, Marshall -2.5, Ohio State, Maryland ML, Boise St, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Carolina +15, Boise St, North Texas, Northwestern, Ohio, Ohio St -6.5, Boise St, Ohio St ML, Boise St ML, Oregon St, Ohio State, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML, WSU ML, Washington, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Syracuse +10.5, Michigan ML, Georgia, Temple +6, BYU ML, Boise State, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan
 
 ### ATL Falcons  --  1 open, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 future NFL | ATL Falcons | +450 | risk $250.00 | win $1,125.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC South - ATL Falcons
@@ -337,6 +339,8 @@ Teams with open action (94): ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn
 ### Southern Miss  --  2 open, risk $1,000.00, max win $1,025.00
     [1816] 2026-08-24 future NCAAF | Southern Miss Under 3.5 | +100 | risk $500.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Southern Miss - Under 3.5
     [1832] 2026-08-24 future NCAAF | Southern Miss Under 3.5 | +105 | risk $500.00 | win $525.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Southern Miss - Under 3.5
+### Syracuse +10.5, Michigan ML, Georgia  --  1 open, risk $500.00, max win $708.00
+    [2306] 2026-10-31 parlay NCAAF | Syracuse +10.5, Michigan ML, Georgia ML | n/a | risk $500.00 | win $708.00 | Wagerhouse | 3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450
 ### Temple +6, BYU ML, Boise State  --  1 open, risk $500.00, max win $722.00
     [2304] 2026-10-31 parlay NCAAF | Temple +6, BYU ML, Boise State ML | n/a | risk $500.00 | win $722.00 | Wagerhouse | 3-team parlay: Temple +6 -130 + BYU -787 + Boise State -443
 ### Texas A&M  --  2 open, risk $600.00, max win $517.33

@@ -4,11 +4,11 @@ BET TRACKER - ALL OPEN BETS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-10-31 15:32 UTC
+Generated: 2026-10-31 15:33 UTC
 
 
-Open bets: 105   Total risk: $72,803.00   Max win: $105,058.07
-  of which near-term action: 18 (risk $8,043.00)
+Open bets: 106   Total risk: $73,303.00   Max win: $105,766.07
+  of which near-term action: 19 (risk $8,543.00)
   of which season-long futures: 87 (risk $64,760.00)
 Local date: 2026-10-31. 'settles' = when the bet grades.
 
@@ -46,6 +46,9 @@ These events have finished but are still marked pending.
 [2305] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
      2-team parlay: Marshall -2.5 -122 + Ohio State -250
      pick Marshall -2.5, Ohio State ML | odds n/a | risk $500.00 | to win $773.00 | book Wagerhouse
+[2306] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
+     3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450
+     pick Syracuse +10.5, Michigan ML, Georgia ML | odds n/a | risk $500.00 | to win $708.00 | book Wagerhouse
 
 ==========================================================================
 SECTION 2 - SEASON-LONG FUTURES (87, one line each)
