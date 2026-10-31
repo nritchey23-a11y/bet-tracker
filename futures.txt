@@ -4,7 +4,7 @@ BET TRACKER - OPEN FUTURES
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-10-31 15:36 UTC
+Generated: 2026-10-31 23:38 UTC
 
 
 Open futures: 87   Total risk: $64,760.00   Max win: $88,722.07

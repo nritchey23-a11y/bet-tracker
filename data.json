@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T15:36:40.098715+00:00",
- "count": 2307,
+ "generated_at": "2026-10-31T23:38:25.924948+00:00",
+ "count": 2309,
  "bets": [
   {
    "ID": "1",
@@ -39246,6 +39246,40 @@
    "Result Date": "",
    "Notes": "Wagerhouse; combo of 10/31 5-team RR ($10/combo, 26-combo all-ways); card showed 5-leg parlay constituent ($10 to win $1,489); legs: Wisconsin ML +115 (Wisconsin @ Iowa); Cincinnati ML +215 (Utah @ Cincinnati); Eagles ML +210 (Eagles @ Washington (NFL)); Coastal Carolina ML +155 (Coastal Carolina @ Georgia State); Army ML +180 (Army @ Memphis)",
    "To Win": "1489"
+  },
+  {
+   "ID": "2334",
+   "Date": "2026-10-31",
+   "Sport": "Football",
+   "League": "NCAAF",
+   "Event": "Arizona State vs BYU / Indiana vs Minnesota",
+   "Type": "parlay",
+   "Description": "2-team parlay: BYU -859 + Indiana -4.5 +118",
+   "Pick": "BYU, Indiana -4.5",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "716",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G319512090; placed 10/31/2026; legs: BYU -859 (Arizona State vs BYU), Indiana -4.5 +118 (Indiana vs Minnesota); book already graded a win (+$716)"
+  },
+  {
+   "ID": "2335",
+   "Date": "2026-10-31",
+   "Sport": "Football",
+   "League": "NCAAF",
+   "Event": "Ohio State vs USC / Georgia Southern vs Appalachian State",
+   "Type": "parlay",
+   "Description": "2-team parlay: Ohio State -2.5 -118 + Georgia Southern ML -581",
+   "Pick": "Ohio State -2.5, Georgia Southern",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "582",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G319533403; placed 10/31/2026; legs: Ohio State -2.5 -118 (Ohio State vs USC), Georgia Southern ML -581 (Georgia Southern vs Appalachian State)"
   }
  ]
 }
