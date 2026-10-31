@@ -4,64 +4,48 @@ BET TRACKER - TODAY
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-10-29 22:04 UTC
+Generated: 2026-10-31 15:32 UTC
 
 
-Local date: 2026-10-29  (as of 2026-10-29 15:04 PDT)
+Local date: 2026-10-31  (as of 2026-10-31 08:32 PDT)
 
 This file answers 'what is riding today?' and nothing else. Season-long
 futures are deliberately excluded - see futures.txt for those.
 
-SETTLING TODAY: 14 bet(s)   risk $6,043.00   max win $13,589.00
+SETTLING TODAY: 4 bet(s)   risk $2,000.00   max win $2,747.00
 
-[2288] settles 2026-10-29 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-10-29
-     3-team parlay: Lions ML -180 + Ohio St ML -245 + Miami FL ML -650
-     pick Lions ML, Ohio St ML, Miami FL ML | odds n/a | risk $500.00 | to win $763.00 | book Wagerhouse
-[2289] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
-     3-team parlay: Ohio St ML -245 + Boise St ML -425 + Oregon St ML -225
-     pick Ohio St ML, Boise St ML, Oregon St ML | odds n/a | risk $500.00 | to win $756.00 | book Wagerhouse
-[2293] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
-     2-team parlay: Illinois -2.5 -110 + Michigan ML -700
-     pick Illinois -2.5, Michigan ML | odds n/a | risk $500.00 | to win $590.00 | book Wagerhouse
-[2294] settles 2026-10-29 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-10-29
-     2-team parlay: Chiefs ML -120 + Michigan ML -700
-     pick Chiefs ML, Michigan ML | odds n/a | risk $500.00 | to win $547.00 | book Wagerhouse
-[2296] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
-     2-team parlay: Colorado +1 -110 + Boise St ML -425
-     pick Colorado +1, Boise St ML | odds n/a | risk $500.00 | to win $679.00 | book Wagerhouse
-[2297] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
-     2-team parlay: Maryland ML +115 + Boise St ML -425
-     pick Maryland ML, Boise St ML | odds n/a | risk $500.00 | to win $827.00 | book Wagerhouse
-[2298] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
-     2-team parlay: Ohio St -6.5 -130 (B+1/2) + Boise St ML -450
-     pick Ohio St -6.5, Boise St ML | odds n/a | risk $500.00 | to win $581.00 | book Wagerhouse
-[2299] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
-     2-team parlay: North Carolina +15 -110 + Boise St ML -450
-     pick North Carolina +15, Boise St ML | odds n/a | risk $500.00 | to win $666.00 | book Wagerhouse
-[2300] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
-     2-team parlay: Florida Intl +14 -110 + Boise St ML -450
-     pick FIU +14, Boise St ML | odds n/a | risk $500.00 | to win $666.00 | book Wagerhouse
-[2301] settles 2026-10-29 (TODAY) | Football/NCAAF | parlay | placed 2026-10-29
-     2-team parlay: Indiana -19.5 -110 + Boise St ML -450
-     pick Indiana -19.5, Boise St ML | odds n/a | risk $500.00 | to win $666.00 | book Wagerhouse
-[2292] settles 2026-10-29 (TODAY) | Football/NFL | parlay | placed 2026-10-29
-     4-team parlay: Lions ML -180 + Chiefs ML -120 + Patriots ML -330 + Seahawks ML -170
-     pick Lions ML, Chiefs ML, Patriots ML, Seahawks ML | odds n/a | risk $400.00 | to win $1,960.00 | book Wagerhouse
-[2290] settles 2026-10-29 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-10-29
-     3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington +9 -130 (B+1/2)
-     pick Seahawks ML, WSU ML, Washington +9 | odds n/a | risk $250.00 | to win $1,260.00 | book Wagerhouse
-[2291] settles 2026-10-29 (TODAY) | Multi/NFL/NCAAF | parlay | placed 2026-10-29
-     3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington ML +255
-     pick Seahawks ML, WSU ML, Washington ML | odds n/a | risk $250.00 | to win $2,780.00 | book Wagerhouse
-[2295] settles 2026-10-29 (TODAY) | Football/NFL | parlay | placed 2026-10-29
-     4-leg same-game parlay: Josh Jacobs Over 0.5 TD -146 + Chuba Hubbard Over 0.5 TD -120 + Jalen Coker Over 59.5 rec yds -124 + Christian Watson Over 4.5 receptions -136
-     pick Jacobs O0.5 TD, Hubbard O0.5 TD, Coker O59.5, Watson O4.5 rec | odds n/a | risk $143.00 | to win $848.00 | book Wagerhouse
+[2302] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
+     2-team parlay: Georgia ML -450 + Cincinnati +7.5 -120 (B+1/2)
+     pick Georgia ML, Cincinnati +7.5 | odds n/a | risk $500.00 | to win $620.00 | book Wagerhouse
+[2303] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
+     2-team parlay: Arkansas +10.5 -120 (B+1/2) + Boise St ML -425
+     pick Arkansas +10.5, Boise St ML | odds n/a | risk $500.00 | to win $632.00 | book Wagerhouse
+[2304] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
+     3-team parlay: Temple +6 -130 + BYU -787 + Boise State -443
+     pick Temple +6, BYU ML, Boise State ML | odds n/a | risk $500.00 | to win $722.00 | book Wagerhouse
+[2305] settles 2026-10-31 (TODAY) | Football/NCAAF | parlay | placed 2026-10-31
+     2-team parlay: Marshall -2.5 -122 + Ohio State -250
+     pick Marshall -2.5, Ohio State ML | odds n/a | risk $500.00 | to win $773.00 | book Wagerhouse
 
-NEEDS GRADING - 1 bet(s), risk $1,000.00
+NEEDS GRADING - 15 bet(s), risk $7,043.00
 These events have finished but are still marked pending.
-  [1750] 2026-09-27 (32d ago) | risk $1,000.00 | MLB 2026 Division Winner - American League West - Seattle Mariners
+  [1750] 2026-09-27 (34d ago) | risk $1,000.00 | MLB 2026 Division Winner - American League West - Seattle Mariners
+  [2288] 2026-10-29 (2d ago) | risk $500.00 | 3-team parlay: Lions ML -180 + Ohio St ML -245 + Miami FL ML -650
+  [2289] 2026-10-29 (2d ago) | risk $500.00 | 3-team parlay: Ohio St ML -245 + Boise St ML -425 + Oregon St ML -225
+  [2290] 2026-10-29 (2d ago) | risk $250.00 | 3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington +9 -130 (B+1/2)
+  [2291] 2026-10-29 (2d ago) | risk $250.00 | 3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington ML +255
+  [2292] 2026-10-29 (2d ago) | risk $400.00 | 4-team parlay: Lions ML -180 + Chiefs ML -120 + Patriots ML -330 + Seahawks ML -170
+  [2293] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Illinois -2.5 -110 + Michigan ML -700
+  [2294] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Chiefs ML -120 + Michigan ML -700
+  [2295] 2026-10-29 (2d ago) | risk $143.00 | 4-leg same-game parlay: Josh Jacobs Over 0.5 TD -146 + Chuba Hubbard Over 0.5 TD -120 + Jalen Coker Over 59.5 rec yds -124 + Christian Watson Over 4.5 receptions -136
+  [2296] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Colorado +1 -110 + Boise St ML -425
+  [2297] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Maryland ML +115 + Boise St ML -425
+  [2298] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Ohio St -6.5 -130 (B+1/2) + Boise St ML -450
+  [2299] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: North Carolina +15 -110 + Boise St ML -450
+  [2300] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Florida Intl +14 -110 + Boise St ML -450
+  [2301] 2026-10-29 (2d ago) | risk $500.00 | 2-team parlay: Indiana -19.5 -110 + Boise St ML -450
 
 NEXT 7 DAYS: nothing scheduled to grade.
 
-CONTEXT: 101 total open bets, $70,803.00 at risk, of which 87 are season-long futures ($64,760.00).
+CONTEXT: 105 total open bets, $72,803.00 at risk, of which 87 are season-long futures ($64,760.00).
 Full near-term list: https://nritchey23-a11y.github.io/bet-tracker/action.txt   Futures: https://nritchey23-a11y.github.io/bet-tracker/futures.txt

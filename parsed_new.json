@@ -1,0 +1,72 @@
+{
+ "bets": [
+  {
+   "ID": "2302",
+   "Date": "2026-10-31",
+   "Sport": "Football",
+   "League": "NCAAF",
+   "Event": "Florida vs Georgia / Utah vs Cincinnati",
+   "Type": "parlay",
+   "Description": "2-team parlay: Georgia ML -450 + Cincinnati +7.5 -120 (B+1/2)",
+   "Pick": "Georgia ML, Cincinnati +7.5",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "620",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse; pending slip 10/31/2026; no ticket number shown; legs: Georgia ML -450 (Florida vs Georgia), Cincinnati +7.5 -120 (Utah vs Cincinnati)"
+  },
+  {
+   "ID": "2303",
+   "Date": "2026-10-31",
+   "Sport": "Football",
+   "League": "NCAAF",
+   "Event": "Missouri vs Arkansas / Texas State vs Boise State",
+   "Type": "parlay",
+   "Description": "2-team parlay: Arkansas +10.5 -120 (B+1/2) + Boise St ML -425",
+   "Pick": "Arkansas +10.5, Boise St ML",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "632",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse; pending slip 10/31/2026; no ticket number shown; legs: Arkansas +10.5 -120 (Missouri vs Arkansas), Boise St ML -425 (Texas State vs Boise State)"
+  },
+  {
+   "ID": "2304",
+   "Date": "2026-10-31",
+   "Sport": "Football",
+   "League": "NCAAF",
+   "Event": "Temple vs East Carolina / Arizona State vs BYU / Texas State vs Boise State",
+   "Type": "parlay",
+   "Description": "3-team parlay: Temple +6 -130 + BYU -787 + Boise State -443",
+   "Pick": "Temple +6, BYU ML, Boise State ML",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "722",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G14396524; pending slip 10/31/2026; legs: Temple +6 -130 (Temple vs East Carolina), BYU -787 (Arizona State vs BYU), Boise State -443 (Texas State vs Boise State)"
+  },
+  {
+   "ID": "2305",
+   "Date": "2026-10-31",
+   "Sport": "Football",
+   "League": "NCAAF",
+   "Event": "Marshall vs Old Dominion / Ohio State vs USC",
+   "Type": "parlay",
+   "Description": "2-team parlay: Marshall -2.5 -122 + Ohio State -250",
+   "Pick": "Marshall -2.5, Ohio State ML",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "773",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G14396441; pending slip 10/31/2026; legs: Marshall -2.5 -122 (Marshall vs Old Dominion), Ohio State -250 (Ohio State vs USC)"
+  }
+ ]
+}
