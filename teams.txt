@@ -4,7 +4,7 @@ BET TRACKER - OPEN BETS BY TEAM
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-10-31 23:38 UTC
+Generated: 2026-11-01 15:43 UTC
 
 
 Alphabetical index of every team/selection with at least one OPEN bet.
@@ -12,9 +12,9 @@ To answer 'what do I have on <team>?', find the team heading below and read
 every line under it. A team may hold several open bets (e.g. a season win
 total AND a championship future) - report all of them, not just the first.
 
-Teams with open action: 119
+Teams with open action: 122
 
-QUICK INDEX: ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU, BYU, Indiana, Baylor, Boise State, Buffalo, CHI Bears, CIN Bengals, Chiefs ML, Michigan, Cincinnati +215, Army, Cincinnati +215, Coastal Carolina, Cincinnati +215, Coastal Carolina +155, Army, Cincinnati +215, Eagles, Cincinnati +215, Eagles +210, Army, Cincinnati +215, Eagles +210, Coastal Carolina, Clemson, Coastal Carolina +155, Army, Colorado, Colorado +1, Boise St, Colorado State, Connecticut, DAL, DET, Eagles +210, Army, Eagles +210, Coastal Carolina, Eagles +210, Coastal Carolina +155, Army, FIU +14, Boise St, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia ML,, Georgia ML, Cincinnati, Georgia Tech, Illinois -2.5, Michigan, Indiana -19.5, Boise St, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Lions ML, Chiefs ML, Patriots ML, Seahawks, Lions ML, Ohio St ML, Miami FL, Ludvig Aberg, Marshall -2.5, Ohio State, Maryland ML, Boise St, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Carolina +15, Boise St, North Texas, Northwestern, Ohio, Ohio St -6.5, Boise St, Ohio St ML, Boise St ML, Oregon St, Ohio State, Ohio State -2.5, Georgia Southern, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML, WSU ML, Washington, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Syracuse +10.5, Michigan ML, Georgia, Temple +6, BYU ML, Boise State, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan, Wisconsin +115, Army, Wisconsin +115, Cincinnati, Wisconsin +115, Cincinnati +215, Army, Wisconsin +115, Cincinnati +215, Coastal Carolina, Wisconsin +115, Cincinnati +215, Eagles, Wisconsin +115, Cincinnati +215, Eagles +210, Army, Wisconsin +115, Coastal Carolina, Wisconsin +115, Coastal Carolina +155, Army, Wisconsin +115, Eagles, Wisconsin +115, Eagles +210, Army, Wisconsin +115, Eagles +210, Coastal Carolina
+QUICK INDEX: ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU, BYU, Indiana, Baylor, Boise State, Buccaneers -1.5, Bengals, Buffalo, CHI Bears, CIN Bengals, Chiefs ML, Michigan, Cincinnati +215, Army, Cincinnati +215, Coastal Carolina, Cincinnati +215, Coastal Carolina +155, Army, Cincinnati +215, Eagles, Cincinnati +215, Eagles +210, Army, Cincinnati +215, Eagles +210, Coastal Carolina, Clemson, Coastal Carolina +155, Army, Colorado, Colorado +1, Boise St, Colorado State, Connecticut, DAL, DET, Eagles +210, Army, Eagles +210, Coastal Carolina, Eagles +210, Coastal Carolina +155, Army, FIU +14, Boise St, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia ML,, Georgia ML, Cincinnati, Georgia Tech, Illinois -2.5, Michigan, Indiana -19.5, Boise St, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, Jets, Bengals, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Lions ML, Chiefs ML, Patriots ML, Seahawks, Lions ML, Ohio St ML, Miami FL, Ludvig Aberg, Marshall -2.5, Ohio State, Maryland ML, Boise St, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, North Carolina +15, Boise St, North Texas, Northwestern, Ohio, Ohio St -6.5, Boise St, Ohio St ML, Boise St ML, Oregon St, Ohio State, Ohio State -2.5, Georgia Southern, Oregon, Over 10.5, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, Ravens +3.5, Bengals, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks ML, WSU ML, Washington, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Syracuse +10.5, Michigan ML, Georgia, Temple +6, BYU ML, Boise State, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan, Wisconsin +115, Army, Wisconsin +115, Cincinnati, Wisconsin +115, Cincinnati +215, Army, Wisconsin +115, Cincinnati +215, Coastal Carolina, Wisconsin +115, Cincinnati +215, Eagles, Wisconsin +115, Cincinnati +215, Eagles +210, Army, Wisconsin +115, Coastal Carolina, Wisconsin +115, Coastal Carolina +155, Army, Wisconsin +115, Eagles, Wisconsin +115, Eagles +210, Army, Wisconsin +115, Eagles +210, Coastal Carolina
 
 ### ATL Falcons  --  1 open bet, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 | future | Football/NFL
@@ -60,6 +60,11 @@ QUICK INDEX: ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU
     [1828] 2026-08-24 | future | Football/NCAAF
         NCAA FB 26/27 - Regular Season Wins - Props Boise State - Over 8
         pick Boise State Over 8 | odds -130 | risk $650.00 | to win $500.00 | book Wagerhouse
+
+### Buccaneers -1.5, Bengals  --  1 open bet, risk $500.00, max win $553.00
+    [2336] 2026-11-01 | parlay | Football/NFL
+        2-team parlay: Buccaneers -1.5 -114 + Bengals ML -814
+        pick Buccaneers -1.5, Bengals | odds n/a | risk $500.00 | to win $553.00 | book Wagerhouse
 
 ### Buffalo  --  1 open bet, risk $1,000.00, max win $500.00
     [1840] 2026-08-22 | future | Football/NCAAF
@@ -246,6 +251,11 @@ QUICK INDEX: ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU
     [1800] 2026-07-26 | future | Football/NCAAF
         NCAA FB 26/27 - Regular Season Wins - Props James Madison - Under 8.5
         pick James Madison Under 8.5 | odds +125 | risk $250.00 | to win $312.50 | book GameDayWagers
+
+### Jets, Bengals  --  1 open bet, risk $500.00, max win $500.00
+    [2337] 2026-11-01 | parlay | Football/NFL
+        2-team parlay: Jets ML -128 + Bengals ML -814
+        pick Jets, Bengals | odds n/a | risk $500.00 | to win $500.00 | book Wagerhouse
 
 ### KC Chiefs  --  1 open bet, risk $500.00, max win $850.00
     [1755] 2026-04-30 | future | Football/NFL
@@ -445,6 +455,11 @@ QUICK INDEX: ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU
     [1387] 2026-04-29 | future | Football/NFL
         Chicago Bears regular season wins Over 9.5
         pick Over 9.5 Wins | odds -110 | risk $1,100.00 | to win $1,000.00 | book GameDayWagers
+
+### Ravens +3.5, Bengals  --  1 open bet, risk $500.00, max win $507.00
+    [2338] 2026-11-01 | parlay | Football/NFL
+        2-team parlay: Ravens +3.5 -126 + Bengals ML -814
+        pick Ravens +3.5, Bengals | odds n/a | risk $500.00 | to win $507.00 | book Wagerhouse
 
 ### SEA  --  1 open bet, risk $1,300.00, max win $1,000.00
     [1757] 2026-04-29 | future | Football/NFL

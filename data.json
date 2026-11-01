@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T23:38:25.924948+00:00",
- "count": 2309,
+ "generated_at": "2026-11-01T15:43:48.200491+00:00",
+ "count": 2312,
  "bets": [
   {
    "ID": "1",
@@ -39280,6 +39280,57 @@
    "Status": "pending",
    "Result Date": "",
    "Notes": "Wagerhouse ticket #G319533403; placed 10/31/2026; legs: Ohio State -2.5 -118 (Ohio State vs USC), Georgia Southern ML -581 (Georgia Southern vs Appalachian State)"
+  },
+  {
+   "ID": "2336",
+   "Date": "2026-11-01",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Falcons vs Buccaneers / Titans vs Bengals",
+   "Type": "parlay",
+   "Description": "2-team parlay: Buccaneers -1.5 -114 + Bengals ML -814",
+   "Pick": "Buccaneers -1.5, Bengals",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "553",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G14506539; placed 11/1/2026; legs: Tampa Bay -1.5 -114 (Falcons vs Buccaneers), Cincinnati ML -814 (Titans vs Bengals)"
+  },
+  {
+   "ID": "2337",
+   "Date": "2026-11-01",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Raiders vs Jets / Titans vs Bengals",
+   "Type": "parlay",
+   "Description": "2-team parlay: Jets ML -128 + Bengals ML -814",
+   "Pick": "Jets, Bengals",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "500",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G14506373; placed 11/1/2026; legs: New York Jets ML -128 (Raiders vs Jets), Cincinnati ML -814 (Titans vs Bengals)"
+  },
+  {
+   "ID": "2338",
+   "Date": "2026-11-01",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Ravens vs Bills / Titans vs Bengals",
+   "Type": "parlay",
+   "Description": "2-team parlay: Ravens +3.5 -126 + Bengals ML -814",
+   "Pick": "Ravens +3.5, Bengals",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "507",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G14506206; placed 11/1/2026; legs: Baltimore +3.5 -126 (Ravens vs Bills), Cincinnati ML -814 (Titans vs Bengals)"
   }
  ]
 }

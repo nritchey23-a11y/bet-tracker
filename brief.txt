@@ -4,26 +4,26 @@ BET TRACKER - BRIEF
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-10-31 23:38 UTC
+Generated: 2026-11-01 15:43 UTC
 
 
 HEADLINE
-  Total bets logged      : 2309
+  Total bets logged      : 2312
   Settled record         : 843W-1293L-38P
   Win rate (excl. pushes): 39.5%
   Total risked (settled) : $579,335.71
   Net profit/loss        : $16,872.64
   ROI                    : +2.91%
-  Open bets              : 135
-  Open risk (exposure)   : $75,063.00
-  Open max win           : $114,506.82
+  Open bets              : 138
+  Open risk (exposure)   : $76,563.00
+  Open max win           : $116,066.82
 
-TODAY (2026-10-31)
-  Settling today         : 34 bet(s), risk $4,260.00
-  Settling next 7 days   : 34 bet(s), risk $4,260.00
-  Near-term action open  : 48 bet(s), risk $10,303.00
+TODAY (2026-11-01)
+  Settling today         : 3 bet(s), risk $1,500.00
+  Settling next 7 days   : 3 bet(s), risk $1,500.00
+  Near-term action open  : 51 bet(s), risk $11,803.00
   Season-long futures    : 87 bet(s), risk $64,760.00
-  NEEDS GRADING          : 15 bet(s) whose event has finished - see https://nritchey23-a11y.github.io/bet-tracker/today.txt
+  NEEDS GRADING          : 49 bet(s) whose event has finished - see https://nritchey23-a11y.github.io/bet-tracker/today.txt
 
 SETTLED BY SPORT (sorted by net P&L)
   Sport         Record               Risked      Net P&L      ROI
@@ -40,7 +40,7 @@ SETTLED BY SPORT (sorted by net P&L)
   Multi         44W-111L-0P      $51,450.45   -$6,454.05   -12.5%
 
 OPEN EXPOSURE BY SPORT
-  Football           112 bets  risk   $67,413.00  max win   $92,021.05
+  Football           115 bets  risk   $68,913.00  max win   $93,581.05
   Auto Racing          2 bets  risk    $4,750.00  max win    $6,000.00
   Multi               19 bets  risk    $1,650.00  max win   $10,635.77
   Baseball             1 bet   risk    $1,000.00  max win    $1,100.00
