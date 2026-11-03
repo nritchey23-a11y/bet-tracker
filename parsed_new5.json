@@ -1,0 +1,55 @@
+{
+ "bets": [
+  {
+   "ID": "2339",
+   "Date": "2026-11-02",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Bears vs Seahawks",
+   "Type": "spread",
+   "Description": "Straight bet: Seahawks -3 -120",
+   "Pick": "Seahawks -3",
+   "Opponent": "Bears",
+   "Odds": "-120",
+   "Risk": "3000",
+   "To Win": "2500",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse; placed 11/2/2026; Seahawks -3 -120 (Bears at Seahawks, Mon 11/2); no ticket number on card"
+  },
+  {
+   "ID": "2340",
+   "Date": "2026-11-02",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Bears vs Seahawks",
+   "Type": "parlay",
+   "Description": "2-team parlay: Bears/Seahawks Over 39.5 -286 + Seahawks ML -174",
+   "Pick": "Over 39.5, Seahawks",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "500",
+   "To Win": "562",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G14639167; placed 11/2/2026; legs: Over 39.5 -286 (Bears at Seahawks), Seahawks ML -174"
+  },
+  {
+   "ID": "2341",
+   "Date": "2026-11-02",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Lions Make the Playoffs",
+   "Type": "future",
+   "Description": "Lions Make the Playoffs - No +140",
+   "Pick": "No",
+   "Opponent": "",
+   "Odds": "+140",
+   "Risk": "500",
+   "To Win": "700",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse; placed 11/2/2026; Lions to miss the playoffs +140"
+  }
+ ]
+}
