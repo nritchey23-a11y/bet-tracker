@@ -4,16 +4,16 @@ BET TRACKER - NEAR-TERM ACTION
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-11-06 20:57 UTC
+Generated: 2026-11-06 23:36 UTC
 
 
-Local date: 2026-11-06  (as of 2026-11-06 12:57 PST)
+Local date: 2026-11-06  (as of 2026-11-06 15:36 PST)
 
 Game bets and short-dated outrights only, sorted by SETTLE date (soonest
 first). Season-long futures are excluded on purpose - they live in
 futures.txt. 'Event Date' is when the bet grades, not when it was placed.
 
-Near-term open: 55   Risk: $17,503.00   Max win: $32,966.75
+Near-term open: 112   Risk: $18,563.00   Max win: $37,394.81
 
 NEEDS GRADING - 56 bet(s), risk $18,503.00
 These events have finished but are still marked pending.
@@ -74,5 +74,176 @@ These events have finished but are still marked pending.
   [2342] 2026-11-02 (4d ago) | risk $200.00 | 4-leg prop parlay: Jadarian Price Over 6.5 rush att -115 + Charbonnet Over 7.5 rush att -117 + Seahawks ML -174 + Caleb Williams Over 4.5 rush att -120
   [2343] 2026-11-02 (4d ago) | risk $2,000.00 | Straight bet: Seahawks ML +128
 
-No upcoming near-term bets. Everything open is a season-long future.
+--- 2026-11-06 Fri (TODAY)  (57 bet(s), risk $1,060.00, max win $4,428.06) ---
+[2344] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       2-team parlay: East Carolina ML -115 + New Mexico ML -400
+       pick East Carolina, New Mexico | odds n/a | risk $500.00 | to win $668.00 | book Wagerhouse
+[2345] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Boston College ML +197 + Utah State ML +100
+       pick Boston College +197, Utah State +100 | odds n/a | risk $10.00 | to win $49.40 | book Wagerhouse
+[2346] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Boston College ML +197 + Syracuse ML +109
+       pick Boston College +197, Syracuse +109 | odds n/a | risk $10.00 | to win $52.07 | book Wagerhouse
+[2347] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Boston College ML +197 + Wyoming ML +161
+       pick Boston College +197, Wyoming +161 | odds n/a | risk $10.00 | to win $67.52 | book Wagerhouse
+[2348] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Boston College ML +197 + LSU ML -233
+       pick Boston College +197, LSU -233 | odds n/a | risk $10.00 | to win $32.45 | book Wagerhouse
+[2349] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Boston College ML +197 + Northwestern ML +111
+       pick Boston College +197, Northwestern +111 | odds n/a | risk $10.00 | to win $52.67 | book Wagerhouse
+[2350] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Boston College ML +197 + West Virginia +17.5 -126
+       pick Boston College +197, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $43.27 | book Wagerhouse
+[2351] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Utah State ML +100 + Syracuse ML +109
+       pick Utah State +100, Syracuse +109 | odds n/a | risk $10.00 | to win $31.80 | book Wagerhouse
+[2352] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Utah State ML +100 + Wyoming ML +161
+       pick Utah State +100, Wyoming +161 | odds n/a | risk $10.00 | to win $42.20 | book Wagerhouse
+[2353] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Utah State ML +100 + LSU ML -233
+       pick Utah State +100, LSU -233 | odds n/a | risk $10.00 | to win $18.58 | book Wagerhouse
+[2354] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Utah State ML +100 + Northwestern ML +111
+       pick Utah State +100, Northwestern +111 | odds n/a | risk $10.00 | to win $32.20 | book Wagerhouse
+[2355] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Utah State ML +100 + West Virginia +17.5 -126
+       pick Utah State +100, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $25.87 | book Wagerhouse
+[2356] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Syracuse ML +109 + Wyoming ML +161
+       pick Syracuse +109, Wyoming +161 | odds n/a | risk $10.00 | to win $44.55 | book Wagerhouse
+[2357] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Syracuse ML +109 + LSU ML -233
+       pick Syracuse +109, LSU -233 | odds n/a | risk $10.00 | to win $19.87 | book Wagerhouse
+[2358] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Syracuse ML +109 + Northwestern ML +111
+       pick Syracuse +109, Northwestern +111 | odds n/a | risk $10.00 | to win $34.10 | book Wagerhouse
+[2359] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Syracuse ML +109 + West Virginia +17.5 -126
+       pick Syracuse +109, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $27.49 | book Wagerhouse
+[2360] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Wyoming ML +161 + LSU ML -233
+       pick Wyoming +161, LSU -233 | odds n/a | risk $10.00 | to win $27.30 | book Wagerhouse
+[2361] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Wyoming ML +161 + Northwestern ML +111
+       pick Wyoming +161, Northwestern +111 | odds n/a | risk $10.00 | to win $45.07 | book Wagerhouse
+[2362] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Wyoming ML +161 + West Virginia +17.5 -126
+       pick Wyoming +161, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $36.81 | book Wagerhouse
+[2363] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: LSU ML -233 + Northwestern ML +111
+       pick LSU -233, Northwestern +111 | odds n/a | risk $10.00 | to win $20.16 | book Wagerhouse
+[2364] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: LSU ML -233 + West Virginia +17.5 -126
+       pick LSU -233, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $15.63 | book Wagerhouse
+[2365] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 2-way: Northwestern ML +111 + West Virginia +17.5 -126
+       pick Northwestern +111, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $27.85 | book Wagerhouse
+[2366] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Utah State ML +100 + Syracuse ML +109
+       pick Boston College +197, Utah State +100, Syracuse +109 | odds n/a | risk $10.00 | to win $114.15 | book Wagerhouse
+[2367] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Utah State ML +100 + Wyoming ML +161
+       pick Boston College +197, Utah State +100, Wyoming +161 | odds n/a | risk $10.00 | to win $145.03 | book Wagerhouse
+[2368] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Utah State ML +100 + LSU ML -233
+       pick Boston College +197, Utah State +100, LSU -233 | odds n/a | risk $10.00 | to win $74.89 | book Wagerhouse
+[2369] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Utah State ML +100 + Northwestern ML +111
+       pick Boston College +197, Utah State +100, Northwestern +111 | odds n/a | risk $10.00 | to win $115.33 | book Wagerhouse
+[2370] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Utah State ML +100 + West Virginia +17.5 -126
+       pick Boston College +197, Utah State +100, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $96.54 | book Wagerhouse
+[2371] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Syracuse ML +109 + Wyoming ML +161
+       pick Boston College +197, Syracuse +109, Wyoming +161 | odds n/a | risk $10.00 | to win $152.01 | book Wagerhouse
+[2372] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Syracuse ML +109 + LSU ML -233
+       pick Boston College +197, Syracuse +109, LSU -233 | odds n/a | risk $10.00 | to win $78.71 | book Wagerhouse
+[2373] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Syracuse ML +109 + Northwestern ML +111
+       pick Boston College +197, Syracuse +109, Northwestern +111 | odds n/a | risk $10.00 | to win $120.97 | book Wagerhouse
+[2374] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Syracuse ML +109 + West Virginia +17.5 -126
+       pick Boston College +197, Syracuse +109, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $101.34 | book Wagerhouse
+[2375] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Wyoming ML +161 + LSU ML -233
+       pick Boston College +197, Wyoming +161, LSU -233 | odds n/a | risk $10.00 | to win $100.79 | book Wagerhouse
+[2376] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Wyoming ML +161 + Northwestern ML +111
+       pick Boston College +197, Wyoming +161, Northwestern +111 | odds n/a | risk $10.00 | to win $153.56 | book Wagerhouse
+[2377] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Wyoming ML +161 + West Virginia +17.5 -126
+       pick Boston College +197, Wyoming +161, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $129.04 | book Wagerhouse
+[2378] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + LSU ML -233 + Northwestern ML +111
+       pick Boston College +197, LSU -233, Northwestern +111 | odds n/a | risk $10.00 | to win $79.56 | book Wagerhouse
+[2379] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + LSU ML -233 + West Virginia +17.5 -126
+       pick Boston College +197, LSU -233, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $66.13 | book Wagerhouse
+[2380] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Boston College ML +197 + Northwestern ML +111 + West Virginia +17.5 -126
+       pick Boston College +197, Northwestern +111, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $102.40 | book Wagerhouse
+[2381] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + Syracuse ML +109 + Wyoming ML +161
+       pick Utah State +100, Syracuse +109, Wyoming +161 | odds n/a | risk $10.00 | to win $99.10 | book Wagerhouse
+[2382] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + Syracuse ML +109 + LSU ML -233
+       pick Utah State +100, Syracuse +109, LSU -233 | odds n/a | risk $10.00 | to win $49.74 | book Wagerhouse
+[2383] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + Syracuse ML +109 + Northwestern ML +111
+       pick Utah State +100, Syracuse +109, Northwestern +111 | odds n/a | risk $10.00 | to win $78.20 | book Wagerhouse
+[2384] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + Syracuse ML +109 + West Virginia +17.5 -126
+       pick Utah State +100, Syracuse +109, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $64.97 | book Wagerhouse
+[2385] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + Wyoming ML +161 + LSU ML -233
+       pick Utah State +100, Wyoming +161, LSU -233 | odds n/a | risk $10.00 | to win $64.60 | book Wagerhouse
+[2386] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + Wyoming ML +161 + Northwestern ML +111
+       pick Utah State +100, Wyoming +161, Northwestern +111 | odds n/a | risk $10.00 | to win $100.14 | book Wagerhouse
+[2387] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + Wyoming ML +161 + West Virginia +17.5 -126
+       pick Utah State +100, Wyoming +161, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $83.63 | book Wagerhouse
+[2388] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + LSU ML -233 + Northwestern ML +111
+       pick Utah State +100, LSU -233, Northwestern +111 | odds n/a | risk $10.00 | to win $50.31 | book Wagerhouse
+[2389] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + LSU ML -233 + West Virginia +17.5 -126
+       pick Utah State +100, LSU -233, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $41.27 | book Wagerhouse
+[2390] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Utah State ML +100 + Northwestern ML +111 + West Virginia +17.5 -126
+       pick Utah State +100, Northwestern +111, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $65.69 | book Wagerhouse
+[2391] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Syracuse ML +109 + Wyoming ML +161 + LSU ML -233
+       pick Syracuse +109, Wyoming +161, LSU -233 | odds n/a | risk $10.00 | to win $67.96 | book Wagerhouse
+[2392] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Syracuse ML +109 + Wyoming ML +161 + Northwestern ML +111
+       pick Syracuse +109, Wyoming +161, Northwestern +111 | odds n/a | risk $10.00 | to win $105.10 | book Wagerhouse
+[2393] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Syracuse ML +109 + Wyoming ML +161 + West Virginia +17.5 -126
+       pick Syracuse +109, Wyoming +161, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $87.84 | book Wagerhouse
+[2394] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Syracuse ML +109 + LSU ML -233 + Northwestern ML +111
+       pick Syracuse +109, LSU -233, Northwestern +111 | odds n/a | risk $10.00 | to win $53.03 | book Wagerhouse
+[2395] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Syracuse ML +109 + LSU ML -233 + West Virginia +17.5 -126
+       pick Syracuse +109, LSU -233, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $43.58 | book Wagerhouse
+[2396] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Syracuse ML +109 + Northwestern ML +111 + West Virginia +17.5 -126
+       pick Syracuse +109, Northwestern +111, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $69.10 | book Wagerhouse
+[2397] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Wyoming ML +161 + LSU ML -233 + Northwestern ML +111
+       pick Wyoming +161, LSU -233, Northwestern +111 | odds n/a | risk $10.00 | to win $68.71 | book Wagerhouse
+[2398] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Wyoming ML +161 + LSU ML -233 + West Virginia +17.5 -126
+       pick Wyoming +161, LSU -233, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $56.91 | book Wagerhouse
+[2399] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: Wyoming ML +161 + Northwestern ML +111 + West Virginia +17.5 -126
+       pick Wyoming +161, Northwestern +111, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $88.78 | book Wagerhouse
+[2400] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+       RR 3-way: LSU ML -233 + Northwestern ML +111 + West Virginia +17.5 -126
+       pick LSU -233, Northwestern +111, West Virginia +17.5 -126 | odds n/a | risk $10.00 | to win $44.09 | book Wagerhouse
 
