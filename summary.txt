@@ -1,14 +1,14 @@
 BET TRACKER — LIVE SUMMARY
-Generated: 2026-11-03T22:37:16.325257+00:00
-Total bets in tracker: 2315
+Generated: 2026-11-06T20:56:59.923879+00:00
+Total bets in tracker: 2317
 
 OVERALL STATUS
-  Won: 843  Lost: 1293  Push: 38  Pending: 141
+  Won: 843  Lost: 1293  Push: 38  Pending: 143
   Lifetime settled P&L: $16,872.64
-  Pending risk: $80,563.00   Pending max win: $119,828.82
+  Pending risk: $82,763.00   Pending max win: $122,388.82
 
 RECENT DAYS (most recent 8 with activity)
-  2026-11-02: 0W-0L  P&L: $0.00  Pending: 3 (risk $4,000.00, max $3,762.00)
+  2026-11-02: 0W-0L  P&L: $0.00  Pending: 5 (risk $6,200.00, max $6,322.00)
   2026-11-01: 0W-0L  P&L: $0.00  Pending: 3 (risk $1,500.00, max $1,560.00)
   2026-10-31: 0W-0L  P&L: $0.00  Pending: 34 (risk $4,260.00, max $12,195.75)
   2026-10-29: 0W-0L  P&L: $0.00  Pending: 14 (risk $6,043.00, max $13,589.00)
@@ -18,12 +18,14 @@ RECENT DAYS (most recent 8 with activity)
   2026-10-18: 4W-22L  P&L: $143.89
 
 RECENT WEEKS (Tue–Mon, most recent 4)
-  Week 2026-10-27 → 2026-11-02: 0W-0L  P&L: $0.00  Pending: 54 (risk $15,803.00)
+  Week 2026-10-27 → 2026-11-02: 0W-0L  P&L: $0.00  Pending: 56 (risk $18,003.00)
   Week 2026-10-20 → 2026-10-26: 11W-42L  P&L: $5,146.72
   Week 2026-10-13 → 2026-10-19: 9W-26L  P&L: $726.46
   Week 2026-10-06 → 2026-10-12: 11W-39L  P&L: -$409.38
 
 INDIVIDUAL BETS (most recent 80, sorted by ID desc):
+#2343 | 2026-11-02 | Football/NFL | Straight bet: Seahawks ML +128 | Pick: Seahawks | Odds: +128 | Risk $2,000.00 → Win $2,560.00 | Status: pending  Notes: Wagerhouse ticket #G319904089; placed 11/2/2026; Seahawks ML +128 (Bears at Seahawks); book graded a loss (-$2,000)
+#2342 | 2026-11-02 | Football/NFL | 4-leg prop parlay: Jadarian Price Over 6.5 rush att -115 + Charbonnet Over 7.5 rush att -117 + Seahawks ML -174 + Caleb Williams Over 4.5 rush att -120 | Pick: Price O6.5, Charbonnet O7.5, Seahawks, Williams O4.5 | Odds:  | Risk $200.00 → Win $0.00 | Status: pending  Notes: Wagerhouse ticket #G14647310; placed 11/2/2026; legs: Jadarian Price Over 6.5 rushing attempts -115, Zach Charbonnet Over 7.5 rushing attempts -117, Seahawks ML -174, Caleb Williams Over 4.5 rushing attempts -120 (Bears at Seahawks); book graded a loss (-$200)
 #2341 | 2026-11-02 | Football/NFL | Lions Make the Playoffs - No +140 | Pick: No | Odds: +140 | Risk $500.00 → Win $700.00 | Status: pending  Notes: Wagerhouse; placed 11/2/2026; Lions to miss the playoffs +140
 #2340 | 2026-11-02 | Football/NFL | 2-team parlay: Bears/Seahawks Over 39.5 -286 + Seahawks ML -174 | Pick: Over 39.5, Seahawks | Odds:  | Risk $500.00 → Win $562.00 | Status: pending  Notes: Wagerhouse ticket #G14639167; placed 11/2/2026; legs: Over 39.5 -286 (Bears at Seahawks), Seahawks ML -174
 #2339 | 2026-11-02 | Football/NFL | Straight bet: Seahawks -3 -120 | Pick: Seahawks -3 | Odds: -120 | Risk $3,000.00 → Win $2,500.00 | Status: pending  Notes: Wagerhouse; placed 11/2/2026; Seahawks -3 -120 (Bears at Seahawks, Mon 11/2); no ticket number on card
@@ -102,11 +104,9 @@ INDIVIDUAL BETS (most recent 80, sorted by ID desc):
 #2266 | 2026-10-25 | Football/NFL | RR 3-way: Falcons ML +130 + Dolphins ML +180 + Colts ML +225 | Pick: Falcons, Dolphins, Colts | Odds: +1993 | Risk $15.00 → Win $298.95 | Status: lost  P&L: -$15.00  Notes: Wagerhouse; combo of 10/25 5-team RR ($15/combo); winners: Falcons ML, Dolphins ML
 #2265 | 2026-10-25 | Football/NFL | RR 3-way: Falcons ML +130 + Dolphins ML +180 + Titans ML +110 | Pick: Falcons, Dolphins, Titans | Odds: +1252 | Risk $15.00 → Win $187.86 | Status: lost  P&L: -$15.00  Notes: Wagerhouse; combo of 10/25 5-team RR ($15/combo); winners: Falcons ML, Dolphins ML
 #2264 | 2026-10-25 | Football/NFL | RR 3-way: Cardinals ML +180 + Titans ML +110 + Colts ML +225 | Pick: Cardinals, Titans, Colts | Odds: +1811 | Risk $15.00 → Win $271.65 | Status: lost  P&L: -$15.00  Notes: Wagerhouse; combo of 10/25 5-team RR ($15/combo); winners: Falcons ML, Dolphins ML
-#2263 | 2026-10-25 | Football/NFL | RR 3-way: Cardinals ML +180 + Dolphins ML +180 + Colts ML +225 | Pick: Cardinals, Dolphins, Colts | Odds: +2448 | Risk $15.00 → Win $367.20 | Status: lost  P&L: -$15.00  Notes: Wagerhouse; combo of 10/25 5-team RR ($15/combo); winners: Falcons ML, Dolphins ML
-#2262 | 2026-10-25 | Football/NFL | RR 3-way: Cardinals ML +180 + Dolphins ML +180 + Titans ML +110 | Pick: Cardinals, Dolphins, Titans | Odds: +1546 | Risk $15.00 → Win $231.96 | Status: lost  P&L: -$15.00  Notes: Wagerhouse; combo of 10/25 5-team RR ($15/combo); winners: Falcons ML, Dolphins ML
 
 ==============================================================================
-TODAY AND NEAR-TERM ACTION  (local date 2026-11-03)
+TODAY AND NEAR-TERM ACTION  (local date 2026-11-06)
 ==============================================================================
 Use this section for 'what is pending today', 'what is riding this week',
 'what is my action today'. Season-long futures are listed separately below
@@ -118,7 +118,7 @@ Settling today: 0 bet(s), risk $0.00, max win $0.00
 Settling in the next 7 days: 0 bet(s), risk $0.00
     (nothing scheduled)
 
-All near-term open action (game bets + short-dated outrights): 53 bet(s), risk $15,303.00, max win $30,406.75
+All near-term open action (game bets + short-dated outrights): 55 bet(s), risk $17,503.00, max win $32,966.75
     [2288] settles 2026-10-29 | parlay | NFL/NCAAF | Lions ML, Ohio St ML, Miami FL ML | n/a | risk $500.00 | win $763.00 | Wagerhouse | 3-team parlay: Lions ML -180 + Ohio St ML -245 + Miami FL ML -650
     [2289] settles 2026-10-29 | parlay | NCAAF | Ohio St ML, Boise St ML, Oregon St ML | n/a | risk $500.00 | win $756.00 | Wagerhouse | 3-team parlay: Ohio St ML -245 + Boise St ML -425 + Oregon St ML -225
     [2293] settles 2026-10-29 | parlay | NCAAF | Illinois -2.5, Michigan ML | n/a | risk $500.00 | win $590.00 | Wagerhouse | 2-team parlay: Illinois -2.5 -110 + Michigan ML -700
@@ -171,65 +171,69 @@ All near-term open action (game bets + short-dated outrights): 53 bet(s), risk $
     [2337] settles 2026-11-01 | parlay | NFL | Jets, Bengals | n/a | risk $500.00 | win $500.00 | Wagerhouse | 2-team parlay: Jets ML -128 + Bengals ML -814
     [2338] settles 2026-11-01 | parlay | NFL | Ravens +3.5, Bengals | n/a | risk $500.00 | win $507.00 | Wagerhouse | 2-team parlay: Ravens +3.5 -126 + Bengals ML -814
     [2339] settles 2026-11-02 | spread | NFL | Seahawks -3 | -120 | risk $3,000.00 | win $2,500.00 | Wagerhouse | Straight bet: Seahawks -3 -120
+    [2343] settles 2026-11-02 | moneyline | NFL | Seahawks | +128 | risk $2,000.00 | win $2,560.00 | Wagerhouse | Straight bet: Seahawks ML +128
     [2340] settles 2026-11-02 | parlay | NFL | Over 39.5, Seahawks | n/a | risk $500.00 | win $562.00 | Wagerhouse | 2-team parlay: Bears/Seahawks Over 39.5 -286 + Seahawks ML -174
+    [2342] settles 2026-11-02 | parlay | NFL | Price O6.5, Charbonnet O7.5, Seahawks, Williams O4.5 | n/a | risk $200.00 | win $0.00 | Wagerhouse | 4-leg prop parlay: Jadarian Price Over 6.5 rush att -115 + Charbonnet Over 7.5 rush att -117 + Seahawks ML -174 + Caleb Williams Over 4.5 rush att -120
 
 Season-long futures (NOT today's action): 88 bet(s), risk $65,260.00. Detail: https://nritchey23-a11y.github.io/bet-tracker/futures.txt
 
-NEEDS GRADING - 54 bet(s) whose event has already finished but are still marked pending:
-    [1750] event 2026-09-27 (37d ago) | risk $1,000.00 | MLB 2026 Division Winner - American League West - Seattle Mariners
-    [2288] event 2026-10-29 (5d ago) | risk $500.00 | 3-team parlay: Lions ML -180 + Ohio St ML -245 + Miami FL ML -650
-    [2289] event 2026-10-29 (5d ago) | risk $500.00 | 3-team parlay: Ohio St ML -245 + Boise St ML -425 + Oregon St ML -225
-    [2290] event 2026-10-29 (5d ago) | risk $250.00 | 3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington +9 -130 (B+1/2)
-    [2291] event 2026-10-29 (5d ago) | risk $250.00 | 3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington ML +255
-    [2292] event 2026-10-29 (5d ago) | risk $400.00 | 4-team parlay: Lions ML -180 + Chiefs ML -120 + Patriots ML -330 + Seahawks ML -170
-    [2293] event 2026-10-29 (5d ago) | risk $500.00 | 2-team parlay: Illinois -2.5 -110 + Michigan ML -700
-    [2294] event 2026-10-29 (5d ago) | risk $500.00 | 2-team parlay: Chiefs ML -120 + Michigan ML -700
-    [2295] event 2026-10-29 (5d ago) | risk $143.00 | 4-leg same-game parlay: Josh Jacobs Over 0.5 TD -146 + Chuba Hubbard Over 0.5 TD -120 + Jalen Coker Over 59.5 rec yds -124 + Christian Watson Over 4.5 receptions -136
-    [2296] event 2026-10-29 (5d ago) | risk $500.00 | 2-team parlay: Colorado +1 -110 + Boise St ML -425
-    [2297] event 2026-10-29 (5d ago) | risk $500.00 | 2-team parlay: Maryland ML +115 + Boise St ML -425
-    [2298] event 2026-10-29 (5d ago) | risk $500.00 | 2-team parlay: Ohio St -6.5 -130 (B+1/2) + Boise St ML -450
-    [2299] event 2026-10-29 (5d ago) | risk $500.00 | 2-team parlay: North Carolina +15 -110 + Boise St ML -450
-    [2300] event 2026-10-29 (5d ago) | risk $500.00 | 2-team parlay: Florida Intl +14 -110 + Boise St ML -450
-    [2301] event 2026-10-29 (5d ago) | risk $500.00 | 2-team parlay: Indiana -19.5 -110 + Boise St ML -450
-    [2302] event 2026-10-31 (3d ago) | risk $500.00 | 2-team parlay: Georgia ML -450 + Cincinnati +7.5 -120 (B+1/2)
-    [2303] event 2026-10-31 (3d ago) | risk $500.00 | 2-team parlay: Arkansas +10.5 -120 (B+1/2) + Boise St ML -425
-    [2304] event 2026-10-31 (3d ago) | risk $500.00 | 3-team parlay: Temple +6 -130 + BYU -787 + Boise State -443
-    [2305] event 2026-10-31 (3d ago) | risk $500.00 | 2-team parlay: Marshall -2.5 -122 + Ohio State -250
-    [2306] event 2026-10-31 (3d ago) | risk $500.00 | 3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450
-    [2307] event 2026-10-31 (3d ago) | risk $500.00 | 2-team parlay: Georgia ML -450 + Colorado St/Utah St Under 61.5 -120 (B+1/2)
-    [2308] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Wisconsin ML +115 + Cincinnati ML +215
-    [2309] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Wisconsin ML +115 + Eagles ML +210
-    [2310] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Wisconsin ML +115 + Coastal Carolina ML +155
-    [2311] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Wisconsin ML +115 + Army ML +180
-    [2312] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Cincinnati ML +215 + Eagles ML +210
-    [2313] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Cincinnati ML +215 + Coastal Carolina ML +155
-    [2314] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Cincinnati ML +215 + Army ML +180
-    [2315] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Eagles ML +210 + Coastal Carolina ML +155
-    [2316] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Eagles ML +210 + Army ML +180
-    [2317] event 2026-10-31 (3d ago) | risk $10.00 | RR 2-way: Coastal Carolina ML +155 + Army ML +180
-    [2318] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Cincinnati ML +215 + Eagles ML +210
-    [2319] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Cincinnati ML +215 + Coastal Carolina ML +155
-    [2320] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Cincinnati ML +215 + Army ML +180
-    [2321] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Eagles ML +210 + Coastal Carolina ML +155
-    [2322] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Eagles ML +210 + Army ML +180
-    [2323] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Coastal Carolina ML +155 + Army ML +180
-    [2324] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Cincinnati ML +215 + Eagles ML +210 + Coastal Carolina ML +155
-    [2325] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Cincinnati ML +215 + Eagles ML +210 + Army ML +180
-    [2326] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Cincinnati ML +215 + Coastal Carolina ML +155 + Army ML +180
-    [2327] event 2026-10-31 (3d ago) | risk $10.00 | RR 3-way: Eagles ML +210 + Coastal Carolina ML +155 + Army ML +180
-    [2328] event 2026-10-31 (3d ago) | risk $10.00 | RR 4-way: Wisconsin ML +115 + Cincinnati ML +215 + Eagles ML +210 + Coastal Carolina ML +155
-    [2329] event 2026-10-31 (3d ago) | risk $10.00 | RR 4-way: Wisconsin ML +115 + Cincinnati ML +215 + Eagles ML +210 + Army ML +180
-    [2330] event 2026-10-31 (3d ago) | risk $10.00 | RR 4-way: Wisconsin ML +115 + Cincinnati ML +215 + Coastal Carolina ML +155 + Army ML +180
-    [2331] event 2026-10-31 (3d ago) | risk $10.00 | RR 4-way: Wisconsin ML +115 + Eagles ML +210 + Coastal Carolina ML +155 + Army ML +180
-    [2332] event 2026-10-31 (3d ago) | risk $10.00 | RR 4-way: Cincinnati ML +215 + Eagles ML +210 + Coastal Carolina ML +155 + Army ML +180
-    [2333] event 2026-10-31 (3d ago) | risk $10.00 | RR 5-way: Wisconsin ML +115 + Cincinnati ML +215 + Eagles ML +210 + Coastal Carolina ML +155 + Army ML +180
-    [2334] event 2026-10-31 (3d ago) | risk $500.00 | 2-team parlay: BYU -859 + Indiana -4.5 +118
-    [2335] event 2026-10-31 (3d ago) | risk $500.00 | 2-team parlay: Ohio State -2.5 -118 + Georgia Southern ML -581
-    [2336] event 2026-11-01 (2d ago) | risk $500.00 | 2-team parlay: Buccaneers -1.5 -114 + Bengals ML -814
-    [2337] event 2026-11-01 (2d ago) | risk $500.00 | 2-team parlay: Jets ML -128 + Bengals ML -814
-    [2338] event 2026-11-01 (2d ago) | risk $500.00 | 2-team parlay: Ravens +3.5 -126 + Bengals ML -814
-    [2339] event 2026-11-02 (1d ago) | risk $3,000.00 | Straight bet: Seahawks -3 -120
-    [2340] event 2026-11-02 (1d ago) | risk $500.00 | 2-team parlay: Bears/Seahawks Over 39.5 -286 + Seahawks ML -174
+NEEDS GRADING - 56 bet(s) whose event has already finished but are still marked pending:
+    [1750] event 2026-09-27 (40d ago) | risk $1,000.00 | MLB 2026 Division Winner - American League West - Seattle Mariners
+    [2288] event 2026-10-29 (8d ago) | risk $500.00 | 3-team parlay: Lions ML -180 + Ohio St ML -245 + Miami FL ML -650
+    [2289] event 2026-10-29 (8d ago) | risk $500.00 | 3-team parlay: Ohio St ML -245 + Boise St ML -425 + Oregon St ML -225
+    [2290] event 2026-10-29 (8d ago) | risk $250.00 | 3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington +9 -130 (B+1/2)
+    [2291] event 2026-10-29 (8d ago) | risk $250.00 | 3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington ML +255
+    [2292] event 2026-10-29 (8d ago) | risk $400.00 | 4-team parlay: Lions ML -180 + Chiefs ML -120 + Patriots ML -330 + Seahawks ML -170
+    [2293] event 2026-10-29 (8d ago) | risk $500.00 | 2-team parlay: Illinois -2.5 -110 + Michigan ML -700
+    [2294] event 2026-10-29 (8d ago) | risk $500.00 | 2-team parlay: Chiefs ML -120 + Michigan ML -700
+    [2295] event 2026-10-29 (8d ago) | risk $143.00 | 4-leg same-game parlay: Josh Jacobs Over 0.5 TD -146 + Chuba Hubbard Over 0.5 TD -120 + Jalen Coker Over 59.5 rec yds -124 + Christian Watson Over 4.5 receptions -136
+    [2296] event 2026-10-29 (8d ago) | risk $500.00 | 2-team parlay: Colorado +1 -110 + Boise St ML -425
+    [2297] event 2026-10-29 (8d ago) | risk $500.00 | 2-team parlay: Maryland ML +115 + Boise St ML -425
+    [2298] event 2026-10-29 (8d ago) | risk $500.00 | 2-team parlay: Ohio St -6.5 -130 (B+1/2) + Boise St ML -450
+    [2299] event 2026-10-29 (8d ago) | risk $500.00 | 2-team parlay: North Carolina +15 -110 + Boise St ML -450
+    [2300] event 2026-10-29 (8d ago) | risk $500.00 | 2-team parlay: Florida Intl +14 -110 + Boise St ML -450
+    [2301] event 2026-10-29 (8d ago) | risk $500.00 | 2-team parlay: Indiana -19.5 -110 + Boise St ML -450
+    [2302] event 2026-10-31 (6d ago) | risk $500.00 | 2-team parlay: Georgia ML -450 + Cincinnati +7.5 -120 (B+1/2)
+    [2303] event 2026-10-31 (6d ago) | risk $500.00 | 2-team parlay: Arkansas +10.5 -120 (B+1/2) + Boise St ML -425
+    [2304] event 2026-10-31 (6d ago) | risk $500.00 | 3-team parlay: Temple +6 -130 + BYU -787 + Boise State -443
+    [2305] event 2026-10-31 (6d ago) | risk $500.00 | 2-team parlay: Marshall -2.5 -122 + Ohio State -250
+    [2306] event 2026-10-31 (6d ago) | risk $500.00 | 3-team parlay: Syracuse +10.5 -130 (B+1) + Michigan ML -850 + Georgia ML -450
+    [2307] event 2026-10-31 (6d ago) | risk $500.00 | 2-team parlay: Georgia ML -450 + Colorado St/Utah St Under 61.5 -120 (B+1/2)
+    [2308] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Wisconsin ML +115 + Cincinnati ML +215
+    [2309] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Wisconsin ML +115 + Eagles ML +210
+    [2310] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Wisconsin ML +115 + Coastal Carolina ML +155
+    [2311] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Wisconsin ML +115 + Army ML +180
+    [2312] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Cincinnati ML +215 + Eagles ML +210
+    [2313] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Cincinnati ML +215 + Coastal Carolina ML +155
+    [2314] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Cincinnati ML +215 + Army ML +180
+    [2315] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Eagles ML +210 + Coastal Carolina ML +155
+    [2316] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Eagles ML +210 + Army ML +180
+    [2317] event 2026-10-31 (6d ago) | risk $10.00 | RR 2-way: Coastal Carolina ML +155 + Army ML +180
+    [2318] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Cincinnati ML +215 + Eagles ML +210
+    [2319] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Cincinnati ML +215 + Coastal Carolina ML +155
+    [2320] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Cincinnati ML +215 + Army ML +180
+    [2321] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Eagles ML +210 + Coastal Carolina ML +155
+    [2322] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Eagles ML +210 + Army ML +180
+    [2323] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Wisconsin ML +115 + Coastal Carolina ML +155 + Army ML +180
+    [2324] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Cincinnati ML +215 + Eagles ML +210 + Coastal Carolina ML +155
+    [2325] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Cincinnati ML +215 + Eagles ML +210 + Army ML +180
+    [2326] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Cincinnati ML +215 + Coastal Carolina ML +155 + Army ML +180
+    [2327] event 2026-10-31 (6d ago) | risk $10.00 | RR 3-way: Eagles ML +210 + Coastal Carolina ML +155 + Army ML +180
+    [2328] event 2026-10-31 (6d ago) | risk $10.00 | RR 4-way: Wisconsin ML +115 + Cincinnati ML +215 + Eagles ML +210 + Coastal Carolina ML +155
+    [2329] event 2026-10-31 (6d ago) | risk $10.00 | RR 4-way: Wisconsin ML +115 + Cincinnati ML +215 + Eagles ML +210 + Army ML +180
+    [2330] event 2026-10-31 (6d ago) | risk $10.00 | RR 4-way: Wisconsin ML +115 + Cincinnati ML +215 + Coastal Carolina ML +155 + Army ML +180
+    [2331] event 2026-10-31 (6d ago) | risk $10.00 | RR 4-way: Wisconsin ML +115 + Eagles ML +210 + Coastal Carolina ML +155 + Army ML +180
+    [2332] event 2026-10-31 (6d ago) | risk $10.00 | RR 4-way: Cincinnati ML +215 + Eagles ML +210 + Coastal Carolina ML +155 + Army ML +180
+    [2333] event 2026-10-31 (6d ago) | risk $10.00 | RR 5-way: Wisconsin ML +115 + Cincinnati ML +215 + Eagles ML +210 + Coastal Carolina ML +155 + Army ML +180
+    [2334] event 2026-10-31 (6d ago) | risk $500.00 | 2-team parlay: BYU -859 + Indiana -4.5 +118
+    [2335] event 2026-10-31 (6d ago) | risk $500.00 | 2-team parlay: Ohio State -2.5 -118 + Georgia Southern ML -581
+    [2336] event 2026-11-01 (5d ago) | risk $500.00 | 2-team parlay: Buccaneers -1.5 -114 + Bengals ML -814
+    [2337] event 2026-11-01 (5d ago) | risk $500.00 | 2-team parlay: Jets ML -128 + Bengals ML -814
+    [2338] event 2026-11-01 (5d ago) | risk $500.00 | 2-team parlay: Ravens +3.5 -126 + Bengals ML -814
+    [2339] event 2026-11-02 (4d ago) | risk $3,000.00 | Straight bet: Seahawks -3 -120
+    [2340] event 2026-11-02 (4d ago) | risk $500.00 | 2-team parlay: Bears/Seahawks Over 39.5 -286 + Seahawks ML -174
+    [2342] event 2026-11-02 (4d ago) | risk $200.00 | 4-leg prop parlay: Jadarian Price Over 6.5 rush att -115 + Charbonnet Over 7.5 rush att -117 + Seahawks ML -174 + Caleb Williams Over 4.5 rush att -120
+    [2343] event 2026-11-02 (4d ago) | risk $2,000.00 | Straight bet: Seahawks ML +128
 
 Day-by-day near-term view: https://nritchey23-a11y.github.io/bet-tracker/today.txt and https://nritchey23-a11y.github.io/bet-tracker/action.txt
 
@@ -241,7 +245,7 @@ future). Read every line under a heading and report all of them.
 'win' below is PROFIT, not total payout. Nicknames: map Huskies->Washington,
 Buckeyes->Ohio State, Ducks->Oregon, etc. No heading = no open bet.
 
-Teams with open action (125): ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU, BYU, Indiana, Baylor, Boise State, Buccaneers -1.5, Bengals, Buffalo, CHI Bears, CIN Bengals, Chiefs ML, Michigan, Cincinnati +215, Army, Cincinnati +215, Coastal Carolina, Cincinnati +215, Coastal Carolina +155, Army, Cincinnati +215, Eagles, Cincinnati +215, Eagles +210, Army, Cincinnati +215, Eagles +210, Coastal Carolina, Clemson, Coastal Carolina +155, Army, Colorado, Colorado +1, Boise St, Colorado State, Connecticut, DAL, DET, Eagles +210, Army, Eagles +210, Coastal Carolina, Eagles +210, Coastal Carolina +155, Army, FIU +14, Boise St, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia ML,, Georgia ML, Cincinnati, Georgia Tech, Illinois -2.5, Michigan, Indiana -19.5, Boise St, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, Jets, Bengals, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Lions ML, Chiefs ML, Patriots ML, Seahawks, Lions ML, Ohio St ML, Miami FL, Ludvig Aberg, Marshall -2.5, Ohio State, Maryland ML, Boise St, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, No, North Carolina +15, Boise St, North Texas, Northwestern, Ohio, Ohio St -6.5, Boise St, Ohio St ML, Boise St ML, Oregon St, Ohio State, Ohio State -2.5, Georgia Southern, Oregon, Over 10.5, Over 39.5, Seahawks, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, Ravens +3.5, Bengals, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks, Seahawks ML, WSU ML, Washington, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Syracuse +10.5, Michigan ML, Georgia, Temple +6, BYU ML, Boise State, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan, Wisconsin +115, Army, Wisconsin +115, Cincinnati, Wisconsin +115, Cincinnati +215, Army, Wisconsin +115, Cincinnati +215, Coastal Carolina, Wisconsin +115, Cincinnati +215, Eagles, Wisconsin +115, Cincinnati +215, Eagles +210, Army, Wisconsin +115, Coastal Carolina, Wisconsin +115, Coastal Carolina +155, Army, Wisconsin +115, Eagles, Wisconsin +115, Eagles +210, Army, Wisconsin +115, Eagles +210, Coastal Carolina
+Teams with open action (126): ATL Falcons, Arkansas +10.5, Boise St, Army, Auburn, BUF Bills, BYU, BYU, Indiana, Baylor, Boise State, Buccaneers -1.5, Bengals, Buffalo, CHI Bears, CIN Bengals, Chiefs ML, Michigan, Cincinnati +215, Army, Cincinnati +215, Coastal Carolina, Cincinnati +215, Coastal Carolina +155, Army, Cincinnati +215, Eagles, Cincinnati +215, Eagles +210, Army, Cincinnati +215, Eagles +210, Coastal Carolina, Clemson, Coastal Carolina +155, Army, Colorado, Colorado +1, Boise St, Colorado State, Connecticut, DAL, DET, Eagles +210, Army, Eagles +210, Coastal Carolina, Eagles +210, Coastal Carolina +155, Army, FIU +14, Boise St, Florida Atlantic, Fresno State, George Russell, Georgia, Georgia ML,, Georgia ML, Cincinnati, Georgia Tech, Illinois -2.5, Michigan, Indiana -19.5, Boise St, Iowa, Iowa State, JAX, JAX Jaguars, James Madison, Jets, Bengals, KC Chiefs, Kansas State, Kimi Antonelli, LA Chargers, LAC, Lions ML, Chiefs ML, Patriots ML, Seahawks, Lions ML, Ohio St ML, Miami FL, Ludvig Aberg, Marshall -2.5, Ohio State, Maryland ML, Boise St, Massachusetts, Miami (FL), Miami Hurricanes, Michigan, Michigan State, Missouri, NC State, NFC West, NY Jets, NYG, Navy, Nebraska, No, North Carolina +15, Boise St, North Texas, Northwestern, Ohio, Ohio St -6.5, Boise St, Ohio St ML, Boise St ML, Oregon St, Ohio State, Ohio State -2.5, Georgia Southern, Oregon, Over 10.5, Over 39.5, Seahawks, Over 5.5, Over 6.5, Over 7.5 Wins, Over 8.5, Over 8.5 Wins, Over 9.5 Wins, Price O6.5, Charbonnet O7.5, Seahawks, Williams, Ravens +3.5, Bengals, SEA, SF 49ers, Sacramento State, San Diego State, Seahawks, Seahawks ML, WSU ML, Washington, Seattle Mariners, Seattle Seahawks Over 11.5 Alt, South Carolina, Southern Miss, Syracuse +10.5, Michigan ML, Georgia, Temple +6, BYU ML, Boise State, Texas A&M, Texas State, Tulsa, UCLA, UConn, Under 10.5 Wins, Under 11.5 Wins, Under 8.5, Under 9.5 Wins, Virginia Tech, WAS Commanders, Washington, Washington State, Western Michigan, Wisconsin +115, Army, Wisconsin +115, Cincinnati, Wisconsin +115, Cincinnati +215, Army, Wisconsin +115, Cincinnati +215, Coastal Carolina, Wisconsin +115, Cincinnati +215, Eagles, Wisconsin +115, Cincinnati +215, Eagles +210, Army, Wisconsin +115, Coastal Carolina, Wisconsin +115, Coastal Carolina +155, Army, Wisconsin +115, Eagles, Wisconsin +115, Eagles +210, Army, Wisconsin +115, Eagles +210, Coastal Carolina
 
 ### ATL Falcons  --  1 open, risk $250.00, max win $1,125.00
     [1753] 2026-04-30 future NFL | ATL Falcons | +450 | risk $250.00 | win $1,125.00 | Wagerhouse | NFL 26/27 Division Winner - Props NFC South - ATL Falcons
@@ -422,6 +426,8 @@ Teams with open action (125): ATL Falcons, Arkansas +10.5, Boise St, Army, Aubur
 ### Over 9.5 Wins  --  2 open, risk $2,300.00, max win $2,000.00
     [1385] 2026-04-29 future NFL | Over 9.5 Wins | -120 | risk $1,200.00 | win $1,000.00 | GameDayWagers | Houston Texans regular season wins Over 9.5
     [1387] 2026-04-29 future NFL | Over 9.5 Wins | -110 | risk $1,100.00 | win $1,000.00 | GameDayWagers | Chicago Bears regular season wins Over 9.5
+### Price O6.5, Charbonnet O7.5, Seahawks, Williams  --  1 open, risk $200.00, max win $0.00
+    [2342] 2026-11-02 parlay NFL | Price O6.5, Charbonnet O7.5, Seahawks, Williams O4.5 | n/a | risk $200.00 | win $0.00 | Wagerhouse | 4-leg prop parlay: Jadarian Price Over 6.5 rush att -115 + Charbonnet Over 7.5 rush att -117 + Seahawks ML -174 + Caleb Williams Over 4.5 rush att -120
 ### Ravens +3.5, Bengals  --  1 open, risk $500.00, max win $507.00
     [2338] 2026-11-01 parlay NFL | Ravens +3.5, Bengals | n/a | risk $500.00 | win $507.00 | Wagerhouse | 2-team parlay: Ravens +3.5 -126 + Bengals ML -814
 ### SEA  --  1 open, risk $1,300.00, max win $1,000.00
@@ -432,8 +438,9 @@ Teams with open action (125): ATL Falcons, Arkansas +10.5, Boise St, Army, Aubur
     [1817] 2026-08-24 future NCAAF | Sacramento State Under 4.5 | -110 | risk $550.00 | win $500.00 | Wagerhouse | NCAA FB 26/27 - Regular Season Wins - Props Sacramento State - Under 4.5
 ### San Diego State  --  1 open, risk $650.00, max win $500.00
     [1843] 2026-08-25 future NCAAF | San Diego State Over 6.5 | -130 | risk $650.00 | win $500.00 | GameDayWagers | NCAA FB 26/27 - Regular Season Wins - Props San Diego State (FLEX WEEK INCLUDED) - Over 6.5
-### Seahawks  --  1 open, risk $3,000.00, max win $2,500.00
+### Seahawks  --  2 open, risk $5,000.00, max win $5,060.00
     [2339] 2026-11-02 spread NFL | Seahawks -3 | -120 | risk $3,000.00 | win $2,500.00 | Wagerhouse | Straight bet: Seahawks -3 -120
+    [2343] 2026-11-02 moneyline NFL | Seahawks | +128 | risk $2,000.00 | win $2,560.00 | Wagerhouse | Straight bet: Seahawks ML +128
 ### Seahawks ML, WSU ML, Washington  --  2 open, risk $500.00, max win $4,040.00
     [2290] 2026-10-29 parlay NFL/NCAAF | Seahawks ML, WSU ML, Washington +9 | n/a | risk $250.00 | win $1,260.00 | Wagerhouse | 3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington +9 -130 (B+1/2)
     [2291] 2026-10-29 parlay NFL/NCAAF | Seahawks ML, WSU ML, Washington ML | n/a | risk $250.00 | win $2,780.00 | Wagerhouse | 3-team parlay: Seahawks ML -170 + Washington St ML +115 + Washington ML +255

@@ -1,0 +1,38 @@
+{
+ "bets": [
+  {
+   "ID": "2342",
+   "Date": "2026-11-02",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Bears vs Seahawks",
+   "Type": "parlay",
+   "Description": "4-leg prop parlay: Jadarian Price Over 6.5 rush att -115 + Charbonnet Over 7.5 rush att -117 + Seahawks ML -174 + Caleb Williams Over 4.5 rush att -120",
+   "Pick": "Price O6.5, Charbonnet O7.5, Seahawks, Williams O4.5",
+   "Opponent": "",
+   "Odds": "",
+   "Risk": "200",
+   "To Win": "",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G14647310; placed 11/2/2026; legs: Jadarian Price Over 6.5 rushing attempts -115, Zach Charbonnet Over 7.5 rushing attempts -117, Seahawks ML -174, Caleb Williams Over 4.5 rushing attempts -120 (Bears at Seahawks); book graded a loss (-$200)"
+  },
+  {
+   "ID": "2343",
+   "Date": "2026-11-02",
+   "Sport": "Football",
+   "League": "NFL",
+   "Event": "Bears vs Seahawks",
+   "Type": "moneyline",
+   "Description": "Straight bet: Seahawks ML +128",
+   "Pick": "Seahawks",
+   "Opponent": "Bears",
+   "Odds": "+128",
+   "Risk": "2000",
+   "To Win": "2560",
+   "Status": "pending",
+   "Result Date": "",
+   "Notes": "Wagerhouse ticket #G319904089; placed 11/2/2026; Seahawks ML +128 (Bears at Seahawks); book graded a loss (-$2,000)"
+  }
+ ]
+}
