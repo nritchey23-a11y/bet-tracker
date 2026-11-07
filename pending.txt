@@ -4,11 +4,11 @@ BET TRACKER - ALL OPEN BETS
 This file is a plain-text digest of Nick Ritchey's personal sports-betting
 tracker. All figures are precomputed. Conventions: 'To Win' is PROFIT, not
 total payout (payout = Risk + To Win). Settled excludes pending/refunded.
-Generated: 2026-11-06 23:36 UTC
+Generated: 2026-11-07 00:04 UTC
 
 
-Open bets: 200   Total risk: $83,823.00   Max win: $126,816.88
-  of which near-term action: 112 (risk $18,563.00)
+Open bets: 211   Total risk: $89,323.00   Max win: $135,487.88
+  of which near-term action: 123 (risk $24,063.00)
   of which season-long futures: 88 (risk $65,260.00)
 Local date: 2026-11-06. 'settles' = when the bet grades.
 
@@ -78,6 +78,39 @@ These events have finished but are still marked pending.
 [2344] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
      2-team parlay: East Carolina ML -115 + New Mexico ML -400
      pick East Carolina, New Mexico | odds n/a | risk $500.00 | to win $668.00 | book Wagerhouse
+[2401] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     3-team parlay: Utah State +3 -142 + New Mexico ML -409 + Wisconsin ML -1104
+     pick Utah State +3, New Mexico, Wisconsin | odds n/a | risk $500.00 | to win $656.00 | book Wagerhouse
+[2402] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Notre Dame ML -282 + New Mexico State +17.5 -132
+     pick Notre Dame, New Mexico State +17.5 | odds n/a | risk $500.00 | to win $690.00 | book Wagerhouse
+[2403] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     3-team parlay: Oregon State ML -236 + Notre Dame ML -282 + Mississippi +3.5 -110
+     pick Oregon State, Notre Dame, Mississippi +3.5 | odds n/a | risk $500.00 | to win $1,340.00 | book Wagerhouse
+[2404] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Temple +7.5 -118 + Oregon State ML -236
+     pick Temple +7.5, Oregon State | odds n/a | risk $500.00 | to win $815.00 | book Wagerhouse
+[2405] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Tennessee ML -220 + NC State +5.5 -124
+     pick Tennessee, NC State +5.5 | odds n/a | risk $500.00 | to win $813.00 | book Wagerhouse
+[2406] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Missouri +3.5 -136 + Tennessee ML -220
+     pick Missouri +3.5, Tennessee | odds n/a | risk $500.00 | to win $762.00 | book Wagerhouse
+[2407] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Ohio State ML -307 + Minnesota team total Over 16.5 -124
+     pick Ohio State, Minnesota O16.5 | odds n/a | risk $500.00 | to win $697.00 | book Wagerhouse
+[2408] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Ohio State ML -307 + Connecticut +8 -110
+     pick Ohio State, Connecticut +8 | odds n/a | risk $500.00 | to win $765.00 | book Wagerhouse
+[2409] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Boston College +7 -124 + Ohio State ML -307
+     pick Boston College +7, Ohio State | odds n/a | risk $500.00 | to win $697.00 | book Wagerhouse
+[2410] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Syracuse +3 -134 + LSU ML -232
+     pick Syracuse +3, LSU | odds n/a | risk $500.00 | to win $749.00 | book Wagerhouse
+[2411] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
+     2-team parlay: Nebraska -4 -110 + New Mexico ML -409
+     pick Nebraska -4, New Mexico | odds n/a | risk $500.00 | to win $687.00 | book Wagerhouse
 [2345] settles 2026-11-06 (TODAY) | Football/NCAAF | parlay | placed 2026-11-06
      RR 2-way: Boston College ML +197 + Utah State ML +100
      pick Boston College +197, Utah State +100 | odds n/a | risk $10.00 | to win $49.40 | book Wagerhouse
